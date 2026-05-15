@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: lv-lvs
+  locale: en-US
   baseUrl: lskabene.github.io/Quartz-v5-DB
   ignorePatterns:
     - private
@@ -108,7 +108,8 @@ plugins:
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
-    enabled: false
+    enabled: true
+    options: {}
   - source: github:quartz-community/unlisted-pages
     enabled: true
     options: {}
