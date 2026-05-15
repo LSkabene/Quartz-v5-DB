@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Gaujenes
 created: 2026-04-02T18:39:49.887+03:00
-modified: 2026-04-10T18:27:42.969+03:00
-published: 2026-04-10T18:27:42.969+03:00
+modified: 2026-05-15T09:43:44.662+03:00
+published: 2026-05-15T09:43:44.662+03:00
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu

@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Borishof
 created: 2026-04-11T10:44:56.297+03:00
-modified: 2026-04-11T10:45:42.949+03:00
-published: 2026-04-11T10:45:42.949+03:00
+modified: 2026-05-15T09:43:45.762+03:00
+published: 2026-05-15T09:43:45.762+03:00
 tags:
   - veids/privātmuiža
   - places

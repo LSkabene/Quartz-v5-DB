@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Borkowiz
 created: 2026-04-11T09:51:31.423+03:00
-modified: 2026-04-11T09:53:22.580+03:00
-published: 2026-04-11T09:53:22.580+03:00
+modified: 2026-05-15T09:43:45.513+03:00
+published: 2026-05-15T09:43:45.513+03:00
 tags:
   - veids/privātmuiža
   - places

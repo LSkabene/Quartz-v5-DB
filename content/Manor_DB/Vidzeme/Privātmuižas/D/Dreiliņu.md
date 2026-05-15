@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Dreylingsbuch
 created: 2026-04-13T19:52:12.591+03:00
-modified: 2026-04-13T19:57:47.753+03:00
-published: 2026-04-13T19:57:47.753+03:00
+modified: 2026-05-15T09:43:45.964+03:00
+published: 2026-05-15T09:43:45.964+03:00
 tags:
   - teritorija/rīgas-patrimoniālais
   - veids/privātmuiža

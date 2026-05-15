@@ -4,8 +4,8 @@ aliases:
   - Cempes
   - Cempe
 created: 2026-04-13T19:26:51.113+03:00
-modified: 2026-04-13T19:28:13.401+03:00
-published: 2026-04-13T19:28:13.401+03:00
+modified: 2026-05-15T09:43:45.846+03:00
+published: 2026-05-15T09:43:45.846+03:00
 tags:
   - places
   - veids/privātmuiža

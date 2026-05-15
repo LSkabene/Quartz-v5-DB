@@ -4,8 +4,8 @@ aliases:
   - Vecdrustu
   - Alt-Drostenhof
 created: 2026-04-13T20:03:21.340+03:00
-modified: 2026-04-13T20:05:51.017+03:00
-published: 2026-04-13T20:05:51.017+03:00
+modified: 2026-05-15T09:43:45.981+03:00
+published: 2026-05-15T09:43:45.981+03:00
 tags:
   - places
   - veids/privātmuiža

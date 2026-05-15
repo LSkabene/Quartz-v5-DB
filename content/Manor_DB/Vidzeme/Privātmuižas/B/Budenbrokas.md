@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Bundenbrokas
 created: 2026-04-11T10:37:50.001+03:00
-modified: 2026-04-11T10:38:49.298+03:00
-published: 2026-04-11T10:38:49.298+03:00
+modified: 2026-05-15T09:43:45.713+03:00
+published: 2026-05-15T09:43:45.713+03:00
 tags:
   - places
   - veids/privātmuiža

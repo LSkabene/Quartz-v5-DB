@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-11T10:19:52.185+03:00
-modified: 2026-04-11T10:21:10.687+03:00
-published: 2026-04-11T10:21:10.687+03:00
+modified: 2026-05-15T09:43:45.597+03:00
+published: 2026-05-15T09:43:45.597+03:00
 veids: Privātmuiža
 nosaukums_lv: Blomes
 nosaukums_ger: Blumenhof

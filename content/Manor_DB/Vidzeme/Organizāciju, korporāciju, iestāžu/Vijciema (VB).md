@@ -5,8 +5,8 @@ aliases:
   - Wielzenhof
   - Wiezenhof
 created: 2026-04-02T18:39:49.899+03:00
-modified: 2026-04-10T18:27:47.177+03:00
-published: 2026-04-10T18:27:47.177+03:00
+modified: 2026-05-15T09:43:45.214+03:00
+published: 2026-05-15T09:43:45.214+03:00
 tags:
   - veids/organizāciju/vidzemes_bruņniecība
   - veids/organizāciju

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-06T18:52:36.975+03:00
-modified: 2026-04-06T18:53:19.421+03:00
-published: 2026-04-06T18:53:19.421+03:00
+modified: 2026-05-15T09:43:46.180+03:00
+published: 2026-05-15T09:43:46.180+03:00
 tags:
   - places
 map_icon: church

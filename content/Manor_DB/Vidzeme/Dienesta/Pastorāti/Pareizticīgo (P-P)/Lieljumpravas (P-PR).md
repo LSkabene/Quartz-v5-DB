@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Lielvārdes
 created: 2026-04-04T14:15:41.856+03:00
-modified: 2026-04-10T18:27:43.597+03:00
-published: 2026-04-10T18:27:43.597+03:00
+modified: 2026-05-15T09:43:45.129+03:00
+published: 2026-05-15T09:43:45.129+03:00
 tags:
   - veids/pastorāts
   - veids/pastorāts/pareizticīgo

@@ -4,8 +4,8 @@ aliases:
   - Birkenmuiža
   - Birkenruhe
 created: 2026-04-11T09:53:22.532+03:00
-modified: 2026-04-11T09:57:36.153+03:00
-published: 2026-04-11T09:57:36.153+03:00
+modified: 2026-05-15T09:43:45.797+03:00
+published: 2026-05-15T09:43:45.797+03:00
 tags:
   - veids/privātmuiža
   - places

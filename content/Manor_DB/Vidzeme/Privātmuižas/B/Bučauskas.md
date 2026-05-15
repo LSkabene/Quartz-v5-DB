@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Butšauskas
 created: 2026-04-11T10:36:59.507+03:00
-modified: 2026-04-11T10:37:50.067+03:00
-published: 2026-04-11T10:37:50.067+03:00
+modified: 2026-05-15T09:43:45.763+03:00
+published: 2026-05-15T09:43:45.763+03:00
 tags:
   - veids
   - veids/privātmuiža

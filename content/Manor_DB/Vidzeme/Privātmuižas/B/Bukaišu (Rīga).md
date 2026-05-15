@@ -5,8 +5,8 @@ aliases:
   - Fokesmuiža
   - Hāgenu
 created: 2026-04-11T10:38:49.240+03:00
-modified: 2026-04-11T10:42:07.658+03:00
-published: 2026-04-11T10:42:07.658+03:00
+modified: 2026-05-15T09:43:45.732+03:00
+published: 2026-05-15T09:43:45.732+03:00
 tags:
   - teritorija/rīgas-patrimoniālais
   - places

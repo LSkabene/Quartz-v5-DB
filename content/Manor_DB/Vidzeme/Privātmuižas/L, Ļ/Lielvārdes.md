@@ -9,8 +9,8 @@ aliases:
   - Lennewaden
   - Lenowart
 created: 2026-04-02T18:39:49.907+03:00
-modified: 2026-04-10T18:46:17.489+03:00
-published: 2026-04-10T18:46:17.489+03:00
+modified: 2026-05-15T09:43:46.096+03:00
+published: 2026-05-15T09:43:46.096+03:00
 tags:
   - veids/privātmuiža
   - places

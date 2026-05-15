@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Opes
 created: 2026-04-06T19:37:56.360+03:00
-modified: 2026-04-10T18:27:41.750+03:00
-published: 2026-04-10T18:27:41.750+03:00
+modified: 2026-05-15T09:43:45.350+03:00
+published: 2026-05-15T09:43:45.350+03:00
 tags:
   - veids/privātmuiža
   - places

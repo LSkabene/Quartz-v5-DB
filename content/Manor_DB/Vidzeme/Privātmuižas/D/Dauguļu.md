@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Daugules
 created: 2026-04-13T19:34:58.303+03:00
-modified: 2026-04-13T19:37:09.078+03:00
-published: 2026-04-13T19:37:09.078+03:00
+modified: 2026-05-15T09:43:45.914+03:00
+published: 2026-05-15T09:43:45.914+03:00
 tags:
   - places
   - veids/privātmuiža

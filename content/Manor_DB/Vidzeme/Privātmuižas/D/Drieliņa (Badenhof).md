@@ -4,8 +4,8 @@ aliases:
   - Badenhofas
   - Drieliņu
 created: 2026-04-13T19:53:57.238+03:00
-modified: 2026-04-13T20:02:01.753+03:00
-published: 2026-04-13T20:02:01.753+03:00
+modified: 2026-05-15T09:43:45.981+03:00
+published: 2026-05-15T09:43:45.981+03:00
 tags:
   - places
   - veids/privātmuiža

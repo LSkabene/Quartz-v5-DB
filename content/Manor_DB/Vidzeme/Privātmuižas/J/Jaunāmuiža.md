@@ -4,8 +4,8 @@ aliases:
   - Annas muiža
   - Jaunērģemes
 created: 2026-04-06T19:24:51.733+03:00
-modified: 2026-04-10T18:27:43.095+03:00
-published: 2026-04-10T18:27:43.095+03:00
+modified: 2026-05-15T09:43:46.086+03:00
+published: 2026-05-15T09:43:46.086+03:00
 tags:
   - veids/privātmuiža
   - places

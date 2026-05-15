@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Aahacken
 created: 2026-04-11T10:23:11.302+03:00
-modified: 2026-04-11T10:24:55.009+03:00
-published: 2026-04-11T10:24:55.009+03:00
+modified: 2026-05-15T09:43:45.613+03:00
+published: 2026-05-15T09:43:45.613+03:00
 tags:
   - teritorija/rīgas-patrimoniālais
   - veids/privātmuiža

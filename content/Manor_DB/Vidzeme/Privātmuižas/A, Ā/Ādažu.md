@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Gaujas pļavas muiža
 created: 2026-04-02T18:39:49.902+03:00
-modified: 2026-04-10T18:27:14.774+03:00
-published: 2026-04-10T18:27:14.774+03:00
+modified: 2026-05-15T09:43:45.446+03:00
+published: 2026-05-15T09:43:45.446+03:00
 tags:
   - veids/privātmuiža
   - teritorija/rīgas-patrimoniālais

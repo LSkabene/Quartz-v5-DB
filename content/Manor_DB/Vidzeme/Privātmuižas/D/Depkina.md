@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Merķeļmuiža
 created: 2026-04-13T19:36:12.386+03:00
-modified: 2026-04-13T19:40:45.034+03:00
-published: 2026-04-13T19:40:45.034+03:00
+modified: 2026-05-15T09:43:45.914+03:00
+published: 2026-05-15T09:43:45.914+03:00
 tags:
   - teritorija/rīgas-patrimoniālais
   - veids/privātmuiža

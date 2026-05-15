@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Burtneck
 created: 2026-04-11T10:45:42.901+03:00
-modified: 2026-04-11T10:49:32.325+03:00
-published: 2026-04-11T10:49:32.325+03:00
+modified: 2026-05-15T09:43:45.763+03:00
+published: 2026-05-15T09:43:45.763+03:00
 tags:
   - places
   - veids/privātmuiža

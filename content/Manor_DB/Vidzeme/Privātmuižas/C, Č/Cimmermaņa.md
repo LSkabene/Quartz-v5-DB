@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Cimmermana
 created: 2026-04-13T19:31:08.429+03:00
-modified: 2026-04-13T19:32:07.106+03:00
-published: 2026-04-13T19:32:07.106+03:00
+modified: 2026-05-15T09:43:45.863+03:00
+published: 2026-05-15T09:43:45.863+03:00
 tags:
   - places
   - veids/privātmuiža

@@ -4,8 +4,8 @@ aliases:
   - Blusu
   - Blussen
 created: 2026-04-11T10:21:10.627+03:00
-modified: 2026-04-11T10:23:11.358+03:00
-published: 2026-04-11T10:23:11.358+03:00
+modified: 2026-05-15T09:43:45.613+03:00
+published: 2026-05-15T09:43:45.613+03:00
 tags:
   - veids/privātmuiža
   - places

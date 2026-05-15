@@ -4,8 +4,8 @@ aliases:
   - Bersamente
   - Bersemente
 created: 2026-04-11T09:58:48.823+03:00
-modified: 2026-04-11T10:00:27.193+03:00
-published: 2026-04-11T10:00:27.193+03:00
+modified: 2026-05-15T09:43:45.814+03:00
+published: 2026-05-15T09:43:45.814+03:00
 tags:
   - veids/privātmuiža
   - places

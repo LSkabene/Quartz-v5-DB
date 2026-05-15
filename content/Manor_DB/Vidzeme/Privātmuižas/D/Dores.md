@@ -4,8 +4,8 @@ aliases:
   - Doremoise
   - Doresmuiža
 created: 2026-04-13T19:46:40.400+03:00
-modified: 2026-04-13T19:49:47.286+03:00
-published: 2026-04-13T19:49:47.286+03:00
+modified: 2026-05-15T09:43:45.951+03:00
+published: 2026-05-15T09:43:45.951+03:00
 tags:
   - veids/privātmuiža
   - places

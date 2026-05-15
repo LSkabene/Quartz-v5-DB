@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Ramenhof
 created: 2026-04-13T20:02:01.677+03:00
-modified: 2026-04-13T20:03:21.378+03:00
-published: 2026-04-13T20:03:21.378+03:00
+modified: 2026-05-15T09:43:45.981+03:00
+published: 2026-05-15T09:43:45.981+03:00
 tags:
   - places
   - veids/privātmuiža

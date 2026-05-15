@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Erkul
 created: 2026-04-06T19:40:45.958+03:00
-modified: 2026-04-10T18:27:41.935+03:00
-published: 2026-04-10T18:27:41.935+03:00
+modified: 2026-05-15T09:43:45.450+03:00
+published: 2026-05-15T09:43:45.450+03:00
 tags:
   - veids/privātmuiža
   - places

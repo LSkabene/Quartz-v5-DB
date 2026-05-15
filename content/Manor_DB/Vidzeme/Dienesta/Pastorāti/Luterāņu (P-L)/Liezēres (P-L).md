@@ -4,8 +4,8 @@ aliases:
   - Liezeres
   - Loesern
 created: 2026-04-02T20:29:10.734+03:00
-modified: 2026-04-10T18:27:43.836+03:00
-published: 2026-04-10T18:27:43.836+03:00
+modified: 2026-05-15T09:43:44.796+03:00
+published: 2026-05-15T09:43:44.796+03:00
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu

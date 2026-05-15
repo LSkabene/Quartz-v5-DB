@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Nietau
 created: 2026-04-04T14:00:31.297+03:00
-modified: 2026-04-10T18:27:44.339+03:00
-published: 2026-04-10T18:27:44.339+03:00
+modified: 2026-05-15T09:43:44.863+03:00
+published: 2026-05-15T09:43:44.863+03:00
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu

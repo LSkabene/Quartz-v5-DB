@@ -4,8 +4,8 @@ aliases:
   - Madonas
   - Mohdohn
 created: 2026-04-11T10:16:39.461+03:00
-modified: 2026-04-11T10:18:58.715+03:00
-published: 2026-04-11T10:18:58.715+03:00
+modified: 2026-05-15T09:43:45.580+03:00
+published: 2026-05-15T09:43:45.580+03:00
 tags:
   - veids/privātmuiža
   - places

@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Ninigal
 created: 2026-04-13T19:28:13.350+03:00
-modified: 2026-04-13T19:29:32.593+03:00
-published: 2026-04-13T19:29:32.593+03:00
+modified: 2026-05-15T09:43:45.881+03:00
+published: 2026-05-15T09:43:45.881+03:00
 tags:
   - places
   - veids/privātmuiža

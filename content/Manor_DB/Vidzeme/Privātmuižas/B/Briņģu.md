@@ -10,8 +10,8 @@ aliases:
   - Bringe
   - Bringu
 created: 2026-04-11T10:34:33.277+03:00
-modified: 2026-04-11T10:36:12.153+03:00
-published: 2026-04-11T10:36:12.153+03:00
+modified: 2026-05-15T09:43:45.697+03:00
+published: 2026-05-15T09:43:45.697+03:00
 tags:
   - veids/privātmuiža
   - places

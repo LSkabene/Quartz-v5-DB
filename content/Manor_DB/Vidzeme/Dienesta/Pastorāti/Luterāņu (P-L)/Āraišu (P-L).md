@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Araišu
 created: 2026-04-02T18:39:49.879+03:00
-modified: 2026-04-10T18:27:41.860+03:00
-published: 2026-04-10T18:27:41.860+03:00
+modified: 2026-05-15T09:43:45.091+03:00
+published: 2026-05-15T09:43:45.091+03:00
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts

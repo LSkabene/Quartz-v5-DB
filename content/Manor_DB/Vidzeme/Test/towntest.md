@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-06T19:07:19.582+03:00
-modified: 2026-04-06T19:11:33.835+03:00
-published: 2026-04-06T19:11:33.835+03:00
+modified: 2026-05-15T09:43:46.213+03:00
+published: 2026-05-15T09:43:46.213+03:00
 tags:
   - places
 map_icon: hotel

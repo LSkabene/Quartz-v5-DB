@@ -4,8 +4,8 @@ aliases:
   - Brantes
   - Branta
 created: 2026-04-11T10:26:39.881+03:00
-modified: 2026-04-11T10:28:27.674+03:00
-published: 2026-04-11T10:28:27.674+03:00
+modified: 2026-05-15T09:43:45.651+03:00
+published: 2026-05-15T09:43:45.651+03:00
 tags:
   - veids/privātmuiža
   - places

@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Drobusch
 created: 2026-04-13T19:49:47.238+03:00
-modified: 2026-04-13T19:52:12.639+03:00
-published: 2026-04-13T19:52:12.639+03:00
+modified: 2026-05-15T09:43:45.964+03:00
+published: 2026-05-15T09:43:45.964+03:00
 tags:
   - pārbaudīt
   - veids/privātmuiža

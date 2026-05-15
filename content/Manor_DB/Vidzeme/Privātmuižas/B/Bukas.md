@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Buku
 created: 2026-04-11T10:42:07.587+03:00
-modified: 2026-04-11T10:43:01.855+03:00
-published: 2026-04-11T10:43:01.855+03:00
+modified: 2026-05-15T09:43:45.732+03:00
+published: 2026-05-15T09:43:45.732+03:00
 tags:
   - veids/privātmuiža
   - places

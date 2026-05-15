@@ -4,8 +4,8 @@ aliases:
   - Kolzen
   - Colzen
 created: 2026-04-11T10:08:39.139+03:00
-modified: 2026-04-11T10:16:39.505+03:00
-published: 2026-04-11T10:16:39.505+03:00
+modified: 2026-05-15T09:43:45.830+03:00
+published: 2026-05-15T09:43:45.830+03:00
 tags:
   - places
   - veids/privātmuiža

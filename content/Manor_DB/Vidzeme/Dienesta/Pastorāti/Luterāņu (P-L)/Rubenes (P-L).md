@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Pappendorf
 created: 2026-04-04T14:24:19.184+03:00
-modified: 2026-04-10T18:27:44.655+03:00
-published: 2026-04-10T18:27:44.655+03:00
+modified: 2026-05-15T09:43:44.913+03:00
+published: 2026-05-15T09:43:44.913+03:00
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu

@@ -4,8 +4,8 @@ aliases:
   - Brentes
   - Kockenberg
 created: 2026-04-11T10:29:22.285+03:00
-modified: 2026-04-11T10:30:36.344+03:00
-published: 2026-04-11T10:30:36.344+03:00
+modified: 2026-05-15T09:43:45.663+03:00
+published: 2026-05-15T09:43:45.663+03:00
 tags:
   - veids/privātmuiža
   - places

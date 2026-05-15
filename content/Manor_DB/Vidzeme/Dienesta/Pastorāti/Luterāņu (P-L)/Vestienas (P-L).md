@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Liepkalnu-Vestienas
 created: 2026-04-04T14:52:28.959+03:00
-modified: 2026-04-10T18:27:45.484+03:00
-published: 2026-04-10T18:27:45.484+03:00
+modified: 2026-05-15T09:43:45.049+03:00
+published: 2026-05-15T09:43:45.049+03:00
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts

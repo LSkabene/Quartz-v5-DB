@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-11T10:43:01.803+03:00
-modified: 2026-04-11T10:43:45.586+03:00
-published: 2026-04-11T10:43:45.586+03:00
+modified: 2026-05-15T09:43:45.751+03:00
+published: 2026-05-15T09:43:45.751+03:00
 tags:
   - teritorija/rīgas-patrimoniālais
   - veids/privātmuiža

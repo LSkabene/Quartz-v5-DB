@@ -5,8 +5,8 @@ aliases:
   - Tirzas
   - Velēnas
 created: 2026-04-04T14:44:52.844+03:00
-modified: 2026-04-10T18:27:45.116+03:00
-published: 2026-04-10T18:27:45.116+03:00
+modified: 2026-05-15T09:43:44.979+03:00
+published: 2026-05-15T09:43:44.979+03:00
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts

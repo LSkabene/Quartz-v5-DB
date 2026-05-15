@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Aijasch
 created: 2026-04-02T18:39:49.904+03:00
-modified: 2026-04-10T18:27:14.938+03:00
-published: 2026-04-10T18:27:14.938+03:00
+modified: 2026-05-15T09:43:45.246+03:00
+published: 2026-05-15T09:43:45.246+03:00
 tags:
   - veids/privātmuiža
   - places

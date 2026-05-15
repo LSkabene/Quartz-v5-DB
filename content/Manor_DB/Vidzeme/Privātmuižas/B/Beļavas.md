@@ -4,8 +4,8 @@ aliases:
   - Korstes
   - Gross-Kurtenhof
 created: 2026-04-11T09:46:54.021+03:00
-modified: 2026-04-11T09:50:23.501+03:00
-published: 2026-04-11T09:50:23.501+03:00
+modified: 2026-05-15T09:43:45.546+03:00
+published: 2026-05-15T09:43:45.546+03:00
 tags:
   - veids/privātmuiža
   - places

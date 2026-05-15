@@ -4,8 +4,8 @@ aliases:
   - Jaunpils (Zaubes)
   - Zaubes
 created: 2026-04-02T18:39:49.889+03:00
-modified: 2026-04-10T18:27:43.169+03:00
-published: 2026-04-10T18:27:43.169+03:00
+modified: 2026-05-15T09:43:44.696+03:00
+published: 2026-05-15T09:43:44.696+03:00
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts

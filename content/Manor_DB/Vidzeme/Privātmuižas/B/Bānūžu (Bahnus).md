@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-11T09:26:57.509+03:00
-modified: 2026-04-11T09:28:40.516+03:00
-published: 2026-04-11T09:28:40.516+03:00
+modified: 2026-05-15T09:43:45.780+03:00
+published: 2026-05-15T09:43:45.780+03:00
 veids: Privātmuiža
 nosaukums_lv: Bānūžu
 nosaukums_ger: Bahnus

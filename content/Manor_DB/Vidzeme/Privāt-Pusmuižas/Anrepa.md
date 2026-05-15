@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Jaunā (Lielvārdes)
 created: 2026-03-21T13:03:48.222+02:00
-modified: 2026-04-10T18:27:15.690+03:00
-published: 2026-04-10T18:27:15.690+03:00
+modified: 2026-05-15T09:43:45.214+03:00
+published: 2026-05-15T09:43:45.214+03:00
 tags:
   - veids/pusmuiža
   - places

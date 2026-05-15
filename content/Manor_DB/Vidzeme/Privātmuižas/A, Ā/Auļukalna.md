@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Aulkalne
 created: 2026-04-06T19:47:49.336+03:00
-modified: 2026-04-10T18:27:42.220+03:00
-published: 2026-04-10T18:27:42.220+03:00
+modified: 2026-05-15T09:43:45.413+03:00
+published: 2026-05-15T09:43:45.413+03:00
 tags:
   - veids/privātmuiža
   - places

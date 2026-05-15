@@ -4,8 +4,8 @@ aliases:
   - Ziemeļ-Rūjienas
   - Nord-Rujen
 created: 2026-04-04T14:29:32.192+03:00
-modified: 2026-04-10T18:27:44.698+03:00
-published: 2026-04-10T18:27:44.698+03:00
+modified: 2026-05-15T09:43:44.913+03:00
+published: 2026-05-15T09:43:44.913+03:00
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts

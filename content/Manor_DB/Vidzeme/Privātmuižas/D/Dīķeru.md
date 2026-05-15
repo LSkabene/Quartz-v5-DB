@@ -4,8 +4,8 @@ aliases:
   - Dūķeru
   - Dīkeru
 created: 2026-04-13T19:43:43.586+03:00
-modified: 2026-04-13T19:44:38.297+03:00
-published: 2026-04-13T19:44:38.297+03:00
+modified: 2026-05-15T09:43:46.064+03:00
+published: 2026-05-15T09:43:46.064+03:00
 tags:
   - veids/privātmuiža
   - places

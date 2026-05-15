@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Cremon
 created: 2026-04-02T20:04:01.729+03:00
-modified: 2026-04-10T18:27:43.395+03:00
-published: 2026-04-10T18:27:43.395+03:00
+modified: 2026-05-15T09:43:44.730+03:00
+published: 2026-05-15T09:43:44.730+03:00
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu

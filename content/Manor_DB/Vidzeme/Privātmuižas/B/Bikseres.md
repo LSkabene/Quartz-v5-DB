@@ -4,8 +4,8 @@ aliases:
   - Libien
   - Biksēres
 created: 2026-04-11T10:04:29.942+03:00
-modified: 2026-04-11T10:06:02.611+03:00
-published: 2026-04-11T10:06:02.611+03:00
+modified: 2026-05-15T09:43:45.564+03:00
+published: 2026-05-15T09:43:45.564+03:00
 veids: Privātmuiža
 nosaukums_lv: Bikseres
 nosaukums_ger: Libbien

@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Rūjienas-Dienvid
 created: 2026-04-02T18:39:49.883+03:00
-modified: 2026-04-10T18:27:42.612+03:00
-published: 2026-04-10T18:27:42.612+03:00
+modified: 2026-05-15T09:43:44.613+03:00
+published: 2026-05-15T09:43:44.613+03:00
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts

@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Biksejas
 created: 2026-04-11T10:03:31.133+03:00
-modified: 2026-04-11T10:04:30.026+03:00
-published: 2026-04-11T10:04:30.026+03:00
+modified: 2026-05-15T09:43:45.567+03:00
+published: 2026-05-15T09:43:45.567+03:00
 tags:
   - veids/privātmuiža
   - places

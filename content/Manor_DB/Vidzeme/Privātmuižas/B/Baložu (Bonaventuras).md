@@ -4,8 +4,8 @@ aliases:
   - Bonawentura
   - Bonaventuras
 created: 2026-04-11T09:19:19.521+03:00
-modified: 2026-04-11T09:23:27.041+03:00
-published: 2026-04-11T09:23:27.041+03:00
+modified: 2026-05-15T09:43:45.480+03:00
+published: 2026-05-15T09:43:45.480+03:00
 tags:
   - veids/privātmuiža
 veids: Privātmuiža
