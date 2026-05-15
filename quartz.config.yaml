@@ -17,7 +17,7 @@ configuration:
     cdnCaching: true
     typography:
       header: Finlandica Headline
-      body: Imperial Script
+      body: Roboto
       code: IBM Plex Mono
     colors:
       lightMode:
