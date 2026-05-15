@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Latvijas muižu datubāze
-  pageTitleSuffix: "| Latvijas muižu datubāze"
+  pageTitleSuffix: " | Latvijas muižu datubāze"
   enableSPA: true
   enablePopovers: false
   analytics:
