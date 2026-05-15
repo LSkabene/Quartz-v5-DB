@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: Latvijas muižu datubāze
+  pageTitleSuffix: Latvijas muižu datubāze
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: lv-lvs
   baseUrl: lskabene.github.io/Quartz-v5-DB
   ignorePatterns:
     - private
@@ -153,7 +153,7 @@ plugins:
       position: left
       priority: 50
   - source: github:quartz-community/graph
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
@@ -272,7 +272,8 @@ layout:
         beforeBody: []
         left: []
         right: []
-    content: {}
+    content:
+      template: default
     folder:
       exclude:
         - reader-mode
@@ -284,4 +285,5 @@ layout:
       positions:
         right: []
     canvas: {}
-    bases: {}
+    bases:
+      template: full-width
