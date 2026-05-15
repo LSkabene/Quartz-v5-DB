@@ -1,9 +1,9 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Latvijas muižu datubāze
-  pageTitleSuffix: Latvijas muižu datubāze
+  pageTitleSuffix: "| Latvijas muižu datubāze"
   enableSPA: true
-  enablePopovers: true
+  enablePopovers: false
   analytics:
     provider: plausible
   locale: en-US
@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Finlandica Headline
+      body: Rubik
       code: IBM Plex Mono
     colors:
       lightMode:
