@@ -275,6 +275,8 @@ layout:
         right: []
     content:
       template: default
+      exclude:
+        - graph
     folder:
       exclude:
         - reader-mode
