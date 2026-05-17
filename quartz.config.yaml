@@ -16,7 +16,6 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      title: Finlandica Headline
       header: Finlandica Headline
       body: Roboto
       code: IBM Plex Mono
