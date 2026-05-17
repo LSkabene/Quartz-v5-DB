@@ -4,8 +4,7 @@ configuration:
   pageTitleSuffix: " | Latvijas muižu datubāze"
   enableSPA: true
   enablePopovers: false
-  analytics:
-    provider: plausible
+  analytics: null
   locale: en-US
   baseUrl: lskabene.github.io/Quartz-v5-DB
   ignorePatterns:
@@ -16,9 +15,9 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Finlandica Headline
-      body: Roboto
-      code: IBM Plex Mono
+      header: "Finlandica Headline"
+      body: "Roboto"
+      code: "IBM Plex Mono"
     colors:
       lightMode:
         light: "#faf8f8"
