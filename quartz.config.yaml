@@ -243,8 +243,18 @@ plugins:
     options:
       includeAll: false
       includedProperties:
-        - description
-        - tags
+        - veids
+        - nosaukums_lv
+        - nosaukums_ger
+        - nosaukums_rus
+        - guberna
+        - aprinkis
+        - draudzes_novads
+        - pagasts
+        - half_manors
+        - krogi
+        - dzirnavas
+        - coordinates
         - aliases
       excludedProperties: []
       hidePropertiesView: false
