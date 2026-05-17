@@ -155,7 +155,7 @@ plugins:
       priority: 70
     options: {}
   - source: github:quartz-community/graph
-    enabled: true
+    enabled: false
     layout:
       priority: 10
     options: {}
@@ -178,7 +178,7 @@ plugins:
       position: beforeBody
       priority: 10
   - source: github:quartz-community/content-meta
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 20
@@ -262,7 +262,7 @@ plugins:
       language: yaml
     order: 5
     layout:
-      position: beforeBody
+      position: afterBody
       priority: 15
       display: all
   - source:
