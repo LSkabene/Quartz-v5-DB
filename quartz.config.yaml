@@ -241,16 +241,26 @@ plugins:
     options:
       includeAll: false
       includedProperties:
-        - description
-        - tags
+        - nosaukums_lv
+        - nosaukums_ger
+        - nosaukums_rus 
         - aliases
+        - guberna
+        - aprinkis
+        - draudzes_novads
+        - half_manors
+        - krogi
+        - dzirnavas
+        - coordinates
+        - tags
+        - date_modified
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
       language: yaml
     order: 5
     layout:
-      position: beforeBody
+      position: afterBody
       priority: 15
       display: all
   - source:
