@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Lipskalna
 created: 2026-04-02T18:39:49.896+03:00
-modified: 2026-05-15T09:43:45.149+03:00
-published: 2026-05-15T09:43:45.149+03:00
+modified: 2026-06-06T09:21:47.965+03:00
+published: 2026-06-06T09:21:47.965+03:00
 tags:
   - veids/organizāciju
   - veids/organizāciju/vidzemes_bruņniecība
@@ -28,7 +28,7 @@ krogi:
 dzirnavas:
 piederiba_iestadem:
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 10-04-2026 18:27 +03:00
+date_modified: 06-06-2026 09:21 +03:00
 coordinates:
 map_color:
 map_icon:

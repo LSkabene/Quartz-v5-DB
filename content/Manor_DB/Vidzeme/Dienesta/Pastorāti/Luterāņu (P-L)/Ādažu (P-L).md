@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-02T18:39:49.876+03:00
-modified: 2026-05-15T09:43:45.086+03:00
-published: 2026-05-15T09:43:45.086+03:00
+modified: 2026-06-06T09:22:56.865+03:00
+published: 2026-06-06T09:22:56.865+03:00
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
@@ -27,7 +27,7 @@ krogi:
 dzirnavas:
 piederiba_iestadem:
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 10-04-2026 18:27 +03:00
+date_modified: 06-06-2026 09:22 +03:00
 coordinates:
 map_color: steelblue
 map_icon: church

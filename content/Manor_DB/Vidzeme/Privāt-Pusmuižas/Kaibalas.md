@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-21T13:04:06.097+02:00
-modified: 2026-05-15T09:43:45.214+03:00
-published: 2026-05-15T09:43:45.214+03:00
+modified: 2026-06-06T09:43:16.267+03:00
+published: 2026-06-06T09:43:16.267+03:00
 tags:
   - veids/pusmuiža
   - places
@@ -26,7 +26,7 @@ krogi:
 dzirnavas:
   - "[[Kaibala (Dz)]]"
 date_created: 21-03-2026 13:04 +02:00
-date_modified: 10-04-2026 18:27 +03:00
+date_modified: 06-06-2026 09:43 +03:00
 coordinates: 56.69641055598077, 24.88000002638808
 map_color: brown
 map_icon: star-half
