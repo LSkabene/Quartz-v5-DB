@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-11T09:33:09.379+03:00
-modified: 2026-05-15T09:43:46.096+03:00
-published: 2026-05-15T09:43:46.096+03:00
+modified: 2026-06-07T18:04:46.744+03:00
+published: 2026-06-07T18:04:46.744+03:00
 tags:
   - veids/privātmuiža
   - places
@@ -30,5 +30,5 @@ coordinates: 56.73900386394024, 24.720827177880583
 map_icon: star
 map_color: maroon
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 11-04-2026 09:35 +03:00
+date_modified: 07-06-2026 18:04 +03:00
 ---
