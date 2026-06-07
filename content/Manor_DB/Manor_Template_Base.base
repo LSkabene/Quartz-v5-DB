@@ -1,0 +1,42 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Manor_DB")
+        - '!file.inFolder("Manor_DB/Vidzeme/Test")'
+        - "!veids.isEmpty()"
+    groupBy:
+      property: veids
+      direction: ASC
+    order:
+      - file.name
+      - veids
+      - nosaukums_lv
+      - nosaukums_ger
+      - nosaukums_rus
+      - nosaukums_est
+      - aliases
+      - guberņa
+      - apriņķis
+      - draudzes_novads
+      - tags
+      - koordinātas
+      - half_manors
+      - parent_manor
+    sort:
+      - property: veids
+        direction: ASC
+      - property: koordinātas
+        direction: DESC
+      - property: nosaukums_lv
+        direction: ASC
+    columnSize:
+      note.veids: 90
+      note.nosaukums_lv: 116
+      note.aliases: 133
+      note.guberņa: 104
+      note.apriņķis: 95
+      note.draudzes_novads: 126
+      note.parent_manor: 123
+    rowHeight: tall
