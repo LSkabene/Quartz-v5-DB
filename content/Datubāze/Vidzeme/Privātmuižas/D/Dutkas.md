@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-13T20:17:24.908+03:00
-modified: 2026-05-15T09:43:46.030+03:00
-published: 2026-05-15T09:43:46.030+03:00
+modified: 2026-07-17T19:25:39.791+03:00
+published: 2026-07-17T19:25:39.791+03:00
 tags:
   - places
   - veids/privātmuiža
@@ -16,18 +16,19 @@ nosaukums_pol:
 nosaukums_swe:
 aliases:
 guberna: Vidzemes
-aprinkis: Valkas
+aprinkis_imperija: Valkas
 draudzes_novads: Trikātas
+aprinkis_LV:
 pagasts:
 veids_vesturiski:
 parent_manor:
-half_manors:
 krogi:
 dzirnavas:
 piederiba_iestadem:
-coordinates:
-map_icon:
-map_color:
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 13-04-2026 20:18 +03:00
+date_modified: 17-07-2026 19:25 +03:00
+coordinates:
+map_color:
+map_icon:
+half_manors:
 ---

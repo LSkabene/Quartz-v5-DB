@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-02T20:02:30.642+03:00
-modified: 2026-05-15T09:43:44.730+03:00
-published: 2026-05-15T09:43:44.730+03:00
+modified: 2026-07-17T19:25:40.152+03:00
+published: 2026-07-17T19:25:40.152+03:00
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
@@ -17,18 +17,19 @@ nosaukums_pol:
 nosaukums_swe:
 aliases:
 guberna: Vidzemes
-aprinkis: Rīgas
+aprinkis_imperija: Rīgas
 draudzes_novads: Kokneses
+aprinkis_LV:
 pagasts:
 veids_vesturiski:
 parent_manor:
-half_manors:
 krogi:
 dzirnavas:
 piederiba_iestadem:
 date_created: 02-04-2026 20:02 +03:00
-date_modified: 10-04-2026 18:27 +03:00
+date_modified: 17-07-2026 19:25 +03:00
 coordinates:
 map_color: steelblue
 map_icon: church
+half_manors:
 ---

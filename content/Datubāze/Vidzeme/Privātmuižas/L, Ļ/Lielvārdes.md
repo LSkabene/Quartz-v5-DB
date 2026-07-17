@@ -9,8 +9,8 @@ aliases:
   - Lennewaden
   - Lenowart
 created: 2026-04-02T18:39:49.907+03:00
-modified: 2026-06-06T09:36:58.220+03:00
-published: 2026-06-06T09:36:58.220+03:00
+modified: 2026-07-17T19:25:39.776+03:00
+published: 2026-07-17T19:25:39.776+03:00
 tags:
   - veids/privātmuiža
   - places
@@ -23,23 +23,24 @@ nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
 guberna: Vidzemes
-aprinkis: Rīgas
+aprinkis_imperija: Rīgas
 draudzes_novads: Lielvārdes-Lieljumpravas
-veids_vesturiski:
+aprinkis_LV:
 pagasts:
+veids_vesturiski:
 parent_manor:
-half_manors:
-  - "[[Anrepa]]"
-  - "[[Kaibalas]]"
 krogi:
 dzirnavas:
 piederiba_iestadem:
   - "[[Rīgas apriņķa II draudzes tiesa]]"
-coordinates: 56.71162278770509, 24.8371743826684
-map_icon: star
-map_color: maroon
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 06-06-2026 09:36 +03:00
+date_modified: 17-07-2026 19:25 +03:00
+coordinates: 56.71162278770509, 24.8371743826684
+map_color: maroon
+map_icon: star
+half_manors:
+  - "[[Anrepa]]"
+  - "[[Kaibalas]]"
 ---
 
 Lielvārdes muiža atradās Vidzemes guberņā.

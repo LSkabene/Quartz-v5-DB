@@ -4,8 +4,8 @@ aliases:
   - Bonawentura
   - Bonaventuras
 created: 2026-04-11T09:19:19.521+03:00
-modified: 2026-05-15T09:43:45.480+03:00
-published: 2026-05-15T09:43:45.480+03:00
+modified: 2026-07-17T19:25:39.952+03:00
+published: 2026-07-17T19:25:39.952+03:00
 tags:
   - veids/privātmuiža
 veids: Privātmuiža
@@ -17,20 +17,21 @@ nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
 guberna: Vidzemes
-aprinkis: Rīgas
+aprinkis_imperija: Rīgas
 draudzes_novads: Ādažu-Carnikavas
+aprinkis_LV:
 pagasts:
 veids_vesturiski: pilsētas
 parent_manor:
-half_manors:
 krogi:
 dzirnavas:
 piederiba_iestadem:
-coordinates:
-map_icon:
-map_color:
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 11-04-2026 09:23 +03:00
+date_modified: 17-07-2026 19:25 +03:00
+coordinates:
+map_color:
+map_icon:
+half_manors:
 ---
 
 Vēsturiski: bijusi Rīgas pilsētas īpašums.

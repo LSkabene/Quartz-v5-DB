@@ -1,29 +1,27 @@
 ---
 publish: true
-created: 2026-04-13T19:30:26.601+03:00
-modified: 2026-07-17T19:25:39.840+03:00
-published: 2026-07-17T19:25:39.840+03:00
-tags:
-  - places
-  - veids/privātmuiža
-veids: Privātmuiža
-nosaukums_lv: Cesvaines
-nosaukums_ger: Sesswegen
+created: 2026-07-17T18:59:21.376+03:00
+modified: 2026-07-17T19:25:39.750+03:00
+published: 2026-07-17T19:25:39.750+03:00
+veids:
+nosaukums_lv: Adamovas
+nosaukums_ger:
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
 aliases:
-guberna: Vidzemes
-aprinkis_imperija: Cēsu
-draudzes_novads: Cesvaines
+guberna: Vitebskas
+aprinkis_imperija:
+draudzes_novads:
 aprinkis_LV:
-pagasts:
+pagasts: Bērzgales pagasts
 veids_vesturiski:
 parent_manor:
 krogi:
 dzirnavas:
+tags:
 piederiba_iestadem:
 date_created: 02-04-2026 18:39 +03:00
 date_modified: 17-07-2026 19:25 +03:00

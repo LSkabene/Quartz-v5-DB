@@ -4,8 +4,8 @@ aliases:
   - Fistelen
   - Fistehl
 created: 2026-04-02T18:39:49.903+03:00
-modified: 2026-05-15T09:43:45.230+03:00
-published: 2026-05-15T09:43:45.230+03:00
+modified: 2026-07-17T19:25:40.017+03:00
+published: 2026-07-17T19:25:40.017+03:00
 tags:
   - veids/privātmuiža
   - places
@@ -18,16 +18,17 @@ nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
 guberna: Vidzemes
-aprinkis: Rīgas
+aprinkis_imperija: Rīgas
 draudzes_novads: Madlienas
+aprinkis_LV:
 veids_vesturiski:
 parent_manor:
-half_manors:
 krogi:
 dzirnavas:
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 10-04-2026 18:27 +03:00
+date_modified: 17-07-2026 19:25 +03:00
 coordinates:
 map_color: maroon
 map_icon: star
+half_manors:
 ---

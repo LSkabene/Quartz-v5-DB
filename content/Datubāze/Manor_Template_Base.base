@@ -3,9 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - file.inFolder("Manor_DB")
-        - '!file.inFolder("Manor_DB/Vidzeme/Test")'
-        - "!veids.isEmpty()"
+        - "!pagasts.isEmpty()"
     groupBy:
       property: veids
       direction: ASC
