@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-21T13:04:06.097+02:00
-modified: 2026-07-17T19:25:40.020+03:00
-published: 2026-07-17T19:25:40.020+03:00
+modified: 2026-07-17T19:59:46.327+03:00
+published: 2026-07-17T19:59:46.327+03:00
 tags:
   - veids/pusmuiža
   - places
@@ -22,13 +22,13 @@ aprinkis_LV:
 veids_vesturiski:
 parent_manor:
   - "[[Lielvārdes]]"
+half_manors:
 krogi:
 dzirnavas:
   - "[[Kaibala (Dz)]]"
 date_created: 21-03-2026 13:04 +02:00
-date_modified: 17-07-2026 19:25 +03:00
+date_modified: 17-07-2026 19:59 +03:00
 coordinates: 56.69641055598077, 24.88000002638808
 map_color: brown
 map_icon: star-half
-half_manors:
 ---
