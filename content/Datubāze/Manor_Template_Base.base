@@ -3,7 +3,8 @@ views:
     name: Table
     filters:
       and:
-        - "!pagasts.isEmpty()"
+        - file.inFolder("Datubāze")
+        - "!nosaukums_lv.isEmpty()"
     groupBy:
       property: veids
       direction: ASC
@@ -13,28 +14,27 @@ views:
       - nosaukums_lv
       - nosaukums_ger
       - nosaukums_rus
-      - nosaukums_est
       - aliases
       - guberņa
-      - apriņķis
+      - aprinkis_imperija
       - draudzes_novads
+      - aprinkis_LV
+      - pagasts
       - tags
       - koordinātas
       - half_manors
       - parent_manor
     sort:
-      - property: veids
+      - property: tags
         direction: ASC
-      - property: koordinātas
-        direction: DESC
+      - property: guberņa
+        direction: ASC
+      - property: nosaukums_est
+        direction: ASC
       - property: nosaukums_lv
         direction: ASC
     columnSize:
-      note.veids: 90
-      note.nosaukums_lv: 116
-      note.aliases: 133
-      note.guberņa: 104
-      note.apriņķis: 95
-      note.draudzes_novads: 126
+      note.veids: 96
+      note.tags: 230
       note.parent_manor: 123
     rowHeight: tall

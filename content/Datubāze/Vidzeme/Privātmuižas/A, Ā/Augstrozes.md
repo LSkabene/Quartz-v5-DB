@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-04-06T19:45:36.044+03:00
-modified: 2026-07-17T19:59:46.218+03:00
-published: 2026-07-17T19:59:46.218+03:00
+modified: 2026-07-18T08:05:39.600+03:00
+published: 2026-07-18T08:05:39.600+03:00
 tags:
   - veids/privātmuiža
   - places
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Augstrozes
 nosaukums_ger: Hochrosen

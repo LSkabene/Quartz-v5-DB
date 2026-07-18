@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Lennewaden
 created: 2026-04-02T18:39:49.892+03:00
-modified: 2026-07-17T19:59:46.447+03:00
-published: 2026-07-17T19:59:46.447+03:00
+modified: 2026-07-18T08:05:38.531+03:00
+published: 2026-07-18T08:05:38.531+03:00
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
+  - Vidzeme
 veids: Dienesta
 nosaukums_lv: Lielvārde
 nosaukums_ger: Lennewarden Pastorat

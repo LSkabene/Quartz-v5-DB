@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-04-13T20:16:24.444+03:00
-modified: 2026-07-17T19:59:46.039+03:00
-published: 2026-07-17T19:59:46.039+03:00
+modified: 2026-07-18T08:05:40.678+03:00
+published: 2026-07-18T08:05:40.678+03:00
 tags:
   - veids/privātmuiža
   - places
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Dūres
 nosaukums_ger: Duhrenhof

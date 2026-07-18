@@ -5,11 +5,12 @@ aliases:
   - Dewwen
   - Dewene
 created: 2026-04-13T19:40:44.992+03:00
-modified: 2026-07-17T19:59:46.072+03:00
-published: 2026-07-17T19:59:46.072+03:00
+modified: 2026-07-18T08:05:40.467+03:00
+published: 2026-07-18T08:05:40.467+03:00
 tags:
   - places
   - veids/privātmuiža
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Devēna
 nosaukums_ger: Dewen

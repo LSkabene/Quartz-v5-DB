@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-04-13T19:30:26.601+03:00
-modified: 2026-07-17T19:59:46.092+03:00
-published: 2026-07-17T19:59:46.092+03:00
+modified: 2026-07-18T08:05:40.355+03:00
+published: 2026-07-18T08:05:40.355+03:00
 tags:
   - places
   - veids/privātmuiža
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Cesvaines
 nosaukums_ger: Sesswegen

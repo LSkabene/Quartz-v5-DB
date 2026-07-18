@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-02T20:30:45.413+03:00
-modified: 2026-07-17T19:59:46.367+03:00
-published: 2026-07-17T19:59:46.367+03:00
+modified: 2026-07-18T08:05:38.662+03:00
+published: 2026-07-18T08:05:38.662+03:00
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
+  - Vidzeme
 veids: Dienesta
 nosaukums_lv: Limbažu
 nosaukums_ger: Lemsal Pastorāt

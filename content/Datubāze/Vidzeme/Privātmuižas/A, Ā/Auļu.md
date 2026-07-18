@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Aula
 created: 2026-04-06T19:47:11.799+03:00
-modified: 2026-07-17T19:59:46.214+03:00
-published: 2026-07-17T19:59:46.214+03:00
+modified: 2026-07-18T08:05:39.636+03:00
+published: 2026-07-18T08:05:39.636+03:00
 tags:
   - places
   - veids/privātmuiža
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Auļu
 nosaukums_ger: Aule

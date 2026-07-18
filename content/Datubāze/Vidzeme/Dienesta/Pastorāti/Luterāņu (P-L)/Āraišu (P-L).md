@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Araišu
 created: 2026-04-02T18:39:49.879+03:00
-modified: 2026-07-17T19:59:46.346+03:00
-published: 2026-07-17T19:59:46.346+03:00
+modified: 2026-07-18T08:05:39.150+03:00
+published: 2026-07-18T08:05:39.150+03:00
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - places
+  - Vidzeme
 veids: Dienesta
 nosaukums_lv: Āraišu
 nosaukums_ger: Arrasch Pastorat

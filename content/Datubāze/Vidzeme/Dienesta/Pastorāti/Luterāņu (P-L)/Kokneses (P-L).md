@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-02T20:02:30.642+03:00
-modified: 2026-07-17T19:59:46.456+03:00
-published: 2026-07-17T19:59:46.456+03:00
+modified: 2026-07-18T08:05:38.473+03:00
+published: 2026-07-18T08:05:38.473+03:00
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
+  - Vidzeme
 veids: Dienesta
 nosaukums_lv: Kokneses
 nosaukums_ger: Kokenhusen Pastorat

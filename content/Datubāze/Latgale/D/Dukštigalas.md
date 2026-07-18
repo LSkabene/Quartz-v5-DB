@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-07-17T20:16:49.552+03:00
-modified: 2026-07-17T20:25:34.055+03:00
-published: 2026-07-17T20:25:34.055+03:00
+modified: 2026-07-18T08:06:06.252+03:00
+published: 2026-07-18T08:06:06.252+03:00
+tags: Latgale
 veids:
 nosaukums_lv: Dukštigalas
 nosaukums_ger:
@@ -22,7 +23,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-tags:
 piederiba_iestadem:
 date_created: 02-04-2026 18:39 +03:00
 date_modified: 17-07-2026 20:17 +03:00

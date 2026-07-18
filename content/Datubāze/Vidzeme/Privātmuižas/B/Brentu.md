@@ -4,11 +4,12 @@ aliases:
   - Brentes
   - Kockenberg
 created: 2026-04-11T10:29:22.285+03:00
-modified: 2026-07-17T19:59:46.124+03:00
-published: 2026-07-17T19:59:46.124+03:00
+modified: 2026-07-18T08:05:40.041+03:00
+published: 2026-07-18T08:05:40.041+03:00
 tags:
   - veids/privātmuiža
   - places
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Brentu
 nosaukums_ger: Kokenberg

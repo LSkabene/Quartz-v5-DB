@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Cimmermana
 created: 2026-04-13T19:31:08.429+03:00
-modified: 2026-07-17T19:59:46.090+03:00
-published: 2026-07-17T19:59:46.090+03:00
+modified: 2026-07-18T08:05:40.367+03:00
+published: 2026-07-18T08:05:40.367+03:00
 tags:
   - places
   - veids/privātmuiža
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Cimmermaņa
 nosaukums_ger: Zimmermanns Gelegenheit

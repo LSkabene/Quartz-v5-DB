@@ -10,11 +10,12 @@ aliases:
   - Bringe
   - Bringu
 created: 2026-04-11T10:34:33.277+03:00
-modified: 2026-07-17T19:59:46.141+03:00
-published: 2026-07-17T19:59:46.141+03:00
+modified: 2026-07-18T08:05:40.104+03:00
+published: 2026-07-18T08:05:40.104+03:00
 tags:
   - veids/privātmuiža
   - places
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Briņģu
 nosaukums_ger: Brinkenhof

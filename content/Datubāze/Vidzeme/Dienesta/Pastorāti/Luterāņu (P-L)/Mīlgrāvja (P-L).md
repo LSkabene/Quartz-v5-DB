@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-04T13:59:08.230+03:00
-modified: 2026-07-17T19:59:46.423+03:00
-published: 2026-07-17T19:59:46.423+03:00
+modified: 2026-07-18T08:05:38.770+03:00
+published: 2026-07-18T08:05:38.770+03:00
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
+  - Vidzeme
 veids: Dienesta
 nosaukums_lv: Mīlgrāvja
 nosaukums_ger: Mühlgraben Pastorat

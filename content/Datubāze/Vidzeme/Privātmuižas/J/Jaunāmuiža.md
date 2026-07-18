@@ -4,11 +4,12 @@ aliases:
   - Annas muiža
   - Jaunērģemes
 created: 2026-04-06T19:24:51.733+03:00
-modified: 2026-07-17T19:59:46.030+03:00
-published: 2026-07-17T19:59:46.030+03:00
+modified: 2026-07-18T08:05:40.718+03:00
+published: 2026-07-18T08:05:40.718+03:00
 tags:
   - veids/privātmuiža
   - places
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Jaunāmuiža
 nosaukums_ger: Ermes-Neuhof

@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Amālijas
 created: 2026-04-06T19:24:02.619+03:00
-modified: 2026-07-17T19:59:46.256+03:00
-published: 2026-07-17T19:59:46.256+03:00
+modified: 2026-07-18T08:05:39.518+03:00
+published: 2026-07-18T08:05:39.518+03:00
 tags:
   - veids/privātmuiža
   - places
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Amalijas
 nosaukums_ger: Amalienhof

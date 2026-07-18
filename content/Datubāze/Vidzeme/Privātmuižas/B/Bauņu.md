@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-04-11T09:31:17.782+03:00
-modified: 2026-07-17T19:59:46.186+03:00
-published: 2026-07-17T19:59:46.186+03:00
+modified: 2026-07-18T08:05:39.784+03:00
+published: 2026-07-18T08:05:39.784+03:00
 tags:
   - veids/privātmuiža
   - places
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Bauņu
 nosaukums_ger: Bauenhof

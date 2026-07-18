@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Aldera
 created: 2026-04-06T17:35:45.364+03:00
-modified: 2026-07-17T19:59:46.296+03:00
-published: 2026-07-17T19:59:46.296+03:00
+modified: 2026-07-18T08:05:39.471+03:00
+published: 2026-07-18T08:05:39.471+03:00
 tags:
   - veids/privātmuiža
   - places
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Alderu
 nosaukums_ger: Hollershof

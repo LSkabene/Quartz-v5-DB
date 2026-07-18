@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-02T18:39:49.877+03:00
-modified: 2026-07-17T19:59:46.517+03:00
-published: 2026-07-17T19:59:46.517+03:00
+modified: 2026-07-18T08:05:38.119+03:00
+published: 2026-07-18T08:05:38.119+03:00
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
+  - Vidzeme
 veids: Dienesta
 nosaukums_lv: Alojas
 nosaukums_ger: Allendorf Pastorat

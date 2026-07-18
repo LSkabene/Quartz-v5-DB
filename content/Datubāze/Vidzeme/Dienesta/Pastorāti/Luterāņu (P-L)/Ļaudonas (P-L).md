@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-02T20:34:10.287+03:00
-modified: 2026-07-17T19:59:46.346+03:00
-published: 2026-07-17T19:59:46.346+03:00
+modified: 2026-07-18T08:05:39.198+03:00
+published: 2026-07-18T08:05:39.198+03:00
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - places
+  - Vidzeme
 veids: Dienesta
 nosaukums_lv: Ļaudonas
 nosaukums_ger: Laudohn Pastorat

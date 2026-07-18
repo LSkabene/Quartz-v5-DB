@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Erkul
 created: 2026-04-06T19:40:45.958+03:00
-modified: 2026-07-17T19:59:46.204+03:00
-published: 2026-07-17T19:59:46.204+03:00
+modified: 2026-07-18T08:05:39.697+03:00
+published: 2026-07-18T08:05:39.697+03:00
 tags:
   - veids/privātmuiža
   - places
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Ārciema
 nosaukums_ger: Erkull

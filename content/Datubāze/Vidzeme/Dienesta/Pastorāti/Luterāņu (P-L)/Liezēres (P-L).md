@@ -4,12 +4,13 @@ aliases:
   - Liezeres
   - Loesern
 created: 2026-04-02T20:29:10.734+03:00
-modified: 2026-07-17T19:59:46.447+03:00
-published: 2026-07-17T19:59:46.447+03:00
+modified: 2026-07-18T08:05:38.651+03:00
+published: 2026-07-18T08:05:38.651+03:00
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
+  - Vidzeme
 veids: Dienesta
 nosaukums_lv: Liezēres
 nosaukums_ger: Lösern Pastorat

@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Bundenbrokas
 created: 2026-04-11T10:37:50.001+03:00
-modified: 2026-07-17T19:59:46.134+03:00
-published: 2026-07-17T19:59:46.134+03:00
+modified: 2026-07-18T08:05:40.140+03:00
+published: 2026-07-18T08:05:40.140+03:00
 tags:
   - places
   - veids/privātmuiža
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Budenbrokas
 nosaukums_ger: Schujenpahlen

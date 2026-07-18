@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-04-06T19:49:27.358+03:00
-modified: 2026-07-17T19:59:46.210+03:00
-published: 2026-07-17T19:59:46.210+03:00
+modified: 2026-07-18T08:05:39.660+03:00
+published: 2026-07-18T08:05:39.660+03:00
 tags:
   - places
   - veids/privātmuiža
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Avota
 nosaukums_ger: Quellenhof

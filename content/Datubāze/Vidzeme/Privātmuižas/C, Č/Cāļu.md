@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-13T19:24:36.286+03:00
-modified: 2026-07-17T19:59:46.085+03:00
-published: 2026-07-17T19:59:46.085+03:00
+modified: 2026-07-18T08:05:40.394+03:00
+published: 2026-07-18T08:05:40.394+03:00
 tags:
   - pārbaudīt
   - places
   - veids/privātmuiža
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Cāļu
 nosaukums_ger: Zahlithof

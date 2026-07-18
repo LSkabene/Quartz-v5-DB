@@ -4,11 +4,12 @@ aliases:
   - Asteres
   - Poikern
 created: 2026-04-06T19:42:02.542+03:00
-modified: 2026-07-17T19:59:46.202+03:00
-published: 2026-07-17T19:59:46.202+03:00
+modified: 2026-07-18T08:05:39.708+03:00
+published: 2026-07-18T08:05:39.708+03:00
 tags:
   - veids/privātmuiža
   - places
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Āsteres
 nosaukums_ger: Poickern

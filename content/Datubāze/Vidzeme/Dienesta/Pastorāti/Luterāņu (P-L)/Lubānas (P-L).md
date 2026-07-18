@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-02T20:31:55.483+03:00
-modified: 2026-07-17T19:59:46.442+03:00
-published: 2026-07-17T19:59:46.442+03:00
+modified: 2026-07-18T08:05:38.674+03:00
+published: 2026-07-18T08:05:38.674+03:00
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
+  - Vidzeme
 veids: Dienesta
 nosaukums_lv: Lubānas
 nosaukums_ger: Lubahn Pastorat

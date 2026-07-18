@@ -4,11 +4,12 @@ aliases:
   - Madonas
   - Mohdohn
 created: 2026-04-11T10:16:39.461+03:00
-modified: 2026-07-17T19:59:46.166+03:00
-published: 2026-07-17T19:59:46.166+03:00
+modified: 2026-07-18T08:05:39.935+03:00
+published: 2026-07-18T08:05:39.935+03:00
 tags:
   - veids/privātmuiža
   - places
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Biržu
 nosaukums_ger: Modohn

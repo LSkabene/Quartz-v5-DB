@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-04-11T09:25:41.230+03:00
-modified: 2026-07-17T19:59:46.112+03:00
-published: 2026-07-17T19:59:46.112+03:00
+modified: 2026-07-18T08:05:40.251+03:00
+published: 2026-07-18T08:05:40.251+03:00
 tags:
   - veids/privātmuiža
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Bānūžu
 nosaukums_ger: Kudling

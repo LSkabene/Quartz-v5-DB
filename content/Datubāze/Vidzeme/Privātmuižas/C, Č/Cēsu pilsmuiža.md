@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-04-13T19:29:32.555+03:00
-modified: 2026-07-17T19:59:46.081+03:00
-published: 2026-07-17T19:59:46.081+03:00
+modified: 2026-07-18T08:05:40.415+03:00
+published: 2026-07-18T08:05:40.415+03:00
 tags:
   - places
   - veids/privātmuiža
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Cēsu pilsmuiža
 nosaukums_ger: Schloss Wenden

@@ -1,9 +1,11 @@
 ---
 publish: true
 created: 2026-04-06T17:37:48.751+03:00
-modified: 2026-07-17T19:59:46.281+03:00
-published: 2026-07-17T19:59:46.281+03:00
-tags: places
+modified: 2026-07-18T08:05:39.494+03:00
+published: 2026-07-18T08:05:39.494+03:00
+tags:
+  - places
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Alsviķu
 nosaukums_ger: Alswig

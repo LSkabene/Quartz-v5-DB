@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-04-06T19:39:44.579+03:00
-modified: 2026-07-17T19:59:46.226+03:00
-published: 2026-07-17T19:59:46.226+03:00
+modified: 2026-07-18T08:05:39.559+03:00
+published: 2026-07-18T08:05:39.559+03:00
 tags:
   - veids/privātmuiža
   - places
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Arakstes
 nosaukums_ger: Arras

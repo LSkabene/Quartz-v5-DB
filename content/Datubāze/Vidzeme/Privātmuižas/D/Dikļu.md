@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-04-13T19:42:05.425+03:00
-modified: 2026-07-17T19:59:46.071+03:00
-published: 2026-07-17T19:59:46.071+03:00
+modified: 2026-07-18T08:05:40.478+03:00
+published: 2026-07-18T08:05:40.478+03:00
 tags:
   - places
   - veids/privātmuiža
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Dikļu
 nosaukums_ger: Dickeln

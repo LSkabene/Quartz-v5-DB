@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Cirstes
 created: 2026-04-13T19:32:07.067+03:00
-modified: 2026-07-17T19:59:46.087+03:00
-published: 2026-07-17T19:59:46.087+03:00
+modified: 2026-07-18T08:05:40.377+03:00
+published: 2026-07-18T08:05:40.377+03:00
 tags:
   - places
   - veids/privātmuiža
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Cirstu
 nosaukums_ger: Zirsten

@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Buku
 created: 2026-04-11T10:42:07.587+03:00
-modified: 2026-07-17T19:59:46.129+03:00
-published: 2026-07-17T19:59:46.129+03:00
+modified: 2026-07-18T08:05:40.165+03:00
+published: 2026-07-18T08:05:40.165+03:00
 tags:
   - veids/privātmuiža
   - places
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Bukas
 nosaukums_ger: Suddenbach

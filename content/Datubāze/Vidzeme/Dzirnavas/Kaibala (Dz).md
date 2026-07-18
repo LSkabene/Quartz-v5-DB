@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-04-02T18:39:49.894+03:00
-modified: 2026-07-17T19:59:46.346+03:00
-published: 2026-07-17T19:59:46.346+03:00
+modified: 2026-07-18T08:05:39.235+03:00
+published: 2026-07-18T08:05:39.235+03:00
 tags:
   - veids/dzirnavas
   - places
+  - Vidzeme
 veids: Dzirnavas
 nosaukums_lv: Kaibala
 nosaukums_ger: Kaibel

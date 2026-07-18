@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-04T14:49:05.687+03:00
-modified: 2026-07-17T19:59:46.376+03:00
-published: 2026-07-17T19:59:46.376+03:00
+modified: 2026-07-18T08:05:39.052+03:00
+published: 2026-07-18T08:05:39.052+03:00
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - places
+  - Vidzeme
 veids: Dienesta
 nosaukums_lv: Umurgas
 nosaukums_ger: Ubbernorm Pastorat

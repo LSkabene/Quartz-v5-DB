@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-04-11T10:28:27.590+03:00
-modified: 2026-07-17T19:59:46.146+03:00
-published: 2026-07-17T19:59:46.146+03:00
+modified: 2026-07-18T08:05:40.030+03:00
+published: 2026-07-18T08:05:40.030+03:00
 tags:
   - veids/privātmuiža
   - places
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Braslavas
 nosaukums_ger: Breslau

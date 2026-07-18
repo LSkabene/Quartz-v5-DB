@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Ramenhof
 created: 2026-04-13T20:02:01.677+03:00
-modified: 2026-07-17T19:59:46.058+03:00
-published: 2026-07-17T19:59:46.058+03:00
+modified: 2026-07-18T08:05:40.554+03:00
+published: 2026-07-18T08:05:40.554+03:00
 tags:
   - places
   - veids/privātmuiža
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Dripatu
 nosaukums_ger: Rammenhof

@@ -5,12 +5,13 @@ aliases:
   - Tirzas
   - Velēnas
 created: 2026-04-04T14:44:52.844+03:00
-modified: 2026-07-17T19:59:46.386+03:00
-published: 2026-07-17T19:59:46.386+03:00
+modified: 2026-07-18T08:05:39.016+03:00
+published: 2026-07-18T08:05:39.016+03:00
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - places
+  - Vidzeme
 veids: Dienesta
 nosaukums_lv: Tirzas-Velēnas
 nosaukums_ger: Tirsen-Wellan Pastorat

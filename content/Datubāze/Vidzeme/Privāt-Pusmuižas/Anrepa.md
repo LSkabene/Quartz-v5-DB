@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Jaunā (Lielvārdes)
 created: 2026-03-21T13:03:48.222+02:00
-modified: 2026-07-17T19:59:46.329+03:00
-published: 2026-07-17T19:59:46.329+03:00
+modified: 2026-07-18T08:05:39.335+03:00
+published: 2026-07-18T08:05:39.335+03:00
 tags:
   - veids/pusmuiža
   - places
+  - Vidzeme
 veids: Pusmuiža
 nosaukums_lv: Anrepa
 nosaukums_ger: Anrepshof

@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Lipskalna
 created: 2026-04-02T18:39:49.896+03:00
-modified: 2026-07-17T19:59:46.336+03:00
-published: 2026-07-17T19:59:46.336+03:00
+modified: 2026-07-18T08:05:39.249+03:00
+published: 2026-07-18T08:05:39.249+03:00
 tags:
   - veids/organizāciju
   - veids/organizāciju/vidzemes_bruņniecība
   - places
+  - Vidzeme
 veids: Organizāciju
 nosaukums_lv: Lipškalna
 nosaukums_ger: Lipskaln

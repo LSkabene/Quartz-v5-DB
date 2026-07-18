@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-02T18:39:49.885+03:00
-modified: 2026-07-17T19:59:46.487+03:00
-published: 2026-07-17T19:59:46.487+03:00
+modified: 2026-07-18T08:05:38.337+03:00
+published: 2026-07-18T08:05:38.337+03:00
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
+  - Vidzeme
 veids: Dienesta
 nosaukums_lv: Dzērbenes
 nosaukums_ger: Serben Pastorat

@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-04-11T10:30:36.268+03:00
-modified: 2026-07-17T19:59:46.146+03:00
-published: 2026-07-17T19:59:46.146+03:00
+modified: 2026-07-18T08:05:40.053+03:00
+published: 2026-07-18T08:05:40.053+03:00
 tags:
   - veids/privātmuiža
   - places
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Briedes
 nosaukums_ger: Wredenhof

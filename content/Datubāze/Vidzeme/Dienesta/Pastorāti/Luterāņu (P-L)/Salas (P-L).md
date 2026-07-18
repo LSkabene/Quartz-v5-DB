@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-04T14:31:59.065+03:00
-modified: 2026-07-17T19:59:46.396+03:00
-published: 2026-07-17T19:59:46.396+03:00
+modified: 2026-07-18T08:05:38.917+03:00
+published: 2026-07-18T08:05:38.917+03:00
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - places
+  - Vidzeme
 veids: Dienesta
 nosaukums_lv: Salas
 nosaukums_ger: Holmhof Pastorat

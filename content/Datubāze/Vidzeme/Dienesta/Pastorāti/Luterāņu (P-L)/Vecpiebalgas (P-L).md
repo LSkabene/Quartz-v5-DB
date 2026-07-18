@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-04T14:51:34.914+03:00
-modified: 2026-07-17T19:59:46.356+03:00
-published: 2026-07-17T19:59:46.356+03:00
+modified: 2026-07-18T08:05:39.108+03:00
+published: 2026-07-18T08:05:39.108+03:00
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - places
+  - Vidzeme
 veids: Dienesta
 nosaukums_lv: Vecpiebalgas
 nosaukums_ger: Alt-Pebalg Pastorat

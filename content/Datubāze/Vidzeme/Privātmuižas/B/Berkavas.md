@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Borkowiz
 created: 2026-04-11T09:51:31.423+03:00
-modified: 2026-07-17T19:59:46.186+03:00
-published: 2026-07-17T19:59:46.186+03:00
+modified: 2026-07-18T08:05:39.813+03:00
+published: 2026-07-18T08:05:39.813+03:00
 tags:
   - veids/privātmuiža
   - places
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Berkavas
 nosaukums_ger: Borkowitz

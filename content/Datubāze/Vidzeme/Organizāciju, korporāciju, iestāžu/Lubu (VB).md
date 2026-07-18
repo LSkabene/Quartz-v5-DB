@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Luhbenhof
 created: 2026-04-02T18:39:49.897+03:00
-modified: 2026-07-17T19:59:46.336+03:00
-published: 2026-07-17T19:59:46.336+03:00
+modified: 2026-07-18T08:05:39.260+03:00
+published: 2026-07-18T08:05:39.260+03:00
 tags:
   - veids/organizāciju/vidzemes_bruņniecība
   - veids/organizāciju
   - places
+  - Vidzeme
 veids: Organizāciju
 nosaukums_lv: Lubu
 nosaukums_ger: Lubbenhof

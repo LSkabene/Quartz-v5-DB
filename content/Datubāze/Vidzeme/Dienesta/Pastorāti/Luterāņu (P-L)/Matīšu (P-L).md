@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-04T13:56:25.301+03:00
-modified: 2026-07-17T19:59:46.429+03:00
-published: 2026-07-17T19:59:46.429+03:00
+modified: 2026-07-18T08:05:38.728+03:00
+published: 2026-07-18T08:05:38.728+03:00
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
+  - Vidzeme
 veids: Dienesta
 nosaukums_lv: Matīšu
 nosaukums_ger: St. Matthiae Pastorat

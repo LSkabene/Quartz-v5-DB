@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Ninigal
 created: 2026-04-13T19:28:13.350+03:00
-modified: 2026-07-17T19:59:46.083+03:00
-published: 2026-07-17T19:59:46.083+03:00
+modified: 2026-07-18T08:05:40.405+03:00
+published: 2026-07-18T08:05:40.405+03:00
 tags:
   - places
   - veids/privātmuiža
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Cērtenes
 nosaukums_ger: Zehrten

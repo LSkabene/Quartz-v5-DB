@@ -6,10 +6,11 @@ aliases:
   - Beijenhof
   - Kerstenhof
 created: 2026-04-11T09:41:04.767+03:00
-modified: 2026-07-17T19:59:46.186+03:00
-published: 2026-07-17T19:59:46.186+03:00
+modified: 2026-07-18T08:05:39.801+03:00
+published: 2026-07-18T08:05:39.801+03:00
 tags:
   - veids/privātmuiža
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Bejas
 nosaukums_ger: Beyenhof

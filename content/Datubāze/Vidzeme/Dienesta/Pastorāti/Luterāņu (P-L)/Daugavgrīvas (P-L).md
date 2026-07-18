@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-02T18:39:49.882+03:00
-modified: 2026-07-17T19:59:46.492+03:00
-published: 2026-07-17T19:59:46.492+03:00
+modified: 2026-07-18T08:05:38.224+03:00
+published: 2026-07-18T08:05:38.224+03:00
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
+  - Vidzeme
 veids: Dienesta
 nosaukums_lv: Daugavgrīvas
 nosaukums_ger: Dünamünde Pastorat

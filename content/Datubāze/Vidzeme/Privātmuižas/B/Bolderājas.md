@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Aahacken
 created: 2026-04-11T10:23:11.302+03:00
-modified: 2026-07-17T19:59:46.157+03:00
-published: 2026-07-17T19:59:46.157+03:00
+modified: 2026-07-18T08:05:39.981+03:00
+published: 2026-07-18T08:05:39.981+03:00
 tags:
   - teritorija/rīgas-patrimoniālais
   - veids/privātmuiža
   - places
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Bolderājas
 nosaukums_ger: Bolderaa

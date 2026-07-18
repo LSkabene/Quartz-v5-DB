@@ -4,11 +4,12 @@ aliases:
   - Cempes
   - Cempe
 created: 2026-04-13T19:26:51.113+03:00
-modified: 2026-07-17T19:59:46.093+03:00
-published: 2026-07-17T19:59:46.093+03:00
+modified: 2026-07-18T08:05:40.346+03:00
+published: 2026-07-18T08:05:40.346+03:00
 tags:
   - places
   - veids/privātmuiža
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Cempu
 nosaukums_ger: Zempen

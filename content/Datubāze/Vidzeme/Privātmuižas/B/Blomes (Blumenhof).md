@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-04-11T10:19:52.185+03:00
-modified: 2026-07-17T19:59:46.166+03:00
-published: 2026-07-17T19:59:46.166+03:00
+modified: 2026-07-18T08:05:39.948+03:00
+published: 2026-07-18T08:05:39.948+03:00
+tags: Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Blomes
 nosaukums_ger: Blumenhof
@@ -22,7 +23,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-tags:
 piederiba_iestadem:
 date_created: 02-04-2026 18:39 +03:00
 date_modified: 17-07-2026 19:59 +03:00

@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-04T13:53:01.991+03:00
-modified: 2026-07-17T19:59:46.429+03:00
-published: 2026-07-17T19:59:46.429+03:00
+modified: 2026-07-18T08:05:38.722+03:00
+published: 2026-07-18T08:05:38.722+03:00
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - places
+  - Vidzeme
 veids: Dienesta
 nosaukums_lv: Madlienas
 nosaukums_ger: Sissegall Pastorat

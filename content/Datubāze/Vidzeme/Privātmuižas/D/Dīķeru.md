@@ -4,11 +4,12 @@ aliases:
   - Dūķeru
   - Dīkeru
 created: 2026-04-13T19:43:43.586+03:00
-modified: 2026-07-17T19:59:46.041+03:00
-published: 2026-07-17T19:59:46.041+03:00
+modified: 2026-07-18T08:05:40.667+03:00
+published: 2026-07-18T08:05:40.667+03:00
 tags:
   - veids/privātmuiža
   - places
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Dīķeru
 nosaukums_ger: Puderküll

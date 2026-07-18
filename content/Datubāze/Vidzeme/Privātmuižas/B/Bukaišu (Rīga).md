@@ -5,12 +5,13 @@ aliases:
   - Fokesmuiža
   - Hāgenu
 created: 2026-04-11T10:38:49.240+03:00
-modified: 2026-07-17T19:59:46.132+03:00
-published: 2026-07-17T19:59:46.132+03:00
+modified: 2026-07-18T08:05:40.152+03:00
+published: 2026-07-18T08:05:40.152+03:00
 tags:
   - teritorija/rīgas-patrimoniālais
   - places
   - veids/privātmuiža
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Bukaišu
 nosaukums_ger: Fockenhof

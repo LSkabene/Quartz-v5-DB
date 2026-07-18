@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Liepkalnu-Vestienas
 created: 2026-04-04T14:52:28.959+03:00
-modified: 2026-07-17T19:59:46.367+03:00
-published: 2026-07-17T19:59:46.367+03:00
+modified: 2026-07-18T08:05:39.121+03:00
+published: 2026-07-18T08:05:39.121+03:00
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - places
+  - Vidzeme
 veids: Dienesta
 nosaukums_lv: Vestienas
 nosaukums_ger: Festen Pastorat

@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Opes
 created: 2026-04-06T19:37:56.360+03:00
-modified: 2026-07-17T19:59:46.246+03:00
-published: 2026-07-17T19:59:46.246+03:00
+modified: 2026-07-18T08:05:39.547+03:00
+published: 2026-07-18T08:05:39.547+03:00
 tags:
   - veids/privātmuiža
   - places
+  - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Apes
 nosaukums_ger: Hoppenhof
