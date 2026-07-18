@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Aldera
 created: 2026-04-06T17:35:45.364+03:00
-modified: 2026-07-18T08:05:39.471+03:00
-published: 2026-07-18T08:05:39.471+03:00
+modified: 2026-07-18T15:49:46.725+03:00
+published: 2026-07-18T15:49:46.725+03:00
 tags:
   - veids/privātmuiža
   - places
@@ -29,7 +29,7 @@ krogi:
 dzirnavas:
 piederiba_iestadem:
 date_created: 06-04-2026 17:35 +03:00
-date_modified: 17-07-2026 19:59 +03:00
+date_modified: 18-07-2026 15:49 +03:00
 coordinates:
 map_color: maroon
 map_icon: star

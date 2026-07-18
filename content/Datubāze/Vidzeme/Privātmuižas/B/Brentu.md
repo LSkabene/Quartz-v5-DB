@@ -4,8 +4,8 @@ aliases:
   - Brentes
   - Kockenberg
 created: 2026-04-11T10:29:22.285+03:00
-modified: 2026-07-18T08:05:40.041+03:00
-published: 2026-07-18T08:05:40.041+03:00
+modified: 2026-07-18T15:49:46.605+03:00
+published: 2026-07-18T15:49:46.605+03:00
 tags:
   - veids/privātmuiža
   - places
@@ -30,7 +30,7 @@ krogi:
 dzirnavas:
 piederiba_iestadem:
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 17-07-2026 19:59 +03:00
+date_modified: 18-07-2026 15:49 +03:00
 coordinates:
 map_color:
 map_icon:

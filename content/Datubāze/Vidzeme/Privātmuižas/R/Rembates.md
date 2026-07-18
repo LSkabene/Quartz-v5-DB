@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-02T18:39:49.907+03:00
-modified: 2026-07-18T08:05:40.754+03:00
-published: 2026-07-18T08:05:40.754+03:00
+modified: 2026-07-18T15:49:46.474+03:00
+published: 2026-07-18T15:49:46.474+03:00
 tags:
   - veids/privātmuiža
   - places
@@ -33,7 +33,7 @@ krogi:
 dzirnavas:
 piederiba_iestadem:
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 17-07-2026 19:59 +03:00
+date_modified: 18-07-2026 15:49 +03:00
 coordinates: 56.71983477775278, 24.801639614208117
 map_color: maroon
 map_icon: star

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-06T19:49:27.358+03:00
-modified: 2026-07-18T08:05:39.660+03:00
-published: 2026-07-18T08:05:39.660+03:00
+modified: 2026-07-18T15:49:46.686+03:00
+published: 2026-07-18T15:49:46.686+03:00
 tags:
   - places
   - veids/privātmuiža
@@ -28,7 +28,7 @@ krogi:
 dzirnavas:
 piederiba_iestadem:
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 17-07-2026 19:59 +03:00
+date_modified: 18-07-2026 15:49 +03:00
 coordinates:
 map_color:
 map_icon:

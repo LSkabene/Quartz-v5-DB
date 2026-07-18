@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-06T17:37:48.751+03:00
-modified: 2026-07-18T08:05:39.494+03:00
-published: 2026-07-18T08:05:39.494+03:00
+modified: 2026-07-18T15:49:46.720+03:00
+published: 2026-07-18T15:49:46.720+03:00
 tags:
   - places
   - Vidzeme
@@ -27,7 +27,7 @@ krogi:
 dzirnavas:
 piederiba_iestadem:
 date_created: 06-04-2026 17:37 +03:00
-date_modified: 17-07-2026 19:59 +03:00
+date_modified: 18-07-2026 15:49 +03:00
 coordinates:
 map_color: maroon
 map_icon: star
