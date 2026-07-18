@@ -20,7 +20,6 @@ views:
       - draudzes_novads
       - aprinkis_LV
       - pagasts
-      - tags
       - koordinātas
       - half_manors
       - parent_manor
