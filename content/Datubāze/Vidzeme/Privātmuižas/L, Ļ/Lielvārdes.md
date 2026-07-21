@@ -9,8 +9,8 @@ aliases:
   - Lennewaden
   - Lenowart
 created: 2026-04-02T18:39:49.907+03:00
-modified: 2026-07-18T15:49:46.475+03:00
-published: 2026-07-18T15:49:46.475+03:00
+modified: 2026-07-21T19:52:37.715+03:00
+published: 2026-07-21T19:52:37.715+03:00
 tags:
   - veids/privātmuiža
   - places
@@ -26,19 +26,25 @@ nosaukums_swe:
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
 draudzes_novads: Lielvārdes-Lieljumpravas
-aprinkis_LV:
-pagasts:
+aprinkis_LV: Rīgas apriņķis
+pagasts: Lielvārdes pagasts
 veids_vesturiski:
 parent_manor:
 half_manors:
   - "[[Anrepa]]"
   - "[[Kaibalas]]"
+  - "[[Ozolmuiža (Lielvārdes pusmuiža)]]"
 krogi:
+  - "[[Vārnas krogs]]"
+  - "[[Pusceļa krogs]]"
+  - "[[Ķipes krogs]]"
+  - "[[Ūbeļkrogs]]"
+  - "[[Pūres krogs]]"
 dzirnavas:
 piederiba_iestadem:
   - "[[Rīgas apriņķa II draudzes tiesa]]"
 date_created: 02-04-2026 18:39 +03:00
-date_modified: 18-07-2026 15:49 +03:00
+date_modified: 21-07-2026 19:40 +03:00
 coordinates: 56.71162278770509, 24.8371743826684
 map_color: maroon
 map_icon: star
