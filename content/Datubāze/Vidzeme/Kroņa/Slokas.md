@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T19:32:51.878+03:00
-modified: 2026-07-23T19:36:54.723+03:00
-published: 2026-07-23T19:36:54.723+03:00
+modified: 2026-07-23T21:15:19.484+03:00
+published: 2026-07-23T21:15:19.484+03:00
 tags:
   - veids/kroņa_muiža
   - places
@@ -26,8 +26,8 @@ half_manors:
 krogi:
 dzirnavas:
 piederiba_iestadem:
-date_created: 02-04-2026 18:39 +03:00
-date_modified: 23-07-2026 19:36 +03:00
+date_created: 23-07-2026 19:32
+date_modified: 23-07-2026 21:15
 coordinates:
 map_color: purple
 map_icon: crown

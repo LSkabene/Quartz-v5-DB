@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-02T18:39:49.907+03:00
-modified: 2026-07-18T15:49:46.474+03:00
-published: 2026-07-18T15:49:46.474+03:00
+modified: 2026-07-23T21:15:19.848+03:00
+published: 2026-07-23T21:15:19.848+03:00
 tags:
   - veids/privātmuiža
   - places
@@ -32,8 +32,8 @@ half_manors:
 krogi:
 dzirnavas:
 piederiba_iestadem:
-date_created: 02-04-2026 18:39 +03:00
-date_modified: 18-07-2026 15:49 +03:00
+date_created: 02-04-2026 18:39
+date_modified: 23-07-2026 21:15
 coordinates: 56.71983477775278, 24.801639614208117
 map_color: maroon
 map_icon: star

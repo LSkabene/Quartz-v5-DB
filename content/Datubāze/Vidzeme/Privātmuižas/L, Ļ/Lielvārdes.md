@@ -9,8 +9,8 @@ aliases:
   - Lennewaden
   - Lenowart
 created: 2026-04-02T18:39:49.907+03:00
-modified: 2026-07-21T20:04:49.089+03:00
-published: 2026-07-21T20:04:49.089+03:00
+modified: 2026-07-23T21:15:19.844+03:00
+published: 2026-07-23T21:15:19.844+03:00
 tags:
   - veids/privātmuiža
   - places
@@ -43,8 +43,8 @@ krogi:
 dzirnavas:
 piederiba_iestadem:
   - "[[Rīgas apriņķa II draudzes tiesa]]"
-date_created: 02-04-2026 18:39 +03:00
-date_modified: 21-07-2026 20:04 +03:00
+date_created: 02-04-2026 18:39
+date_modified: 23-07-2026 21:15
 coordinates: 56.71162278770509, 24.8371743826684
 map_color: maroon
 map_icon: star

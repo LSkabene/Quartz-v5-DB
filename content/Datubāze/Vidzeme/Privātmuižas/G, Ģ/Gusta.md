@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 2026-07-18T15:56:53.309+03:00
-modified: 2026-07-18T15:59:06.519+03:00
-published: 2026-07-18T15:59:06.519+03:00
+modified: 2026-07-23T21:13:18.838+03:00
+published: 2026-07-23T21:13:18.838+03:00
 tags:
   - places
   - veids/privātmuiža
-file_name: Gusta
 veids: privātmuiža
-nosaukums_LV: Gusta
+nosaukums_lv: Gusta
 nosaukums_ger: Gränhof
 nosaukums_rus:
 nosaukums_est:
@@ -26,7 +25,10 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
+date_created: 18-07-2026 15:56
+date_modified: 23-07-2026 21:13
 coordinates:
 map_color:
 map_icon:
+file_name: Gusta
 ---

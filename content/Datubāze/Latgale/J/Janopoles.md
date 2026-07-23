@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-17T20:17:26.640+03:00
-modified: 2026-07-18T15:49:47.052+03:00
-published: 2026-07-18T15:49:47.052+03:00
+modified: 2026-07-23T21:15:19.378+03:00
+published: 2026-07-23T21:15:19.378+03:00
 tags: Latgale
 veids:
 nosaukums_lv: Janopoles
@@ -24,8 +24,8 @@ half_manors:
 krogi:
 dzirnavas:
 piederiba_iestadem:
-date_created: 02-04-2026 18:39 +03:00
-date_modified: 18-07-2026 15:49 +03:00
+date_created: 17-07-2026 20:17
+date_modified: 23-07-2026 21:15
 coordinates:
 map_color:
 map_icon:

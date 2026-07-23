@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Dricēnu
 created: 2026-07-17T19:34:16.709+03:00
-modified: 2026-07-18T15:49:47.094+03:00
-published: 2026-07-18T15:49:47.094+03:00
+modified: 2026-07-23T21:15:19.348+03:00
+published: 2026-07-23T21:15:19.348+03:00
 tags: Latgale
 veids:
 nosaukums_lv: Dricānu
@@ -25,8 +25,8 @@ half_manors:
 krogi:
 dzirnavas:
 piederiba_iestadem:
-date_created: 02-04-2026 18:39 +03:00
-date_modified: 18-07-2026 15:49 +03:00
+date_created: 17-07-2026 19:34
+date_modified: 23-07-2026 21:15
 coordinates:
 map_color:
 map_icon:

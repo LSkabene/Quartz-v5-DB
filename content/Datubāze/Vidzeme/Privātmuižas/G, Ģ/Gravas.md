@@ -2,12 +2,13 @@
 publish: true
 aliases: Graves
 created: 2026-07-18T15:56:53.228+03:00
-modified: 2026-07-18T15:59:06.776+03:00
-published: 2026-07-18T15:59:06.776+03:00
+modified: 2026-07-23T21:13:18.820+03:00
+published: 2026-07-23T21:13:18.820+03:00
 tags:
   - places
   - veids/privātmuiža
 veids: privātmuiža
+nosaukums_lv: Gravas
 nosaukums_ger: Kohlhausen
 nosaukums_rus:
 nosaukums_est:
@@ -24,11 +25,12 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 18-07-2026 15:56 +03:00
-date_modified: 18-07-2026 15:57 +03:00
+date_created: 18-07-2026 15:56
+date_modified: 23-07-2026 21:13
 coordinates:
 map_color:
 map_icon:
 file_name: Gravas
-nosaukums_LV: Gravas
 ---
+
+nosaukums\_lv

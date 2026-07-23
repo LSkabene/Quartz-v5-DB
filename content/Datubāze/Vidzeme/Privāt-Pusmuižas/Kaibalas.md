@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-21T13:04:06.097+02:00
-modified: 2026-07-18T15:49:46.744+03:00
-published: 2026-07-18T15:49:46.744+03:00
+modified: 2026-07-23T21:15:19.505+03:00
+published: 2026-07-23T21:15:19.505+03:00
 tags:
   - veids/pusmuiža
   - places
@@ -28,8 +28,8 @@ half_manors:
 krogi:
 dzirnavas:
   - "[[Kaibala (Dz)]]"
-date_created: 21-03-2026 13:04 +02:00
-date_modified: 18-07-2026 15:49 +03:00
+date_created: 21-03-2026 13:04
+date_modified: 23-07-2026 21:15
 coordinates: 56.69641055598077, 24.88000002638808
 map_color: brown
 map_icon: star-half
