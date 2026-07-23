@@ -1,3 +1,6 @@
+properties:
+  note.guberņa:
+    displayName: guberna
 views:
   - type: table
     name: Table
@@ -15,25 +18,31 @@ views:
       - nosaukums_ger
       - nosaukums_rus
       - aliases
-      - guberņa
+      - guberna
       - aprinkis_imperija
       - draudzes_novads
       - aprinkis_LV
       - pagasts
-      - koordinātas
-      - half_manors
       - parent_manor
+      - half_manors
+      - coordinates
     sort:
-      - property: tags
-        direction: ASC
-      - property: guberņa
-        direction: ASC
-      - property: nosaukums_est
+      - property: half_manors
         direction: ASC
       - property: nosaukums_lv
         direction: ASC
+      - property: coordinates
+        direction: DESC
+      - property: guberņa
+        direction: ASC
+      - property: tags
+        direction: ASC
+      - property: nosaukums_est
+        direction: ASC
     columnSize:
       note.veids: 96
-      note.tags: 230
-      note.parent_manor: 123
+      note.aliases: 174
+      note.aprinkis_imperija: 135
+      note.draudzes_novads: 145
+      note.half_manors: 136
     rowHeight: tall
