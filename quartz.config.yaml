@@ -269,9 +269,10 @@ plugins:
       name: quartz-themes
       repo: github:saberzero1/quartz-themes
       subdir: plugin
-    enabled: false
-    options:
-      theme: default
+      ref: main
+    enabled: true
+    order: 50
+    options: {}
 layout:
   groups:
     toolbar:
