@@ -2,7 +2,7 @@ import fs from "fs"
 import path from "path"
 import YAML from "yaml"
 import { styleText } from "util"
-import { createRequire } from "node:module"
+import { fileURLToPath } from "node:url"
 import { QuartzConfig, GlobalConfiguration, FullPageLayout } from "../../cfg"
 import { QuartzComponent, QuartzComponentConstructor } from "../../components/types"
 import { PluginTypes } from "../types"
@@ -27,6 +27,10 @@ import { loadComponentsFromPackage } from "./componentLoader"
 import { loadFramesFromPackage } from "./frameLoader"
 import { componentRegistry } from "../../components/registry"
 import { getCondition } from "./conditions"
+import Flex from "../../components/Flex"
+import MobileOnly from "../../components/MobileOnly"
+import DesktopOnly from "../../components/DesktopOnly"
+import ConditionalRender from "../../components/ConditionalRender"
 
 const CONFIG_YAML_PATH = path.join(process.cwd(), "quartz.config.yaml")
 const DEFAULT_CONFIG_YAML_PATH = path.join(process.cwd(), "quartz.config.default.yaml")
@@ -201,10 +205,9 @@ async function resolvePluginManifest(source: PluginSource): Promise<PluginManife
 async function readManifestFromPackageJson(source: PluginSource): Promise<PluginManifest | null> {
   try {
     const gitSpec = parsePluginSource(source)
-    const require = createRequire(import.meta.url)
     let pkgPath: string
     if (gitSpec.npmPackage) {
-      pkgPath = require.resolve(`${gitSpec.name}/package.json`, { paths: [process.cwd()] })
+      pkgPath = fileURLToPath(import.meta.resolve(`${gitSpec.name}/package.json`))
     } else {
       const pluginDir = path.join(process.cwd(), ".quartz", "plugins", gitSpec.name)
       pkgPath = path.join(pluginDir, "package.json")
@@ -666,7 +669,8 @@ export async function loadQuartzLayout(layoutOverrides?: {
   return { defaults: mergedDefaults, byPageType: mergedByPageType }
 }
 
-function buildLayoutForEntries(
+/** @internal Exported for testing only. */
+export function buildLayoutForEntries(
   entries: PluginJsonEntry[],
   layoutConfig: LayoutConfig,
 ): Partial<FullPageLayout> {
@@ -812,7 +816,8 @@ function buildLayoutForEntries(
   return result
 }
 
-function resolveGroups(
+/** @internal Exported for testing only. */
+export function resolveGroups(
   items: {
     component: QuartzComponent
     priority: number
@@ -869,9 +874,6 @@ function resolveGroups(
         justify: m.groupOptions?.justify,
       }))
 
-      // Dynamically import Flex to avoid circular dependencies
-      const FlexModule = require("../../components/Flex")
-      const Flex = FlexModule.default as Function
       const flexComponent = Flex({
         components: flexComponents,
         direction: groupConfig.direction ?? "row",
@@ -896,10 +898,8 @@ function applyDisplayWrapper(
   display: "mobile-only" | "desktop-only",
 ): QuartzComponent {
   if (display === "mobile-only") {
-    const MobileOnly = require("../../components/MobileOnly").default as Function
     return MobileOnly(component) as QuartzComponent
   } else {
-    const DesktopOnly = require("../../components/DesktopOnly").default as Function
     return DesktopOnly(component) as QuartzComponent
   }
 }
@@ -914,7 +914,6 @@ function applyConditionWrapper(component: QuartzComponent, conditionName: string
     return component
   }
 
-  const ConditionalRender = require("../../components/ConditionalRender").default as Function
   return ConditionalRender({
     component,
     condition: predicate,
