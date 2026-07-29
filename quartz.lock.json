@@ -100,8 +100,8 @@
     "encrypted-pages": {
       "source": "github:quartz-community/encrypted-pages",
       "resolved": "https://github.com/quartz-community/encrypted-pages.git",
-      "commit": "13c776d9cf16528b5ea381446541f0d9b4e3b38e",
-      "installedAt": "2026-07-24T10:40:52.443Z"
+      "commit": "6df57329de79a600f19bc1d22c347862baece0a0",
+      "installedAt": "2026-07-29T15:01:56.333Z"
     },
     "explicit-publish": {
       "source": "github:quartz-community/explicit-publish",
@@ -130,8 +130,8 @@
     "footer": {
       "source": "github:quartz-community/footer",
       "resolved": "https://github.com/quartz-community/footer.git",
-      "commit": "329ed399aca778251f604ffb8fdd3eb1c7f45f51",
-      "installedAt": "2026-07-24T10:40:52.443Z"
+      "commit": "9551f6dba23e31d75fbc43a0f78ff2c7450176a0",
+      "installedAt": "2026-07-29T15:01:56.333Z"
     },
     "github-flavored-markdown": {
       "source": "github:quartz-community/github-flavored-markdown",
