@@ -2,12 +2,12 @@
 publish: true
 aliases: Eikina, Heidekenhof
 created: 2026-07-18T15:56:52.925+03:00
-modified: 2026-07-23T21:15:19.738+03:00
-published: 2026-07-23T21:15:19.738+03:00
+modified: 2026-07-30T20:25:41.347+03:00
+published: 2026-07-30T20:25:41.347+03:00
 tags:
   - places
   - veids/privātmuiža
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Eiķenu
 nosaukums_ger: Heydekenhof
 nosaukums_rus:

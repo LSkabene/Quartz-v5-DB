@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2026-07-23T21:12:54.632+03:00
-modified: 2026-07-23T21:15:19.818+03:00
-published: 2026-07-23T21:15:19.818+03:00
-veids: privātmuiža
+modified: 2026-07-30T20:26:22.922+03:00
+published: 2026-07-30T20:26:22.922+03:00
+veids: Privātmuiža
 nosaukums_lv: Jaunjērcēnu
 nosaukums_ger: Wohlfahrtslinde
 nosaukums_rus:

@@ -2,9 +2,9 @@
 publish: true
 aliases: Neu-Bilsken
 created: 2026-07-23T21:12:54.557+03:00
-modified: 2026-07-23T21:15:19.808+03:00
-published: 2026-07-23T21:15:19.808+03:00
-veids: privātmuiža
+modified: 2026-07-30T20:26:18.668+03:00
+published: 2026-07-30T20:26:18.668+03:00
+veids: Privātmuiža
 nosaukums_lv: Jaunbilskas
 nosaukums_ger: Neu-Bilskenshof
 nosaukums_rus:

@@ -2,9 +2,9 @@
 publish: true
 aliases: Neu-Laizen
 created: 2026-07-23T21:12:54.702+03:00
-modified: 2026-07-23T21:15:19.828+03:00
-published: 2026-07-23T21:15:19.828+03:00
-veids: privātmuiža
+modified: 2026-07-30T20:26:27.170+03:00
+published: 2026-07-30T20:26:27.170+03:00
+veids: Privātmuiža
 nosaukums_lv: Jaunlaicenes
 nosaukums_ger: Neu-Laitzen
 nosaukums_rus:

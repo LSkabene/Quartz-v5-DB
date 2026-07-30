@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2026-07-23T21:12:54.658+03:00
-modified: 2026-07-23T21:15:19.821+03:00
-published: 2026-07-23T21:15:19.821+03:00
-veids: privātmuiža
+modified: 2026-07-30T20:26:23.617+03:00
+published: 2026-07-30T20:26:23.617+03:00
+veids: Privātmuiža
 nosaukums_lv: Jaunkalsnavas
 nosaukums_ger: Neu-Kalzenau
 nosaukums_rus:

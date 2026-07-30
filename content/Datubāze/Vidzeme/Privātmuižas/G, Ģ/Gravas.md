@@ -2,12 +2,12 @@
 publish: true
 aliases: Graves
 created: 2026-07-18T15:56:53.228+03:00
-modified: 2026-07-23T21:13:18.820+03:00
-published: 2026-07-23T21:13:18.820+03:00
+modified: 2026-07-30T20:25:57.899+03:00
+published: 2026-07-30T20:25:57.899+03:00
 tags:
   - places
   - veids/privātmuiža
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Gravas
 nosaukums_ger: Kohlhausen
 nosaukums_rus:

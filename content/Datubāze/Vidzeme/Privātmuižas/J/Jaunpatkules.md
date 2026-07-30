@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2026-07-23T21:12:54.753+03:00
-modified: 2026-07-23T21:15:19.833+03:00
-published: 2026-07-23T21:15:19.833+03:00
-veids: privātmuiža
+modified: 2026-07-30T20:26:29.312+03:00
+published: 2026-07-30T20:26:29.312+03:00
+veids: Privātmuiža
 nosaukums_lv: Jaunpatkules
 nosaukums_ger: Neu-Hilsen
 nosaukums_rus:

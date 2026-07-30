@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2026-07-23T21:12:54.607+03:00
-modified: 2026-07-23T21:15:19.814+03:00
-published: 2026-07-23T21:15:19.814+03:00
-veids: privātmuiža
+modified: 2026-07-30T20:26:21.486+03:00
+published: 2026-07-30T20:26:21.486+03:00
+veids: Privātmuiža
 nosaukums_lv: Jaundrustu
 nosaukums_ger: Neu-Drostenhof
 nosaukums_rus:

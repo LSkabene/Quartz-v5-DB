@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-07-18T15:56:52.980+03:00
-modified: 2026-07-23T21:15:19.748+03:00
-published: 2026-07-23T21:15:19.748+03:00
+modified: 2026-07-30T20:25:45.210+03:00
+published: 2026-07-30T20:25:45.210+03:00
 tags:
   - places
   - veids/privātmuiža
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Ērgļu
 nosaukums_ger: Erlaa
 nosaukums_rus:

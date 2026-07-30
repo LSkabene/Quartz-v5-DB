@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2026-07-23T21:12:54.534+03:00
-modified: 2026-07-23T21:15:19.799+03:00
-published: 2026-07-23T21:15:19.799+03:00
-veids: privātmuiža
+modified: 2026-07-30T20:26:16.342+03:00
+published: 2026-07-30T20:26:16.342+03:00
+veids: Privātmuiža
 nosaukums_lv: Jaunates
 nosaukums_ger: Neu-Ottenhof
 nosaukums_rus:

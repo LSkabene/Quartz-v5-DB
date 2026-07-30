@@ -1,9 +1,10 @@
 ---
 publish: true
 created: 2026-07-17T18:43:55.029+03:00
-modified: 2026-07-23T21:15:19.473+03:00
-published: 2026-07-23T21:15:19.473+03:00
-tags: Latgale
+modified: 2026-07-30T20:28:17.225+03:00
+published: 2026-07-30T20:28:17.225+03:00
+tags:
+  - Latgale
 veids:
 nosaukums_lv: Zelenopoles
 nosaukums_ger:
@@ -25,7 +26,7 @@ krogi:
 dzirnavas:
 piederiba_iestadem:
 date_created: 17-07-2026 18:43
-date_modified: 23-07-2026 21:15
+date_modified: 30-07-2026 20:28
 coordinates:
 map_color:
 map_icon:

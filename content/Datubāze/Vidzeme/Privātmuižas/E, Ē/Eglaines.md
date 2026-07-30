@@ -2,12 +2,12 @@
 publish: true
 aliases: Eglēnu, Egles
 created: 2026-07-18T15:56:52.895+03:00
-modified: 2026-07-23T21:15:19.730+03:00
-published: 2026-07-23T21:15:19.730+03:00
+modified: 2026-07-30T20:25:37.566+03:00
+published: 2026-07-30T20:25:37.566+03:00
 tags:
   - places
   - veids/privātmuiža
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Eglaines
 nosaukums_ger: Gränhof
 nosaukums_rus:

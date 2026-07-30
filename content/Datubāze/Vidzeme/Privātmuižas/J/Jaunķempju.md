@@ -2,9 +2,9 @@
 publish: true
 aliases: Jaunķempes
 created: 2026-07-23T21:12:54.688+03:00
-modified: 2026-07-23T21:15:19.826+03:00
-published: 2026-07-23T21:15:19.826+03:00
-veids: privātmuiža
+modified: 2026-07-30T20:26:25.809+03:00
+published: 2026-07-30T20:26:25.809+03:00
+veids: Privātmuiža
 nosaukums_lv: Jaunķempju
 nosaukums_ger: Neu-Kempenhof
 nosaukums_rus:

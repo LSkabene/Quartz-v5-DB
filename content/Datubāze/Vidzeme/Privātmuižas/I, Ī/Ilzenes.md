@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2026-07-23T21:12:54.324+03:00
-modified: 2026-07-23T21:15:19.778+03:00
-published: 2026-07-23T21:15:19.778+03:00
-veids: privātmuiža
+modified: 2026-07-30T20:26:10.287+03:00
+published: 2026-07-30T20:26:10.287+03:00
+veids: Privātmuiža
 nosaukums_lv: Ilzenes
 nosaukums_ger: Ilsen
 nosaukums_rus:

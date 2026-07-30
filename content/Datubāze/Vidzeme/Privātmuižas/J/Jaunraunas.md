@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2026-07-23T21:12:54.794+03:00
-modified: 2026-07-23T21:15:19.838+03:00
-published: 2026-07-23T21:15:19.838+03:00
-veids: privātmuiža
+modified: 2026-07-30T20:26:31.297+03:00
+published: 2026-07-30T20:26:31.297+03:00
+veids: Privātmuiža
 nosaukums_lv: Jaunraunas
 nosaukums_ger: Ronneburg-Neuhof
 nosaukums_rus:

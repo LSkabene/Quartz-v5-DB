@@ -2,9 +2,9 @@
 publish: true
 aliases: Jaunadlienas, Jaunadliene
 created: 2026-07-23T21:12:54.416+03:00
-modified: 2026-07-23T21:15:19.784+03:00
-published: 2026-07-23T21:15:19.784+03:00
-veids: privātmuiža
+modified: 2026-07-30T20:26:12.990+03:00
+published: 2026-07-30T20:26:12.990+03:00
+veids: Privātmuiža
 nosaukums_lv: Jaunadulienas
 nosaukums_ger: Neu-Adlehn
 nosaukums_rus:

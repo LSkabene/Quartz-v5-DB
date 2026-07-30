@@ -2,12 +2,12 @@
 publish: true
 aliases: Gaujene
 created: 2026-07-18T15:56:53.149+03:00
-modified: 2026-07-23T21:13:18.817+03:00
-published: 2026-07-23T21:13:18.817+03:00
+modified: 2026-07-30T20:25:54.375+03:00
+published: 2026-07-30T20:25:54.375+03:00
 tags:
   - places
   - veids/privātmuiža
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Gaujienas
 nosaukums_ger: Adsel
 nosaukums_rus:

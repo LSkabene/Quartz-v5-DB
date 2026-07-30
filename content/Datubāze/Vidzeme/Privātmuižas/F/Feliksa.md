@@ -2,12 +2,12 @@
 publish: true
 aliases: Vieliši
 created: 2026-07-18T15:56:53.059+03:00
-modified: 2026-07-23T21:15:19.758+03:00
-published: 2026-07-23T21:15:19.758+03:00
+modified: 2026-07-30T20:25:49.559+03:00
+published: 2026-07-30T20:25:49.559+03:00
 tags:
   - places
   - veids/privātmuiža
-veids: privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Feliksa
 nosaukums_ger: Felix
 nosaukums_rus:

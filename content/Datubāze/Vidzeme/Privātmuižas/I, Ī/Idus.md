@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2026-07-23T21:12:54.259+03:00
-modified: 2026-07-23T21:14:56.773+03:00
-published: 2026-07-23T21:14:56.773+03:00
-veids: privātmuiža
+modified: 2026-07-30T20:26:04.218+03:00
+published: 2026-07-30T20:26:04.218+03:00
+veids: Privātmuiža
 nosaukums_lv: Idus
 nosaukums_ger: Idwen
 nosaukums_rus:

@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2026-07-23T21:12:54.582+03:00
-modified: 2026-07-23T21:15:19.808+03:00
-published: 2026-07-23T21:15:19.808+03:00
-veids: privātmuiža
+modified: 2026-07-30T20:26:19.379+03:00
+published: 2026-07-30T20:26:19.379+03:00
+veids: Privātmuiža
 nosaukums_lv: Jaunbrenguļu
 nosaukums_ger: Neu-Wrangelshof
 nosaukums_rus:

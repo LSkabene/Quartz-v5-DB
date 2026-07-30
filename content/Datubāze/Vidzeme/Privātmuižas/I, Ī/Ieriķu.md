@@ -2,9 +2,9 @@
 publish: true
 aliases: Eeriķe
 created: 2026-07-23T21:12:54.275+03:00
-modified: 2026-07-23T21:15:19.768+03:00
-published: 2026-07-23T21:15:19.768+03:00
-veids: privātmuiža
+modified: 2026-07-30T20:26:04.825+03:00
+published: 2026-07-30T20:26:04.825+03:00
+veids: Privātmuiža
 nosaukums_lv: Ieriķu
 nosaukums_ger: Ramotzky
 nosaukums_rus:
