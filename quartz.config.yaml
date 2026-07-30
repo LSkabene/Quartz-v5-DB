@@ -291,16 +291,11 @@ layout:
         beforeBody: []
         left: []
         right: []
-    content:
-      template: default
       exclude:
         - graph
+    content:
+      template: default
     folder:
-      exclude:
-        - reader-mode
-      positions:
-        right: []
-    tag:
       exclude:
         - reader-mode
       positions:
@@ -308,3 +303,9 @@ layout:
     canvas: {}
     bases:
       template: full-width
+      exclude:
+        - graph
+    tag:
+      exclude:
+        - reader-mode
+        - graph
