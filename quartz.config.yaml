@@ -155,9 +155,11 @@ plugins:
       priority: 70
     options: {}
   - source: github:quartz-community/graph
-    enabled: false
+    enabled: true
     layout:
       priority: 10
+      position: right
+      display: desktop-only
     options: {}
   - source: github:quartz-community/search
     enabled: true
@@ -259,7 +261,6 @@ plugins:
         - dzirnavas
         - coordinates
         - tags
-        
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
