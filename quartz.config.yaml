@@ -247,15 +247,19 @@ plugins:
         - nosaukums_lv
         - nosaukums_ger
         - nosaukums_rus
+        - aliases
         - guberna
-        - aprinkis
+        - aprinkis_imperija
         - draudzes_novads
+        - aprinkis_LV
         - pagasts
+        - parent_manor
         - half_manors
         - krogi
         - dzirnavas
         - coordinates
-        - aliases
+        - tags
+        
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
