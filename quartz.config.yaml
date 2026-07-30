@@ -273,7 +273,7 @@ plugins:
     enabled: true
     order: 50
     options:
-      theme: apex
+      theme: fjord
 layout:
   groups:
     toolbar:
