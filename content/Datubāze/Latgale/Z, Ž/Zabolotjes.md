@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-30T20:12:32.273+03:00
-modified: 2026-07-30T21:33:25.859+03:00
-published: 2026-07-30T21:33:25.859+03:00
+modified: 2026-08-01T20:25:52.187+03:00
+published: 2026-08-01T20:25:52.187+03:00
 tags:
   - veids/folvarks
   - Latgale
@@ -27,7 +27,7 @@ half_manors:
 krogi:
 dzirnavas:
 piederiba_iestadem:
-date_created: 02-04-2026 18:39
+date_created: 2026-08-01T20:00:00
 date_modified: 30-07-2026 20:28
 coordinates:
 map_color:
