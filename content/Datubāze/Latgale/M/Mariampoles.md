@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-30T20:35:10.858+03:00
-modified: 2026-07-30T21:33:25.567+03:00
-published: 2026-07-30T21:33:25.567+03:00
+modified: 2026-08-01T18:22:11.853+03:00
+published: 2026-08-01T18:22:11.853+03:00
 tags:
   - Latgale
 veids:
@@ -26,7 +26,7 @@ krogi:
 dzirnavas:
 piederiba_iestadem:
 date_created: 02-04-2026 18:39
-date_modified: 30-07-2026 20:36
+date_modified: 01-08-2026 18:22
 coordinates:
 map_color:
 map_icon:
