@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T19:57:04.627+03:00
-modified: 2026-08-01T19:57:30.838+03:00
-published: 2026-08-01T19:57:30.838+03:00
+modified: 2026-08-01T19:59:11.898+03:00
+published: 2026-08-01T19:59:11.898+03:00
 tags:
   - Latgale
   - veids/folvarks
@@ -27,7 +27,7 @@ krogi:
 dzirnavas:
 piederiba_iestadem:
 date_created: 02-04-2026 18:39
-date_modified: 23-07-2026 21:19
+date_modified: 01-08-2026 19:59
 coordinates:
 map_color:
 map_icon:
