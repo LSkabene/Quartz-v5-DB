@@ -121,10 +121,7 @@
   }
 
   &[data-callout="source-pub"] {
-    --color: #448aff;
-    --border: #448aff44;
-    --bg: #448aff10;
-    --callout-icon: var(--callout-icon-source-pub);
+        --callout-icon: var(--callout-icon-source-pub);
   }
 
   
