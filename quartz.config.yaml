@@ -279,7 +279,7 @@ plugins:
       repo: github:saberzero1/quartz-themes
       subdir: plugin
       ref: main
-    enabled: true
+    enabled: false
     order: 50
     options:
       theme: fjord
