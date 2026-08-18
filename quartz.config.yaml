@@ -155,7 +155,7 @@ plugins:
       priority: 70
     options: {}
   - source: github:quartz-community/graph
-    enabled: true
+    enabled: false
     layout:
       priority: 10
       position: right
@@ -170,7 +170,7 @@ plugins:
       groupOptions:
         grow: true
   - source: github:quartz-community/backlinks
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 30
@@ -187,7 +187,7 @@ plugins:
   - source: github:quartz-community/tag-list
     enabled: false
     layout:
-      position: beforeBody
+      position: afterBody
       priority: 30
   - source: github:quartz-community/page-title
     enabled: true
