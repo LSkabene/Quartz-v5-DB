@@ -102,6 +102,7 @@ plugins:
   - source: github:quartz-community/ox-hugo
     enabled: false
     order: 91
+    options: {}
   - source: github:quartz-community/roam
     enabled: false
     order: 92
@@ -127,6 +128,7 @@ plugins:
       position: afterBody
       priority: 50
       display: all
+    options: {}
   - source: github:quartz-community/alias-redirects
     enabled: true
   - source: github:quartz-community/content-index
@@ -170,7 +172,7 @@ plugins:
       groupOptions:
         grow: true
   - source: github:quartz-community/backlinks
-    enabled: false
+    enabled: true
     layout:
       position: right
       priority: 30
@@ -184,6 +186,7 @@ plugins:
     layout:
       position: beforeBody
       priority: 20
+    options: {}
   - source: github:quartz-community/tag-list
     enabled: false
     layout:
@@ -270,15 +273,6 @@ plugins:
       position: afterBody
       priority: 15
       display: all
-  - source:
-      name: quartz-themes
-      repo: github:saberzero1/quartz-themes
-      subdir: plugin
-      ref: main
-    enabled: false
-    order: 50
-    options:
-      theme: fjord
 layout:
   groups:
     toolbar:
