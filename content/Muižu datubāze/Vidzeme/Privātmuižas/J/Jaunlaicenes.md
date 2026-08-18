@@ -1,7 +1,0 @@
----
-publish: true
-aliases:
-  - Neu-Laizen
-created: 2026-07-23T21:12:54.702+03:00
-modified: 2026-07-30T20:26:27.170+03:00
----
