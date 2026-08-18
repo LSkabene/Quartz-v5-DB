@@ -245,7 +245,7 @@ plugins:
     options: {}
     order: 50
   - source: github:quartz-community/note-properties
-    enabled: false
+    enabled: true
     options:
       includeAll: false
       includedProperties:
@@ -279,7 +279,7 @@ plugins:
       repo: github:saberzero1/quartz-themes
       subdir: plugin
       ref: main
-    enabled: false
+    enabled: true
     order: 50
     options:
       theme: fjord
