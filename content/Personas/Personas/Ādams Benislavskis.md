@@ -4,6 +4,6 @@ tags:
   - dzimta/Benislavski
 ---
 
-| Savienojumi                                                                                                  |
+| Muižas                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------ |
 | <ul><li>[[Valsts un privātmuižas, pusmuižas/Vitebskas guberņa (Latgale)/P/Pasienes.md\|Pasienes]]</li></ul> |
