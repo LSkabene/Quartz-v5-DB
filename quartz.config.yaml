@@ -244,27 +244,27 @@ plugins:
     options:
       includeAll: false
       includedProperties:
-        - veids
-	- nosaukums_lv
-	- nosaukums_ger
-	- nosaukums_rus
-	- aliases
-	- nosaukums_est
-	- nosaukums_lt
-	- nosaukums_pol
-	- nosaukums_swe
-	- guberna
-	- aprinkis_imperija
-	- draudzes_novads
-	- aprinkis_LV
-	- pagasts
-	- veids_vesturiski
-	- parent_manor
-	- half_manors
-	- krogi
-	- dzirnavas
-	- coordinates
-	- tags
+          - veids
+          - nosaukums_lv
+          - nosaukums_ger
+          - nosaukums_rus
+          - aliases
+          - nosaukums_est
+          - nosaukums_lt
+          - nosaukums_pol
+          - nosaukums_swe
+          - guberna
+          - aprinkis_imperija
+          - draudzes_novads
+          - aprinkis_LV
+          - pagasts
+          - veids_vesturiski
+          - parent_manor
+          - half_manors
+          - krogi
+          - dzirnavas
+          - coordinates
+          - tags
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
