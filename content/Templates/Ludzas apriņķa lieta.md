@@ -1,6 +1,7 @@
 ---
 date_created: 2026-08-17
 date_modified: 2026-08-19
+publish: false
 ---
 
 > [!source-pub] Avots - LNA LVVA F5425 "Vitebskas Domēņu valde", 1. US, 8. GV
