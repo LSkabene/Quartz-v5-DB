@@ -1,9 +1,7 @@
 ---
-date_created: 2026-08-20
-date_modified: 2026-08-20
+publish: true
 ---
-```dataview 
-table without id file.link AS Persona, file.inlinks AS Muižas
-from "Personas/Personas" 
-where contains(file.etags, "#dzimta/Bordeliusi")
-```
+
+| Persona                                                                             | Muižas                                                                                         |
+| ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| [[Personas/Personas/Aksels Hermaņa d. Bordeliuss.md\|Aksels Hermaņa d. Bordeliuss]] | <ul><li>[[Valsts un privātmuižas, pusmuižas/Kurzemes guberņa/A, Ā/Audzu.md\|Audzu]]</li></ul> |

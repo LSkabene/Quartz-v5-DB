@@ -1,9 +1,10 @@
 ---
-tags: [dzimta/Blūmeni, kārta/muižnieki]
-date_created: 2026-08-20
-date_modified: 2026-08-25
+publish: true
+tags:
+  - dzimta/Blūmeni
+  - kārta/muižnieki
 ---
-```dataview
-table without id file.inlinks AS Muižas
-where file.name = this.file.name
-```
+
+| Muižas                                                                                               |
+| ---------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Valsts un privātmuižas, pusmuižas/Kurzemes guberņa/K, Ķ/Kazimiru.md\|Kazimiru]]</li></ul> |

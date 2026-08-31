@@ -1,9 +1,7 @@
 ---
-date_created: 2026-08-20
-date_modified: 2026-08-25
+publish: true
 ---
-```dataview 
-table without id file.link AS Persona, file.inlinks AS Muižas
-from "Personas/Personas" 
-where contains(file.etags, "#dzimta/Blūmeni")
-```
+
+| Persona                                                                                   | Muižas                                                                                               |
+| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [[Personas/Personas/Herberts Eduarda d. fon Blūmens.md\|Herberts Eduarda d. fon Blūmens]] | <ul><li>[[Valsts un privātmuižas, pusmuižas/Kurzemes guberņa/K, Ķ/Kazimiru.md\|Kazimiru]]</li></ul> |

@@ -1,10 +1,7 @@
 ---
-date_created: 2026-08-20
-date_modified: 2026-08-25
+publish: true
 ---
-```dataview 
-table without id file.link AS Persona, file.inlinks AS Muižas
-from "Personas/Personas" 
-where contains(file.etags, "#dzimta/Arnoldi")
-```
 
+| Persona                                                               | Muižas                                                                                          |
+| --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [[Personas/Personas/Hugo Karla d. Arnoldi.md\|Hugo Karla d. Arnoldi]] | <ul><li>[[Valsts un privātmuižas, pusmuižas/Kurzemes guberņa/D/Dobeles.md\|Dobeles]]</li></ul> |

@@ -1,9 +1,10 @@
 ---
-tags: [kārta/muižnieki, dzimta/Heikingi]
-date_created: 2026-08-20
-date_modified: 2026-08-25
+publish: true
+tags:
+  - kārta/muižnieki
+  - dzimta/Heikingi
 ---
-```dataview
-table without id file.inlinks AS Muižas
-where file.name = this.file.name
-```
+
+| Muižas                                                                                                     |
+| ---------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Valsts un privātmuižas, pusmuižas/Kurzemes guberņa/L, Ļ/Lielsesavas.md\|Lielsesavas]]</li></ul> |

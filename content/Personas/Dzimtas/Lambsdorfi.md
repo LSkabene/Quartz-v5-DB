@@ -1,10 +1,9 @@
 ---
-aliases: [Lambsdorfi no Venges]
-date_created: 2026-08-20
-date_modified: 2026-08-25
+publish: true
+aliases:
+  - Lambsdorfi no Venges
 ---
-```dataview 
-table without id file.link AS Persona, file.inlinks AS Muižas
-from "Personas/Personas" 
-where contains(file.etags, "#dzimta/Lambsdorfi")
-```
+
+| Persona                                                                 | Muižas                                                                                            |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| [[Personas/Personas/Verners fon Lambsdorfs.md\|Verners fon Lambsdorfs]] | <ul><li>[[Valsts un privātmuižas, pusmuižas/Kurzemes guberņa/D/Džūkstes.md\|Džūkstes]]</li></ul> |

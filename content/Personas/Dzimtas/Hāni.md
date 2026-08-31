@@ -1,9 +1,7 @@
 ---
-date_created: 2026-08-20
-date_modified: 2026-08-25
+publish: true
 ---
-```dataview 
-table without id file.link AS Persona, file.inlinks AS Muižas
-from "Personas/Personas" 
-where contains(file.etags, "#dzimta/Hāni")
-```
+
+| Persona                                                             | Muižas                                                                                              |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| [[Personas/Personas/Hanss Adolfa d. Hāns.md\|Hanss Adolfa d. Hāns]] | <ul><li>[[Valsts un privātmuižas, pusmuižas/Kurzemes guberņa/M/Mežamuiža.md\|Mežamuiža]]</li></ul> |

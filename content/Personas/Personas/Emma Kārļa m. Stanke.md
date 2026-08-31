@@ -1,9 +1,9 @@
 ---
-tags: [kārta/namnieki]
-date_created: 2026-08-20
-date_modified: 2026-08-25
+publish: true
+tags:
+  - kārta/namnieki
 ---
-```dataview
-table without id file.inlinks AS Muižas
-where file.name = this.file.name
-```
+
+| Muižas                                                                                             |
+| -------------------------------------------------------------------------------------------------- |
+| <ul><li>[[Valsts un privātmuižas, pusmuižas/Kurzemes guberņa/C, Č/Cimeres.md\|Cimeres]]</li></ul> |
