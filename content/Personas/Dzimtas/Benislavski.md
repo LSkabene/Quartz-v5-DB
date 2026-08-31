@@ -1,11 +1,9 @@
 ---
-aliases: [Benislavsku]
-date_created: 2026-08-18
-date_modified: 2026-08-20
 publish: true
+aliases:
+  - Benislavsku
 ---
-```dataview 
-table without id file.link AS Persona, file.inlinks AS Muižas
-from "Personas/Personas" 
-where contains(file.etags, "#dzimta/Benislavski")
-```
+
+| Persona                                                         | Muižas                                                                                                       |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| [[Personas/Personas/Ādams Benislavskis.md\|Ādams Benislavskis]] | <ul><li>[[Valsts un privātmuižas, pusmuižas/Vitebskas guberņa (Latgale)/P/Pasienes.md\|Pasienes]]</li></ul> |

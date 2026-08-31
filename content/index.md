@@ -1,6 +1,4 @@
 ---
-date_created: 2026-05-15
-date_modified: 2026-08-20
 publish: true
 ---
 
