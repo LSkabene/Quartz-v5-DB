@@ -32,9 +32,11 @@ Stacked pages are disabled on mobile by default (below 800px) since horizontal p
 
 This plugin accepts the following configuration options:
 
-- `maxTabs`: Maximum number of stacked panes visible at once. Defaults to `8`.
-- `mobileBreakpoint`: Viewport width (in pixels) below which stacked pages are disabled and links navigate normally. Defaults to `800`.
-- `showSpines`: Whether to show collapsed spine headers when panes overflow the viewport. Defaults to `true`.
+- `paneWidth`: Width of each stacked pane in pixels. Defaults to `640`.
+- `maxPanes`: Maximum number of panes visible at once. Defaults to `5`.
+- `enableOnMobile`: Whether to enable stacked pages on mobile devices. Defaults to `false`.
+- `mobileBreakpoint`: Viewport width (in pixels) below which the mobile behavior applies. Matches the Quartz mobile breakpoint. Defaults to `800`.
+- `showSpines`: Whether to show collapsed spine headers when panes overflow. Defaults to `true`.
 - `animateTransitions`: Whether to animate pane open/close transitions. Defaults to `true`.
 
 ### Default options
@@ -47,7 +49,9 @@ This plugin accepts the following configuration options:
     priority: 50
     display: all
   options:
-    maxTabs: 8
+    paneWidth: 640
+    maxPanes: 5
+    enableOnMobile: false
     mobileBreakpoint: 800
     showSpines: true
     animateTransitions: true

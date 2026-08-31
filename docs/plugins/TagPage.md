@@ -16,8 +16,7 @@ This plugin is a page type plugin that emits dedicated pages for each tag used i
 
 This plugin accepts the following configuration options:
 
-- `numPages`: The maximum number of pages to display per tag before showing a "see more" link. Defaults to `10`.
-- `sort`: A function of type `(f1: QuartzPluginData, f2: QuartzPluginData) => number{:ts}` used to sort entries. Defaults to sorting by date and tie-breaking on lexographical order. Requires a TS override.
+- `sort`: A function of type `(f1: QuartzPluginData, f2: QuartzPluginData) => number{:ts}` used to sort entries. Defaults to sorting by date and tie-breaking on lexographical order.
 - `prefixTags`: If `true`, generated tag page titles are prefixed with "Tag: " (e.g. "Tag: recipes"). Defaults to `false`.
 
 ## API

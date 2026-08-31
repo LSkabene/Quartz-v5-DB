@@ -18,8 +18,7 @@ If the frontmatter contains a `description` property, it is used (see [[authorin
 
 This plugin accepts the following configuration options:
 
-- `descriptionLength`: the target length of the generated description. Default is 150 characters. The cut off happens after the first _sentence_ that ends after the given length.
-- `maxDescriptionLength`: the hard maximum length of the description. If the generated description exceeds this, it is truncated with an ellipsis. Default is 300 characters.
+- `descriptionLength`: the maximum length of the generated description. Default is 150 characters. The cut off happens after the first _sentence_ that ends after the given length.
 - `replaceExternalLinks`: If `true` (default), replace external links with their domain and path in the description (e.g. `https://domain.tld/some_page/another_page?query=hello&target=world` is replaced with `domain.tld/some_page/another_page`).
 
 ## API

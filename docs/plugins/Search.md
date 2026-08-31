@@ -20,20 +20,13 @@ See [[full-text search]] for detailed usage information.
 
 This plugin accepts the following configuration options:
 
-- `enablePreview`: Whether to show a preview of the page content in search results. Defaults to `true`.
-- `fieldPriority`: An array specifying the priority order for search fields. Defaults to `["title", "content", "tags"]`.
+- `enabled`: Whether to enable full-text search. Defaults to `true`.
 
 ### Default options
 
 ```yaml title="quartz.config.yaml"
 - source: github:quartz-community/search
   enabled: true
-  options:
-    enablePreview: true
-    fieldPriority:
-      - title
-      - content
-      - tags
 ```
 
 ## API

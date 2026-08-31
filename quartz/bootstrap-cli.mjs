@@ -1,12 +1,4 @@
 #!/usr/bin/env -S node --no-deprecation
-const [major] = process.versions.node.split(".").map(Number)
-if (major < 22) {
-  console.error(
-    `\nQuartz requires Node.js >= 22, but you are running Node.js ${process.version}.\n` +
-      `Please upgrade: https://nodejs.org/\n`,
-  )
-  process.exit(1)
-}
 import yargs from "yargs"
 import { hideBin } from "yargs/helpers"
 import {
@@ -278,7 +270,7 @@ yargs(hideBin(process.argv))
       await handlePluginStatus()
     },
   )
-  .showHelpOnFail(true)
+  .showHelpOnFail(false)
   .help()
   .strict()
   .demandCommand().argv
