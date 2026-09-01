@@ -12,7 +12,7 @@ Datubāze veidota izmantojot [Obsidian](https://obsidian.md/) programmatūru, [Q
 `nosaukums_LV:` Pamatnosaukums latviešu valodā. Pamatnosaukums izvēlēts, ņemot vēra vai nu nosaukumu mūsdienu kartēs un internetā, vai arī literatūrā/avotā, no kura iegūta informācija par objektu.
 `nosaukums_Ger/Rus/Est/Lt/Pol/Swe`: Tas pats, attiecīgi vācu, krievu, igauņu, poļu un/vai zviedru valodā. Šajā gadījumā priekšroka tiek dota vēsturiskajiem nosaukumiem. Vidzemes gadījumā vācu un krievu nosaukumi visbiežāk ņemti no 19./20. gs. mijas adresu grāmatām.
 `aliases:` Citi nosaukuma varianti.
-`guberna:` Objekta atrašanās vieta Krievijas impērijas teritoriāli administratīvajā sistēmā laikā starp ~1850.-1914. gadu (pieņemot, ka objekts šajā laikā vēl pastāv). Tā kā nākotnē paredzēts kartēt datubāzē esošos objektus, šis un citi teritoriāla rakstura lauki jāuztver aptuvenā virziena norāde. Robežas mainās, cilvēki kļūdās. :)
+`guberna:` Objekta atrašanās vieta Krievijas impērijas teritoriāli administratīvajā sistēmā laikā starp ~1850.-1914. gadu (pieņemot, ka objekts šajā laikā vēl pastāv). Tā kā nākotnē paredzēts kartēt datubāzē esošos objektus, šis un citi teritoriāla rakstura lauki jāuztver kā aptuvenā virziena norāde. Robežas mainās, cilvēki kļūdās. :)
 `aprinkis_imperija:`  Krievijas impērijas guberņu apriņķi 19./20. gs. mijā.
 `draudzes_novads:` Izmantots tikai Vidzemes muižām - līdz 1866. gadam (pagastu reformai).
 `aprinkis_LV`: Objekta atrašanās vieta Latvijas republikas teritoriāli administratīvajā sistēmā uz **1935. gadu** (no *V. Salnais, A. Maldups. Pagastu apraksti: (pēc 1935. gada tautas skaitīšanas materiāliem). Rīga: Valsts statistiskā pārvalde, 1935*).
