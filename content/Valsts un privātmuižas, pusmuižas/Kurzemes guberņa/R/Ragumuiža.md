@@ -4,8 +4,8 @@ aliases:
   - Raggenhof
   - Ragu muiža
 created: 2026-08-20T16:09:06.619Z
-modified: 2026-09-02T17:34:22.393Z
-published: 2026-09-02T17:34:22.393Z
+modified: 2026-09-02T17:46:55.007Z
+published: 2026-09-02T17:46:55.007Z
 tags:
   - Kurzeme
   - veids/kroņa_pusmuiža

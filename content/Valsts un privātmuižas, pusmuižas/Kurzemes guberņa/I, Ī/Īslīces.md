@@ -4,8 +4,8 @@ aliases:
   - Isliz
   - Īslīcas
 created: 2026-08-20T16:09:06.291Z
-modified: 2026-09-02T16:52:31.412Z
-published: 2026-09-02T16:52:31.412Z
+modified: 2026-09-02T17:46:53.068Z
+published: 2026-09-02T17:46:53.068Z
 tags:
   - Kurzeme
   - veids/kroņa_pusmuiža

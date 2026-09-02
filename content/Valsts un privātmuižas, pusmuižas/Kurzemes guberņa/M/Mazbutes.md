@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-25T17:28:53.805Z
-modified: 2026-09-02T16:11:30.709Z
-published: 2026-09-02T16:11:30.709Z
+modified: 2026-09-02T17:46:54.561Z
+published: 2026-09-02T17:46:54.561Z
 tags:
   - veids/kroņa_pusmuiža
   - Kurzeme

@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Stenģeļa
 created: 2026-08-20T16:09:06.889Z
-modified: 2026-09-02T17:35:13.884Z
-published: 2026-09-02T17:35:13.884Z
+modified: 2026-09-02T17:46:54.964Z
+published: 2026-09-02T17:46:54.964Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža

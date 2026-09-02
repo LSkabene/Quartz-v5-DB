@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.046Z
-modified: 2026-09-02T17:35:24.249Z
-published: 2026-09-02T17:35:24.249Z
+modified: 2026-09-02T17:46:53.316Z
+published: 2026-09-02T17:46:53.316Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža

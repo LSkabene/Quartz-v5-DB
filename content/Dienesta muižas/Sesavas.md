@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.902Z
-modified: 2026-09-02T17:07:19.586Z
-published: 2026-09-02T17:07:19.586Z
+modified: 2026-09-02T17:46:23.655Z
+published: 2026-09-02T17:46:23.655Z
 tags:
   - veids/dienesta
   - Kurzeme

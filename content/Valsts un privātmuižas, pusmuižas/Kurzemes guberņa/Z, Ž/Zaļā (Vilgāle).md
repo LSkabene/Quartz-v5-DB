@@ -4,8 +4,8 @@ aliases:
   - Zaļummuiža
   - Zaļā
 created: 2026-08-20T16:09:05.947Z
-modified: 2026-09-02T17:27:44.974Z
-published: 2026-09-02T17:27:44.974Z
+modified: 2026-09-02T17:46:55.483Z
+published: 2026-09-02T17:46:55.483Z
 tags:
   - Kurzeme
 veids:

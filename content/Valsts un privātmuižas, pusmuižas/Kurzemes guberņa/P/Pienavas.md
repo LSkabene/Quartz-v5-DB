@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Gross-Pönau
 created: 2026-08-20T16:09:06.375Z
-modified: 2026-09-02T17:33:59.859Z
-published: 2026-09-02T17:33:59.859Z
+modified: 2026-09-02T17:46:54.794Z
+published: 2026-09-02T17:46:54.794Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža

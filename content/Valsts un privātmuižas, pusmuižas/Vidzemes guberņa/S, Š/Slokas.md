@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T16:32:51.878Z
-modified: 2026-09-01T15:57:24.651Z
-published: 2026-09-01T15:57:24.651Z
+modified: 2026-09-02T17:46:56.642Z
+published: 2026-09-02T17:46:56.642Z
 tags:
   - veids/kroņa_muiža
   - places

@@ -4,8 +4,8 @@ aliases:
   - Pēternieku
   - Peterweisshof
 created: 2026-08-20T16:09:06.528Z
-modified: 2026-09-02T17:28:00.152Z
-published: 2026-09-02T17:28:00.152Z
+modified: 2026-09-02T17:46:54.946Z
+published: 2026-09-02T17:46:54.946Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža

@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Auces kroņa
 created: 2026-08-20T16:09:06.008Z
-modified: 2026-09-02T17:33:18.147Z
-published: 2026-09-02T17:33:18.147Z
+modified: 2026-09-02T17:46:53.902Z
+published: 2026-09-02T17:46:53.902Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
