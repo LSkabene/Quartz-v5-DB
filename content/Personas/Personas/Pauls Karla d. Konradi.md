@@ -1,5 +1,11 @@
 ---
 publish: true
+created: 2026-08-25T16:50:48.523Z
+modified: 2026-08-31T16:44:45.449Z
+published: 2026-08-31T16:44:45.449Z
+tags: []
+date_created: 2026-08-20
+date_modified: 2026-08-25
 ---
 
 | Muižas                                                                                            |
