@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-08-25T17:39:52.136Z
-modified: 2026-08-31T16:44:43.383Z
-published: 2026-08-31T16:44:43.383Z
+modified: 2026-09-02T16:32:07.773Z
+published: 2026-09-02T16:32:07.773Z
 date_created: 2026-08-20
-date_modified: 2026-08-25
+date_modified: 2026-09-02
 ---
 
-| Persona                                                             | Muižas                                                                                              |
-| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| [[Personas/Personas/Hanss Adolfa d. Hāns.md\|Hanss Adolfa d. Hāns]] | <ul><li>[[Valsts un privātmuižas, pusmuižas/Kurzemes guberņa/M/Mežamuiža.md\|Mežamuiža]]</li></ul> |
+| Persona                                                               | Muižas                                                                           | Guberņa  |
+| --------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------- |
+| [[Personas/Personas/Hāns, Hanss Adolfa d..md\|Hāns, Hanss Adolfa d.]] | [[Valsts un privātmuižas, pusmuižas/Kurzemes guberņa/M/Mežamuiža.md\|Mežamuiža]] | Kurzemes |

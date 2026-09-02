@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T15:23:42.327Z
-modified: 2026-08-31T16:45:18.467Z
-published: 2026-08-31T16:45:18.467Z
+modified: 2026-09-02T16:49:22.978Z
+published: 2026-09-02T16:49:22.978Z
 tags:
   - Latgale
   - īpašnieki/Benislavski
@@ -37,7 +37,7 @@ map_icon:
 ---
 
 > [!source-pub] Avots - LNA LVVA F5425 "Vitebskas Domēņu valde", 1. US, 8. GV
-> Ap 1856.-1861. gadu Pasienes muižas īpašnieks bija [[Ādams Benislavskis]]. Īpašumā ietilpa [[Pasienes]], [[Soboļinas|Sibilinas]] un [[Paulovas]] folvarki, Pasienes miests un _24_ sādžas: Адамово, Щикуцкая, Пирогово, Внучково, Горники, Защиринска, Тарчилово, Гордачево, Домие, Колесники, Новики, Лицвяки, Ра?увое, Мельники, Боровая, Полячонки, Чивчишу, Помплево, Шакуры, Ауни, Пердули, Дзеглиши, Шковна и Загорские.
+> Ap 1856.-1861. gadu Pasienes muižas īpašnieks bija [[Benislavskis, Ādams]]. Īpašumā ietilpa [[Pasienes]], [[Soboļinas|Sibilinas]] un [[Paulovas]] folvarki, Pasienes miests un _24_ sādžas: Адамово, Щикуцкая, Пирогово, Внучково, Горники, Защиринска, Тарчилово, Гордачево, Домие, Колесники, Новики, Лицвяки, Ра?увое, Мельники, Боровая, Полячонки, Чивчишу, Помплево, Шакуры, Ауни, Пердули, Дзеглиши, Шковна и Загорские.
 >
 > Pēc revīzijas datiem, īpašumam pieder 710 vīrieši un 673 sievietes; faktiski ir 737 vīrieši un 731 sievietes.
 > No tiem:
