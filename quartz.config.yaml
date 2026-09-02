@@ -142,7 +142,7 @@ plugins:
   - source: "@quartz-community/canvas-page"
     enabled: false
   - source: "@quartz-community/content-page"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/folder-page"
     enabled: true
   - source: "@quartz-community/tag-page"
@@ -153,7 +153,7 @@ plugins:
       position: left
       priority: 50
   - source: "@quartz-community/graph"
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
@@ -176,7 +176,7 @@ plugins:
       position: beforeBody
       priority: 10
   - source: "@quartz-community/content-meta"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 20
@@ -244,27 +244,27 @@ plugins:
     options:
       includeAll: true
       includedProperties:
-          - veids
-          - nosaukums_lv
-          - nosaukums_ger
-          - nosaukums_rus
-          - aliases
-          - nosaukums_est
-          - nosaukums_lt
-          - nosaukums_pol
-          - nosaukums_swe
-          - guberna
-          - aprinkis_imperija
-          - draudzes_novads
-          - aprinkis_LV
-          - pagasts
-          - veids_vesturiski
-          - parent_manor
-          - half_manors
-          - krogi
-          - dzirnavas
-          - coordinates
-          - tags
+        - veids
+        - nosaukums_lv
+        - nosaukums_ger
+        - nosaukums_rus
+        - aliases
+        - nosaukums_est
+        - nosaukums_lt
+        - nosaukums_pol
+        - nosaukums_swe
+        - guberna
+        - aprinkis_imperija
+        - draudzes_novads
+        - aprinkis_LV
+        - pagasts
+        - veids_vesturiski
+        - parent_manor
+        - half_manors
+        - krogi
+        - dzirnavas
+        - coordinates
+        - tags
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
