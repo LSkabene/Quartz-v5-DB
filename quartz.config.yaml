@@ -142,7 +142,7 @@ plugins:
   - source: "@quartz-community/canvas-page"
     enabled: false
   - source: "@quartz-community/content-page"
-    enabled: false
+    enabled: true
   - source: "@quartz-community/folder-page"
     enabled: true
   - source: "@quartz-community/tag-page"
