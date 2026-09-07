@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.344Z
-modified: 2026-09-02T17:46:54.132Z
-published: 2026-09-02T17:46:54.132Z
+modified: 2026-09-07T16:17:21.565Z
+published: 2026-09-07T16:17:21.565Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
@@ -32,6 +32,6 @@ map_color:
 map_icon:
 ---
 
-1909\. gadā nomnieks namnieks [[Pāvels Ivana d. Leifroks]].[^1]
+1909\. gadā nomnieks namnieks [[Leifroks, Pāvels Ivana d.]].[^1]
 
 [^1]: LNA LVVA F1679 "Zemkopības ministrijas Zemes ierīcības departaments" 155. US, 34. GV

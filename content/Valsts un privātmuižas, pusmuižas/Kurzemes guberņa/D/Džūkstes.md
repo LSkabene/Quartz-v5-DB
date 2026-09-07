@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.249Z
-modified: 2026-09-02T16:57:55.937Z
-published: 2026-09-02T16:57:55.937Z
+modified: 2026-09-07T16:17:11.436Z
+published: 2026-09-07T16:17:11.436Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
@@ -32,6 +32,6 @@ map_color:
 map_icon:
 ---
 
-1913.-1914. gadā nomnieks īstenais valsts padomnieks [[Pauls Karla d. Konradi]]; no 16.01.1914. grāfs [[Lambsdorfs, Verners fon]].[^1]
+1913.-1914. gadā nomnieks īstenais valsts padomnieks [[Konradi, Pauls Karla d.]]; no 16.01.1914. grāfs [[Lambsdorfs, Verners fon]].[^1]
 
 [^1]: LNA LVVA F1679 "Zemkopības ministrijas Zemes ierīcības departaments" 155. US, 34. GV

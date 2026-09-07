@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.089Z
-modified: 2026-08-31T16:44:58.764Z
-published: 2026-08-31T16:44:58.764Z
+modified: 2026-09-07T16:17:32.131Z
+published: 2026-09-07T16:17:32.131Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
@@ -32,6 +32,6 @@ map_color:
 map_icon:
 ---
 
-1909\. gadā nomnieks filozofijas doktors [[Pēteris Kārļa d. Zālīte]].[^1]
+1909\. gadā nomnieks filozofijas doktors [[Zālīte, Pēteris Kārļa d.]].[^1]
 
 [^1]: LNA LVVA F1679 "Zemkopības ministrijas Zemes ierīcības departaments" 155. US, 34. GV

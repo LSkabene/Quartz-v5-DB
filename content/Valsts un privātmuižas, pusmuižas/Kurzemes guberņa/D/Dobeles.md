@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.210Z
-modified: 2026-09-07T13:52:27.416Z
-published: 2026-09-07T13:52:27.416Z
+modified: 2026-09-07T13:55:20.474Z
+published: 2026-09-07T13:55:20.474Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
@@ -27,7 +27,7 @@ half_manors: "[[Miltiņu]]"
 krogi:
 dzirnavas:
 date_created: 2026-08-20
-date_modified: 2026-08-25
+date_modified: 2026-09-07
 coordinates:
 map_color:
 map_icon:

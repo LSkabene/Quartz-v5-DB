@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.580Z
-modified: 2026-09-02T17:46:54.815Z
-published: 2026-09-02T17:46:54.815Z
+modified: 2026-09-07T16:17:39.334Z
+published: 2026-09-07T16:17:39.334Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
@@ -32,6 +32,6 @@ map_color:
 map_icon:
 ---
 
-1902.-1914. gadā nomnieks zemnieks [[Naruns, Jānis Mārtiņa d.]]; no 02.06.1914. zemnieks [[Pēteris Pētera d. Baumanis]].[^1]
+1902.-1914. gadā nomnieks zemnieks [[Naruns, Jānis Mārtiņa d.]]; no 02.06.1914. zemnieks [[Baumanis, Pēteris Pētera d.]].[^1]
 
 [^1]: LNA LVVA F1679 "Zemkopības ministrijas Zemes ierīcības departaments" 155. US, 34. GV

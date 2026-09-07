@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-25T16:42:56.690Z
-modified: 2026-09-07T13:46:31.869Z
-published: 2026-09-07T13:46:31.869Z
+modified: 2026-09-07T15:24:52.099Z
+published: 2026-09-07T15:24:52.099Z
 tags:
   - dzimta/Arnoldi
 date_created: 2026-08-20

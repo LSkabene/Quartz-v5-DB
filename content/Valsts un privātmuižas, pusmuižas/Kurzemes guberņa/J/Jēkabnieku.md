@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.592Z
-modified: 2026-09-02T17:46:53.559Z
-published: 2026-09-02T17:46:53.559Z
+modified: 2026-09-07T16:17:32.145Z
+published: 2026-09-07T16:17:32.145Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
@@ -32,6 +32,6 @@ map_color:
 map_icon:
 ---
 
-1901.-1912. gadā nomnieks filozofijas doktors [[Pēteris Kārļa d. Zālīte]]; no 23.04.1912. namnieks [[Gerhards, Jakobs Frīdriha d.]].[^1]
+1901.-1912. gadā nomnieks filozofijas doktors [[Zālīte, Pēteris Kārļa d.]]; no 23.04.1912. namnieks [[Gerhards, Jakobs Frīdriha d.]].[^1]
 
 [^1]: LNA LVVA F1679 "Zemkopības ministrijas Zemes ierīcības departaments" 155. US, 34. GV
