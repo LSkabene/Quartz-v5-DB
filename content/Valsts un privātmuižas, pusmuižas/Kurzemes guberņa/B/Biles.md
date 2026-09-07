@@ -1,8 +1,35 @@
 ---
 publish: true
+created: 2026-08-20T16:09:06.073Z
+modified: 2026-08-31T16:44:58.604Z
+published: 2026-08-31T16:44:58.604Z
 tags:
   - veids/kroņa_muiža
   - Kurzeme
+veids: Kroņa
+nosaukums_lv: Biles
+nosaukums_ger: Billenhof
+nosaukums_rus: Билленгофъ
+nosaukums_est:
+nosaukums_lt:
+nosaukums_pol:
+nosaukums_swe:
+aliases: []
+guberna: Kurzemes
+aprinkis_imperija: Dobeles
+draudzes_novads:
+aprinkis_LV:
+pagasts:
+veids_vesturiski:
+parent_manor:
+half_manors:
+krogi:
+dzirnavas:
+date_created: 2026-08-20
+date_modified: 2026-08-25
+coordinates:
+map_color:
+map_icon:
 ---
 
 1901.-1913. nomnieks zemnieks [[Jakobs Veidels (Вейделъ)]], no 23.08.1913. viņa atraitne [[Elizabete Veidela]].[^1]

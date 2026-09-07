@@ -11,5 +11,5 @@ Pēteris Zālīte (1864–1939) – publicists, filozofs. Latviešu Nacionālās
 
 | Muižas                                                                             | Guberņa  |
 | ---------------------------------------------------------------------------------- | -------- |
-| [[Valsts un privātmuižas, pusmuižas/Kurzemes guberņa/B/Bramberģes.md\|Bramberģes]] | Kurzemes |
 | [[Valsts un privātmuižas, pusmuižas/Kurzemes guberņa/J/Jēkabnieku.md\|Jēkabnieku]] | Kurzemes |
+| [[Valsts un privātmuižas, pusmuižas/Kurzemes guberņa/B/Bramberģes.md\|Bramberģes]] | Kurzemes |
