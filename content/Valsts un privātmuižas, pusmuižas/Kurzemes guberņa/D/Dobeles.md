@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.210Z
-modified: 2026-09-07T13:55:20.474Z
-published: 2026-09-07T13:55:20.474Z
+modified: 2026-09-08T05:05:15.433Z
+published: 2026-09-08T05:05:15.433Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
@@ -33,4 +33,6 @@ map_color:
 map_icon:
 ---
 
-1900\. gadā nomnieks namnieks [[Arnoldi, Hugo Karla d.]] (?).
+1900\. gadā nomnieks namnieks [[Arnoldi, Hugo Karla d.]][^1].
+
+[^1]: LNA LVVA F1679 “Zemkopības ministrijas Zemes ierīcības departaments” 155. US, 34. GV
