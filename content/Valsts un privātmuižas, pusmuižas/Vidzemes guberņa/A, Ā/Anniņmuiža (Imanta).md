@@ -6,8 +6,8 @@ aliases:
   - Meinershoff
   - Meyners Hof
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-07T16:16:22.362Z
-published: 2026-09-07T16:16:22.362Z
+modified: 2026-09-08T04:33:52.749Z
+published: 2026-09-08T04:33:52.749Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
@@ -22,7 +22,7 @@ nosaukums_pol: ""
 nosaukums_swe: ""
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
-draudzes_novads: ""
+draudzes_novads: Piņķu
 aprinkis_LV: ""
 pagasts: ""
 veids_vesturiski: ""
@@ -31,7 +31,7 @@ half_manors: "[[Anniņmuižas meža pils (Imanta)]]"
 krogi: ""
 dzirnavas: ""
 date_created: 2026-09-07
-date_modified: 2026-09-07
+date_modified: 2026-09-08
 coordinates: 56.951980, 24.011600
 map_color: ""
 map_icon: ""

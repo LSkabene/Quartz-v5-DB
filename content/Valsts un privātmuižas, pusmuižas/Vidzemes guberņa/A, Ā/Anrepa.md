@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Jaunā (Lielvārdes)
 created: 2026-03-21T11:03:48.222Z
-modified: 2026-08-31T16:45:03.299Z
-published: 2026-08-31T16:45:03.299Z
+modified: 2026-09-08T04:47:35.424Z
+published: 2026-09-08T04:47:35.424Z
 tags:
   - veids/pusmuiža
   - places
@@ -29,7 +29,7 @@ half_manors:
 krogi:
 dzirnavas:
 date_created: 2026-03-21
-date_modified: 2026-08-19
+date_modified: 2026-09-08
 coordinates:
 map_color: brown
 map_icon: star-half

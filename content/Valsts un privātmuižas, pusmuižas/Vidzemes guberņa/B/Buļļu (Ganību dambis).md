@@ -4,8 +4,8 @@ aliases:
   - Ganību uzrauga māja
   - Pētera namiņš
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-07T16:16:22.826Z
-published: 2026-09-07T16:16:22.826Z
+modified: 2026-09-08T04:59:24.088Z
+published: 2026-09-08T04:59:24.088Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
@@ -29,7 +29,7 @@ half_manors: ""
 krogi: ""
 dzirnavas: ""
 date_created: 2026-09-07
-date_modified: 2026-09-07
+date_modified: 2026-09-08
 coordinates: 56.962190, 24.103830
 map_color: ""
 map_icon: ""

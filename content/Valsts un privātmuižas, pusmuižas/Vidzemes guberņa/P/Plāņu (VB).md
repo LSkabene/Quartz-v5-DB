@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.897Z
-modified: 2026-08-31T16:45:11.854Z
-published: 2026-08-31T16:45:11.854Z
+modified: 2026-09-08T04:55:56.419Z
+published: 2026-09-08T04:55:56.419Z
 tags:
   - veids/organizāciju
   - veids/organizāciju/vidzemes_bruņniecība
   - places
   - Vidzeme
+  - īpašnieki/vidzemes-bruņniecība
 veids: Organizāciju
 nosaukums_lv: Plāņu
 nosaukums_ger: Planhof
@@ -28,8 +29,10 @@ half_manors:
 krogi:
 dzirnavas:
 date_created: 2026-04-02
-date_modified: 2026-08-19
+date_modified: 2026-09-08
 coordinates:
 map_color:
 map_icon:
 ---
+
+veids/organizāciju/vidzemes-bruņniecība
