@@ -6,14 +6,14 @@ aliases:
   - Schoongezicht
   - Schöngesicht
 created: 2026-09-09T17:15:22.617Z
-modified: 2026-09-09T17:17:59.867Z
-published: 2026-09-09T17:17:59.867Z
+modified: 2026-09-09T17:30:16.407Z
+published: 2026-09-09T17:30:16.407Z
 tags:
   - veids/privātmuiža
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
-veids:
+veids: Privātmuiža
 nosaukums_lv: Heija
 nosaukums_ger: Hay Hoffchen
 nosaukums_rus:
@@ -28,6 +28,7 @@ aprinkis_LV:
 pagasts:
 veids_vesturiski:
 parent_manor:
+  - "[[Švarcmuiža]]"
 half_manors:
 krogi:
 dzirnavas:
@@ -37,3 +38,5 @@ coordinates:
 map_color:
 map_icon:
 ---
+
+Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Agenskalns/HeijaMuiz.htm).
