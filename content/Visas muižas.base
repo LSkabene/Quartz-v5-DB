@@ -1,0 +1,23 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - file.inFolder("Dienesta muižas")
+        - file.inFolder("Valsts un privātmuižas, pusmuižas")
+    order:
+      - file.name
+      - veids
+      - nosaukums_lv
+      - nosaukums_ger
+      - nosaukums_rus
+      - aliases
+      - guberna
+      - aprinkis_imperija
+      - draudzes_novads
+      - aprinkis_LV
+      - pagasts
+      - parent_manor
+      - half_manors
+      - veids_vesturiski
+      - tags
