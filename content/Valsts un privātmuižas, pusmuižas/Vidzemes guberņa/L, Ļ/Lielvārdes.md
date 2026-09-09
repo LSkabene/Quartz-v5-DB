@@ -9,8 +9,8 @@ aliases:
   - Lennewaden
   - Lenowart
 created: 2026-04-02T15:39:49.907Z
-modified: 2026-09-02T17:46:56.591Z
-published: 2026-09-02T17:46:56.591Z
+modified: 2026-09-09T15:55:25.370Z
+published: 2026-09-09T15:55:25.370Z
 tags:
   - veids/privātmuiža
   - places
@@ -49,3 +49,4 @@ map_icon: star
 ---
 
 Lielvārdes muiža atradās Vidzemes guberņā.
+![[Pasted image 20260909185524.png]]
