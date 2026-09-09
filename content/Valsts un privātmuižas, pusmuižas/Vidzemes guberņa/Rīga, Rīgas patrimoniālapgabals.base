@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("Rīga")
+    order:
+      - file.name
+      - nosaukums_lv
+      - nosaukums_ger
+      - nosaukums_rus
+      - aliases
+      - draudzes_novads
+      - veids
+      - parent_manor
+      - half_manors
+      - tags
+    columnSize:
+      file.name: 266

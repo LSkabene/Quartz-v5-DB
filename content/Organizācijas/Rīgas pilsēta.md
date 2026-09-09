@@ -9,6 +9,7 @@ date_created: 2026-08-20
 date_modified: 2026-09-08
 ---
 
-| Muiža                                                                            | Nosaukums (LV) | Nosaukums (GER) | Draudzes novads |
-| -------------------------------------------------------------------------------- | -------------- | --------------- | --------------- |
-| [[Valsts un privātmuižas, pusmuižas/Vidzemes guberņa/B/Beberbeķu.md\|Beberbeķu]] | Beberbeķu      | Bebberbek       | Piņku           |
+| Muiža                                                                                                            | Nosaukums (LV) | Nosaukums (GER) | Draudzes novads |
+| ---------------------------------------------------------------------------------------------------------------- | -------------- | --------------- | --------------- |
+| [[Valsts un privātmuižas, pusmuižas/Vidzemes guberņa/B/Beberbeķu.md\|Beberbeķu]]                                 | Beberbeķu      | Bebberbek       | Piņku           |
+| [[Valsts un privātmuižas, pusmuižas/Vidzemes guberņa/M/Mazjumpravas (Katlakalns).md\|Mazjumpravas (Katlakalns)]] | Mazjumpravas   | Jungfernhof     | Katlakalna      |
