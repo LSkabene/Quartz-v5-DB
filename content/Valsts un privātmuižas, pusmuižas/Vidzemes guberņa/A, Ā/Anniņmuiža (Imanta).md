@@ -6,8 +6,8 @@ aliases:
   - Meinershoff
   - Meyners Hof
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-08T04:33:52.749Z
-published: 2026-09-08T04:33:52.749Z
+modified: 2026-09-13T07:44:44.769Z
+published: 2026-09-13T07:44:44.769Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
@@ -35,7 +35,6 @@ date_modified: 2026-09-08
 coordinates: 56.951980, 24.011600
 map_color: ""
 map_icon: ""
-file_name: Anniņmuiža (Imanta)
 ---
 
 Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Imanta/AnninIIMuiz.htm).

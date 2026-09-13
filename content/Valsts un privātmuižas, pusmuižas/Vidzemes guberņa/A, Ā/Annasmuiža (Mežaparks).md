@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Annerhof
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-08T04:47:28.697Z
-published: 2026-09-08T04:47:28.697Z
+modified: 2026-09-13T07:46:00.762Z
+published: 2026-09-13T07:46:00.762Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
@@ -28,11 +28,10 @@ half_manors: ""
 krogi: ""
 dzirnavas: ""
 date_created: 2026-09-07
-date_modified: 2026-09-08
+date_modified: 2026-09-13
 coordinates: 57.006030, 24.170420
 map_color: ""
 map_icon: ""
-file_name: Annasmuiža (Mežaparks)
 ---
 
 Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Mezaparks/AnnasMuiz.htm).

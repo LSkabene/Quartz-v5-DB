@@ -9,8 +9,8 @@ date_modified: 2026-09-08
 
 | Muiža                                                                                          | Nosaukums (LV) | Nosaukums (GER) | Draudzes novads |
 | ---------------------------------------------------------------------------------------------- | -------------- | --------------- | --------------- |
-| [[Valsts un privātmuižas, pusmuižas/Vidzemes guberņa/L, Ļ/Lipškalna (VB).md\|Lipškalna (VB)]]  | Lipškalna      | Lipskaln        | Trikātas        |
 | [[Valsts un privātmuižas, pusmuižas/Vidzemes guberņa/L, Ļ/Lubu (VB).md\|Lubu (VB)]]            | Lubu           | Lubbenhof       | Trikātas        |
+| [[Valsts un privātmuižas, pusmuižas/Vidzemes guberņa/L, Ļ/Lipškalna (VB).md\|Lipškalna (VB)]]  | Lipškalna      | Lipskaln        | Trikātas        |
 | [[Valsts un privātmuižas, pusmuižas/Vidzemes guberņa/P/Plāņu (VB).md\|Plāņu (VB)]]             | Plāņu          | Planhof         | Trikātas        |
 | [[Valsts un privātmuižas, pusmuižas/Vidzemes guberņa/T/Trikātas (VB).md\|Trikātas (VB)]]       | Trikātas       | Trikaten        | Trikātas        |
 | [[Valsts un privātmuižas, pusmuižas/Vidzemes guberņa/T/Tiepeles (VB).md\|Tiepeles (VB)]]       | Tiepeles       | Witkop          | Trikātas        |

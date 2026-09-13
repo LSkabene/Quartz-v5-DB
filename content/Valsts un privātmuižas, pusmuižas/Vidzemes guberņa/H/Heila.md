@@ -1,21 +1,20 @@
 ---
 publish: true
 aliases:
-  - Haija
-  - Schoongesicht
-  - Schoongezicht
-  - Schöngesicht
-created: 2026-09-09T17:15:22.617Z
-modified: 2026-09-13T07:44:21.474Z
-published: 2026-09-13T07:44:21.474Z
+  - Heiļa
+  - Elziņmuiža
+  - Elziņmuižiņa
+created: 2026-09-13T08:12:32.747Z
+modified: 2026-09-13T08:24:52.146Z
+published: 2026-09-13T08:24:52.146Z
 tags:
-  - veids/privātmuiža
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - veids/privātmuiža
 veids: Privātmuiža
-nosaukums_lv: Heija
-nosaukums_ger: Hay Hoffchen
+nosaukums_lv: Heila
+nosaukums_ger: Heilshof
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
@@ -28,15 +27,14 @@ aprinkis_LV:
 pagasts:
 veids_vesturiski:
 parent_manor:
-  - "[[Švarcmuiža]]"
 half_manors:
 krogi:
 dzirnavas:
 date_created: 2026-04-02
 date_modified: 2026-09-13
-coordinates:
+coordinates: 56.984110, 24.176530
 map_color:
 map_icon:
 ---
 
-Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Agenskalns/HeijaMuiz.htm).
+Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Ciekurkalns/HeilaMuiz.htm).

@@ -4,8 +4,8 @@ aliases:
   - Viesnīca "Jeruzaleme"
   - Šrēdera
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-07T16:16:22.279Z
-published: 2026-09-07T16:16:22.279Z
+modified: 2026-09-13T07:44:44.727Z
+published: 2026-09-13T07:44:44.727Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
@@ -33,7 +33,6 @@ date_modified: 2026-09-07
 coordinates: 56.929900, 24.080840
 map_color: ""
 map_icon: ""
-file_name: Altonas
 ---
 
 Mūsdienās O. Vācieša muzejs O. Vācieša ielā 19. Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Tornakalns/AltonasMuiz.htm).
