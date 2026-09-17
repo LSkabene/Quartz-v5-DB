@@ -1,21 +1,22 @@
 ---
 publish: true
-created: 2026-09-13T08:31:11.329Z
-modified: 2026-09-17T06:51:00.555Z
-published: 2026-09-17T06:51:00.555Z
+aliases:
+  - Katrīnmuiža
+created: 2026-09-17T07:24:04.165Z
+modified: 2026-09-17T07:27:43.722Z
+published: 2026-09-17T07:27:43.722Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
 veids:
-nosaukums_lv: Hāmaņa
-nosaukums_ger:
+nosaukums_lv: Katrīnas
+nosaukums_ger: Katharinenhof
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
-aliases: []
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
 draudzes_novads:
@@ -28,7 +29,9 @@ krogi:
 dzirnavas:
 date_created: 2026-04-02
 date_modified: 2026-09-17
-coordinates: 56.950540, 24.065470
+coordinates: 56.995000, 24.225680
 map_color:
 map_icon:
 ---
+
+Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Jugla/KatrinasMuiz.htm).

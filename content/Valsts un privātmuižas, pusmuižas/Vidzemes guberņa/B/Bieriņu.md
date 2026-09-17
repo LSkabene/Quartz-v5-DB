@@ -4,8 +4,8 @@ aliases:
   - Vecbieriņu
   - Lindenruh
 created: 2026-04-11T07:02:09.885Z
-modified: 2026-08-31T16:45:04.740Z
-published: 2026-08-31T16:45:04.740Z
+modified: 2026-09-17T06:58:54.246Z
+published: 2026-09-17T06:58:54.246Z
 tags:
   - veids/privātmuiža
   - places
@@ -29,7 +29,7 @@ half_manors:
 krogi:
 dzirnavas:
 date_created: 2026-04-11
-date_modified: 2026-08-19
+date_modified: 2026-09-17
 coordinates:
 map_color:
 map_icon:

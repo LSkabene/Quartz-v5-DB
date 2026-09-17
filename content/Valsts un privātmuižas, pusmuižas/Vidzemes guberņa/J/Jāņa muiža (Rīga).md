@@ -1,21 +1,23 @@
 ---
 publish: true
-created: 2026-09-13T08:31:11.329Z
-modified: 2026-09-17T06:51:00.555Z
-published: 2026-09-17T06:51:00.555Z
+aliases:
+  - Jāņa pusmuiža
+  - Johannishof
+created: 2026-09-17T07:06:40.925Z
+modified: 2026-09-17T07:24:04.278Z
+published: 2026-09-17T07:24:04.278Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
 veids:
-nosaukums_lv: Hāmaņa
-nosaukums_ger:
+nosaukums_lv: Jāņa
+nosaukums_ger: Johannenhof
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
-aliases: []
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
 draudzes_novads:
@@ -28,7 +30,9 @@ krogi:
 dzirnavas:
 date_created: 2026-04-02
 date_modified: 2026-09-17
-coordinates: 56.950540, 24.065470
+coordinates: 56.934000, 24.173140
 map_color:
 map_icon:
 ---
+
+Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Darzciems/JanaMuiz.htm).

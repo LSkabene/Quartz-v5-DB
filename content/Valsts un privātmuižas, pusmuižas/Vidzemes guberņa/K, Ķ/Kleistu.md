@@ -1,21 +1,23 @@
 ---
 publish: true
-created: 2026-09-13T08:31:11.329Z
-modified: 2026-09-17T06:51:00.555Z
-published: 2026-09-17T06:51:00.555Z
+aliases:
+  - Kleistu
+  - Kleissenhof
+created: 2026-09-17T07:42:10.752Z
+modified: 2026-09-17T07:51:14.315Z
+published: 2026-09-17T07:51:14.315Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
-veids:
-nosaukums_lv: Hāmaņa
-nosaukums_ger:
+veids: Privātmuiža
+nosaukums_lv: Kleisti
+nosaukums_ger: Kleistenhof
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
-aliases: []
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
 draudzes_novads:
@@ -28,7 +30,9 @@ krogi:
 dzirnavas:
 date_created: 2026-04-02
 date_modified: 2026-09-17
-coordinates: 56.950540, 24.065470
+coordinates: 56.985800, 24.030170
 map_color:
 map_icon:
 ---
+
+Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Kleisti/KleistuMuiz.htm).

@@ -17,3 +17,4 @@ views:
       - tags
     columnSize:
       file.name: 266
+      note.aliases: 316
