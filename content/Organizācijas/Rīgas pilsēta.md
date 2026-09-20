@@ -12,4 +12,5 @@ date_modified: 2026-09-08
 | Muiža                                                                                                            | Nosaukums (LV) | Nosaukums (GER) | Draudzes novads |
 | ---------------------------------------------------------------------------------------------------------------- | -------------- | --------------- | --------------- |
 | [[Valsts un privātmuižas, pusmuižas/Vidzemes guberņa/B/Beberbeķu.md\|Beberbeķu]]                                 | Beberbeķu      | Bebberbek       | Piņku           |
+| [[Valsts un privātmuižas, pusmuižas/Vidzemes guberņa/K, Ķ/Kojusalas.md\|Kojusalas]]                              | Kojusalas      | Manecken Hof    | -              |
 | [[Valsts un privātmuižas, pusmuižas/Vidzemes guberņa/M/Mazjumpravas (Katlakalns).md\|Mazjumpravas (Katlakalns)]] | Mazjumpravas   | Jungfernhof     | Katlakalna      |
