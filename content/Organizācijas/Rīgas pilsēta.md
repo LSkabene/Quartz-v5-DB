@@ -13,4 +13,5 @@ date_modified: 2026-09-08
 | ---------------------------------------------------------------------------------------------------------------- | -------------- | --------------- | --------------- |
 | [[Valsts un privātmuižas, pusmuižas/Vidzemes guberņa/B/Beberbeķu.md\|Beberbeķu]]                                 | Beberbeķu      | Bebberbek       | Piņku           |
 | [[Valsts un privātmuižas, pusmuižas/Vidzemes guberņa/K, Ķ/Kojusalas.md\|Kojusalas]]                              | Kojusalas      | Manecken Hof    | -              |
+| [[Valsts un privātmuižas, pusmuižas/Vidzemes guberņa/L, Ļ/Lucavsalas.md\|Lucavsalas]]                            | Lucavsalas     | Lutzaushof      | -              |
 | [[Valsts un privātmuižas, pusmuižas/Vidzemes guberņa/M/Mazjumpravas (Katlakalns).md\|Mazjumpravas (Katlakalns)]] | Mazjumpravas   | Jungfernhof     | Katlakalna      |
