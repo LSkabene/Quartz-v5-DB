@@ -1,8 +1,10 @@
 ---
 publish: true
+aliases:
+  - Assesor Grafs Hof
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-13T07:46:21.974Z
-published: 2026-09-13T07:46:21.974Z
+modified: 2026-09-20T06:28:07.473Z
+published: 2026-09-20T06:28:07.473Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
@@ -15,7 +17,6 @@ nosaukums_est: ""
 nosaukums_lt: ""
 nosaukums_pol: ""
 nosaukums_swe: ""
-aliases: []
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
 draudzes_novads: ""
@@ -27,7 +28,7 @@ half_manors: ""
 krogi: ""
 dzirnavas: ""
 date_created: 2026-09-07
-date_modified: 2026-09-13
+date_modified: 2026-09-20
 coordinates: 56.987130, 24.018790
 map_color: ""
 map_icon: ""

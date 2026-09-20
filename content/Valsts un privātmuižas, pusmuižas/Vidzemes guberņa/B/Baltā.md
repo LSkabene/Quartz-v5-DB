@@ -6,8 +6,8 @@ aliases:
   - Dāla
   - Haltermanns Höfchen
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-07T16:16:22.600Z
-published: 2026-09-07T16:16:22.600Z
+modified: 2026-09-20T06:30:07.970Z
+published: 2026-09-20T06:30:07.970Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
@@ -22,16 +22,17 @@ nosaukums_pol: ""
 nosaukums_swe: ""
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
-draudzes_novads: ""
+draudzes_novads:
 aprinkis_LV: ""
 pagasts: ""
 veids_vesturiski: ""
-parent_manor: "[[Krēmeru]]"
+parent_manor:
+  - "[[Krēmeru (Voleri)]]"
 half_manors: ""
 krogi: ""
 dzirnavas: ""
 date_created: 2026-09-07
-date_modified: 2026-09-07
+date_modified: 2026-09-20
 coordinates: 56.972740, 24.063520
 map_color: ""
 map_icon: ""
