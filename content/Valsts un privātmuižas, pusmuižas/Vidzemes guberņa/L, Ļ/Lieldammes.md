@@ -1,18 +1,19 @@
 ---
 publish: true
 aliases:
-  - Lofelta
-  - Lovelta
-created: 2026-09-20T06:39:08.974Z
-modified: 2026-09-20T07:14:04.148Z
-published: 2026-09-20T07:14:04.148Z
+  - Lielā Dammes
+  - Lielā Tammas
+  - Lielā Tammasmuiža
+created: 2026-09-20T07:22:08.695Z
+modified: 2026-09-20T07:29:30.057Z
+published: 2026-09-20T07:29:30.057Z
 tags:
-  - Rīga
   - Vidzeme
+  - Rīga
   - teritorija/rīgas-patrimoniālais
 veids:
-nosaukums_lv: Lofelda
-nosaukums_ger: Lohfeldshof
+nosaukums_lv: Lieldammes
+nosaukums_ger: Großdammenhof
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
@@ -30,9 +31,9 @@ krogi:
 dzirnavas:
 date_created: 2026-04-02
 date_modified: 2026-09-20
-coordinates: 57.025510, 24.063990
+coordinates: 56.963490, 24.020040
 map_color:
 map_icon:
 ---
 
-Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Bolderaja/LofeldaMuiz.htm).
+Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Imanta/LDammesMuiz.htm).

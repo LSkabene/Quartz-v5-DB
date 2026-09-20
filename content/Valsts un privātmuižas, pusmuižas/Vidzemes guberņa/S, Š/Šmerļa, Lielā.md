@@ -1,23 +1,21 @@
 ---
 publish: true
-aliases:
-  - Lofelta
-  - Lovelta
-created: 2026-09-20T06:39:08.974Z
-modified: 2026-09-20T07:14:04.148Z
-published: 2026-09-20T07:14:04.148Z
+created: 2026-09-20T07:27:53.865Z
+modified: 2026-09-20T07:30:18.469Z
+published: 2026-09-20T07:30:18.469Z
 tags:
-  - Rīga
-  - Vidzeme
   - teritorija/rīgas-patrimoniālais
+  - Vidzeme
+  - Rīga
 veids:
-nosaukums_lv: Lofelda
-nosaukums_ger: Lohfeldshof
+nosaukums_lv: Lielā Šmerļa
+nosaukums_ger: Gross Schmerl
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
+aliases: []
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
 draudzes_novads:
@@ -30,9 +28,9 @@ krogi:
 dzirnavas:
 date_created: 2026-04-02
 date_modified: 2026-09-20
-coordinates: 57.025510, 24.063990
+coordinates: 56.985240, 24.204400
 map_color:
 map_icon:
 ---
 
-Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Bolderaja/LofeldaMuiz.htm).
+Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Teika/LSmerlaMuiz.htm).
