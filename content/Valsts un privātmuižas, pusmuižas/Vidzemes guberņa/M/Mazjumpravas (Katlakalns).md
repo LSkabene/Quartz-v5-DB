@@ -6,8 +6,8 @@ aliases:
   - Blumenthal
   - Mazā Jumpravmuiža
 created: 2026-09-09T16:57:02.651Z
-modified: 2026-09-21T06:06:02.943Z
-published: 2026-09-21T06:06:02.943Z
+modified: 2026-09-21T09:49:56.956Z
+published: 2026-09-21T09:49:56.956Z
 tags:
   - veids/organizāciju/Rīgas-pilsētas
   - īpašnieki/Rīgas-pilsēta
@@ -30,6 +30,7 @@ pagasts:
 veids_vesturiski:
 parent_manor:
 half_manors:
+  - "[[Čiekurkalna]]"
 krogi:
 dzirnavas:
 coordinates: 56.891916563407264, 24.19853130078674
