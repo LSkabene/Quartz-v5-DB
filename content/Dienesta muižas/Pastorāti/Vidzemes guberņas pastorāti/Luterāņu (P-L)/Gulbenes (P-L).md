@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.888Z
-modified: 2026-08-20T16:43:27.486Z
-published: 2026-08-20T16:43:27.486Z
+modified: 2026-09-21T06:06:03.382Z
+published: 2026-09-21T06:06:03.382Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
@@ -27,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-08-19
 coordinates:
 map_color: steelblue
 map_icon: church

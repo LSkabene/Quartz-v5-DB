@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Annerhof
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-13T07:46:00.762Z
-published: 2026-09-13T07:46:00.762Z
+modified: 2026-09-21T06:06:03.265Z
+published: 2026-09-21T06:06:03.265Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
@@ -27,8 +27,6 @@ parent_manor: "[[Meijera (Mežaparks)]]"
 half_manors: ""
 krogi: ""
 dzirnavas: ""
-date_created: 2026-09-07
-date_modified: 2026-09-13
 coordinates: 57.006030, 24.170420
 map_color: ""
 map_icon: ""

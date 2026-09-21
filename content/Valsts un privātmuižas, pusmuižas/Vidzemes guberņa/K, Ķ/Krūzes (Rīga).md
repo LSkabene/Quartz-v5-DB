@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Krūzmuiža
 created: 2026-09-20T06:25:18.000Z
-modified: 2026-09-20T06:27:46.072Z
-published: 2026-09-20T06:27:46.072Z
+modified: 2026-09-21T06:06:02.991Z
+published: 2026-09-21T06:06:02.991Z
 tags:
   - Vidzeme
   - Rīga
@@ -27,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-09-20
 coordinates: 56.937320, 24.051560
 map_color:
 map_icon:

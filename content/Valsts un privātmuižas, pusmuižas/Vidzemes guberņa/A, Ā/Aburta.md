@@ -6,8 +6,8 @@ aliases:
   - Apburta
   - Liģenes
 created: 2026-04-06T16:32:01.669Z
-modified: 2026-09-20T06:27:47.278Z
-published: 2026-09-20T06:27:47.278Z
+modified: 2026-09-21T06:06:03.294Z
+published: 2026-09-21T06:06:03.294Z
 tags:
   - veids/privātmuiža
   - places
@@ -30,8 +30,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-06
-date_modified: 2026-09-20
 coordinates:
 map_color:
 map_icon:

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.907Z
-modified: 2026-08-31T16:45:11.881Z
-published: 2026-08-31T16:45:11.881Z
+modified: 2026-09-21T06:06:02.899Z
+published: 2026-09-21T06:06:02.899Z
 tags:
   - veids/privātmuiža
   - places
@@ -31,8 +31,6 @@ half_manors:
   - "[[Ķeguma]]"
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-08-20
 coordinates: 56.71983477775278, 24.801639614208117
 map_color: maroon
 map_icon: star

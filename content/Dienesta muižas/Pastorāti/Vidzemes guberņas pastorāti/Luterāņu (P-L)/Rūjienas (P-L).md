@@ -4,8 +4,8 @@ aliases:
   - Ziemeļ-Rūjienas
   - Nord-Rujen
 created: 2026-04-04T11:29:32.192Z
-modified: 2026-08-20T16:43:27.933Z
-published: 2026-08-20T16:43:27.933Z
+modified: 2026-09-21T06:06:03.340Z
+published: 2026-09-21T06:06:03.340Z
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
@@ -29,8 +29,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-04
-date_modified: 2026-08-19
 coordinates:
 map_color: steelblue
 map_icon: church

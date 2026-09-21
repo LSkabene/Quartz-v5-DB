@@ -4,8 +4,8 @@ aliases:
   - Bonawentura
   - Bonaventuras
 created: 2026-04-11T06:19:19.521Z
-modified: 2026-09-07T16:16:22.589Z
-published: 2026-09-07T16:16:22.589Z
+modified: 2026-09-21T06:06:03.220Z
+published: 2026-09-21T06:06:03.220Z
 tags:
   - veids/privātmuiža
   - Vidzeme
@@ -27,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-11
-date_modified: 2026-09-07
 coordinates: 56.994990, 24.265240
 map_color:
 map_icon:

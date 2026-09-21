@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Elmju
 created: 2026-07-23T18:12:54.356Z
-modified: 2026-08-31T16:45:10.634Z
-published: 2026-08-31T16:45:10.634Z
+modified: 2026-09-21T06:06:02.918Z
+published: 2026-09-21T06:06:02.918Z
 veids: Privātmuiža
 nosaukums_lv: Ilbrates
 nosaukums_ger: Adamshof
@@ -24,8 +24,6 @@ half_manors:
 krogi:
 dzirnavas:
 tags: []
-date_created: 2026-07-23
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

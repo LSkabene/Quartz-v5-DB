@@ -7,8 +7,8 @@ aliases:
   - Gothanshof
   - Drelings Hof
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-07T16:16:22.950Z
-published: 2026-09-07T16:16:22.950Z
+modified: 2026-09-21T06:06:03.040Z
+published: 2026-09-21T06:06:03.040Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
@@ -31,8 +31,6 @@ parent_manor: ""
 half_manors: ""
 krogi: ""
 dzirnavas: ""
-date_created: 2026-09-07
-date_modified: 2026-09-07
 coordinates: 56.981800, 24.051580
 map_color: ""
 map_icon: ""

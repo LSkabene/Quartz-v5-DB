@@ -4,8 +4,8 @@ aliases:
   - Lēdurgas
   - Turaidas
 created: 2026-04-02T17:16:57.094Z
-modified: 2026-08-20T16:43:27.739Z
-published: 2026-08-20T16:43:27.739Z
+modified: 2026-09-21T06:06:03.364Z
+published: 2026-09-21T06:06:03.364Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
@@ -29,8 +29,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-08-19
 coordinates:
 map_color: steelblue
 map_icon: church

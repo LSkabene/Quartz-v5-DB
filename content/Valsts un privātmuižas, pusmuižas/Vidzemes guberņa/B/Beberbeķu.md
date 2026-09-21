@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-08T04:34:28.568Z
-modified: 2026-09-08T04:47:25.768Z
-published: 2026-09-08T04:47:25.768Z
+modified: 2026-09-21T06:06:03.182Z
+published: 2026-09-21T06:06:03.182Z
 tags:
   - īpašnieki/Rīgas-pilsēta
   - Vidzeme
@@ -26,8 +26,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-09-08
 coordinates:
 map_color:
 map_icon:

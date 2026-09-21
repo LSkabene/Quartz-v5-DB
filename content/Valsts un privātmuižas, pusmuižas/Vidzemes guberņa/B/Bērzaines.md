@@ -4,8 +4,8 @@ aliases:
   - Birkenmuiža
   - Birkenruhe
 created: 2026-04-11T06:53:22.532Z
-modified: 2026-08-31T16:45:06.646Z
-published: 2026-08-31T16:45:06.646Z
+modified: 2026-09-21T06:06:03.124Z
+published: 2026-09-21T06:06:03.124Z
 tags:
   - veids/privātmuiža
   - places
@@ -28,8 +28,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-11
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

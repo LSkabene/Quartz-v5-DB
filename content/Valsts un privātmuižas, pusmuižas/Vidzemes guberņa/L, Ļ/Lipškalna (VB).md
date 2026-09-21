@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Lipskalna
 created: 2026-04-02T15:39:49.896Z
-modified: 2026-09-08T04:55:56.272Z
-published: 2026-09-08T04:55:56.272Z
+modified: 2026-09-21T06:06:02.914Z
+published: 2026-09-21T06:06:02.914Z
 tags:
   - veids/organizāciju
   - veids/organizāciju/vidzemes_bruņniecība
@@ -29,8 +29,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-09-08
 coordinates:
 map_color:
 map_icon:

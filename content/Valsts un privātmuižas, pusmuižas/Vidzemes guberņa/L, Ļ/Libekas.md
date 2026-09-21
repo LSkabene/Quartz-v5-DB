@@ -4,8 +4,8 @@ aliases:
   - Lībiešu salas muiža
   - Langes
 created: 2026-09-20T07:12:24.951Z
-modified: 2026-09-20T07:22:08.778Z
-published: 2026-09-20T07:22:08.778Z
+modified: 2026-09-21T06:06:02.915Z
+published: 2026-09-21T06:06:02.915Z
 tags:
   - īpašnieki/Rīgas-pilsēta
   - veids/privātmuiža
@@ -30,8 +30,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-09-20
 coordinates: 56.928980, 24.151870
 map_color:
 map_icon:

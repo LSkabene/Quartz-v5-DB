@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-09T17:04:46.045Z
-modified: 2026-09-09T17:06:48.209Z
-published: 2026-09-09T17:06:48.209Z
+modified: 2026-09-21T06:05:43.546Z
+published: 2026-09-21T06:05:43.546Z
 veids:
 nosaukums_lv: Hapaka
 nosaukums_ger: Happackshof
@@ -23,8 +23,6 @@ half_manors:
 krogi:
 dzirnavas:
 tags: []
-date_created: 2026-04-02
-date_modified: 2026-09-09
 coordinates: 57.014040, 24.067170
 map_color:
 map_icon:

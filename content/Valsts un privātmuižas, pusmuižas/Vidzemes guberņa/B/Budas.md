@@ -5,8 +5,8 @@ aliases:
   - Heinrihsona
   - Hinrihsona
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-07T16:16:22.793Z
-published: 2026-09-07T16:16:22.793Z
+modified: 2026-09-21T06:06:03.137Z
+published: 2026-09-21T06:06:03.137Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
@@ -29,8 +29,6 @@ parent_manor: "[[Bieriņu]]"
 half_manors: ""
 krogi: ""
 dzirnavas: ""
-date_created: 2026-09-07
-date_modified: 2026-09-07
 coordinates: 56.915860, 24.055460
 map_color: ""
 map_icon: ""

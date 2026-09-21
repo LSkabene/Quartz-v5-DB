@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Herzogenhof
 created: 2026-08-20T16:09:06.194Z
-modified: 2026-09-02T16:57:36.406Z
-published: 2026-09-02T16:57:36.406Z
+modified: 2026-09-21T06:06:02.653Z
+published: 2026-09-21T06:06:02.653Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
@@ -26,8 +26,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-08-25
 coordinates:
 map_color:
 map_icon:

@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Lielsalacas
 created: 2026-04-02T17:23:57.648Z
-modified: 2026-08-20T16:43:27.948Z
-published: 2026-08-20T16:43:27.948Z
+modified: 2026-09-21T06:06:03.339Z
+published: 2026-09-21T06:06:03.339Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
@@ -28,8 +28,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-08-19
 coordinates:
 map_color: steelblue
 map_icon: church

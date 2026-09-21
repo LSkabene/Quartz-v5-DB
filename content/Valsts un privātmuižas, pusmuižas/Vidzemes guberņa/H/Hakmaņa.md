@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-09T16:54:52.920Z
-modified: 2026-09-09T16:58:35.275Z
-published: 2026-09-09T16:58:35.275Z
+modified: 2026-09-21T06:06:02.937Z
+published: 2026-09-21T06:06:02.937Z
 tags:
   - veids/privātmuiža
   - teritorija/rīgas-patrimoniālais
@@ -29,8 +29,6 @@ half_manors:
 krogi:
   - "[[Rumpes krogs]]"
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-09-09
 coordinates:
 map_color:
 map_icon:

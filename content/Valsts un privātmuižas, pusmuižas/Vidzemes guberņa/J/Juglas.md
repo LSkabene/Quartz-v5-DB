@@ -4,8 +4,8 @@ aliases:
   - Brūnsa
   - Baumhof
 created: 2026-09-17T07:03:17.429Z
-modified: 2026-09-17T07:05:19.896Z
-published: 2026-09-17T07:05:19.896Z
+modified: 2026-09-21T06:06:03.023Z
+published: 2026-09-21T06:06:03.023Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
@@ -28,8 +28,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-09-17
 coordinates: 56.962880, 24.300030
 map_color:
 map_icon:

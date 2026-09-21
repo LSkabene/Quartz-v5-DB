@@ -4,8 +4,8 @@ aliases:
   - Kremers Hof
   - Krēmera
 created: 2026-09-20T06:23:49.585Z
-modified: 2026-09-20T06:25:18.091Z
-published: 2026-09-20T06:25:18.091Z
+modified: 2026-09-21T06:06:02.993Z
+published: 2026-09-21T06:06:02.993Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
@@ -28,8 +28,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-09-20
 coordinates: 57.002530, 24.086900
 map_color:
 map_icon:

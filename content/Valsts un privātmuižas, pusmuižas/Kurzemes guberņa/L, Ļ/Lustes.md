@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Frīdrihslustes
 created: 2026-08-20T16:09:06.784Z
-modified: 2026-09-02T17:46:54.534Z
-published: 2026-09-02T17:46:54.534Z
+modified: 2026-09-21T06:06:02.619Z
+published: 2026-09-21T06:06:02.619Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
@@ -26,8 +26,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-09-02
 coordinates:
 map_color:
 map_icon:

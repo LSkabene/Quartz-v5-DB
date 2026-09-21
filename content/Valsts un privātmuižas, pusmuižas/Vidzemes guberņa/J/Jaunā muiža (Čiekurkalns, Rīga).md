@@ -4,8 +4,8 @@ aliases:
   - Bulmerinka
   - Bulmerinckshof
 created: 2026-09-17T07:00:45.205Z
-modified: 2026-09-20T07:27:53.983Z
-published: 2026-09-20T07:27:53.983Z
+modified: 2026-09-21T06:06:03.024Z
+published: 2026-09-21T06:06:03.024Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
@@ -29,8 +29,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-09-20
 coordinates: 56.996720, 24.182310
 map_color:
 map_icon:

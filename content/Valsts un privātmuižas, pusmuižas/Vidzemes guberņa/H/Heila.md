@@ -5,8 +5,8 @@ aliases:
   - Elziņmuiža
   - Elziņmuižiņa
 created: 2026-09-13T08:12:32.747Z
-modified: 2026-09-13T08:24:52.146Z
-published: 2026-09-13T08:24:52.146Z
+modified: 2026-09-21T06:06:02.931Z
+published: 2026-09-21T06:06:02.931Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
@@ -30,8 +30,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-09-13
 coordinates: 56.984110, 24.176530
 map_color:
 map_icon:

@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Rūjienas-Dienvid
 created: 2026-04-02T15:39:49.883Z
-modified: 2026-08-20T16:43:27.391Z
-published: 2026-08-20T16:43:27.391Z
+modified: 2026-09-21T06:06:03.394Z
+published: 2026-09-21T06:06:03.394Z
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
@@ -28,8 +28,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-08-19
 coordinates:
 map_color: steelblue
 map_icon: church

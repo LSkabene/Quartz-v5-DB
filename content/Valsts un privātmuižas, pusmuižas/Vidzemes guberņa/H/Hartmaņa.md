@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Fengeru
 created: 2026-09-09T17:07:11.366Z
-modified: 2026-09-09T17:13:17.546Z
-published: 2026-09-09T17:13:17.546Z
+modified: 2026-09-21T06:06:02.933Z
+published: 2026-09-21T06:06:02.933Z
 tags:
   - veids/privātmuiža
   - Rīga
@@ -28,8 +28,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-09-09
 coordinates: 56.944000, 24.070520
 map_color:
 map_icon:

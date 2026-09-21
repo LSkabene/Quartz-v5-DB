@@ -4,8 +4,8 @@ aliases:
   - Kleistu
   - Kleissenhof
 created: 2026-09-17T07:42:10.752Z
-modified: 2026-09-17T07:51:14.315Z
-published: 2026-09-17T07:51:14.315Z
+modified: 2026-09-21T06:06:03.007Z
+published: 2026-09-21T06:06:03.007Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
@@ -28,8 +28,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-09-17
 coordinates: 56.985800, 24.030170
 map_color:
 map_icon:

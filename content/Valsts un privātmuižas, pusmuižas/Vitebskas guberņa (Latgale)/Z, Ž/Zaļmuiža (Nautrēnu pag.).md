@@ -4,8 +4,8 @@ aliases:
   - Togenen
   - Kokovsčiznas
 created: 2026-08-01T15:17:27.420Z
-modified: 2026-08-31T16:45:22.308Z
-published: 2026-08-31T16:45:22.308Z
+modified: 2026-09-21T06:06:02.697Z
+published: 2026-09-21T06:06:02.697Z
 tags:
   - Latgale
 veids:
@@ -26,8 +26,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-01
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

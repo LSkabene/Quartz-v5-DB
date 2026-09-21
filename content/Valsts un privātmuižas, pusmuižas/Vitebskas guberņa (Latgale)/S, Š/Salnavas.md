@@ -4,8 +4,8 @@ aliases:
   - Saļņevas
   - Cecinas
 created: 2026-07-30T17:46:12.886Z
-modified: 2026-08-31T16:45:20.416Z
-published: 2026-08-31T16:45:20.416Z
+modified: 2026-09-21T06:06:02.739Z
+published: 2026-09-21T06:06:02.739Z
 tags:
   - veids/privātmuiža
   - Latgale
@@ -28,8 +28,6 @@ half_manors:
   - "[[Malnavas]]"
 krogi:
 dzirnavas:
-date_created: 2026-07-30
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

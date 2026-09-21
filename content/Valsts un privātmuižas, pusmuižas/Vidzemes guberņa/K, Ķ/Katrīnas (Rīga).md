@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Katrīnmuiža
 created: 2026-09-17T07:24:04.165Z
-modified: 2026-09-17T07:27:43.722Z
-published: 2026-09-17T07:27:43.722Z
+modified: 2026-09-21T06:06:02.997Z
+published: 2026-09-21T06:06:02.997Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
@@ -27,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-09-17
 coordinates: 56.995000, 24.225680
 map_color:
 map_icon:

@@ -6,10 +6,8 @@ aliases:
   - Lischkawitsch
   - Лишевич
 created: 2026-09-02T16:41:48.188Z
-modified: 2026-09-02T17:46:36.003Z
-published: 2026-09-02T17:46:36.003Z
-date_created: 2026-08-20
-date_modified: 2026-09-02
+modified: 2026-09-21T06:06:02.569Z
+published: 2026-09-21T06:06:02.569Z
 ---
 
 | Persona                                                                         | Muižas                                                                         | Guberņa  |

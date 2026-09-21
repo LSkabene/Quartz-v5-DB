@@ -5,8 +5,8 @@ aliases:
   - Hāna
   - Gaiļa
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-07T16:16:23.058Z
-published: 2026-09-07T16:16:23.058Z
+modified: 2026-09-21T06:06:02.991Z
+published: 2026-09-21T06:06:02.991Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
@@ -29,8 +29,6 @@ parent_manor: ""
 half_manors: ""
 krogi: ""
 dzirnavas: ""
-date_created: 2026-09-07
-date_modified: 2026-09-07
 coordinates: 56.966640, 24.244420
 map_color: ""
 map_icon: ""

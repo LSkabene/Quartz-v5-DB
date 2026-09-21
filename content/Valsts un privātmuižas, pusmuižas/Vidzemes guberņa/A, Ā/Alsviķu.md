@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-06T14:37:48.751Z
-modified: 2026-08-31T16:45:03.139Z
-published: 2026-08-31T16:45:03.139Z
+modified: 2026-09-21T06:06:03.282Z
+published: 2026-09-21T06:06:03.282Z
 tags:
   - places
   - Vidzeme
@@ -25,8 +25,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-06
-date_modified: 2026-08-19
 coordinates:
 map_color: maroon
 map_icon: star

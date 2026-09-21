@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T18:12:54.872Z
-modified: 2026-08-19T16:06:33.239Z
-published: 2026-08-19T16:06:33.239Z
+modified: 2026-09-21T06:05:43.763Z
+published: 2026-09-21T06:05:43.763Z
 veids: Privātmuiža
 nosaukums_lv: Jaunvāles
 nosaukums_ger: Neu-Sackenhof
@@ -23,8 +23,6 @@ half_manors:
 krogi:
 dzirnavas:
 tags: []
-date_created: 2026-07-23
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Araišu
 created: 2026-04-02T15:39:49.879Z
-modified: 2026-08-20T16:43:28.200Z
-published: 2026-08-20T16:43:28.200Z
+modified: 2026-09-21T06:06:03.313Z
+published: 2026-09-21T06:06:03.313Z
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
@@ -28,8 +28,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-08-19
 coordinates:
 map_color: steelblue
 map_icon: church

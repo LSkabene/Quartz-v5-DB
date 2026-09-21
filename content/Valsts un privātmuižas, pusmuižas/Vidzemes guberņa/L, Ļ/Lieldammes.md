@@ -5,8 +5,8 @@ aliases:
   - Lielā Tammas
   - Lielā Tammasmuiža
 created: 2026-09-20T07:22:08.695Z
-modified: 2026-09-20T07:29:30.057Z
-published: 2026-09-20T07:29:30.057Z
+modified: 2026-09-21T06:06:02.915Z
+published: 2026-09-21T06:06:02.915Z
 tags:
   - Vidzeme
   - Rīga
@@ -29,8 +29,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-09-20
 coordinates: 56.963490, 24.020040
 map_color:
 map_icon:

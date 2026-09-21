@@ -5,8 +5,8 @@ aliases:
   - Garanska
   - Garansku
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-07T16:16:23.119Z
-published: 2026-09-07T16:16:23.119Z
+modified: 2026-09-21T06:06:02.961Z
+published: 2026-09-21T06:06:02.961Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
@@ -29,8 +29,6 @@ parent_manor: ""
 half_manors: ""
 krogi: ""
 dzirnavas: ""
-date_created: 2026-09-07
-date_modified: 2026-09-07
 coordinates: 56.976680, 24.266460
 map_color: ""
 map_icon: ""

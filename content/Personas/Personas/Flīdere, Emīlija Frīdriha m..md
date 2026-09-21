@@ -4,11 +4,9 @@ aliases:
   - Kapa
   - Капъ
 created: 2026-08-25T16:30:43.463Z
-modified: 2026-09-02T17:46:36.888Z
-published: 2026-09-02T17:46:36.888Z
+modified: 2026-09-21T06:06:02.539Z
+published: 2026-09-21T06:06:02.539Z
 tags: []
-date_created: 2026-08-20
-date_modified: 2026-09-02
 ---
 
 | Muižas                                                                    | Guberņa  |

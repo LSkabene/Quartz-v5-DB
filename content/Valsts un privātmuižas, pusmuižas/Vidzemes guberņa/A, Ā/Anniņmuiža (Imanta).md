@@ -6,8 +6,8 @@ aliases:
   - Meinershoff
   - Meyners Hof
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-20T06:27:54.324Z
-published: 2026-09-20T06:27:54.324Z
+modified: 2026-09-21T06:06:03.270Z
+published: 2026-09-21T06:06:03.270Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
@@ -30,8 +30,6 @@ parent_manor: ""
 half_manors: "[[Anniņmuižas meža pils (Imanta)]]"
 krogi: ""
 dzirnavas: ""
-date_created: 2026-09-07
-date_modified: 2026-09-20
 coordinates: 56.951980, 24.011600
 map_color: ""
 map_icon: ""

@@ -4,8 +4,8 @@ aliases:
   - Viesnīca "Jeruzaleme"
   - Šrēdera
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-13T07:44:44.727Z
-published: 2026-09-13T07:44:44.727Z
+modified: 2026-09-21T06:06:03.270Z
+published: 2026-09-21T06:06:03.270Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
@@ -28,8 +28,6 @@ parent_manor: "[[Vites]]"
 half_manors: ""
 krogi: ""
 dzirnavas: ""
-date_created: 2026-09-07
-date_modified: 2026-09-07
 coordinates: 56.929900, 24.080840
 map_color: ""
 map_icon: ""

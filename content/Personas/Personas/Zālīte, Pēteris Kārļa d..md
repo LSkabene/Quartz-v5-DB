@@ -1,10 +1,8 @@
 ---
 publish: true
 created: 2026-08-25T16:18:08.063Z
-modified: 2026-09-02T16:30:04.522Z
-published: 2026-09-02T16:30:04.522Z
-date_created: 2026-08-20
-date_modified: 2026-09-02
+modified: 2026-09-21T06:05:41.123Z
+published: 2026-09-21T06:05:41.123Z
 ---
 
 Pēteris Zālīte (1864–1939) – publicists, filozofs. Latviešu Nacionālās Padomes loceklis (1917), Latvijas Universitātes filozofijas profesors (1921–1934), Saeimas deputāts (1930–1934). [Vairāk, skat. literatura.lv](https://www.literatura.lv/personas/peteris-zalite)

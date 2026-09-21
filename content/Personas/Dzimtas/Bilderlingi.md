@@ -3,10 +3,8 @@ publish: true
 aliases:
   - Bildringi
 created: 2026-09-02T16:18:43.995Z
-modified: 2026-09-02T17:46:35.975Z
-published: 2026-09-02T17:46:35.975Z
-date_created: 2026-08-20
-date_modified: 2026-09-02
+modified: 2026-09-21T06:06:02.569Z
+published: 2026-09-21T06:06:02.569Z
 ---
 
 | Persona                                                                                           | Muižas                                                                         | Guberņa  |

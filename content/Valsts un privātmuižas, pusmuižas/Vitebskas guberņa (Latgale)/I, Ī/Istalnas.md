@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Istalsnas
 created: 2026-07-30T17:29:50.005Z
-modified: 2026-08-31T16:45:15.613Z
-published: 2026-08-31T16:45:15.613Z
+modified: 2026-09-21T06:06:02.862Z
+published: 2026-09-21T06:06:02.862Z
 tags:
   - Latgale
 veids:
@@ -25,8 +25,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-30
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

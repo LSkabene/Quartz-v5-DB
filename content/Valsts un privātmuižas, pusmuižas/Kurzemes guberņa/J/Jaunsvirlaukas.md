@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.046Z
-modified: 2026-09-02T17:46:53.316Z
-published: 2026-09-02T17:46:53.316Z
+modified: 2026-09-21T06:06:02.644Z
+published: 2026-09-21T06:06:02.644Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
@@ -27,8 +27,6 @@ half_manors:
   - "[[Katrīnas (Garozas pag.)]]"
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-09-02
 coordinates:
 map_color:
 map_icon:

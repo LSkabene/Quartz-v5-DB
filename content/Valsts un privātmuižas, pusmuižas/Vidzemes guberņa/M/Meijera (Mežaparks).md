@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Meiershof
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-07T16:16:54.595Z
-published: 2026-09-07T16:16:54.595Z
+modified: 2026-09-21T06:06:02.941Z
+published: 2026-09-21T06:06:02.941Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
@@ -27,8 +27,6 @@ parent_manor: ""
 half_manors: "[[Annasmuiža (Mežaparks)]]"
 krogi: ""
 dzirnavas: ""
-date_created: 2026-09-07
-date_modified: 2026-09-07
 coordinates: 57.007020, 24.168950
 map_color: ""
 map_icon: ""

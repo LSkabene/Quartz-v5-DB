@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T18:12:54.259Z
-modified: 2026-08-19T16:06:33.320Z
-published: 2026-08-19T16:06:33.320Z
+modified: 2026-09-21T06:05:43.595Z
+published: 2026-09-21T06:05:43.595Z
 veids: Privātmuiža
 nosaukums_lv: Idus
 nosaukums_ger: Idwen
@@ -23,8 +23,6 @@ half_manors:
 krogi:
 dzirnavas:
 tags: []
-date_created: 2026-07-23
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

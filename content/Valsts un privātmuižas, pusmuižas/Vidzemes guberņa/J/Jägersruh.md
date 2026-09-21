@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-17T07:05:19.793Z
-modified: 2026-09-17T07:06:41.017Z
-published: 2026-09-17T07:06:41.017Z
+modified: 2026-09-21T06:06:03.017Z
+published: 2026-09-21T06:06:03.017Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
@@ -26,8 +26,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-09-17
 coordinates: 56.929400, 24.016600
 map_color:
 map_icon:

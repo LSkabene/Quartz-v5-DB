@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Lucavas
 created: 2026-09-20T07:04:34.769Z
-modified: 2026-09-20T07:07:11.006Z
-published: 2026-09-20T07:07:11.006Z
+modified: 2026-09-21T06:06:02.909Z
+published: 2026-09-21T06:06:02.909Z
 tags:
   - īpašnieki/Rīgas-pilsēta
   - veids/privātmuiža
@@ -29,8 +29,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-09-20
 coordinates: 56.924650, 24.126110
 map_color:
 map_icon:

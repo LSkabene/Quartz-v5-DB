@@ -1,12 +1,10 @@
 ---
 publish: true
 created: 2026-08-25T17:01:53.796Z
-modified: 2026-09-07T13:30:25.178Z
-published: 2026-09-07T13:30:25.178Z
+modified: 2026-09-21T06:06:02.528Z
+published: 2026-09-21T06:06:02.528Z
 tags:
   - kārta/zemnieki
-date_created: 2026-08-20
-date_modified: 2026-09-07
 ---
 
 | Muižas                                                                        | Guberņa  |

@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Borkavas
 created: 2026-07-17T15:56:34.032Z
-modified: 2026-08-31T16:45:13.715Z
-published: 2026-08-31T16:45:13.715Z
+modified: 2026-09-21T06:06:02.816Z
+published: 2026-09-21T06:06:02.816Z
 tags:
   - Latgale
 veids:
@@ -25,8 +25,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-17
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

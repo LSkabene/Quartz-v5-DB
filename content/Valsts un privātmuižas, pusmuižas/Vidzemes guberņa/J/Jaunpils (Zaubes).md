@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T18:12:54.784Z
-modified: 2026-08-19T16:06:33.255Z
-published: 2026-08-19T16:06:33.255Z
+modified: 2026-09-21T06:05:43.747Z
+published: 2026-09-21T06:05:43.747Z
 veids: Privātmuiža
 nosaukums_lv: Jaunpils
 nosaukums_ger: Jürgensburg
@@ -23,8 +23,6 @@ half_manors:
 krogi:
 dzirnavas:
 tags: []
-date_created: 2026-07-23
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

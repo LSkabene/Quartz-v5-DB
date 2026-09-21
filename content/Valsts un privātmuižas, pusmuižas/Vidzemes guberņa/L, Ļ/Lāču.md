@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Morgenstern
 created: 2026-09-20T07:08:39.373Z
-modified: 2026-09-20T07:10:30.103Z
-published: 2026-09-20T07:10:30.103Z
+modified: 2026-09-21T06:06:02.901Z
+published: 2026-09-21T06:06:02.901Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
@@ -27,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-09-20
 coordinates: 56.945320, 24.170790
 map_color:
 map_icon:

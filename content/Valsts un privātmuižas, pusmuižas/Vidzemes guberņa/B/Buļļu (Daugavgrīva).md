@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-11T07:43:45.507Z
-modified: 2026-09-08T05:00:19.097Z
-published: 2026-09-08T05:00:19.097Z
+modified: 2026-09-21T06:06:03.133Z
+published: 2026-09-21T06:06:03.133Z
 tags:
   - places
   - veids/privātmuiža
@@ -28,8 +28,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-11
-date_modified: 2026-09-08
 coordinates:
 map_color:
 map_icon:

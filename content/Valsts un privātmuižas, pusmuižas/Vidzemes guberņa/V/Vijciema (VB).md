@@ -5,8 +5,8 @@ aliases:
   - Wielzenhof
   - Wiezenhof
 created: 2026-04-02T15:39:49.899Z
-modified: 2026-09-08T04:55:57.539Z
-published: 2026-09-08T04:55:57.539Z
+modified: 2026-09-21T06:06:02.894Z
+published: 2026-09-21T06:06:02.894Z
 tags:
   - veids/organizāciju/vidzemes_bruņniecība
   - veids/organizāciju
@@ -31,8 +31,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-09-08
 coordinates:
 map_color:
 map_icon:

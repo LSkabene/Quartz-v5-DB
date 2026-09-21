@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Adama
 created: 2026-04-02T15:39:49.902Z
-modified: 2026-09-20T06:28:11.575Z
-published: 2026-09-20T06:28:11.575Z
+modified: 2026-09-21T06:06:03.237Z
+published: 2026-09-21T06:06:03.237Z
 tags:
   - veids/privātmuiža
   - places
@@ -27,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-09-20
 coordinates:
 map_color: maroon
 map_icon: star

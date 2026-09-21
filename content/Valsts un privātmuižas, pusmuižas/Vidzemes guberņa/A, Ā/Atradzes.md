@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Atradsen
 created: 2026-04-06T16:44:00.872Z
-modified: 2026-08-31T16:45:03.510Z
-published: 2026-08-31T16:45:03.510Z
+modified: 2026-09-21T06:06:03.259Z
+published: 2026-09-21T06:06:03.259Z
 tags:
   - veids/privātmuiža
   - places
@@ -27,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-06
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

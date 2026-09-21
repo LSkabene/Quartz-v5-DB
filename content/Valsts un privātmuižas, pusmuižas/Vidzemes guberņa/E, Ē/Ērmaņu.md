@@ -4,8 +4,8 @@ aliases:
   - Ērmaņa
   - Knöringsfeld
 created: 2026-07-18T12:56:53.022Z
-modified: 2026-08-31T16:45:08.997Z
-published: 2026-08-31T16:45:08.997Z
+modified: 2026-09-21T06:06:03.037Z
+published: 2026-09-21T06:06:03.037Z
 tags:
   - places
   - veids/privātmuiža
@@ -27,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-18
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

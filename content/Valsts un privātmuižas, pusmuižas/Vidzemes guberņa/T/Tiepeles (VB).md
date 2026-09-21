@@ -5,8 +5,8 @@ aliases:
   - Witkopshof
   - Tepelshof
 created: 2026-04-02T15:39:49.898Z
-modified: 2026-09-08T04:55:56.518Z
-published: 2026-09-08T04:55:56.518Z
+modified: 2026-09-21T06:06:02.897Z
+published: 2026-09-21T06:06:02.897Z
 tags:
   - veids/organizāciju
   - veids/organizāciju/vidzemes_bruņniecība
@@ -31,8 +31,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-09-08
 coordinates:
 map_color:
 map_icon:

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-06-11T16:38:40.817Z
-modified: 2026-08-31T16:45:12.094Z
-published: 2026-08-31T16:45:12.094Z
+modified: 2026-09-21T06:06:02.891Z
+published: 2026-09-21T06:06:02.891Z
 tags:
   - Vidzeme
 veids:
@@ -24,8 +24,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-06-11
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

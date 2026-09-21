@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T18:12:54.389Z
-modified: 2026-08-19T16:06:33.311Z
-published: 2026-08-19T16:06:33.311Z
+modified: 2026-09-21T06:05:43.628Z
+published: 2026-09-21T06:05:43.628Z
 veids: Privātmuiža
 nosaukums_lv: Inčukalna
 nosaukums_ger: Hinzenberg
@@ -23,8 +23,6 @@ half_manors:
 krogi:
 dzirnavas:
 tags: []
-date_created: 2026-07-23
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

@@ -4,8 +4,8 @@ aliases:
   - Appeltenes
   - Apelthen
 created: 2026-04-06T16:36:30.434Z
-modified: 2026-08-31T16:45:03.353Z
-published: 2026-08-31T16:45:03.353Z
+modified: 2026-09-21T06:06:03.270Z
+published: 2026-09-21T06:06:03.270Z
 tags:
   - veids/privātmuiža
   - places
@@ -28,8 +28,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-06
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

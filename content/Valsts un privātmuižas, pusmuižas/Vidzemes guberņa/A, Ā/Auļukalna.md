@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Aulkalne
 created: 2026-04-06T16:47:49.336Z
-modified: 2026-08-31T16:45:03.796Z
-published: 2026-08-31T16:45:03.796Z
+modified: 2026-09-21T06:06:03.247Z
+published: 2026-09-21T06:06:03.247Z
 tags:
   - veids/privātmuiža
   - places
@@ -27,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-06
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

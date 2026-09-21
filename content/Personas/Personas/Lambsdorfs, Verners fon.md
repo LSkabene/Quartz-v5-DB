@@ -1,14 +1,12 @@
 ---
 publish: true
 created: 2026-08-25T16:53:00.715Z
-modified: 2026-09-02T17:46:37.951Z
-published: 2026-09-02T17:46:37.951Z
+modified: 2026-09-21T06:06:02.536Z
+published: 2026-09-21T06:06:02.536Z
 tags:
   - kārta/muižnieki
   - dzimta/Lambsdorfi
   - tituls/grāfs
-date_created: 2026-08-20
-date_modified: 2026-09-02
 ---
 
 | Muižas                                                                         | Guberņa  |

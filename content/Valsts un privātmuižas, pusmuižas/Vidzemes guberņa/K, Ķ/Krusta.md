@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Krustenhofa
 created: 2026-09-20T06:09:09.045Z
-modified: 2026-09-20T06:11:28.536Z
-published: 2026-09-20T06:11:28.536Z
+modified: 2026-09-21T06:06:02.995Z
+published: 2026-09-21T06:06:02.995Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
@@ -27,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-09-20
 coordinates: 56.900090, 24.199330
 map_color:
 map_icon:

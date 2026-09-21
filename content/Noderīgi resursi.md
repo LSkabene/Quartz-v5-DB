@@ -1,10 +1,8 @@
 ---
 publish: true
 created: 2026-07-17T16:02:24.257Z
-modified: 2026-09-02T08:49:25.716Z
-published: 2026-09-02T08:49:25.716Z
-date_created: 2026-07-17
-date_modified: 2026-09-02
+modified: 2026-09-21T06:05:40.080Z
+published: 2026-09-21T06:05:40.080Z
 ---
 
 https://raduraksti.arhivi.lv/

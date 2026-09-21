@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-13T08:26:43.759Z
-modified: 2026-09-13T08:29:32.132Z
-published: 2026-09-13T08:29:32.132Z
+modified: 2026-09-21T06:06:02.927Z
+published: 2026-09-21T06:06:02.927Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
@@ -27,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-09-13
 coordinates: 56.925770, 24.092330
 map_color:
 map_icon:

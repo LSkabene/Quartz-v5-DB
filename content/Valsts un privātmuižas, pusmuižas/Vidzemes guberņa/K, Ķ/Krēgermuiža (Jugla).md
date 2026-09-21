@@ -5,8 +5,8 @@ aliases:
   - Baltā māja
   - Kregeru muiža
 created: 2026-09-20T06:13:59.483Z
-modified: 2026-09-20T06:21:44.944Z
-published: 2026-09-20T06:21:44.944Z
+modified: 2026-09-21T06:06:03.005Z
+published: 2026-09-21T06:06:03.005Z
 tags:
   - veids/privātmuiža
   - teritorija/rīgas-patrimoniālais
@@ -31,8 +31,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-09-20
 coordinates: 56.983440, 24.257820
 map_color:
 map_icon:

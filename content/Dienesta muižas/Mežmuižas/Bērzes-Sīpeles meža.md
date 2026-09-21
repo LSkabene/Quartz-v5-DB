@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.962Z
-modified: 2026-08-31T16:43:51.057Z
-published: 2026-08-31T16:43:51.057Z
+modified: 2026-09-21T06:06:03.300Z
+published: 2026-09-21T06:06:03.300Z
 tags:
   - veids/mežmuiža
 veids: Dienesta
@@ -24,8 +24,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-08-20
 coordinates:
 map_color:
 map_icon:

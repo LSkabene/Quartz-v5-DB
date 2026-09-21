@@ -1,10 +1,8 @@
 ---
 publish: true
 created: 2026-08-25T17:21:55.517Z
-modified: 2026-09-02T16:31:40.482Z
-published: 2026-09-02T16:31:40.482Z
-date_created: 2026-08-20
-date_modified: 2026-09-02
+modified: 2026-09-21T06:05:40.170Z
+published: 2026-09-21T06:05:40.170Z
 ---
 
 | Persona                                                                                     | Muižas                                                                            | Guberņa  |

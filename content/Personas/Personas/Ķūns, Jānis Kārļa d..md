@@ -3,12 +3,10 @@ publish: true
 aliases:
   - Кюнъ
 created: 2026-08-20T17:34:14.497Z
-modified: 2026-09-02T17:46:39.140Z
-published: 2026-09-02T17:46:39.140Z
+modified: 2026-09-21T06:06:02.502Z
+published: 2026-09-21T06:06:02.502Z
 tags:
   - kārta/zemnieki
-date_created: 2026-08-20
-date_modified: 2026-09-02
 ---
 
 | Muižas                                                                          | Guberņa  |

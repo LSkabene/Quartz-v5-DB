@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Lielvārdes
 created: 2026-04-04T11:15:41.856Z
-modified: 2026-08-20T16:43:28.309Z
-published: 2026-08-20T16:43:28.309Z
+modified: 2026-09-21T06:06:03.300Z
+published: 2026-09-21T06:06:03.300Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/pareizticīgo
@@ -28,8 +28,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-04
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

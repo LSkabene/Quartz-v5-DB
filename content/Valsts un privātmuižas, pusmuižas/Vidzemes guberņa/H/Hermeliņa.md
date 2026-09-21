@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-13T08:28:17.090Z
-modified: 2026-09-13T08:31:11.419Z
-published: 2026-09-13T08:31:11.419Z
+modified: 2026-09-21T06:06:02.927Z
+published: 2026-09-21T06:06:02.927Z
 tags:
   - veids/bruņinieku
 veids: Privātmuiža
@@ -24,8 +24,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-09-13
 coordinates: 56.968640, 24.101020
 map_color:
 map_icon:

@@ -4,8 +4,8 @@ aliases:
   - Dūķeru
   - Dīkeru
 created: 2026-04-13T16:43:43.586Z
-modified: 2026-08-31T16:45:08.354Z
-published: 2026-08-31T16:45:08.354Z
+modified: 2026-09-21T06:06:03.077Z
+published: 2026-09-21T06:06:03.077Z
 tags:
   - veids/privātmuiža
   - places
@@ -28,8 +28,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-13
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

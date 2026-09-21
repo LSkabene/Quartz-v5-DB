@@ -7,8 +7,8 @@ aliases:
   - Helmershof
   - Helmsa
 created: 2026-09-17T06:53:23.443Z
-modified: 2026-09-17T06:58:05.896Z
-published: 2026-09-17T06:58:05.896Z
+modified: 2026-09-21T06:06:02.920Z
+published: 2026-09-21T06:06:02.920Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - veids/privātmuiža
@@ -32,8 +32,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-09-17
 coordinates: 56.940770, 24.134760
 map_color:
 map_icon:

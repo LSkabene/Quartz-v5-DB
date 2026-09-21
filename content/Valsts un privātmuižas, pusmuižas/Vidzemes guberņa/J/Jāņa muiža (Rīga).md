@@ -4,8 +4,8 @@ aliases:
   - Jāņa pusmuiža
   - Johannishof
 created: 2026-09-17T07:06:40.925Z
-modified: 2026-09-17T07:24:04.278Z
-published: 2026-09-17T07:24:04.278Z
+modified: 2026-09-21T06:06:03.015Z
+published: 2026-09-21T06:06:03.015Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
@@ -28,8 +28,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-09-17
 coordinates: 56.934000, 24.173140
 map_color:
 map_icon:

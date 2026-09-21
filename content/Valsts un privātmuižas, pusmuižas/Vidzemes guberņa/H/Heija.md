@@ -6,8 +6,8 @@ aliases:
   - Schoongezicht
   - Schöngesicht
 created: 2026-09-09T17:15:22.617Z
-modified: 2026-09-13T07:44:21.474Z
-published: 2026-09-13T07:44:21.474Z
+modified: 2026-09-21T06:06:02.931Z
+published: 2026-09-21T06:06:02.931Z
 tags:
   - veids/privātmuiža
   - teritorija/rīgas-patrimoniālais
@@ -32,8 +32,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-09-13
 coordinates:
 map_color:
 map_icon:

@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Mazā Svētes
 created: 2026-08-20T16:09:06.853Z
-modified: 2026-09-02T16:51:05.553Z
-published: 2026-09-02T16:51:05.553Z
+modified: 2026-09-21T06:06:02.676Z
+published: 2026-09-21T06:06:02.676Z
 tags:
   - veids/kroņa_muiža
   - Kurzeme
@@ -27,8 +27,6 @@ parent_manor: "[[Kroņvircavas]]"
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-08-25
 coordinates:
 map_color:
 map_icon:

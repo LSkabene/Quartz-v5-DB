@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Ļauderu
 created: 2026-07-30T17:41:56.024Z
-modified: 2026-08-31T16:45:16.192Z
-published: 2026-08-31T16:45:16.192Z
+modified: 2026-09-21T06:06:02.791Z
+published: 2026-09-21T06:06:02.791Z
 veids:
 nosaukums_lv: Lauderu
 nosaukums_ger:
@@ -24,8 +24,6 @@ half_manors:
 krogi:
 dzirnavas:
 tags: []
-date_created: 2026-07-30
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

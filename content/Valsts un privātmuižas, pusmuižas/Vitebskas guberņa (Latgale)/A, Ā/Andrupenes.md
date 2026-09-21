@@ -4,8 +4,8 @@ aliases:
   - Ondrupine
   - Andrepna
 created: 2026-07-17T15:31:30.321Z
-modified: 2026-08-31T16:45:12.917Z
-published: 2026-08-31T16:45:12.917Z
+modified: 2026-09-21T06:06:02.803Z
+published: 2026-09-21T06:06:02.803Z
 tags:
   - Latgale
 veids:
@@ -26,8 +26,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-17
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

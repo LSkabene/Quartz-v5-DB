@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Buku
 created: 2026-04-11T07:42:07.587Z
-modified: 2026-08-31T16:45:05.979Z
-published: 2026-08-31T16:45:05.979Z
+modified: 2026-09-21T06:06:03.145Z
+published: 2026-09-21T06:06:03.145Z
 tags:
   - veids/privātmuiža
   - places
@@ -27,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-11
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

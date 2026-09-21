@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Liepkalnu-Vestienas
 created: 2026-04-04T11:52:28.959Z
-modified: 2026-08-20T16:43:28.167Z
-published: 2026-08-20T16:43:28.167Z
+modified: 2026-09-21T06:06:03.303Z
+published: 2026-09-21T06:06:03.303Z
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
@@ -28,8 +28,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-04
-date_modified: 2026-08-19
 coordinates:
 map_color: steelblue
 map_icon: church

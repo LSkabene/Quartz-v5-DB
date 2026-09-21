@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T15:47:27.943Z
-modified: 2026-08-31T16:45:16.378Z
-published: 2026-08-31T16:45:16.378Z
+modified: 2026-09-21T06:06:02.790Z
+published: 2026-09-21T06:06:02.790Z
 tags:
   - Latgale
 veids: Folvarks
@@ -24,8 +24,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-01
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

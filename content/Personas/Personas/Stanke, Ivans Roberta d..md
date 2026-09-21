@@ -1,11 +1,9 @@
 ---
 publish: true
 created: 2026-08-25T17:20:37.079Z
-modified: 2026-09-02T16:29:03.413Z
-published: 2026-09-02T16:29:03.413Z
+modified: 2026-09-21T06:05:40.973Z
+published: 2026-09-21T06:05:40.973Z
 tags: []
-date_created: 2026-08-20
-date_modified: 2026-09-02
 ---
 
 | Muižas                                                                                                          | Guberņa  |

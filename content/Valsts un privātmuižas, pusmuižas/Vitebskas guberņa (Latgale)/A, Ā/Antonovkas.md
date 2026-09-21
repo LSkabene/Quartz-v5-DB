@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T16:55:01.944Z
-modified: 2026-08-31T16:45:13.283Z
-published: 2026-08-31T16:45:13.283Z
+modified: 2026-09-21T06:06:02.793Z
+published: 2026-09-21T06:06:02.793Z
 tags:
   - Latgale
 veids:
@@ -24,8 +24,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-01
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

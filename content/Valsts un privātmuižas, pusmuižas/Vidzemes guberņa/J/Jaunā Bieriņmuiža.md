@@ -5,8 +5,8 @@ aliases:
   - Lindenruh
   - Liepumuiža
 created: 2026-09-17T06:58:05.801Z
-modified: 2026-09-17T07:00:45.304Z
-published: 2026-09-17T07:00:45.304Z
+modified: 2026-09-21T06:06:03.024Z
+published: 2026-09-21T06:06:03.024Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
@@ -31,8 +31,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-09-17
 coordinates: 56.920330, 24.067800
 map_color:
 map_icon:

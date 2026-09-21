@@ -7,8 +7,8 @@ aliases:
   - Schwarzhof
   - Schwartzenhof
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-07T16:16:22.976Z
-published: 2026-09-07T16:16:22.976Z
+modified: 2026-09-21T06:06:03.059Z
+published: 2026-09-21T06:06:03.059Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
@@ -31,8 +31,6 @@ parent_manor: ""
 half_manors: ""
 krogi: ""
 dzirnavas: ""
-date_created: 2026-09-07
-date_modified: 2026-09-07
 coordinates: 56.915680, 24.142670
 map_color: ""
 map_icon: ""

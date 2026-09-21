@@ -6,8 +6,8 @@ aliases:
   - Ahaken
   - Aahacken
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-08T04:57:48.619Z
-published: 2026-09-08T04:57:48.619Z
+modified: 2026-09-21T06:06:03.174Z
+published: 2026-09-21T06:06:03.174Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
@@ -31,8 +31,6 @@ parent_manor: ""
 half_manors: ""
 krogi: ""
 dzirnavas: ""
-date_created: 2026-09-07
-date_modified: 2026-09-08
 coordinates: 57.036910, 24.052500
 map_color: ""
 map_icon: ""

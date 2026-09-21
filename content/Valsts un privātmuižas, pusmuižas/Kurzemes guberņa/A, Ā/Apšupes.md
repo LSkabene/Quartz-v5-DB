@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-20T16:09:05.992Z
-modified: 2026-09-02T17:33:30.862Z
-published: 2026-09-02T17:33:30.862Z
+modified: 2026-09-21T06:06:02.681Z
+published: 2026-09-21T06:06:02.681Z
 tags:
   - veids/kroņa_muiža
   - Kurzeme
@@ -25,8 +25,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-08-25
 coordinates:
 map_color:
 map_icon:

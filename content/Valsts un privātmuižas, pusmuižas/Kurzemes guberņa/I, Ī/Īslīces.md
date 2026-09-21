@@ -4,8 +4,8 @@ aliases:
   - Isliz
   - Īslīcas
 created: 2026-08-20T16:09:06.291Z
-modified: 2026-09-02T17:46:53.068Z
-published: 2026-09-02T17:46:53.068Z
+modified: 2026-09-21T06:06:02.649Z
+published: 2026-09-21T06:06:02.649Z
 tags:
   - Kurzeme
   - veids/kroņa_pusmuiža
@@ -27,8 +27,6 @@ parent_manor: "[[Jaunsvirlaukas]]"
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-09-02
 coordinates:
 map_color:
 map_icon:
