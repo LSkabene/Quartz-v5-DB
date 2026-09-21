@@ -2,6 +2,9 @@
 publish: true
 aliases:
   - Лишевицъ
+created: 2026-09-02T16:41:23.701Z
+modified: 2026-09-21T06:06:02.534Z
+published: 2026-09-21T06:06:02.534Z
 tags:
   - dzimta/Liševici
   - kārta/muižnieki

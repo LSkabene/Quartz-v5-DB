@@ -1,5 +1,8 @@
 ---
 publish: true
+created: 2026-08-25T17:37:26.071Z
+modified: 2026-09-21T06:06:02.537Z
+published: 2026-09-21T06:06:02.537Z
 tags:
   - kārta/zemnieki
 ---

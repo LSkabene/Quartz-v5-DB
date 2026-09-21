@@ -1,8 +1,34 @@
 ---
 publish: true
+created: 2026-08-20T16:09:06.114Z
+modified: 2026-09-21T06:06:02.579Z
+published: 2026-09-21T06:06:02.579Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
+veids: Kroņa
+nosaukums_lv: Vērpju
+nosaukums_ger: Werpenhof
+nosaukums_rus: Верпенгофъ
+nosaukums_est:
+nosaukums_lt:
+nosaukums_pol:
+nosaukums_swe:
+aliases: []
+guberna: Kurzemes
+aprinkis_imperija: Dobeles
+draudzes_novads:
+aprinkis_LV:
+pagasts:
+veids_vesturiski:
+parent_manor:
+  - "[[Pētermuiža (Džūkstes pag.)]]"
+half_manors:
+krogi:
+dzirnavas:
+coordinates:
+map_color:
+map_icon:
 ---
 
 1913\. gadā nomnieks zemnieks [[Brežinskis, Jans Pētera d.]].[^1]

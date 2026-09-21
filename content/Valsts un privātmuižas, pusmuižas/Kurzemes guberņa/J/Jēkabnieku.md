@@ -1,8 +1,33 @@
 ---
 publish: true
+created: 2026-08-20T16:09:06.592Z
+modified: 2026-09-21T06:06:02.641Z
+published: 2026-09-21T06:06:02.641Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
+veids: Kroņa
+nosaukums_lv: Jēkabnieku
+nosaukums_ger: Jacobshof
+nosaukums_rus: Якобсгофъ
+nosaukums_est:
+nosaukums_lt:
+nosaukums_pol:
+nosaukums_swe:
+aliases: []
+guberna: Kurzemes
+aprinkis_imperija: Dobeles
+draudzes_novads:
+aprinkis_LV:
+pagasts:
+veids_vesturiski:
+parent_manor:
+half_manors: "[[Ragumuiža]]"
+krogi:
+dzirnavas:
+coordinates:
+map_color:
+map_icon:
 ---
 
 1901.-1912. gadā nomnieks filozofijas doktors [[Zālīte, Pēteris Kārļa d.]]; no 23.04.1912. namnieks [[Gerhards, Jakobs Frīdriha d.]].[^1]
