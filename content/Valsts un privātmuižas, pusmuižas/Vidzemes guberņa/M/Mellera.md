@@ -4,13 +4,14 @@ aliases:
   - Meldera
   - Millera
 created: 2026-09-21T06:22:51.972Z
-modified: 2026-09-21T06:27:46.912Z
-published: 2026-09-21T06:27:46.912Z
+modified: 2026-09-21T06:37:32.528Z
+published: 2026-09-21T06:37:32.528Z
 tags:
   - veids/bruņinieku
   - Rīga
   - Vidzeme
   - veids/privātmuiža
+  - teritorija/rīgas-patrimoniālais
 veids: Privātmuiža
 nosaukums_lv: Mellera
 nosaukums_ger: Möllershof

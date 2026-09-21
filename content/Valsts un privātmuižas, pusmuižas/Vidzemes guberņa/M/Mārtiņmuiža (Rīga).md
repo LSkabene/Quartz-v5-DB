@@ -1,16 +1,15 @@
 ---
 publish: true
-created: 2026-09-21T06:27:46.831Z
-modified: 2026-09-21T06:37:28.872Z
-published: 2026-09-21T06:37:28.872Z
+created: 2026-09-21T06:54:14.465Z
+modified: 2026-09-21T06:56:47.866Z
+published: 2026-09-21T06:56:47.866Z
 tags:
-  - veids/privātmuiža
   - Rīga
   - Vidzeme
   - teritorija/rīgas-patrimoniālais
-veids: Privātmuiža
-nosaukums_lv: Mengdena
-nosaukums_ger:
+veids:
+nosaukums_lv: Mārtiņmuiža
+nosaukums_ger: Martinshof
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
@@ -27,9 +26,9 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-coordinates: 56.964780, 24.101930
+coordinates: 56.988790, 24.232570
 map_color:
 map_icon:
 ---
 
-Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Petersala/MengdenaMuiz.htm).
+Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Jugla/MartinMuiz.htm).

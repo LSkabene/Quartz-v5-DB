@@ -1,15 +1,14 @@
 ---
 publish: true
-created: 2026-09-21T06:27:46.831Z
-modified: 2026-09-21T06:37:28.872Z
-published: 2026-09-21T06:37:28.872Z
+created: 2026-09-21T06:41:23.529Z
+modified: 2026-09-21T06:52:24.489Z
+published: 2026-09-21T06:52:24.489Z
 tags:
-  - veids/privātmuiža
   - Rīga
   - Vidzeme
   - teritorija/rīgas-patrimoniālais
-veids: Privātmuiža
-nosaukums_lv: Mengdena
+veids:
+nosaukums_lv:
 nosaukums_ger:
 nosaukums_rus:
 nosaukums_est:
@@ -27,9 +26,9 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-coordinates: 56.964780, 24.101930
+coordinates: 56.930750, 24.077460
 map_color:
 map_icon:
 ---
 
-Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Petersala/MengdenaMuiz.htm).
+Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Agenskalns/MarasDikaMuiz.htm).

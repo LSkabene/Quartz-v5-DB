@@ -1,16 +1,16 @@
 ---
 publish: true
-created: 2026-09-21T06:27:46.831Z
-modified: 2026-09-21T06:37:28.872Z
-published: 2026-09-21T06:37:28.872Z
+created: 2026-09-21T06:31:18.413Z
+modified: 2026-09-21T06:40:23.313Z
+published: 2026-09-21T06:40:23.313Z
 tags:
   - veids/privātmuiža
   - Rīga
-  - Vidzeme
   - teritorija/rīgas-patrimoniālais
+  - Vidzeme
 veids: Privātmuiža
-nosaukums_lv: Mengdena
-nosaukums_ger:
+nosaukums_lv: Monrepo
+nosaukums_ger: Monrepos
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
@@ -27,9 +27,9 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-coordinates: 56.964780, 24.101930
+coordinates: 56.981450, 24.183200
 map_color:
 map_icon:
 ---
 
-Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Petersala/MengdenaMuiz.htm).
+Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Teika/MonreposMuiz.htm).
