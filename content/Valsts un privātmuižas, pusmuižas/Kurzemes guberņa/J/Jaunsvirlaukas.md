@@ -1,35 +1,8 @@
 ---
 publish: true
-created: 2026-08-20T16:09:06.046Z
-modified: 2026-09-21T06:06:02.644Z
-published: 2026-09-21T06:06:02.644Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
-veids: Kroņa
-nosaukums_lv: Jaunsvirlaukas
-nosaukums_ger: Neu-Bergfried
-nosaukums_rus: Ней-Бергфридъ
-nosaukums_est:
-nosaukums_lt:
-nosaukums_pol:
-nosaukums_swe:
-aliases: []
-guberna: Kurzemes
-aprinkis_imperija: Dobeles
-draudzes_novads:
-aprinkis_LV:
-pagasts:
-veids_vesturiski:
-parent_manor:
-half_manors:
-  - "[[Īslīces]]"
-  - "[[Katrīnas (Garozas pag.)]]"
-krogi:
-dzirnavas:
-coordinates:
-map_color:
-map_icon:
 ---
 
 1901\. gadā nomnieks namnieks [[Treijers, Johans]], no 17.06.1913. [[Beržinskis, Jānis Miķeļa d.]].[^1]

@@ -1,8 +1,5 @@
 ---
 publish: true
-created: 2026-08-01T15:46:36.904Z
-modified: 2026-09-21T06:05:40.120Z
-published: 2026-09-21T06:05:40.120Z
 ---
 
 ### Objekta "kartiņa"

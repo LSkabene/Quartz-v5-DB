@@ -1,8 +1,5 @@
 ---
 publish: true
-created: 2026-09-08T04:37:13.915Z
-modified: 2026-09-21T06:05:40.106Z
-published: 2026-09-21T06:05:40.106Z
 ---
 
 | Muiža                                                                                          | Nosaukums (LV) | Nosaukums (GER) | Draudzes novads |

@@ -1,8 +1,5 @@
 ---
 publish: true
-created: 2026-05-15T06:24:05.029Z
-modified: 2026-09-21T06:05:44.726Z
-published: 2026-09-21T06:05:44.726Z
 ---
 
 [[Par datubāzi]]
