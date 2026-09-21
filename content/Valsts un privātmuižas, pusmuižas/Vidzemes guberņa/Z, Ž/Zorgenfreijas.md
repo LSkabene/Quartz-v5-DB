@@ -1,15 +1,15 @@
 ---
 publish: true
-created: 2026-09-21T10:06:08.861Z
-modified: 2026-09-21T10:13:48.623Z
-published: 2026-09-21T10:13:48.623Z
+created: 2026-09-21T10:23:49.103Z
+modified: 2026-09-21T10:25:05.059Z
+published: 2026-09-21T10:25:05.059Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
 veids:
-nosaukums_lv: Šenberģu
-nosaukums_ger:
+nosaukums_lv: Zorgenfreijas
+nosaukums_ger: Sorgenfrei
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
@@ -26,9 +26,9 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-coordinates: 56.917510, 24.058140
+coordinates: 56.992620, 24.212890
 map_color:
 map_icon:
 ---
 
-Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Bierini/SenberguMuiz.htm).
+Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Jugla/ZorgenfreijasMuiz.htm).

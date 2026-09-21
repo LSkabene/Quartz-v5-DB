@@ -1,14 +1,14 @@
 ---
 publish: true
-created: 2026-09-21T10:06:08.861Z
-modified: 2026-09-21T10:13:48.623Z
-published: 2026-09-21T10:13:48.623Z
+created: 2026-09-21T10:18:12.052Z
+modified: 2026-09-21T10:19:11.636Z
+published: 2026-09-21T10:19:11.636Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
 veids:
-nosaukums_lv: Šenberģu
+nosaukums_lv: Ūlenbroka
 nosaukums_ger:
 nosaukums_rus:
 nosaukums_est:
@@ -26,9 +26,9 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-coordinates: 56.917510, 24.058140
+coordinates: 56.917400, 24.055990
 map_color:
 map_icon:
 ---
 
-Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Bierini/SenberguMuiz.htm).
+Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Bierini/UlenbrokaMuiz.htm).
