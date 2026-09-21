@@ -1,15 +1,15 @@
 ---
 publish: true
-created: 2026-09-21T08:41:57.546Z
-modified: 2026-09-21T09:26:56.297Z
-published: 2026-09-21T09:26:56.297Z
+created: 2026-09-21T09:33:32.422Z
+modified: 2026-09-21T09:34:53.213Z
+published: 2026-09-21T09:34:53.213Z
 tags:
   - teritorija/rīgas-patrimoniālais
-  - Vidzeme
   - Rīga
+  - Vidzeme
 veids:
-nosaukums_lv: Tīzlera
-nosaukums_ger: Tieslers Höfchen
+nosaukums_lv:
+nosaukums_ger: Willischhof
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
@@ -26,9 +26,9 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-coordinates: 56.917420, 24.105760
+coordinates: 56.927300, 24.062400
 map_color:
 map_icon:
 ---
 
-Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Ziepniekkalns/TizlerMuiz.htm).
+Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Bierini/WillischMuiz.htm).
