@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Numurmuiža
 created: 2026-09-21T06:59:14.269Z
-modified: 2026-09-21T07:00:57.140Z
-published: 2026-09-21T07:00:57.140Z
+modified: 2026-09-21T07:38:34.337Z
+published: 2026-09-21T07:38:34.337Z
 tags:
   - Rīga
   - Vidzeme
