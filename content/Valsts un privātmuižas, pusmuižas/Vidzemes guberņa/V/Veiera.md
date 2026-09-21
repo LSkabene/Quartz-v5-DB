@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Veira
 created: 2026-09-21T09:35:55.187Z
-modified: 2026-09-21T09:37:40.398Z
-published: 2026-09-21T09:37:40.398Z
+modified: 2026-09-21T09:39:11.461Z
+published: 2026-09-21T09:39:11.461Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
