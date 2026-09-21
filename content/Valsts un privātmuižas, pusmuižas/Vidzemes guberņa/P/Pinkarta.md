@@ -1,18 +1,19 @@
 ---
 publish: true
 aliases:
-  - Ashgrowe
-  - Karleja pusmuiža
-created: 2026-09-21T08:03:14.453Z
-modified: 2026-09-21T08:08:39.457Z
-published: 2026-09-21T08:08:39.457Z
+  - Näsenhof
+  - Bieķēnsalas
+  - Bieķēnu
+created: 2026-09-21T08:14:49.525Z
+modified: 2026-09-21T08:16:29.000Z
+published: 2026-09-21T08:16:29.000Z
 tags:
   - Rīga
   - Vidzeme
   - teritorija/rīgas-patrimoniālais
 veids:
-nosaukums_lv: Pīlādžbirzs
-nosaukums_ger:
+nosaukums_lv: Pinkarta
+nosaukums_ger: Pinkartshof
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
@@ -28,9 +29,9 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-coordinates: 56.949630, 24.052670
+coordinates:
 map_color:
 map_icon:
 ---
 
-Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Zasulauks/PiladzbMuiz.htm).
+Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Bisumuiza/PinkartaMuiz.htm).
