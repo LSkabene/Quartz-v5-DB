@@ -13,3 +13,19 @@ views:
       - nosaukums_rus
       - veids
       - draudzes_novads
+  - type: table
+    name: View
+    filters:
+      and:
+        - "!draudzes_novads.isEmpty()"
+        - or:
+            - file.inFolder("Valsts un privātmuižas, pusmuižas")
+            - file.inFolder("Dienesta muižas")
+    order:
+      - file.name
+      - nosaukums_ger
+      - nosaukums_rus
+      - aprinkis_imperija
+      - draudzes_novads
+    sort: []
+    markers: bullet
