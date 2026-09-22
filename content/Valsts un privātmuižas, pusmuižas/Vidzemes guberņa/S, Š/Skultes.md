@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Neuhof
 created: 2026-06-11T16:38:40.817Z
-modified: 2026-09-22T13:44:14.440Z
-published: 2026-09-22T13:44:14.440Z
+modified: 2026-09-22T13:54:05.043Z
+published: 2026-09-22T13:54:05.043Z
 tags:
   - Vidzeme
 veids:
@@ -13,7 +13,6 @@ nosaukums_ger: Adiamünde
 nosaukums_rus: Адиамюнде
 nosaukums_est:
 nosaukums_lt:
-nosaukums_pol:
 nosaukums_swe:
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
@@ -31,10 +30,110 @@ map_color:
 map_icon:
 ---
 
-| Skultes draudzes novada muižu izmērs arklos pēc _Stryk, Leonhard von. Beiträge zur Geschichte der Rittergüter Livlands. Bd.2. Dorpat (1885)_ | <     | <     | <    | <     | <     | <    | <      | <    | <      |       <       |      <      |
-| :--------------------------------------------------------------------------------------------------------------------------------------------: | ------- | ------- | ------ | ------- | ------- | ------ | -------- | ------ | -------- | :-------------: | :-----------: |
-|                                                                                                                                              | 1637  | 1641  | 1683 | 1725  | 1734  | 1738 | 1744   | 1757 | 1832   |     1881      |      <      |
-|                                                                      ^^                                                                      |       |       |      |       |       |      |        |      |        | Zemnieku zeme | Muižas zeme |
-|                                                                 [[Skultes]]                                                                  | 4     | 8 1/4 | 15   | 8 1/8 | 8 3/4 | 13   | 14 1/2 | 18   | 16 4/5 |   19 77/80    |  10 19/80   |
-|                                                            [[Zasumuiža (Skulte)]]                                                            |       |       |      |       |       |      |        |      |        |               |             |
-|                                                               [[Menkuļmuiža]]                                                                | 1 1/2 | 4     |      |       |       |      |        |      |        |               |             |
+<table style="width: 365px">
+  <thead>
+    <tr>
+      <th colspan="12" style="text-align: center">Skultes draudzes novada muižu izmērs arklos pēc Stryk, Leonhard von. Beiträge zur Geschichte der Rittergüter Livlands. Bd.2. Dorpat (1885)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2" style="text-align: center">
+      </td>
+      <td>1637</td>
+      <td>1641</td>
+      <td>1683</td>
+      <td>1725</td>
+      <td>1734</td>
+      <td>1738</td>
+      <td>1744</td>
+      <td>1757</td>
+      <td>1832</td>
+      <td colspan="2" style="text-align: center">1881</td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td style="text-align: center">Zemnieku zeme</td>
+      <td style="text-align: center">Muižas zeme</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Skultes</td>
+      <td>4</td>
+      <td>8 1/4</td>
+      <td>15</td>
+      <td>8 1/8</td>
+      <td>8 3/4</td>
+      <td>13</td>
+      <td>14 1/2</td>
+      <td>18</td>
+      <td>16 4/5</td>
+      <td style="text-align: center">19 77/80</td>
+      <td style="text-align: center">10 19/80</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Zasumuiža (Skulte)</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td style="text-align: center">
+      </td>
+      <td style="text-align: center">
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Menkuļmuiža</td>
+      <td>1 1/2</td>
+      <td>4</td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td style="text-align: center">
+      </td>
+      <td style="text-align: center">
+      </td>
+    </tr>
+  </tbody>
+</table>
