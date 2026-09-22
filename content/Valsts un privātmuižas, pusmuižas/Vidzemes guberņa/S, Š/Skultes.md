@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Neuhof
 created: 2026-06-11T16:38:40.817Z
-modified: 2026-09-22T12:38:14.411Z
-published: 2026-09-22T12:38:14.411Z
+modified: 2026-09-22T12:49:14.062Z
+published: 2026-09-22T12:49:14.062Z
 tags:
   - Vidzeme
 veids:
@@ -31,9 +31,11 @@ map_color:
 map_icon:
 ---
 
-|                        | 1637 | 1641 | 1683 | 1725 | 1734 | 1738 | 1744 | 1757 | 1832 |     1881      |             |
-| ---------------------- | :--: | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | :-----------: | :---------: |
-|                        |      |      |      |      |      |      |      |      |      | Zemnieku zeme | Muižas zeme |
-| [[Skultes]]            |      |      |      |      |      |      |      |      |      |               |             |
-| [[Zasumuiža (Skulte)]] |      |      |      |      |      |      |      |      |      |               |             |
-| [[Menkuļmuiža]]        |      |      |      |      |      |      |      |      |      |               |             |
+Skultes draudzes novada muižu izmērs arklos pēc _Stryk, Leonhard von. Beiträge zur Geschichte der Rittergüter Livlands. Bd.2. Dorpat (1885)_
+
+|                        | 1637  | 1641  | 1683 | 1725  | 1734  | 1738 | 1744   | 1757 | 1832   |     1881      |             |
+| ---------------------- | :---: | ----- | ---- | ----- | ----- | ---- | ------ | ---- | ------ | :-----------: | :---------: |
+|                        |       |       |      |       |       |      |        |      |        | Zemnieku zeme | Muižas zeme |
+| [[Skultes]]            |   4   | 8 1/4 | 15   | 8 1/8 | 8 3/4 | 13   | 14 1/2 | 18   | 16 4/5 |   19 77/80    |  10 19/80   |
+| [[Zasumuiža (Skulte)]] |       |       |      |       |       |      |        |      |        |               |             |
+| [[Menkuļmuiža]]        | 1 1/2 | 4     |      |       |       |      |        |      |        |               |             |
