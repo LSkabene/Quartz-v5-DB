@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Neuhof
 created: 2026-06-11T16:38:40.817Z
-modified: 2026-09-22T14:51:09.159Z
-published: 2026-09-22T14:51:09.159Z
+modified: 2026-09-22T15:04:17.130Z
+published: 2026-09-22T15:04:17.130Z
 tags:
   - Vidzeme
   - īpašnieki/Ulenbroki
@@ -143,7 +143,5 @@ map_icon:
 #### Īpašnieki[^1]
 
 - Rīgas rātskungs [[Ulenbroks, Heinrihs I fon|Heinrihs fon Ulenbroks]] (1549-1564)
-- [[Ramma, Elizabete|Elizabete Ramma]]
-- [[Persona, Nepersona|Persona Persona!]]
 
 [^1]: Stryk, Leonhard v.
