@@ -3,11 +3,13 @@ publish: true
 aliases:
   - Neuhof
 created: 2026-06-11T16:38:40.817Z
-modified: 2026-09-22T13:54:05.043Z
-published: 2026-09-22T13:54:05.043Z
+modified: 2026-09-22T14:51:09.159Z
+published: 2026-09-22T14:51:09.159Z
 tags:
   - Vidzeme
-veids:
+  - īpašnieki/Ulenbroki
+  - veids_vēsturiski/pusmuiža
+veids: Privātmuiža
 nosaukums_lv: Skulte
 nosaukums_ger: Adiamünde
 nosaukums_rus: Адиамюнде
@@ -19,7 +21,7 @@ aprinkis_imperija: Rīgas
 draudzes_novads: Skultes
 aprinkis_LV:
 pagasts:
-veids_vesturiski:
+veids_vesturiski: pusmuiža
 parent_manor:
   - "[[Zasumuiža (Skulte)]]"
 half_manors:
@@ -137,3 +139,11 @@ map_icon:
     </tr>
   </tbody>
 </table>
+
+#### Īpašnieki[^1]
+
+- Rīgas rātskungs [[Ulenbroks, Heinrihs I fon|Heinrihs fon Ulenbroks]] (1549-1564)
+- [[Ramma, Elizabete|Elizabete Ramma]]
+- [[Persona, Nepersona|Persona Persona!]]
+
+[^1]: Stryk, Leonhard v.
