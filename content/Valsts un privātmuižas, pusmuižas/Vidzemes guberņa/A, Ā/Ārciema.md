@@ -2,9 +2,10 @@
 publish: true
 aliases:
   - Erkul
+  - Erküll
 created: 2026-04-06T16:40:45.958Z
-modified: 2026-09-21T06:06:03.243Z
-published: 2026-09-21T06:06:03.243Z
+modified: 2026-09-23T15:03:15.172Z
+published: 2026-09-23T15:03:15.172Z
 tags:
   - veids/privātmuiža
   - places
@@ -19,7 +20,7 @@ nosaukums_pol:
 nosaukums_swe:
 guberna: Vidzemes
 aprinkis_imperija: Valmieras
-draudzes_novads:
+draudzes_novads: Umurgas
 aprinkis_LV:
 pagasts:
 veids_vesturiski: Fideikomiss
@@ -31,3 +32,7 @@ coordinates:
 map_color:
 map_icon:
 ---
+
+Izmērs arklos (Hacken) ap 1819. gadu, pēc Hūna materiāliem: 9 5/8.[^1]
+
+[^1]: LVVA 6810\_1\_52

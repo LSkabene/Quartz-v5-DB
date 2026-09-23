@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Luhbenhof
 created: 2026-04-02T15:39:49.897Z
-modified: 2026-09-21T06:06:02.910Z
-published: 2026-09-21T06:06:02.910Z
+modified: 2026-09-23T16:55:51.402Z
+published: 2026-09-23T16:55:51.402Z
 tags:
   - veids/organizāciju/vidzemes_bruņniecība
   - veids/organizāciju
@@ -34,4 +34,6 @@ map_color:
 map_icon:
 ---
 
-veids/organizāciju/vidzemes-bruņniecība
+Izmērs arklos (Hacken) ap 1819. gadu, pēc Hūna materiāliem: 7 2/8.[^1]
+
+[^1]: LVVA 6810\_1\_52

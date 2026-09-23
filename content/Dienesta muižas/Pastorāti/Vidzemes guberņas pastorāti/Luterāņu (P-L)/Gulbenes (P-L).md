@@ -1,12 +1,11 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.888Z
-modified: 2026-09-21T06:06:03.382Z
-published: 2026-09-21T06:06:03.382Z
+modified: 2026-09-23T16:06:56.664Z
+published: 2026-09-23T16:06:56.664Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
-  - places
   - Vidzeme
 veids: Dienesta
 nosaukums_lv: Gulbenes
@@ -31,3 +30,7 @@ coordinates:
 map_color: steelblue
 map_icon: church
 ---
+
+Izmērs arklos (Hacken) ap 1819. gadu, pēc Hūna materiāliem: 1 3/8.[^1]
+
+[^1]: LVVA 6810\_1\_52

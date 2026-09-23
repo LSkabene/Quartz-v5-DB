@@ -4,9 +4,10 @@ aliases:
   - Aizkujes
   - Aiskujes
   - Ayskuje
+  - Aiskuj
 created: 2026-04-02T15:39:49.905Z
-modified: 2026-09-21T06:06:03.287Z
-published: 2026-09-21T06:06:03.287Z
+modified: 2026-09-23T14:52:32.380Z
+published: 2026-09-23T14:52:32.380Z
 tags:
   - veids/privātmuiža
   - places
@@ -33,3 +34,7 @@ coordinates:
 map_color: maroon
 map_icon: star
 ---
+
+Izmērs arklos (Hacken) ap 1819. gadu, pēc Hūna materiāliem: 13 5/8.[^1]
+
+[^1]: LVVA 6810\_1\_52

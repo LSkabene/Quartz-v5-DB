@@ -1,12 +1,11 @@
 ---
 publish: true
 created: 2026-04-04T11:46:45.792Z
-modified: 2026-09-21T06:06:03.328Z
-published: 2026-09-21T06:06:03.328Z
+modified: 2026-09-23T17:25:19.348Z
+published: 2026-09-23T17:25:19.348Z
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
-  - places
   - Vidzeme
 veids: Dienesta
 nosaukums_lv: Trikātas
@@ -31,3 +30,7 @@ coordinates:
 map_color: steelblue
 map_icon: church
 ---
+
+Izmērs arklos (Hacken) ap 1819. gadu, pēc Hūna materiāliem: 3.[^1]
+
+[^1]: LVVA 6810\_1\_52

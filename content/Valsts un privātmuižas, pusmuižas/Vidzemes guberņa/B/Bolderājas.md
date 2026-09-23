@@ -6,8 +6,8 @@ aliases:
   - Ahaken
   - Aahacken
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-21T06:06:03.174Z
-published: 2026-09-21T06:06:03.174Z
+modified: 2026-09-23T15:53:38.023Z
+published: 2026-09-23T15:53:38.023Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
@@ -36,4 +36,10 @@ map_color: ""
 map_icon: ""
 ---
 
-Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Bolderaja/BolderMuiz.htm).
+Vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Bolderaja/BolderMuiz.htm).
+
+#### No avotiem
+
+Izmērs arklos (Hacken) ap 1819. gadu, pēc Hūna materiāliem: 6/8.[^1]
+
+[^1]: LVVA 6810\_1\_52

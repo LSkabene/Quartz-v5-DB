@@ -4,12 +4,11 @@ aliases:
   - Vegesacksholm
   - Stāles
 created: 2026-09-21T09:31:33.255Z
-modified: 2026-09-21T09:36:57.530Z
-published: 2026-09-21T09:36:57.530Z
+modified: 2026-09-23T17:29:56.204Z
+published: 2026-09-23T17:29:56.204Z
 tags:
   - veids/bruņinieku
   - veids/privātmuiža
-  - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
 veids: Privātmuiža
@@ -22,7 +21,7 @@ nosaukums_pol:
 nosaukums_swe:
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
-draudzes_novads:
+draudzes_novads: Daugavgrīvas
 aprinkis_LV:
 pagasts:
 veids_vesturiski:
@@ -35,4 +34,10 @@ map_color:
 map_icon:
 ---
 
-Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Sarkandaugava/VejzakMuiz.htm).
+Vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Sarkandaugava/VejzakMuiz.htm).
+
+#### No avotiem
+
+Izmērs arklos (Hacken) ap 1819. gadu, pēc Hūna materiāliem: 1.[^1]
+
+[^1]: LVVA 6810\_1\_52

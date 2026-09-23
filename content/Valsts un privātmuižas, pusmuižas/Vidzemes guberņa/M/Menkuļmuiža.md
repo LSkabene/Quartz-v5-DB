@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-09-22T12:05:55.499Z
-modified: 2026-09-22T14:51:39.624Z
-published: 2026-09-22T14:51:39.624Z
+modified: 2026-09-23T14:49:25.692Z
+published: 2026-09-23T14:49:25.692Z
 tags:
   - Vidzeme
   - īpašnieki/Ulenbroki
-veids:
+  - veids/pusmuiža
+  - veids_vēsturiski/privātmuiža
+veids: Pusmuiža
 nosaukums_lv: Menkuļmuiža
 nosaukums_ger: Memküll
 nosaukums_rus:
@@ -20,7 +22,7 @@ aprinkis_imperija: Rīgas
 draudzes_novads: Skultes
 aprinkis_LV:
 pagasts:
-veids_vesturiski:
+veids_vesturiski: Privātmuiža
 parent_manor:
   - "[[Zasumuiža (Skulte)]]"
 half_manors:

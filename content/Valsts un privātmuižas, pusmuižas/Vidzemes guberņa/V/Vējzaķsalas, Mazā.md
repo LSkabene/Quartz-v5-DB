@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-09-21T06:16:35.281Z
-modified: 2026-09-21T06:19:40.950Z
-published: 2026-09-21T06:19:40.950Z
+modified: 2026-09-23T17:28:39.194Z
+published: 2026-09-23T17:28:39.194Z
 tags:
-  - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
 veids:
@@ -18,7 +17,7 @@ nosaukums_swe:
 aliases: []
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
-draudzes_novads:
+draudzes_novads: Daugavgrīvas
 aprinkis_LV:
 pagasts:
 veids_vesturiski:

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.904Z
-modified: 2026-09-21T06:06:03.289Z
-published: 2026-09-21T06:06:03.289Z
+modified: 2026-09-23T14:50:06.134Z
+published: 2026-09-23T14:50:06.134Z
 tags:
   - veids/privātmuiža
   - places
@@ -30,3 +30,7 @@ coordinates:
 map_color: maroon
 map_icon: star
 ---
+
+Izmērs arklos (Hacken) ap 1819. gadu, pēc Hūna materiāliem: 10 6/8.[^1]
+
+[^1]: LVVA 6810\_1\_52

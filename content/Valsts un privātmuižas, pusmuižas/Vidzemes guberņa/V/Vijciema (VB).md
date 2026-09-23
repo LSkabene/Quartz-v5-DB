@@ -5,12 +5,11 @@ aliases:
   - Wielzenhof
   - Wiezenhof
 created: 2026-04-02T15:39:49.899Z
-modified: 2026-09-21T06:06:02.894Z
-published: 2026-09-21T06:06:02.894Z
+modified: 2026-09-23T17:31:58.394Z
+published: 2026-09-23T17:31:58.394Z
 tags:
   - veids/organizāciju/vidzemes_bruņniecība
   - veids/organizāciju
-  - places
   - Vidzeme
   - īpašnieki/vidzemes-bruņniecība
 veids: Organizāciju
@@ -36,4 +35,6 @@ map_color:
 map_icon:
 ---
 
-veids/organizāciju/vidzemes-bruņniecība
+Izmērs arklos (Hacken) ap 1819. gadu, pēc Hūna materiāliem:  18 3/8.[^1]
+
+[^1]: LVVA 6810\_1\_52

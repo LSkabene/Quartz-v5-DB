@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Neuhof
 created: 2026-06-11T16:38:40.817Z
-modified: 2026-09-22T15:04:17.130Z
-published: 2026-09-22T15:04:17.130Z
+modified: 2026-09-23T14:47:46.825Z
+published: 2026-09-23T14:47:46.825Z
 tags:
   - Vidzeme
   - īpašnieki/Ulenbroki
@@ -25,6 +25,7 @@ veids_vesturiski: pusmuiža
 parent_manor:
   - "[[Zasumuiža (Skulte)]]"
 half_manors:
+  - "[[Menkuļmuiža]]"
 krogi:
 dzirnavas:
 coordinates: 57.371389, 24.492778
