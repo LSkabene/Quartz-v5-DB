@@ -4,8 +4,8 @@ aliases:
   - Erkul
   - Erküll
 created: 2026-04-06T16:40:45.958Z
-modified: 2026-09-23T15:03:15.172Z
-published: 2026-09-23T15:03:15.172Z
+modified: 2026-09-29T16:07:30.415Z
+published: 2026-09-29T16:07:30.415Z
 tags:
   - veids/privātmuiža
   - places
@@ -33,6 +33,6 @@ map_color:
 map_icon:
 ---
 
-Izmērs arklos (Hacken) ap 1819. gadu, pēc Hūna materiāliem: 9 5/8.[^1]
+Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem:" 9 5/8.[^1]
 
 [^1]: LVVA 6810\_1\_52

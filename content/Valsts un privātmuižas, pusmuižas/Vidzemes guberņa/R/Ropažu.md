@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-23T16:40:31.042Z
-modified: 2026-09-23T17:02:32.264Z
-published: 2026-09-23T17:02:32.264Z
+modified: 2026-09-29T16:07:33.703Z
+published: 2026-09-29T16:07:33.703Z
 tags:
   - veids/privātmuiža
   - Vidzeme
@@ -35,6 +35,6 @@ map_color:
 map_icon:
 ---
 
-Izmērs arklos (Hacken) ap 1819. gadu, pēc Hūna materiāliem: 19 7/8.[^1]
+Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem:" 19 7/8.[^1]
 
 [^1]: LVVA 6810\_1\_52

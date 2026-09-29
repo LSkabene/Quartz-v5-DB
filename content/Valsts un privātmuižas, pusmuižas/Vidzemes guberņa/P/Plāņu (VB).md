@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.897Z
-modified: 2026-09-23T17:12:41.562Z
-published: 2026-09-23T17:12:41.562Z
+modified: 2026-09-29T16:07:33.429Z
+published: 2026-09-29T16:07:33.429Z
 tags:
   - veids/organizāciju
   - veids/organizāciju/vidzemes_bruņniecība
@@ -33,6 +33,6 @@ map_color:
 map_icon:
 ---
 
-Izmērs arklos (Hacken) ap 1819. gadu, pēc Hūna materiāliem: 12 7/8.[^1]
+Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem:" 12 7/8.[^1]
 
 [^1]: LVVA 6810\_1\_52

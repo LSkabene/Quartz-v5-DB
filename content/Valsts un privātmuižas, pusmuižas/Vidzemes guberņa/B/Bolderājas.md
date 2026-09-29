@@ -6,8 +6,8 @@ aliases:
   - Ahaken
   - Aahacken
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-23T15:53:38.023Z
-published: 2026-09-23T15:53:38.023Z
+modified: 2026-09-29T16:07:30.824Z
+published: 2026-09-29T16:07:30.824Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
@@ -40,6 +40,6 @@ Vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Ri
 
 #### No avotiem
 
-Izmērs arklos (Hacken) ap 1819. gadu, pēc Hūna materiāliem: 6/8.[^1]
+Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem:" 6/8.[^1]
 
 [^1]: LVVA 6810\_1\_52

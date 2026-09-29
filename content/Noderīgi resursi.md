@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-17T16:02:24.257Z
-modified: 2026-09-21T06:05:40.080Z
-published: 2026-09-21T06:05:40.080Z
+modified: 2026-09-29T16:23:48.988Z
+published: 2026-09-29T16:23:48.988Z
 ---
 
 https://raduraksti.arhivi.lv/
@@ -22,6 +22,6 @@ https://www.epaveldas.lt/main - Lietuvas digitālais kultūras mantojums
 https://polona.pl/- Polijas nacionālās bibliotēkas digitālās kolekcijas
 https://www.szukajwarchiwach.gov.pl/en/strona\_glowna - Polijas nacionālā arhīva digitalizēto materiālu datubāze/lasītava
 https://zdb-katalog.de/index.xhtml - German Union Catalogue of Serials (Periodikas datubāze)
-Ģerboņi:  Baltisches Wappenbuch / herausgegeben im Auftrag des Verbandes der Baltischen Ritterschaften e.V. von Patrick v. Glasenapp. Alling : P.v. Glasenapp, 1980. xxiii,199p. : ilustr cijas ; 25 cm. ISBN 3980046605 https://digitale-sammlungen.de/en/view/bsb00000445?q= (baltisches+wappenbuch)\&page=107
+Ģerboņi:  Baltisches Wappenbuch / herausgegeben im Auftrag des Verbandes der Baltischen Ritterschaften e.V. von Patrick v. Glasenapp. Alling : P.v. Glasenapp, 1980. xxiii,199p. : ilustr cijas ; 25 cm. ISBN 3980046605 https://digitale-sammlungen.de/en/view/bsb00000445?q=(baltisches+wappenbuch)\&page=107
 https://www.accesstomemory.org/en/
 https://www.oedb.org/ilibrarian/5-free-and-open-source-tools-for-creating-digital-exhibitions/

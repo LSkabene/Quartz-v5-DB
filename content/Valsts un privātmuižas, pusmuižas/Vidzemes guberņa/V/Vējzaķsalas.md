@@ -4,8 +4,8 @@ aliases:
   - Vegesacksholm
   - Stāles
 created: 2026-09-21T09:31:33.255Z
-modified: 2026-09-23T17:29:56.204Z
-published: 2026-09-23T17:29:56.204Z
+modified: 2026-09-29T16:07:34.401Z
+published: 2026-09-29T16:07:34.401Z
 tags:
   - veids/bruņinieku
   - veids/privātmuiža
@@ -38,6 +38,6 @@ Vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Ri
 
 #### No avotiem
 
-Izmērs arklos (Hacken) ap 1819. gadu, pēc Hūna materiāliem: 1.[^1]
+Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem:" 1.[^1]
 
 [^1]: LVVA 6810\_1\_52
