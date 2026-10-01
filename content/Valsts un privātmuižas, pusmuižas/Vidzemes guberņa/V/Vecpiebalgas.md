@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-23T17:27:09.762Z
-modified: 2026-09-29T16:07:34.163Z
-published: 2026-09-29T16:07:34.163Z
+modified: 2026-10-01T16:04:21.120Z
+published: 2026-10-01T16:04:21.120Z
 tags:
   - Vidzeme
 veids:

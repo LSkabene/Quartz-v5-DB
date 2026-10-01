@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Butšauskas
 created: 2026-04-11T07:36:59.507Z
-modified: 2026-09-29T16:07:31.009Z
-published: 2026-09-29T16:07:31.009Z
+modified: 2026-10-01T16:09:36.581Z
+published: 2026-10-01T16:09:36.581Z
 tags:
   - veids/privātmuiža
   - Vidzeme
@@ -34,6 +34,6 @@ map_color:
 map_icon:
 ---
 
-Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem:" 6 6/8.[^1]
+Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 6 6/8.[^1]
 
 [^1]: LVVA 6810\_1\_52

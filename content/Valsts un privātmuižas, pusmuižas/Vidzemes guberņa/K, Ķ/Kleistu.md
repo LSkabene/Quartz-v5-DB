@@ -1,14 +1,13 @@
 ---
 publish: true
 aliases:
-  - Kleistu
   - Kleissenhof
   - Lambertshof
   - Pēsaka
   - Fēgezaka
 created: 2026-09-17T07:42:10.752Z
-modified: 2026-09-29T16:07:32.305Z
-published: 2026-09-29T16:07:32.305Z
+modified: 2026-10-01T16:52:27.374Z
+published: 2026-10-01T16:52:27.374Z
 tags:
   - Rīga
   - Vidzeme
@@ -40,6 +39,6 @@ Vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Ri
 
 #### No avotiem
 
-Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem:" 5/8.[^1]
+Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 5/8.[^1]
 
 [^1]: LVVA 6810\_1\_52

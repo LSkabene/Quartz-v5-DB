@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Neu-Kalnemuische
 created: 2026-09-23T16:23:51.312Z
-modified: 2026-09-23T17:25:45.405Z
-published: 2026-09-23T17:25:45.405Z
+modified: 2026-10-01T16:04:37.908Z
+published: 2026-10-01T16:04:37.908Z
 tags:
   - veids/pusmuiža
   - Vidzeme

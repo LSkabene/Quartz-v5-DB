@@ -4,8 +4,8 @@ aliases:
   - Strykenhof
   - Strikenhof
 created: 2026-09-23T17:21:49.877Z
-modified: 2026-09-29T16:07:33.941Z
-published: 2026-09-29T16:07:33.941Z
+modified: 2026-10-01T16:04:21.050Z
+published: 2026-10-01T16:04:21.050Z
 tags:
   - veids_vēsturiski/publiskā
   - veids_vēsturiski/publiskā_pēc_Hūna

@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Jaunķempes
 created: 2026-07-23T18:12:54.688Z
-modified: 2026-09-29T16:07:31.949Z
-published: 2026-09-29T16:07:31.949Z
+modified: 2026-10-01T16:35:07.633Z
+published: 2026-10-01T16:35:07.633Z
 tags:
   - veids/privātmuiža
   - Vidzeme
@@ -31,6 +31,6 @@ map_color:
 map_icon:
 ---
 
-Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem:" 4 4/8.[^1]
+Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 4 4/8.[^1]
 
 [^1]: LVVA 6810\_1\_52

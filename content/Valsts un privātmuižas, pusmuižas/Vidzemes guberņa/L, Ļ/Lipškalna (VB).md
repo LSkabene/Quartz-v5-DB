@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Lipskalna
 created: 2026-04-02T15:39:49.896Z
-modified: 2026-09-29T16:07:32.721Z
-published: 2026-09-29T16:07:32.721Z
+modified: 2026-10-01T16:04:20.815Z
+published: 2026-10-01T16:04:20.815Z
 tags:
   - veids/organizāciju
   - veids/organizāciju/vidzemes_bruņniecība

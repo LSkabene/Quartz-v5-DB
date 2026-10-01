@@ -6,8 +6,8 @@ aliases:
   - Schloss Salishof
   - Salisburg mit Idden
 created: 2026-09-23T16:06:56.447Z
-modified: 2026-09-23T16:15:46.857Z
-published: 2026-09-23T16:15:46.857Z
+modified: 2026-10-01T16:04:21.074Z
+published: 2026-10-01T16:04:21.074Z
 tags:
   - veids/privātmuiža
 veids: Privātmuiža

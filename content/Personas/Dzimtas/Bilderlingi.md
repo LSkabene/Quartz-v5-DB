@@ -7,6 +7,6 @@ modified: 2026-09-21T06:06:02.569Z
 published: 2026-09-21T06:06:02.569Z
 ---
 
-| Persona                                                                                           | Muižas                                                                         | Guberņa  |
-| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | -------- |
-| [[Personas/Personas/Bilderlings, Augusts Augusta d. fon.md\|Bilderlings, Augusts Augusta d. fon]] | [[Valsts un privātmuižas, pusmuižas/Kurzemes guberņa/P/Penkules.md\|Penkules]] | Kurzemes |
+| Persona                                                                                             | Muižas                                                                         | Guberņa  |
+| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | -------- |
+| [[Personas/Personas/B/Bilderlings, Augusts Augusta d. fon.md\|Bilderlings, Augusts Augusta d. fon]] | [[Valsts un privātmuižas, pusmuižas/Kurzemes guberņa/P/Penkules.md\|Penkules]] | Kurzemes |

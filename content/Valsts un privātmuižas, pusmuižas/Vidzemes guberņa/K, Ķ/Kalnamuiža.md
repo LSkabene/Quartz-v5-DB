@@ -4,8 +4,8 @@ aliases:
   - Alt-Kalnemuische
   - Kalniena
 created: 2026-09-23T15:15:58.470Z
-modified: 2026-09-23T16:35:56.642Z
-published: 2026-09-23T16:35:56.642Z
+modified: 2026-10-01T16:04:20.708Z
+published: 2026-10-01T16:04:20.708Z
 tags:
   - veids/privātmuiža
   - Vidzeme

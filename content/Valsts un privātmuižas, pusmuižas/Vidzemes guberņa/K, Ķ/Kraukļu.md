@@ -5,8 +5,8 @@ aliases:
   - Grāvenderi
   - Grafenthal
 created: 2026-09-23T16:50:16.271Z
-modified: 2026-09-29T16:07:32.435Z
-published: 2026-09-29T16:07:32.435Z
+modified: 2026-10-01T16:04:20.766Z
+published: 2026-10-01T16:04:20.766Z
 tags:
   - veids/privātmuiža
   - Vidzeme

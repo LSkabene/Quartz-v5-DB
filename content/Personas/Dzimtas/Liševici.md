@@ -10,6 +10,6 @@ modified: 2026-09-21T06:06:02.569Z
 published: 2026-09-21T06:06:02.569Z
 ---
 
-| Persona                                                                         | Muižas                                                                         | Guberņa  |
-| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | -------- |
-| [[Personas/Personas/Liševics, Jegors Jegora d..md\|Liševics, Jegors Jegora d.]] | [[Valsts un privātmuižas, pusmuižas/Kurzemes guberņa/P/Pienavas.md\|Pienavas]] | Kurzemes |
+| Persona                                                                              | Muižas                                                                         | Guberņa  |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | -------- |
+| [[Personas/Personas/L, Ļ/Liševics, Jegors Jegora d..md\|Liševics, Jegors Jegora d.]] | [[Valsts un privātmuižas, pusmuižas/Kurzemes guberņa/P/Pienavas.md\|Pienavas]] | Kurzemes |

@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Paltemar
 created: 2026-09-23T17:05:48.817Z
-modified: 2026-09-29T16:07:33.189Z
-published: 2026-09-29T16:07:33.189Z
+modified: 2026-10-01T16:04:20.924Z
+published: 2026-10-01T16:04:20.924Z
 tags:
   - Vidzeme
 veids:

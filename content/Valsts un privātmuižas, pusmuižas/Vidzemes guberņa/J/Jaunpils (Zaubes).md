@@ -4,8 +4,8 @@ aliases:
   - Zaubes
   - Jirgenburgas
 created: 2026-07-23T18:12:54.784Z
-modified: 2026-09-23T16:28:06.203Z
-published: 2026-09-23T16:28:06.203Z
+modified: 2026-10-01T16:04:20.666Z
+published: 2026-10-01T16:04:20.666Z
 tags:
   - veids/privātmuiža
 veids: Privātmuiža

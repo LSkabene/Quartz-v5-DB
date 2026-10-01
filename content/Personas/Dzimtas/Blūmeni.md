@@ -5,6 +5,6 @@ modified: 2026-09-21T06:05:40.170Z
 published: 2026-09-21T06:05:40.170Z
 ---
 
-| Persona                                                                                     | Muižas                                                                            | Guberņa  |
-| ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -------- |
-| [[Personas/Personas/Blūmens, Herberts Eduarda d. fon.md\|Blūmens, Herberts Eduarda d. fon]] | [[Valsts un privātmuižas, pusmuižas/Kurzemes guberņa/K, Ķ/Kazimiru.md\|Kazimiru]] | Kurzemes |
+| Persona                                                                                       | Muižas                                                                            | Guberņa  |
+| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -------- |
+| [[Personas/Personas/B/Blūmens, Herberts Eduarda d. fon.md\|Blūmens, Herberts Eduarda d. fon]] | [[Valsts un privātmuižas, pusmuižas/Kurzemes guberņa/K, Ķ/Kazimiru.md\|Kazimiru]] | Kurzemes |

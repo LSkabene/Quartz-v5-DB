@@ -6,8 +6,8 @@ aliases:
   - Ayskuje
   - Aiskuj
 created: 2026-04-02T15:39:49.905Z
-modified: 2026-09-29T16:07:30.270Z
-published: 2026-09-29T16:07:30.270Z
+modified: 2026-10-01T16:02:27.420Z
+published: 2026-10-01T16:02:27.420Z
 tags:
   - veids/privātmuiža
   - places
@@ -35,6 +35,6 @@ map_color: maroon
 map_icon: star
 ---
 
-Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem:" 13 5/8.[^1]
+Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 13 5/8.[^1]
 
 [^1]: LVVA 6810\_1\_52

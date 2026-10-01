@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-23T15:44:38.978Z
-modified: 2026-09-29T16:07:30.684Z
-published: 2026-09-29T16:07:30.684Z
+modified: 2026-10-01T16:08:37.829Z
+published: 2026-10-01T16:08:37.829Z
 tags:
   - veids_vēsturiski/publiskā
   - veids_vēsturiski/publiskā_pēc_Hūna
@@ -34,6 +34,6 @@ map_color:
 map_icon:
 ---
 
-Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem:" 18 1/8.[^1]
+Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 18 1/8.[^1]
 
 [^1]: LVVA 6810\_1\_52

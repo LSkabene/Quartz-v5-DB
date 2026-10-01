@@ -4,8 +4,8 @@ aliases:
   - Vegesacksholm
   - Stāles
 created: 2026-09-21T09:31:33.255Z
-modified: 2026-09-29T16:07:34.401Z
-published: 2026-09-29T16:07:34.401Z
+modified: 2026-10-01T16:04:21.141Z
+published: 2026-10-01T16:04:21.141Z
 tags:
   - veids/bruņinieku
   - veids/privātmuiža

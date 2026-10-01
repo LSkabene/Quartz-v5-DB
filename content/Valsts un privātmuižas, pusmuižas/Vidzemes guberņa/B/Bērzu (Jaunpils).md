@@ -5,8 +5,8 @@ aliases:
   - Bērzmuiža
   - Bersehof
 created: 2026-04-11T07:00:27.140Z
-modified: 2026-09-29T16:07:30.548Z
-published: 2026-09-29T16:07:30.548Z
+modified: 2026-10-01T16:08:07.987Z
+published: 2026-10-01T16:08:07.987Z
 tags:
   - veids/privātmuiža
   - Vidzeme
@@ -33,6 +33,6 @@ map_color:
 map_icon:
 ---
 
-Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem:" 3 4/8.[^1]
+Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 3 4/8.[^1]
 
 [^1]: LVVA 6810\_1\_52

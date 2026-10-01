@@ -4,8 +4,8 @@ aliases:
   - Dūķeru
   - Dīkeru
 created: 2026-04-13T16:43:43.586Z
-modified: 2026-09-29T16:07:31.396Z
-published: 2026-09-29T16:07:31.396Z
+modified: 2026-10-01T16:30:50.831Z
+published: 2026-10-01T16:30:50.831Z
 tags:
   - veids/privātmuiža
   - Vidzeme
@@ -32,6 +32,6 @@ map_color:
 map_icon:
 ---
 
-Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem:" 7 7/8.[^1]
+Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 7 7/8.[^1]
 
 [^1]: LVVA 6810\_1\_52

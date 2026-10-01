@@ -5,6 +5,6 @@ modified: 2026-09-21T06:05:40.200Z
 published: 2026-09-21T06:05:40.200Z
 ---
 
-| Persona                                                                             | Muižas                                                                                  | Guberņa  |
-| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------- |
-| [[Personas/Personas/Heikings, Eduards Juliusa d..md\|Heikings, Eduards Juliusa d.]] | [[Valsts un privātmuižas, pusmuižas/Kurzemes guberņa/L, Ļ/Lielsesavas.md\|Lielsesavas]] | Kurzemes |
+| Persona                                                                               | Muižas                                                                                  | Guberņa  |
+| ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------- |
+| [[Personas/Personas/H/Heikings, Eduards Juliusa d..md\|Heikings, Eduards Juliusa d.]] | [[Valsts un privātmuižas, pusmuižas/Kurzemes guberņa/L, Ļ/Lielsesavas.md\|Lielsesavas]] | Kurzemes |

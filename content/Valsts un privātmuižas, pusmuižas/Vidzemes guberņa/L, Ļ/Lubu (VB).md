@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Luhbenhof
 created: 2026-04-02T15:39:49.897Z
-modified: 2026-09-29T16:07:32.843Z
-published: 2026-09-29T16:07:32.843Z
+modified: 2026-10-01T16:04:20.841Z
+published: 2026-10-01T16:04:20.841Z
 tags:
   - veids/organizāciju/vidzemes_bruņniecība
   - veids/organizāciju
