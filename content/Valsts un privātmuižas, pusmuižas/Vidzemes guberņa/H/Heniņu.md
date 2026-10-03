@@ -1,13 +1,14 @@
 ---
 publish: true
-created: 2026-09-23T17:17:09.774Z
-modified: 2026-10-03T08:56:07.492Z
-published: 2026-10-03T08:56:07.492Z
+created: 2026-10-03T11:07:35.000Z
+modified: 2026-10-03T11:14:12.239Z
+published: 2026-10-03T11:14:12.239Z
 tags:
-  - Vidzeme
-veids:
-nosaukums_lv: Pullēnu
-nosaukums_ger: Pullandorf
+  - veids/pusmuiža
+  - Jāpārbauda
+veids: Pusmuiža
+nosaukums_lv: Heniņu
+nosaukums_ger: Henning
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
@@ -21,6 +22,7 @@ aprinkis_LV:
 pagasts:
 veids_vesturiski:
 parent_manor:
+  - "[[Inčukalna]]"
 half_manors:
 krogi:
 dzirnavas:
@@ -28,7 +30,3 @@ coordinates:
 map_color:
 map_icon:
 ---
-
-Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 1 5/8.[^1]
-
-[^1]: LVVA 6810\_1\_52

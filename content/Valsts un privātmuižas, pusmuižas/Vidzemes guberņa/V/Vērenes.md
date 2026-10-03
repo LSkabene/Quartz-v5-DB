@@ -1,14 +1,11 @@
 ---
 publish: true
-created: 2026-09-23T16:56:30.647Z
-modified: 2026-10-01T18:08:31.528Z
-published: 2026-10-01T18:08:31.528Z
-tags:
-  - veids/privātmuiža
-  - Vidzeme
+created: 2026-09-23T14:37:12.078Z
+modified: 2026-10-03T09:01:16.643Z
+published: 2026-10-03T09:01:16.643Z
 veids: Privātmuiža
-nosaukums_lv: Meņģeles
-nosaukums_ger: Altenwoga
+nosaukums_lv: Vērenes
+nosaukums_ger: Fehren
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
@@ -25,11 +22,12 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
+tags: []
 coordinates:
 map_color:
 map_icon:
 ---
 
-Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 8 5/8.[^1]
+Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 4 1/8.[^1]
 
 [^1]: LVVA 6810\_1\_52

@@ -1,14 +1,13 @@
 ---
 publish: true
-created: 2026-09-23T17:08:32.220Z
-modified: 2026-10-03T08:55:10.530Z
-published: 2026-10-03T08:55:10.530Z
+created: 2026-10-03T11:03:18.376Z
+modified: 2026-10-03T11:04:46.231Z
+published: 2026-10-03T11:04:46.231Z
 tags:
-  - veids/privātmuiža
   - Vidzeme
-veids: Privātmuiža
-nosaukums_lv: Pavasara
-nosaukums_ger: Pawassern
+veids:
+nosaukums_lv: Šķiliņu
+nosaukums_ger: Schilingshof
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
@@ -17,7 +16,7 @@ nosaukums_swe:
 aliases: []
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
-draudzes_novads: Slokas
+draudzes_novads: Allažu
 aprinkis_LV:
 pagasts:
 veids_vesturiski:
@@ -30,6 +29,7 @@ map_color:
 map_icon:
 ---
 
-Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 3.[^1]
+Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem:.
+Īpašnieks:.[^1]
 
 [^1]: LVVA 6810\_1\_52

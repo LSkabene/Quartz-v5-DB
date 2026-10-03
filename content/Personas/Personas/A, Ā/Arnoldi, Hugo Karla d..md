@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-25T16:42:56.690Z
-modified: 2026-10-01T17:26:22.456Z
-published: 2026-10-01T17:26:22.456Z
+modified: 2026-10-03T14:34:35.784Z
+published: 2026-10-03T14:34:35.784Z
 tags:
   - dzimta/Arnoldi
 aliases: []

@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Paltemar
 created: 2026-09-23T17:05:48.817Z
-modified: 2026-10-01T16:04:20.924Z
-published: 2026-10-01T16:04:20.924Z
+modified: 2026-10-03T08:54:27.120Z
+published: 2026-10-03T08:54:27.120Z
 tags:
   - Vidzeme
 veids:
@@ -30,6 +30,6 @@ map_color:
 map_icon:
 ---
 
-Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem:" 8 3/8.[^1]
+Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 8 3/8.[^1]
 
 [^1]: LVVA 6810\_1\_52

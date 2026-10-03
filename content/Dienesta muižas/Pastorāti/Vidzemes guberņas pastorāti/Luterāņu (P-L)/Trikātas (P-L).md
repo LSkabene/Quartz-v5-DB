@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-04T11:46:45.792Z
-modified: 2026-10-01T16:04:21.074Z
-published: 2026-10-01T16:04:21.074Z
+modified: 2026-10-03T08:58:59.229Z
+published: 2026-10-03T08:58:59.229Z
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
@@ -31,6 +31,6 @@ map_color: steelblue
 map_icon: church
 ---
 
-Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem:" 3.[^1]
+Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 3.[^1]
 
 [^1]: LVVA 6810\_1\_52

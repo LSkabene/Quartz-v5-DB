@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Lipskalna
 created: 2026-04-02T15:39:49.896Z
-modified: 2026-10-01T16:04:20.815Z
-published: 2026-10-01T16:04:20.815Z
+modified: 2026-10-01T18:06:56.634Z
+published: 2026-10-01T18:06:56.634Z
 tags:
   - veids/organizāciju
   - veids/organizāciju/vidzemes_bruņniecība
@@ -34,6 +34,6 @@ map_color:
 map_icon:
 ---
 
-Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem:" 10 6/8.[^1]
+Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 10 6/8.[^1]
 
 [^1]: LVVA 6810\_1\_52

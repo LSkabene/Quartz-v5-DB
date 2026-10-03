@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-23T17:20:23.366Z
-modified: 2026-10-01T16:04:21.021Z
-published: 2026-10-01T16:04:21.021Z
+modified: 2026-10-03T08:57:36.455Z
+published: 2026-10-03T08:57:36.455Z
 tags:
   - Vidzeme
 veids:
@@ -29,6 +29,6 @@ map_color:
 map_icon:
 ---
 
-Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem:" 16.[^1]
+Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 16.[^1]
 
 [^1]: LVVA 6810\_1\_52

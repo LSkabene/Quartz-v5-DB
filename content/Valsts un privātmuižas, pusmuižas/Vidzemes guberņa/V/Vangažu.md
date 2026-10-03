@@ -1,13 +1,11 @@
 ---
 publish: true
-created: 2026-09-23T17:17:09.774Z
-modified: 2026-10-03T08:56:07.492Z
-published: 2026-10-03T08:56:07.492Z
-tags:
-  - Vidzeme
+created: 2026-10-03T11:09:02.367Z
+modified: 2026-10-03T11:10:18.548Z
+published: 2026-10-03T11:10:18.548Z
 veids:
-nosaukums_lv: Pullēnu
-nosaukums_ger: Pullandorf
+nosaukums_lv: Vangažu
+nosaukums_ger: Wangasch
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
@@ -21,14 +19,12 @@ aprinkis_LV:
 pagasts:
 veids_vesturiski:
 parent_manor:
+  - "[[Inčukalna]]"
 half_manors:
 krogi:
 dzirnavas:
+tags: []
 coordinates:
 map_color:
 map_icon:
 ---
-
-Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 1 5/8.[^1]
-
-[^1]: LVVA 6810\_1\_52

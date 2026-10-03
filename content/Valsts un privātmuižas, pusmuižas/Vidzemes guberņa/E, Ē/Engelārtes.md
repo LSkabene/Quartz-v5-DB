@@ -1,23 +1,25 @@
 ---
 publish: true
-created: 2026-09-23T16:56:30.647Z
-modified: 2026-10-01T18:08:31.528Z
-published: 2026-10-01T18:08:31.528Z
+aliases:
+  - Billes
+  - Billenhof
+created: 2026-07-18T12:56:52.959Z
+modified: 2026-10-03T11:42:43.463Z
+published: 2026-10-03T11:42:43.463Z
 tags:
   - veids/privātmuiža
   - Vidzeme
 veids: Privātmuiža
-nosaukums_lv: Meņģeles
-nosaukums_ger: Altenwoga
+nosaukums_lv: Engelārtes
+nosaukums_ger: Engelhardtshof
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
-aliases: []
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
-draudzes_novads: Madlienas
+draudzes_novads: Krimuldas-Pēterupes
 aprinkis_LV:
 pagasts:
 veids_vesturiski:
@@ -29,7 +31,3 @@ coordinates:
 map_color:
 map_icon:
 ---
-
-Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 8 5/8.[^1]
-
-[^1]: LVVA 6810\_1\_52
