@@ -1,17 +1,16 @@
 ---
 publish: true
 aliases:
-  - Bielsteinshof
-created: 2026-04-11T07:06:02.544Z
-modified: 2026-10-04T07:27:25.607Z
-published: 2026-10-04T07:27:25.607Z
+  - Klein-Bewershof
+created: 2026-10-04T07:22:10.793Z
+modified: 2026-10-04T07:24:56.607Z
+published: 2026-10-04T07:24:56.607Z
 tags:
-  - veids/privātmuiža
-  - places
   - Vidzeme
+  - veids/privātmuiža
 veids: Privātmuiža
-nosaukums_lv: Bilstiņu
-nosaukums_ger: Bilsteinshof
+nosaukums_lv: Vecbebru
+nosaukums_ger: Alt-Bewershof
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
@@ -25,7 +24,7 @@ pagasts:
 veids_vesturiski:
 parent_manor:
 half_manors:
-  - "[[Weidenhof (Bilstiņi)]]"
+  - "[[Jaunbebru]]"
 krogi:
 dzirnavas:
 coordinates:

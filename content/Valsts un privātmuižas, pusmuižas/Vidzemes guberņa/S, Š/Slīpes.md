@@ -1,25 +1,22 @@
 ---
 publish: true
-aliases:
-  - Buku
-  - Hardemoise
-created: 2026-04-11T07:42:07.587Z
-modified: 2026-10-04T07:38:21.196Z
-published: 2026-10-04T07:38:21.196Z
+created: 2026-10-03T15:24:49.831Z
+modified: 2026-10-03T15:27:00.507Z
+published: 2026-10-03T15:27:00.507Z
 tags:
-  - veids/privātmuiža
   - Vidzeme
-veids: Privātmuiža
-nosaukums_lv: Bukas
-nosaukums_ger: Suddenbach
+veids:
+nosaukums_lv: Slīpes
+nosaukums_ger: Schliepenhof
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
+aliases: []
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
-draudzes_novads: Mālpils
+draudzes_novads: Jaunpils (Zaubes)
 aprinkis_LV:
 pagasts:
 veids_vesturiski:

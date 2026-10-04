@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-10-03T09:03:19.516Z
-modified: 2026-10-03T09:17:04.868Z
-published: 2026-10-03T09:17:04.868Z
+modified: 2026-10-04T07:01:36.865Z
+published: 2026-10-04T07:01:36.865Z
 tags:
   - Vidzeme
   - veids/privātmuiža
 veids: Privātmuiža
 nosaukums_lv: Kokneses
-nosaukums_ger: Kokenhusen
+nosaukums_ger: Kokenhusen Schloss
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:

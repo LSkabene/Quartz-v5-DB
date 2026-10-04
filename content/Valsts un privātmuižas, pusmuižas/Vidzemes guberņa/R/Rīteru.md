@@ -1,17 +1,15 @@
 ---
 publish: true
 aliases:
-  - Bielsteinshof
-created: 2026-04-11T07:06:02.544Z
-modified: 2026-10-04T07:27:25.607Z
-published: 2026-10-04T07:27:25.607Z
+  - Grühtershof
+created: 2026-10-04T07:08:16.028Z
+modified: 2026-10-04T07:09:34.108Z
+published: 2026-10-04T07:09:34.108Z
 tags:
-  - veids/privātmuiža
-  - places
   - Vidzeme
-veids: Privātmuiža
-nosaukums_lv: Bilstiņu
-nosaukums_ger: Bilsteinshof
+veids:
+nosaukums_lv: Rīteru
+nosaukums_ger: Grütershof
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
@@ -24,8 +22,8 @@ aprinkis_LV:
 pagasts:
 veids_vesturiski:
 parent_manor:
+  - "[[Stukmaņu]]"
 half_manors:
-  - "[[Weidenhof (Bilstiņi)]]"
 krogi:
 dzirnavas:
 coordinates:

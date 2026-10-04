@@ -1,17 +1,16 @@
 ---
 publish: true
 aliases:
-  - Buku
-  - Hardemoise
-created: 2026-04-11T07:42:07.587Z
-modified: 2026-10-04T07:38:21.196Z
-published: 2026-10-04T07:38:21.196Z
+  - Trastenhof
+  - Simonshof
+created: 2026-10-03T15:38:06.415Z
+modified: 2026-10-03T15:40:43.528Z
+published: 2026-10-03T15:40:43.528Z
 tags:
-  - veids/privātmuiža
   - Vidzeme
-veids: Privātmuiža
-nosaukums_lv: Bukas
-nosaukums_ger: Suddenbach
+veids:
+nosaukums_lv: Trostenhofas
+nosaukums_ger: Trostenhof
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
@@ -19,11 +18,12 @@ nosaukums_pol:
 nosaukums_swe:
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
-draudzes_novads: Mālpils
+draudzes_novads: Ikšķiles-Salaspils
 aprinkis_LV:
 pagasts:
 veids_vesturiski:
 parent_manor:
+  - "[[Stopiņu]]"
 half_manors:
 krogi:
 dzirnavas:

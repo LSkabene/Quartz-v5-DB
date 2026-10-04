@@ -1,17 +1,16 @@
 ---
 publish: true
 aliases:
-  - Buku
-  - Hardemoise
-created: 2026-04-11T07:42:07.587Z
-modified: 2026-10-04T07:38:21.196Z
-published: 2026-10-04T07:38:21.196Z
+  - Rammenhof
+  - Ramas
+created: 2026-10-03T11:50:55.218Z
+modified: 2026-10-03T14:48:31.045Z
+published: 2026-10-03T14:48:31.045Z
 tags:
-  - veids/privātmuiža
   - Vidzeme
-veids: Privātmuiža
-nosaukums_lv: Bukas
-nosaukums_ger: Suddenbach
+veids:
+nosaukums_lv: Ķizbeles
+nosaukums_ger: Kipsal
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
@@ -19,7 +18,7 @@ nosaukums_pol:
 nosaukums_swe:
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
-draudzes_novads: Mālpils
+draudzes_novads: Krimuldas-Pēterupes
 aprinkis_LV:
 pagasts:
 veids_vesturiski:

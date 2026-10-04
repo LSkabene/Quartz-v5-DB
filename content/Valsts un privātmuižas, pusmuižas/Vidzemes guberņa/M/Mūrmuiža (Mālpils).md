@@ -1,17 +1,16 @@
 ---
 publish: true
 aliases:
-  - Buku
-  - Hardemoise
-created: 2026-04-11T07:42:07.587Z
-modified: 2026-10-04T07:38:21.196Z
-published: 2026-10-04T07:38:21.196Z
+  - Iggian
+  - Rodenhof
+created: 2026-10-04T07:39:00.142Z
+modified: 2026-10-04T07:43:18.553Z
+published: 2026-10-04T07:43:18.553Z
 tags:
-  - veids/privātmuiža
   - Vidzeme
-veids: Privātmuiža
-nosaukums_lv: Bukas
-nosaukums_ger: Suddenbach
+veids:
+nosaukums_lv: Mūrmuiža
+nosaukums_ger: Muremoise
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
@@ -24,6 +23,7 @@ aprinkis_LV:
 pagasts:
 veids_vesturiski:
 parent_manor:
+  - "[[Akenstakas]]"
 half_manors:
 krogi:
 dzirnavas:

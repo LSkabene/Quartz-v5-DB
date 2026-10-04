@@ -3,11 +3,10 @@ publish: true
 aliases:
   - Atradsen
 created: 2026-04-06T16:44:00.872Z
-modified: 2026-09-21T06:06:03.259Z
-published: 2026-09-21T06:06:03.259Z
+modified: 2026-10-04T07:25:59.293Z
+published: 2026-10-04T07:25:59.293Z
 tags:
   - veids/privātmuiža
-  - places
   - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Atradzes
@@ -19,7 +18,7 @@ nosaukums_pol:
 nosaukums_swe:
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
-draudzes_novads:
+draudzes_novads: Kokneses
 aprinkis_LV:
 pagasts:
 veids_vesturiski:

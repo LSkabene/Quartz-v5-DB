@@ -4,8 +4,8 @@ aliases:
   - Akenstaķes
   - Akenstakes
 created: 2026-04-02T15:39:49.906Z
-modified: 2026-09-21T06:06:03.270Z
-published: 2026-09-21T06:06:03.270Z
+modified: 2026-10-04T07:39:00.279Z
+published: 2026-10-04T07:39:00.279Z
 tags:
   - veids/privātmuiža
   - places
@@ -26,6 +26,7 @@ pagasts:
 veids_vesturiski:
 parent_manor:
 half_manors:
+  - "[[Mūrmuiža (Mālpils)]]"
 krogi:
 dzirnavas:
 coordinates:

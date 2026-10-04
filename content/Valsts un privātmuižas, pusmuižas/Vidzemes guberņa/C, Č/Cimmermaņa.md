@@ -3,10 +3,9 @@ publish: true
 aliases:
   - Cimmermana
 created: 2026-04-13T16:31:08.429Z
-modified: 2026-09-21T06:06:03.231Z
-published: 2026-09-21T06:06:03.231Z
+modified: 2026-10-03T15:35:40.147Z
+published: 2026-10-03T15:35:40.147Z
 tags:
-  - places
   - veids/privātmuiža
   - Vidzeme
 veids: Privātmuiža
@@ -24,6 +23,7 @@ aprinkis_LV:
 pagasts:
 veids_vesturiski:
 parent_manor:
+  - "[[Stopiņu]]"
 half_manors:
 krogi:
 dzirnavas:

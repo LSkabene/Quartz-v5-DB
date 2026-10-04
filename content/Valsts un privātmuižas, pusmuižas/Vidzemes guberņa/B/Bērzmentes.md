@@ -3,12 +3,12 @@ publish: true
 aliases:
   - Bersamente
   - Bersemente
+  - Siļķu
 created: 2026-04-11T06:58:48.823Z
-modified: 2026-09-21T06:06:03.120Z
-published: 2026-09-21T06:06:03.120Z
+modified: 2026-10-03T15:05:37.218Z
+published: 2026-10-03T15:05:37.218Z
 tags:
   - veids/privātmuiža
-  - places
   - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Bērzmentes
@@ -25,6 +25,7 @@ aprinkis_LV:
 pagasts:
 veids_vesturiski:
 parent_manor:
+  - "[[Ķekavas]]"
 half_manors:
 krogi:
 dzirnavas:

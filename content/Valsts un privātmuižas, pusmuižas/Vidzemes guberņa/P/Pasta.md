@@ -1,17 +1,16 @@
 ---
 publish: true
 aliases:
-  - Bielsteinshof
-created: 2026-04-11T07:06:02.544Z
-modified: 2026-10-04T07:27:25.607Z
-published: 2026-10-04T07:27:25.607Z
+  - Clauenstein
+created: 2026-10-04T07:13:28.539Z
+modified: 2026-10-04T07:20:53.793Z
+published: 2026-10-04T07:20:53.793Z
 tags:
-  - veids/privātmuiža
-  - places
   - Vidzeme
+  - veids/privātmuiža
 veids: Privātmuiža
-nosaukums_lv: Bilstiņu
-nosaukums_ger: Bilsteinshof
+nosaukums_lv: Pasta
+nosaukums_ger: Klauenstein
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
@@ -25,7 +24,6 @@ pagasts:
 veids_vesturiski:
 parent_manor:
 half_manors:
-  - "[[Weidenhof (Bilstiņi)]]"
 krogi:
 dzirnavas:
 coordinates:

@@ -1,20 +1,21 @@
 ---
 publish: true
-created: 2026-04-13T16:44:38.258Z
-modified: 2026-10-03T15:13:07.103Z
-published: 2026-10-03T15:13:07.103Z
+aliases:
+  - Nulpes
+  - Nulpenholm
+created: 2026-10-03T15:13:06.856Z
+modified: 2026-10-03T15:28:03.060Z
+published: 2026-10-03T15:28:03.060Z
 tags:
-  - veids/privātmuiža
   - Vidzeme
-veids: Privātmuiža
-nosaukums_lv: Doles
-nosaukums_ger: Dahlen
+veids:
+nosaukums_lv: Nolpes
+nosaukums_ger: Nolpenholm
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
-aliases: []
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
 draudzes_novads: Doles
@@ -22,10 +23,8 @@ aprinkis_LV:
 pagasts:
 veids_vesturiski:
 parent_manor:
+  - "[[Salaspils]]"
 half_manors:
-  - "[[Katrīnmuiža (Doles)]]"
-  - "[[Hinzenland (Doles)]]"
-  - "[[Jaunā muiža (Doles)]]"
 krogi:
 dzirnavas:
 coordinates:
