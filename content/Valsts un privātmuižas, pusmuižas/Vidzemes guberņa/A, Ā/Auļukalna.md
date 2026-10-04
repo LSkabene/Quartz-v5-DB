@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Aulkalne
 created: 2026-04-06T16:47:49.336Z
-modified: 2026-09-21T06:06:03.247Z
-published: 2026-09-21T06:06:03.247Z
+modified: 2026-10-04T13:23:41.795Z
+published: 2026-10-04T13:23:41.795Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Auļukalna
 nosaukums_ger: Aulenberg

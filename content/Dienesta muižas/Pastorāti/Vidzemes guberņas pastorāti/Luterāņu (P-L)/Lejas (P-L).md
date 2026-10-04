@@ -3,13 +3,14 @@ publish: true
 aliases:
   - Lejasciema
 created: 2026-04-02T17:18:54.808Z
-modified: 2026-09-21T06:06:03.372Z
-published: 2026-09-21T06:06:03.372Z
+modified: 2026-10-04T13:24:22.616Z
+published: 2026-10-04T13:24:22.616Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Lejas
 nosaukums_ger: Aahof Pastorat

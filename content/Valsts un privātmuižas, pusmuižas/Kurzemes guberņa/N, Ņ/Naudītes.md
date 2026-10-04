@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.499Z
-modified: 2026-09-21T06:06:02.611Z
-published: 2026-09-21T06:06:02.611Z
+modified: 2026-10-04T13:23:40.542Z
+published: 2026-10-04T13:23:40.542Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
   - īpašnieki/Rennenkampfi
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Naudītes
 nosaukums_ger: Nauditen

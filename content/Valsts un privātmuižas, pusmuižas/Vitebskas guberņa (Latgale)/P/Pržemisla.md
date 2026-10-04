@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T16:10:12.211Z
-modified: 2026-09-21T06:06:02.770Z
-published: 2026-09-21T06:06:02.770Z
+modified: 2026-10-04T13:23:51.509Z
+published: 2026-10-04T13:23:51.509Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Pržemisla
 nosaukums_ger:

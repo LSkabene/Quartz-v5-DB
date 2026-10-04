@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-23T16:15:51.105Z
-modified: 2026-10-01T16:33:37.013Z
-published: 2026-10-01T16:33:37.013Z
+modified: 2026-10-04T13:23:45.660Z
+published: 2026-10-04T13:23:45.660Z
 tags:
   - veids/privātmuiža
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Iļķēnsalas
 nosaukums_ger: Hilchensholm

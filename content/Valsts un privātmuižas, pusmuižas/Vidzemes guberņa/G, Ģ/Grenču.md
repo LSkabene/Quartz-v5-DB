@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-07-18T12:56:53.238Z
-modified: 2026-09-21T06:06:02.974Z
-published: 2026-09-21T06:06:02.974Z
+modified: 2026-10-04T13:23:44.844Z
+published: 2026-10-04T13:23:44.844Z
 tags:
   - places
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Grenču
 nosaukums_ger: Grenzhof

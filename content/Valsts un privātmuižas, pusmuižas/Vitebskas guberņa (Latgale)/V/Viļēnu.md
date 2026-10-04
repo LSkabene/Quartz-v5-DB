@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-18T05:00:19.828Z
-modified: 2026-09-21T06:06:02.718Z
-published: 2026-09-21T06:06:02.718Z
+modified: 2026-10-04T13:23:52.209Z
+published: 2026-10-04T13:23:52.209Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Viļēnu
 nosaukums_ger:

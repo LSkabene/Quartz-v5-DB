@@ -3,13 +3,14 @@ publish: true
 aliases:
   - Merķeļmuiža
 created: 2026-04-13T16:36:12.386Z
-modified: 2026-09-21T06:06:03.113Z
-published: 2026-09-21T06:06:03.113Z
+modified: 2026-10-04T13:23:43.688Z
+published: 2026-10-04T13:23:43.688Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Depkina
 nosaukums_ger: Depkinshof

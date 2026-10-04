@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-11T07:18:58.667Z
-modified: 2026-09-21T06:06:03.177Z
-published: 2026-09-21T06:06:03.177Z
+modified: 2026-10-04T13:23:42.525Z
+published: 2026-10-04T13:23:42.525Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Blomes
 nosaukums_ger: Kulsdorf

@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Lorten
 created: 2026-10-04T07:03:27.864Z
-modified: 2026-10-04T07:08:16.180Z
-published: 2026-10-04T07:08:16.180Z
+modified: 2026-10-04T13:23:48.755Z
+published: 2026-10-04T13:23:48.755Z
 tags:
   - Vidzeme
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Stukmaņu
 nosaukums_ger: Stockmanshof

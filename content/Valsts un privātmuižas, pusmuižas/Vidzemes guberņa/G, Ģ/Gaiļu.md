@@ -5,12 +5,13 @@ aliases:
   - Hāna
   - Gaiļa
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-21T06:06:02.991Z
-published: 2026-09-21T06:06:02.991Z
+modified: 2026-10-04T13:23:44.601Z
+published: 2026-10-04T13:23:44.601Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Gaiļu
 nosaukums_ger: Hahnhof

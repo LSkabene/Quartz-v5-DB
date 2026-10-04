@@ -3,10 +3,11 @@ publish: true
 aliases:
   - Stirnienas
 created: 2026-07-18T04:53:22.568Z
-modified: 2026-09-21T06:06:02.735Z
-published: 2026-09-21T06:06:02.735Z
+modified: 2026-10-04T13:23:51.876Z
+published: 2026-10-04T13:23:51.876Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Stirnienes
 nosaukums_ger:

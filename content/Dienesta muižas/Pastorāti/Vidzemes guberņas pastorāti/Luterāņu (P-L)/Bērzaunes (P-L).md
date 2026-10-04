@@ -3,13 +3,14 @@ publish: true
 aliases:
   - Bērzones
 created: 2026-04-02T15:39:49.879Z
-modified: 2026-09-21T06:06:03.399Z
-published: 2026-09-21T06:06:03.399Z
+modified: 2026-10-04T13:24:22.201Z
+published: 2026-10-04T13:24:22.201Z
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Bērzaunes
 nosaukums_ger: Bersohn

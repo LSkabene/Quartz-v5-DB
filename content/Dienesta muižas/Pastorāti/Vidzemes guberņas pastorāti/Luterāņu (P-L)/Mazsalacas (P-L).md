@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-04-04T10:57:59.578Z
-modified: 2026-09-21T06:06:03.353Z
-published: 2026-09-21T06:06:03.353Z
+modified: 2026-10-04T13:24:22.869Z
+published: 2026-10-04T13:24:22.869Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Mazsalacas
 nosaukums_ger: Salisburg Pastorat

@@ -4,13 +4,14 @@ aliases:
   - Jaunpils (Zaubes)
   - Zaubes
 created: 2026-04-02T15:39:49.889Z
-modified: 2026-09-21T06:06:03.387Z
-published: 2026-09-21T06:06:03.387Z
+modified: 2026-10-04T13:24:22.479Z
+published: 2026-10-04T13:24:22.479Z
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Jaunpils
 nosaukums_ger: Jürgensburg Pastorat

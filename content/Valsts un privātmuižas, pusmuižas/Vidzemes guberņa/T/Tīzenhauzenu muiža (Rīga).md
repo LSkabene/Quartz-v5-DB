@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-21T08:40:33.205Z
-modified: 2026-09-21T08:41:57.624Z
-published: 2026-09-21T08:41:57.624Z
+modified: 2026-10-04T13:23:49.142Z
+published: 2026-10-04T13:23:49.142Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Tīzenhauzenu
 nosaukums_ger:

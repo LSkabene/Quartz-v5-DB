@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T15:51:34.429Z
-modified: 2026-09-21T06:06:02.826Z
-published: 2026-09-21T06:06:02.826Z
+modified: 2026-10-04T13:23:51.087Z
+published: 2026-10-04T13:23:51.087Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Marinzejas
 nosaukums_ger: Mariensee

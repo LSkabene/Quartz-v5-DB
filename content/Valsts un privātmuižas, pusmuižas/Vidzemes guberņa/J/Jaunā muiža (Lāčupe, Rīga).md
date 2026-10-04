@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Lamberta
 created: 2026-09-20T07:10:30.014Z
-modified: 2026-09-21T06:06:03.022Z
-published: 2026-09-21T06:06:03.022Z
+modified: 2026-10-04T13:23:46.195Z
+published: 2026-10-04T13:23:46.195Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids:
 nosaukums_lv: Lāčupes Jaunā
 nosaukums_ger:

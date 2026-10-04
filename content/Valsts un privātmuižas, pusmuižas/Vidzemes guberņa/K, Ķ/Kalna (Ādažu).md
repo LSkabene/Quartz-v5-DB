@@ -2,11 +2,14 @@
 publish: true
 aliases:
   - Berghof
+  - Bergshof an der Jägel
+  - Jägel
 created: 2026-09-23T16:18:20.961Z
-modified: 2026-10-01T16:38:32.413Z
-published: 2026-10-01T16:38:32.413Z
+modified: 2026-10-04T13:23:46.442Z
+published: 2026-10-04T13:23:46.442Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Kalna
 nosaukums_ger: Bergshof
@@ -23,6 +26,7 @@ pagasts:
 veids_vesturiski:
 parent_manor:
 half_manors:
+  - "[[Kluses]]"
 krogi:
 dzirnavas:
 coordinates:

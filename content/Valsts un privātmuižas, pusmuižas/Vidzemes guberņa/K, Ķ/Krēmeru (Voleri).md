@@ -4,12 +4,13 @@ aliases:
   - Kremers Hof
   - Krēmera
 created: 2026-09-20T06:23:49.585Z
-modified: 2026-09-21T06:06:02.993Z
-published: 2026-09-21T06:06:02.993Z
+modified: 2026-10-04T13:23:46.859Z
+published: 2026-10-04T13:23:46.859Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Krēmeru
 nosaukums_ger: Krämershof

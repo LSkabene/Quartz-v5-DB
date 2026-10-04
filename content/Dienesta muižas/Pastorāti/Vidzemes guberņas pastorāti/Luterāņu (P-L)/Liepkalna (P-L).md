@@ -3,13 +3,14 @@ publish: true
 aliases:
   - Liepmuiža
 created: 2026-04-02T17:25:58.776Z
-modified: 2026-09-21T06:06:03.355Z
-published: 2026-09-21T06:06:03.355Z
+modified: 2026-10-04T13:24:22.655Z
+published: 2026-10-04T13:24:22.655Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Liepkalna
 nosaukums_ger: Linden Pastorat

@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-04T11:46:45.792Z
-modified: 2026-10-03T08:58:59.229Z
-published: 2026-10-03T08:58:59.229Z
+modified: 2026-10-04T13:24:23.290Z
+published: 2026-10-04T13:24:23.290Z
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Trikātas
 nosaukums_ger: Trikaten Pastorat

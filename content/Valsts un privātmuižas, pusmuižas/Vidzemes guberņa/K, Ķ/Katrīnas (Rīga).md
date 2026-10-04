@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Katrīnmuiža
 created: 2026-09-17T07:24:04.165Z
-modified: 2026-09-21T06:06:02.997Z
-published: 2026-09-21T06:06:02.997Z
+modified: 2026-10-04T13:23:46.542Z
+published: 2026-10-04T13:23:46.542Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Katrīnas
 nosaukums_ger: Katharinenhof

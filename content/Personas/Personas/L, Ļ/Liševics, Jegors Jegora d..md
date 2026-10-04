@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Лишевицъ
 created: 2026-09-02T16:41:23.701Z
-modified: 2026-10-01T15:52:49.018Z
-published: 2026-10-01T15:52:49.018Z
+modified: 2026-10-04T13:23:04.405Z
+published: 2026-10-04T13:23:04.405Z
 tags:
   - dzimta/Liševici
   - kārta/muižnieki
+  - fails/persona
 person_id: 37
 ---
 

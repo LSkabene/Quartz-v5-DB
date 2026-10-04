@@ -1,8 +1,10 @@
 ---
 publish: true
 created: 2026-09-02T16:13:53.976Z
-modified: 2026-09-21T06:05:40.283Z
-published: 2026-09-21T06:05:40.283Z
+modified: 2026-10-04T13:23:19.419Z
+published: 2026-10-04T13:23:19.419Z
+tags:
+  - fails/dzimta
 ---
 
 | Persona                                                                                       | Muižas                                                                            | Guberņa  |

@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-09-21T06:29:13.689Z
-modified: 2026-09-21T06:37:22.873Z
-published: 2026-09-21T06:37:22.873Z
+modified: 2026-10-04T13:23:47.570Z
+published: 2026-10-04T13:23:47.570Z
 tags:
   - veids/privātmuiža
   - Rīga
   - Vidzeme
   - teritorija/rīgas-patrimoniālais
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Metsū fon Danenšterna muiža
 nosaukums_ger: Metsue von Danenstern Hof

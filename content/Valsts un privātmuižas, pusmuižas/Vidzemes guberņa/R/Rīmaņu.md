@@ -3,10 +3,11 @@ publish: true
 aliases:
   - Lengmaņu
 created: 2026-10-03T11:26:48.648Z
-modified: 2026-10-03T11:29:58.299Z
-published: 2026-10-03T11:29:58.299Z
+modified: 2026-10-04T13:23:48.476Z
+published: 2026-10-04T13:23:48.476Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Rīmaņu
 nosaukums_ger: Langholm

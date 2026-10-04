@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-10-03T15:44:23.697Z
-modified: 2026-10-03T15:48:17.222Z
-published: 2026-10-03T15:48:17.222Z
+modified: 2026-10-04T13:23:46.914Z
+published: 2026-10-04T13:23:46.914Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Kurtu
 nosaukums_ger: Kurtenhof

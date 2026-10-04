@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-10-04T09:08:22.844Z
-modified: 2026-10-04T09:08:55.648Z
-published: 2026-10-04T09:08:55.648Z
+modified: 2026-10-04T13:23:46.925Z
+published: 2026-10-04T13:23:46.925Z
 tags:
   - veids/pusmuiža
   - Vidzeme
+  - fails/muiža
 veids: Pusmuiža
 nosaukums_lv: Kārļa
 nosaukums_ger: Karlshof

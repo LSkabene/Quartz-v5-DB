@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-21T10:20:21.785Z
-modified: 2026-09-21T10:21:31.012Z
-published: 2026-09-21T10:21:31.012Z
+modified: 2026-10-04T13:23:49.753Z
+published: 2026-10-04T13:23:49.753Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Zeibarta
 nosaukums_ger: Seibart

@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-09-21T06:16:35.281Z
-modified: 2026-09-23T17:28:39.194Z
-published: 2026-09-23T17:28:39.194Z
+modified: 2026-10-04T13:23:49.522Z
+published: 2026-10-04T13:23:49.522Z
 tags:
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Mazā Vējzaķsalas
 nosaukums_ger:

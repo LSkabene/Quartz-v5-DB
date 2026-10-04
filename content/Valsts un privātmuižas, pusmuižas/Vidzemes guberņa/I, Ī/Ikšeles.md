@@ -4,8 +4,10 @@ aliases:
   - Ikšķiles
   - Üxküllshof
 created: 2026-07-23T18:12:54.314Z
-modified: 2026-09-21T06:06:02.922Z
-published: 2026-09-21T06:06:02.922Z
+modified: 2026-10-04T13:23:45.508Z
+published: 2026-10-04T13:23:45.508Z
+tags:
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Ikšeles
 nosaukums_ger: Uexküllshof
@@ -24,7 +26,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-tags: []
 coordinates:
 map_color:
 map_icon:

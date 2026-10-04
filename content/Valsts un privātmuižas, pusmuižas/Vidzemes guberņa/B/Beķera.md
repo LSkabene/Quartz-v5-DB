@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-11T06:43:33.405Z
-modified: 2026-09-21T06:06:03.199Z
-published: 2026-09-21T06:06:03.199Z
+modified: 2026-10-04T13:23:42.238Z
+published: 2026-10-04T13:23:42.238Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Beķera
 nosaukums_ger: Beckershof

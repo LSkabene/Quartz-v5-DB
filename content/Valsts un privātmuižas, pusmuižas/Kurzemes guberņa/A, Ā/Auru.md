@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.019Z
-modified: 2026-09-21T06:06:02.680Z
-published: 2026-09-21T06:06:02.680Z
+modified: 2026-10-04T13:23:39.635Z
+published: 2026-10-04T13:23:39.635Z
 tags:
   - veids/kroņa_muiža
   - Kurzeme
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Auru
 nosaukums_ger: Auermünde

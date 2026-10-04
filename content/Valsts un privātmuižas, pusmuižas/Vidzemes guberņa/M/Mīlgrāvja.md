@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-09-21T06:40:23.241Z
-modified: 2026-09-21T06:41:23.608Z
-published: 2026-09-21T06:41:23.608Z
+modified: 2026-10-04T13:23:47.734Z
+published: 2026-10-04T13:23:47.734Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Milgrāvja
 nosaukums_ger:

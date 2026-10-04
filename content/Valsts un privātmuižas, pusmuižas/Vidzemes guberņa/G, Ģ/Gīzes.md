@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-21T06:06:02.947Z
-published: 2026-09-21T06:06:02.947Z
+modified: 2026-10-04T13:23:45.133Z
+published: 2026-10-04T13:23:45.133Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: ""
 nosaukums_lv: Gīzes
 nosaukums_ger: Giesenhoff

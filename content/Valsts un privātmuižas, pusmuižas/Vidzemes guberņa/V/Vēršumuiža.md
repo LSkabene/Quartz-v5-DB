@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-09-23T17:25:47.875Z
-modified: 2026-09-23T17:34:15.208Z
-published: 2026-09-23T17:34:15.208Z
+modified: 2026-10-04T13:23:49.598Z
+published: 2026-10-04T13:23:49.598Z
 tags:
   - veids/pusmuiža
   - Vidzeme
+  - fails/muiža
 veids: Pusmuiža
 nosaukums_lv: Vēršumuiža
 nosaukums_ger: Wehrschumuische

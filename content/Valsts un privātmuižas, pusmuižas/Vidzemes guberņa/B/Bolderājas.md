@@ -6,13 +6,14 @@ aliases:
   - Ahaken
   - Aahacken
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-10-01T16:09:12.302Z
-published: 2026-10-01T16:09:12.302Z
+modified: 2026-10-04T13:23:42.571Z
+published: 2026-10-04T13:23:42.571Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Bolderājas
 nosaukums_ger: Bolderaa

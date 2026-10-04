@@ -4,12 +4,13 @@ aliases:
   - Drēzena
   - Langes nams
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-21T06:06:03.091Z
-published: 2026-09-21T06:06:03.091Z
+modified: 2026-10-04T13:23:43.930Z
+published: 2026-10-04T13:23:43.930Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Drēzdena
 nosaukums_ger: Dresdenhaus

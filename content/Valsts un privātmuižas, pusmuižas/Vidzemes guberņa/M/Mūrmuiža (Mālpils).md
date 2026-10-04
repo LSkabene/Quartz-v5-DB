@@ -4,10 +4,11 @@ aliases:
   - Iggian
   - Rodenhof
 created: 2026-10-04T07:39:00.142Z
-modified: 2026-10-04T07:43:18.553Z
-published: 2026-10-04T07:43:18.553Z
+modified: 2026-10-04T13:23:47.751Z
+published: 2026-10-04T13:23:47.751Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Mūrmuiža
 nosaukums_ger: Muremoise

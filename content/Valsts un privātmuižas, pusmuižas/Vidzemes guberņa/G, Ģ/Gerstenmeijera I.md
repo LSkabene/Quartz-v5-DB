@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Gerstenmeiera
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-21T06:06:02.969Z
-published: 2026-09-21T06:06:02.969Z
+modified: 2026-10-04T13:23:44.730Z
+published: 2026-10-04T13:23:44.730Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: ""
 nosaukums_lv: Gerstenmeijera
 nosaukums_ger: ""

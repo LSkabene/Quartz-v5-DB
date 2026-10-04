@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-04-04T11:01:49.698Z
-modified: 2026-09-21T06:06:03.337Z
-published: 2026-09-21T06:06:03.337Z
+modified: 2026-10-04T13:24:22.929Z
+published: 2026-10-04T13:24:22.929Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Palsmanes
 nosaukums_ger: Palzmar Pastorat

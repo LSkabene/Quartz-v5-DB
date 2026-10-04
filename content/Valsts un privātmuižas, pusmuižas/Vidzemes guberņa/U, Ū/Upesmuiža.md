@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-09-23T17:25:19.179Z
-modified: 2026-09-23T17:27:09.997Z
-published: 2026-09-23T17:27:09.997Z
+modified: 2026-10-04T13:23:49.198Z
+published: 2026-10-04T13:23:49.198Z
 tags:
   - veids/pusmuiža
+  - fails/muiža
 veids: Pusmuiža
 nosaukums_lv: Upesmuiža
 nosaukums_ger: Uppesmuische

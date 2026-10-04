@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-10-03T15:24:49.831Z
-modified: 2026-10-03T15:27:00.507Z
-published: 2026-10-03T15:27:00.507Z
+modified: 2026-10-04T13:23:48.659Z
+published: 2026-10-04T13:23:48.659Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Slīpes
 nosaukums_ger: Schliepenhof

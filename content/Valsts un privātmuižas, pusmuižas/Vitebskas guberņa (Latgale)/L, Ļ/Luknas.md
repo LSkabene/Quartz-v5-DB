@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T17:21:52.721Z
-modified: 2026-09-21T06:06:02.785Z
-published: 2026-09-21T06:06:02.785Z
+modified: 2026-10-04T13:23:50.951Z
+published: 2026-10-04T13:23:50.951Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Luknas
 nosaukums_ger:

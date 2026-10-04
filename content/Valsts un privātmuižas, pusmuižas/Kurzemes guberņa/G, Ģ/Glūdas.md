@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Falcgrāves
 created: 2026-08-20T16:09:06.707Z
-modified: 2026-09-21T06:06:02.653Z
-published: 2026-09-21T06:06:02.653Z
+modified: 2026-10-04T13:23:39.984Z
+published: 2026-10-04T13:23:39.984Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Glūdas
 nosaukums_ger: Pfalzgrafen

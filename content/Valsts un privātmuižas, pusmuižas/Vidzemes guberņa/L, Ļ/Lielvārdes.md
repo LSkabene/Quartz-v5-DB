@@ -9,12 +9,13 @@ aliases:
   - Lennewaden
   - Lenowart
 created: 2026-04-02T15:39:49.907Z
-modified: 2026-10-04T09:32:29.295Z
-published: 2026-10-04T09:32:29.295Z
+modified: 2026-10-04T13:23:47.167Z
+published: 2026-10-04T13:23:47.167Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Lielvārdes
 nosaukums_ger: Lennewarden

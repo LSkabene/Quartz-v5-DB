@@ -3,10 +3,11 @@ publish: true
 aliases:
   - Duntenhof
 created: 2026-10-03T15:43:17.402Z
-modified: 2026-10-03T15:44:22.121Z
-published: 2026-10-03T15:44:22.121Z
+modified: 2026-10-04T13:23:47.072Z
+published: 2026-10-04T13:23:47.072Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Lauru
 nosaukums_ger: Lorenzhof

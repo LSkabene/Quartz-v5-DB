@@ -4,12 +4,13 @@ aliases:
   - Kolzen
   - Colzen
 created: 2026-04-11T07:08:39.139Z
-modified: 2026-09-21T06:06:03.118Z
-published: 2026-09-21T06:06:03.118Z
+modified: 2026-10-04T13:23:43.349Z
+published: 2026-10-04T13:23:43.349Z
 tags:
   - places
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Bīriņu
 nosaukums_ger: Koltzen

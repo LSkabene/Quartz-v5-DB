@@ -4,13 +4,14 @@ aliases:
   - Vegesacksholm
   - Stāles
 created: 2026-09-21T09:31:33.255Z
-modified: 2026-10-03T09:00:21.883Z
-published: 2026-10-03T09:00:21.883Z
+modified: 2026-10-04T13:23:49.556Z
+published: 2026-10-04T13:23:49.556Z
 tags:
   - veids/bruņinieku
   - veids/privātmuiža
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Vējzaķsalas
 nosaukums_ger: Vegesacks Hof

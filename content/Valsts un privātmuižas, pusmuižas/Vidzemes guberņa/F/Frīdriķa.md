@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-21T06:06:03.057Z
-published: 2026-09-21T06:06:03.057Z
+modified: 2026-10-04T13:23:44.583Z
+published: 2026-10-04T13:23:44.583Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: ""
 nosaukums_lv: Frīdriķa
 nosaukums_ger: Friedrichshöfchen

@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.325Z
-modified: 2026-09-21T06:06:02.639Z
-published: 2026-09-21T06:06:02.639Z
+modified: 2026-10-04T13:23:40.227Z
+published: 2026-10-04T13:23:40.227Z
 tags:
   - Kurzeme
   - veids/kroņa_pusmuiža
+  - fails/muiža
 veids: Kroņa pusmuiža
 nosaukums_lv: Katrīnas
 nosaukums_ger: Katharinenhof

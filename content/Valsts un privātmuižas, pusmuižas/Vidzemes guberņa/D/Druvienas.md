@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Druwen
 created: 2026-04-13T17:05:50.963Z
-modified: 2026-09-21T06:06:03.072Z
-published: 2026-09-21T06:06:03.072Z
+modified: 2026-10-04T13:23:43.911Z
+published: 2026-10-04T13:23:43.911Z
 tags:
   - places
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Druvienas
 nosaukums_ger: Druween

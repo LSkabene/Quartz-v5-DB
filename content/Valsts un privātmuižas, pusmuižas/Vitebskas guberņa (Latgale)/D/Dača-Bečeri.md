@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T16:46:42.597Z
-modified: 2026-09-21T06:06:02.886Z
-published: 2026-09-21T06:06:02.886Z
+modified: 2026-10-04T13:23:50.311Z
+published: 2026-10-04T13:23:50.311Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Dača-Bečeri
 nosaukums_ger:

@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-10-03T15:29:42.248Z
-modified: 2026-10-03T15:51:22.523Z
-published: 2026-10-03T15:51:22.523Z
+modified: 2026-10-04T13:23:49.182Z
+published: 2026-10-04T13:23:49.182Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Ulbrokas
 nosaukums_ger: Stubbensee

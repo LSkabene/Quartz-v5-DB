@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Nödingshof
 created: 2026-10-04T07:43:18.355Z
-modified: 2026-10-04T07:45:48.626Z
-published: 2026-10-04T07:45:48.626Z
+modified: 2026-10-04T13:23:46.618Z
+published: 2026-10-04T13:23:46.618Z
 tags:
   - Vidzeme
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Kniediņu
 nosaukums_ger: Kaltenbrunn

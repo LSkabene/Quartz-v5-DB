@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-01T16:51:06.877Z
-modified: 2026-09-21T06:06:02.812Z
-published: 2026-09-21T06:06:02.812Z
+modified: 2026-10-04T13:23:50.194Z
+published: 2026-10-04T13:23:50.194Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Bismuiža
 nosaukums_ger:

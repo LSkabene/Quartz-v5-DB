@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-13T17:06:38.800Z
-modified: 2026-09-21T06:06:03.089Z
-published: 2026-09-21T06:06:03.089Z
+modified: 2026-10-04T13:23:43.948Z
+published: 2026-10-04T13:23:43.948Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Dubinskas
 nosaukums_ger: Dubinsky

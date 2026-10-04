@@ -3,10 +3,11 @@ publish: true
 aliases:
   - Jaunā muiža
 created: 2026-10-03T11:47:25.425Z
-modified: 2026-10-03T11:50:55.358Z
-published: 2026-10-03T11:50:55.358Z
+modified: 2026-10-04T13:23:45.945Z
+published: 2026-10-04T13:23:45.945Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Jaunkrimuldas
 nosaukums_ger: Neuhof

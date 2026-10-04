@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.876Z
-modified: 2026-09-21T06:06:03.315Z
-published: 2026-09-21T06:06:03.315Z
+modified: 2026-10-04T13:24:23.441Z
+published: 2026-10-04T13:24:23.441Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Ādažu
 nosaukums_ger: Aahof Pastorat

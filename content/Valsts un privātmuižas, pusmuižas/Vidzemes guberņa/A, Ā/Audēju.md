@@ -6,12 +6,13 @@ aliases:
   - Schulzen Hof
   - Schultzenhof
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-21T06:06:03.257Z
-published: 2026-09-21T06:06:03.257Z
+modified: 2026-10-04T13:23:41.699Z
+published: 2026-10-04T13:23:41.699Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Audēju
 nosaukums_ger: Dittmarshof

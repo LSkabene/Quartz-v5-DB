@@ -3,9 +3,10 @@ publish: true
 aliases:
   - Transehe
 created: 2026-10-03T10:49:27.708Z
-modified: 2026-10-03T10:50:19.148Z
-published: 2026-10-03T10:50:19.148Z
-tags: []
+modified: 2026-10-04T13:23:19.437Z
+published: 2026-10-04T13:23:19.437Z
+tags:
+  - fails/dzimta
 ---
 
 | Persona                                                                       | Muižas                                                                                 | Guberņa  |

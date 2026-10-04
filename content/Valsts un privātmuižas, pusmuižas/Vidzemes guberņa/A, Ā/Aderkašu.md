@@ -4,12 +4,13 @@ aliases:
   - Fistelen
   - Fistehl
 created: 2026-04-02T15:39:49.903Z
-modified: 2026-09-21T06:06:03.294Z
-published: 2026-09-21T06:06:03.294Z
+modified: 2026-10-04T13:23:41.115Z
+published: 2026-10-04T13:23:41.115Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Aderkašu
 nosaukums_ger: Fistehlen

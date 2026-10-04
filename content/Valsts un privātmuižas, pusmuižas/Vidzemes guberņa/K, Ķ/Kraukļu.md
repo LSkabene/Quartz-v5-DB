@@ -5,11 +5,12 @@ aliases:
   - Grāvenderi
   - Grafenthal
 created: 2026-09-23T16:50:16.271Z
-modified: 2026-10-01T18:05:20.269Z
-published: 2026-10-01T18:05:20.269Z
+modified: 2026-10-04T13:23:46.727Z
+published: 2026-10-04T13:23:46.727Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Kraukļu
 nosaukums_ger: Grawendahl

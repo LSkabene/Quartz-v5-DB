@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-21T10:19:11.512Z
-modified: 2026-09-21T10:20:21.879Z
-published: 2026-09-21T10:20:21.879Z
+modified: 2026-10-04T13:23:49.735Z
+published: 2026-10-04T13:23:49.735Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Zaļā
 nosaukums_ger:

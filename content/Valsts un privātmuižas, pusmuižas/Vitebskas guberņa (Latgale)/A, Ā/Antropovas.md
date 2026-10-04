@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T16:48:14.800Z
-modified: 2026-09-21T06:06:02.793Z
-published: 2026-09-21T06:06:02.793Z
+modified: 2026-10-04T13:23:50.060Z
+published: 2026-10-04T13:23:50.060Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Antropovas
 nosaukums_ger:

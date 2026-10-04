@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.650Z
-modified: 2026-09-21T06:06:02.641Z
-published: 2026-09-21T06:06:02.641Z
+modified: 2026-10-04T13:23:40.079Z
+published: 2026-10-04T13:23:40.079Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Jaunsesavas
 nosaukums_ger: Neu-Sessau

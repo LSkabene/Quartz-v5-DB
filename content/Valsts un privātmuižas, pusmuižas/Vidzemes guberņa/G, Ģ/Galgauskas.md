@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-07-18T12:56:53.106Z
-modified: 2026-09-21T06:06:02.981Z
-published: 2026-09-21T06:06:02.981Z
+modified: 2026-10-04T13:23:44.620Z
+published: 2026-10-04T13:23:44.620Z
 tags:
   - places
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Galgauskas
 nosaukums_ger: Golgowsky

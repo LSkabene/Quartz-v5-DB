@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-21T09:50:18.555Z
-modified: 2026-09-21T09:54:13.599Z
-published: 2026-09-21T09:54:13.599Z
+modified: 2026-10-04T13:23:45.679Z
+published: 2026-10-04T13:23:45.679Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Īgelštrēma
 nosaukums_ger: Igelströms Höfgen

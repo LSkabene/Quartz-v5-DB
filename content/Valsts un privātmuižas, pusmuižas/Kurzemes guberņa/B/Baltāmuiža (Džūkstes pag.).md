@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.544Z
-modified: 2026-09-21T06:06:02.677Z
-published: 2026-09-21T06:06:02.677Z
+modified: 2026-10-04T13:23:39.663Z
+published: 2026-10-04T13:23:39.663Z
 tags:
   - veids/kroņa_pusmuiža
   - Kurzeme
+  - fails/muiža
 veids: Kroņa pusmuiža
 nosaukums_lv: Baltāmuiža
 nosaukums_ger: Weisshof

@@ -3,10 +3,11 @@ publish: true
 aliases:
   - Rēmera
 created: 2026-10-03T11:30:06.420Z
-modified: 2026-10-03T11:34:10.794Z
-published: 2026-10-03T11:34:10.794Z
+modified: 2026-10-04T13:23:48.574Z
+published: 2026-10-04T13:23:48.574Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Skrīveru
 nosaukums_ger: Römershof

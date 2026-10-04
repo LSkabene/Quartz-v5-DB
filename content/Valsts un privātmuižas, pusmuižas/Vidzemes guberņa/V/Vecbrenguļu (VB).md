@@ -1,14 +1,15 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.899Z
-modified: 2026-09-21T06:06:02.894Z
-published: 2026-09-21T06:06:02.894Z
+modified: 2026-10-04T13:23:49.294Z
+published: 2026-10-04T13:23:49.294Z
 tags:
   - veids/organizāciju/vidzemes_bruņniecība
   - veids/organizāciju
   - places
   - Vidzeme
   - īpašnieki/vidzemes-bruņniecība
+  - fails/muiža
 veids: Organizāciju
 nosaukums_lv: Vecbrenguļu
 nosaukums_ger: Alt-Wrangelshof

@@ -4,13 +4,14 @@ aliases:
   - Bulmerinka
   - Bulmerinckshof
 created: 2026-09-17T07:00:45.205Z
-modified: 2026-09-21T06:06:03.024Z
-published: 2026-09-21T06:06:03.024Z
+modified: 2026-10-04T13:23:46.238Z
+published: 2026-10-04T13:23:46.238Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Jaunā
 nosaukums_ger: Neuhof

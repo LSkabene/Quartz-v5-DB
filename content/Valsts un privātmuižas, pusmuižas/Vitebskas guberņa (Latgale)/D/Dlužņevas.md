@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T16:52:28.461Z
-modified: 2026-09-21T06:06:02.882Z
-published: 2026-09-21T06:06:02.882Z
+modified: 2026-10-04T13:23:50.329Z
+published: 2026-10-04T13:23:50.329Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Dlužņevas
 nosaukums_ger:

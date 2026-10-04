@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-01T16:55:30.416Z
-modified: 2026-09-21T06:06:02.841Z
-published: 2026-09-21T06:06:02.841Z
+modified: 2026-10-04T13:23:50.837Z
+published: 2026-10-04T13:23:50.837Z
 tags:
   - Latgale
   - veids/folvarks
+  - fails/muiža
 veids: Folvarks
 nosaukums_lv: Kovaļku
 nosaukums_ger:

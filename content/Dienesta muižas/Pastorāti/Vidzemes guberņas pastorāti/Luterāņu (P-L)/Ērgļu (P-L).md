@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.885Z
-modified: 2026-09-21T06:06:03.310Z
-published: 2026-09-21T06:06:03.310Z
+modified: 2026-10-04T13:24:23.486Z
+published: 2026-10-04T13:24:23.486Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Ērgļu
 nosaukums_ger: Erlaa Pastorat

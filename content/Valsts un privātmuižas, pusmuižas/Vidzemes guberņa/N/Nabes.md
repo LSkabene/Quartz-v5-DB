@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-10-03T10:51:56.687Z
-modified: 2026-10-03T10:54:03.180Z
-published: 2026-10-03T10:54:03.180Z
+modified: 2026-10-04T13:23:47.769Z
+published: 2026-10-04T13:23:47.769Z
 tags:
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Nabes
 nosaukums_ger: Nabben

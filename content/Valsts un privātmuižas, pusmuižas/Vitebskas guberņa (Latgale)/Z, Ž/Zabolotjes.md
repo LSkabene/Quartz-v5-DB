@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-07-30T17:12:32.273Z
-modified: 2026-09-21T06:06:02.693Z
-published: 2026-09-21T06:06:02.693Z
+modified: 2026-10-04T13:23:52.268Z
+published: 2026-10-04T13:23:52.268Z
 tags:
   - veids/folvarks
   - Latgale
+  - fails/muiža
 veids: Folvarks
 nosaukums_lv: Zabolotjes
 nosaukums_ger:

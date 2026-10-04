@@ -4,10 +4,11 @@ aliases:
   - Nulpes
   - Nulpenholm
 created: 2026-10-03T15:13:06.856Z
-modified: 2026-10-03T15:28:03.060Z
-published: 2026-10-03T15:28:03.060Z
+modified: 2026-10-04T13:23:47.787Z
+published: 2026-10-04T13:23:47.787Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Nolpes
 nosaukums_ger: Nolpenholm

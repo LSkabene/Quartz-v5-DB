@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-13T17:10:29.086Z
-modified: 2026-09-21T06:06:03.072Z
-published: 2026-09-21T06:06:03.072Z
+modified: 2026-10-04T13:23:44.207Z
+published: 2026-10-04T13:23:44.207Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Dūķeru
 nosaukums_ger: Duckershof

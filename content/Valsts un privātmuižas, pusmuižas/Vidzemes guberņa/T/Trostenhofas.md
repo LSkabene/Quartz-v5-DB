@@ -4,10 +4,11 @@ aliases:
   - Trastenhof
   - Simonshof
 created: 2026-10-03T15:38:06.415Z
-modified: 2026-10-03T15:40:43.528Z
-published: 2026-10-03T15:40:43.528Z
+modified: 2026-10-04T13:23:49.104Z
+published: 2026-10-04T13:23:49.104Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Trostenhofas
 nosaukums_ger: Trostenhof

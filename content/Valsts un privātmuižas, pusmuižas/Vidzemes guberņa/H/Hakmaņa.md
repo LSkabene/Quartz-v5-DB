@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-09-09T16:54:52.920Z
-modified: 2026-09-21T06:06:02.937Z
-published: 2026-09-21T06:06:02.937Z
+modified: 2026-10-04T13:23:45.170Z
+published: 2026-10-04T13:23:45.170Z
 tags:
   - veids/privātmuiža
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Hakmaņa
 nosaukums_ger: Hackmanns Höfchen

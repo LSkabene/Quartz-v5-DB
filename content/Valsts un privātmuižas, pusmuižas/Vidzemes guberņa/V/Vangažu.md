@@ -1,8 +1,10 @@
 ---
 publish: true
 created: 2026-10-03T11:09:02.367Z
-modified: 2026-10-03T11:10:18.548Z
-published: 2026-10-03T11:10:18.548Z
+modified: 2026-10-04T13:23:49.256Z
+published: 2026-10-04T13:23:49.256Z
+tags:
+  - fails/muiža
 veids:
 nosaukums_lv: Vangažu
 nosaukums_ger: Wangasch
@@ -23,7 +25,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-tags: []
 coordinates:
 map_color:
 map_icon:

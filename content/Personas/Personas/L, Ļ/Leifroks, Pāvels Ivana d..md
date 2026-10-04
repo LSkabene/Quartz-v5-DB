@@ -3,10 +3,11 @@ publish: true
 aliases:
   - Лейфрокъ
 created: 2026-08-25T17:25:49.286Z
-modified: 2026-10-01T15:52:42.282Z
-published: 2026-10-01T15:52:42.282Z
+modified: 2026-10-04T13:23:04.387Z
+published: 2026-10-04T13:23:04.387Z
 tags:
   - kārta/namnieki
+  - fails/persona
 person_id: 36
 ---
 

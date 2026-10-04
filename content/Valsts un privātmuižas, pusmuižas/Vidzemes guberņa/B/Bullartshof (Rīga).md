@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-21T06:06:03.129Z
-published: 2026-09-21T06:06:03.129Z
+modified: 2026-10-04T13:23:43.078Z
+published: 2026-10-04T13:23:43.078Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: ""
 nosaukums_lv: ""
 nosaukums_ger: Bullartshof

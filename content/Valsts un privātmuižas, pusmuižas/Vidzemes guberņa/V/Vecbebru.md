@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Klein-Bewershof
 created: 2026-10-04T07:22:10.793Z
-modified: 2026-10-04T07:24:56.607Z
-published: 2026-10-04T07:24:56.607Z
+modified: 2026-10-04T13:23:49.275Z
+published: 2026-10-04T13:23:49.275Z
 tags:
   - Vidzeme
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Vecbebru
 nosaukums_ger: Alt-Bewershof

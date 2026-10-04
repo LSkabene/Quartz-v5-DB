@@ -3,13 +3,14 @@ publish: true
 aliases:
   - Gaujenes
 created: 2026-04-02T15:39:49.887Z
-modified: 2026-09-21T06:06:03.384Z
-published: 2026-09-21T06:06:03.384Z
+modified: 2026-10-04T13:24:22.398Z
+published: 2026-10-04T13:24:22.398Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Gaujienas
 nosaukums_ger: Adsel Pastorat

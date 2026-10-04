@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-10-03T14:49:34.899Z
-modified: 2026-10-03T14:54:00.081Z
-published: 2026-10-03T14:54:00.081Z
+modified: 2026-10-04T13:23:47.918Z
+published: 2026-10-04T13:23:47.918Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Pabažu
 nosaukums_ger: Pabbasch

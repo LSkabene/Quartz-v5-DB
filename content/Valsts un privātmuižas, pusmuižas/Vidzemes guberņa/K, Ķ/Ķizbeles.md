@@ -4,10 +4,11 @@ aliases:
   - Rammenhof
   - Ramas
 created: 2026-10-03T11:50:55.218Z
-modified: 2026-10-03T14:48:31.045Z
-published: 2026-10-03T14:48:31.045Z
+modified: 2026-10-04T13:23:47.001Z
+published: 2026-10-04T13:23:47.001Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Ķizbeles
 nosaukums_ger: Kipsal

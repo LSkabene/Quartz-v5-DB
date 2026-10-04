@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-30T17:32:47.785Z
-modified: 2026-09-21T06:06:02.853Z
-published: 2026-09-21T06:06:02.853Z
+modified: 2026-10-04T13:23:50.705Z
+published: 2026-10-04T13:23:50.705Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Jasencu
 nosaukums_ger:

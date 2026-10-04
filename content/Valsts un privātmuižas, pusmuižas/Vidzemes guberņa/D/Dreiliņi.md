@@ -4,12 +4,13 @@ aliases:
   - Dreilingshof
   - Stadtgut Dreylingsbusch
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-21T06:06:03.101Z
-published: 2026-09-21T06:06:03.101Z
+modified: 2026-10-04T13:23:43.817Z
+published: 2026-10-04T13:23:43.817Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: ""
 nosaukums_lv: Dreiliņi
 nosaukums_ger: Dreilingsbusch

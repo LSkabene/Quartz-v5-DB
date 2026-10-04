@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-01T16:50:27.869Z
-modified: 2026-09-21T06:06:02.793Z
-published: 2026-09-21T06:06:02.793Z
+modified: 2026-10-04T13:23:50.041Z
+published: 2026-10-04T13:23:50.041Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Antoslavas
 nosaukums_ger:

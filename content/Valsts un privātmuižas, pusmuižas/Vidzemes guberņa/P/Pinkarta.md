@@ -5,12 +5,13 @@ aliases:
   - Bieķēnsalas
   - Bieķēnu
 created: 2026-09-21T08:14:49.525Z
-modified: 2026-09-21T08:16:29.000Z
-published: 2026-09-21T08:16:29.000Z
+modified: 2026-10-04T13:23:48.012Z
+published: 2026-10-04T13:23:48.012Z
 tags:
   - Rīga
   - Vidzeme
   - teritorija/rīgas-patrimoniālais
+  - fails/muiža
 veids:
 nosaukums_lv: Pinkarta
 nosaukums_ger: Pinkartshof

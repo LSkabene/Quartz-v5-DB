@@ -3,13 +3,14 @@ publish: true
 aliases:
   - Fengeru
 created: 2026-09-09T17:07:11.366Z
-modified: 2026-09-21T06:06:02.933Z
-published: 2026-09-21T06:06:02.933Z
+modified: 2026-10-04T13:23:45.218Z
+published: 2026-10-04T13:23:45.218Z
 tags:
   - veids/privātmuiža
   - Rīga
   - Vidzeme
   - teritorija/rīgas-patrimoniālais
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Hartmaņa
 nosaukums_ger: Hartmannsches Hoffchen

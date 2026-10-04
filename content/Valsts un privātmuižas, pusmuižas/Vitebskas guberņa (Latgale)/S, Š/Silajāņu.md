@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-18T04:50:48.204Z
-modified: 2026-09-21T06:06:02.739Z
-published: 2026-09-21T06:06:02.739Z
+modified: 2026-10-04T13:23:51.839Z
+published: 2026-10-04T13:23:51.839Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Silajāņu
 nosaukums_ger:

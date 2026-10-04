@@ -5,12 +5,13 @@ aliases:
   - Lielā Tammas
   - Lielā Tammasmuiža
 created: 2026-09-20T07:22:08.695Z
-modified: 2026-09-21T06:06:02.915Z
-published: 2026-09-21T06:06:02.915Z
+modified: 2026-10-04T13:23:47.130Z
+published: 2026-10-04T13:23:47.130Z
 tags:
   - Vidzeme
   - Rīga
   - teritorija/rīgas-patrimoniālais
+  - fails/muiža
 veids:
 nosaukums_lv: Lieldammes
 nosaukums_ger: Großdammenhof

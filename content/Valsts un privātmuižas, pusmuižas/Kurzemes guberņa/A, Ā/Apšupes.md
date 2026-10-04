@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:05.992Z
-modified: 2026-09-21T06:06:02.681Z
-published: 2026-09-21T06:06:02.681Z
+modified: 2026-10-04T13:23:39.589Z
+published: 2026-10-04T13:23:39.589Z
 tags:
   - veids/kroņa_muiža
   - Kurzeme
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Apšupes
 nosaukums_ger: Apschuppen

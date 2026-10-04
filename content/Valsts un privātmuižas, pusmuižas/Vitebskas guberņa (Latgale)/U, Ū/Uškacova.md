@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-01T15:39:00.230Z
-modified: 2026-09-21T06:06:02.731Z
-published: 2026-09-21T06:06:02.731Z
+modified: 2026-10-04T13:23:52.036Z
+published: 2026-10-04T13:23:52.036Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Uškacova
 nosaukums_ger:

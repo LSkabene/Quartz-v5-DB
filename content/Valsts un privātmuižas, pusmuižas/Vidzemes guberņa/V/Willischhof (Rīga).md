@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-21T09:33:32.422Z
-modified: 2026-09-21T09:34:53.213Z
-published: 2026-09-21T09:34:53.213Z
+modified: 2026-10-04T13:23:49.651Z
+published: 2026-10-04T13:23:49.651Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv:
 nosaukums_ger: Willischhof

@@ -3,10 +3,11 @@ publish: true
 aliases:
   - Pušmucavas
 created: 2026-08-01T15:15:16.886Z
-modified: 2026-09-21T06:06:02.760Z
-published: 2026-09-21T06:06:02.760Z
+modified: 2026-10-04T13:23:51.547Z
+published: 2026-10-04T13:23:51.547Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Pušmucovas
 nosaukums_ger:

@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-04-04T11:40:04.654Z
-modified: 2026-09-21T06:06:03.327Z
-published: 2026-09-21T06:06:03.327Z
+modified: 2026-10-04T13:24:23.151Z
+published: 2026-10-04T13:24:23.151Z
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Slokas
 nosaukums_ger: Schlock Pastorat

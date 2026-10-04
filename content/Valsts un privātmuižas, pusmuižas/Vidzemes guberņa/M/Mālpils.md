@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-10-04T07:33:45.497Z
-modified: 2026-10-04T07:35:50.886Z
-published: 2026-10-04T07:35:50.886Z
+modified: 2026-10-04T13:23:47.634Z
+published: 2026-10-04T13:23:47.634Z
 tags:
   - Vidzeme
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Mālpils
 nosaukums_ger: Lemburg Schloss

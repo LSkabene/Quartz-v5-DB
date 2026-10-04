@@ -4,11 +4,12 @@ aliases:
   - Alt-Duckern
   - Neu-Duckern
 created: 2026-09-23T15:58:59.683Z
-modified: 2026-09-23T16:02:29.924Z
-published: 2026-09-23T16:02:29.924Z
+modified: 2026-10-04T13:23:43.986Z
+published: 2026-10-04T13:23:43.986Z
 tags:
   - veids/pusmuiža
   - Vidzeme
+  - fails/muiža
 veids: Pusmuiža
 nosaukums_lv: Dukuru
 nosaukums_ger: Duckern

@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-09-23T17:04:05.542Z
-modified: 2026-10-03T08:53:35.238Z
-published: 2026-10-03T08:53:35.238Z
+modified: 2026-10-04T13:23:47.893Z
+published: 2026-10-04T13:23:47.893Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Ogresmuiža
 nosaukums_ger: Ogershof

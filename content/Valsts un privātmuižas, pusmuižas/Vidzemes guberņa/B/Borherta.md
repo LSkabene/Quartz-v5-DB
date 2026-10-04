@@ -9,12 +9,13 @@ aliases:
   - Lievenhof
   - Vitinghofs-Hof
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-21T06:06:03.167Z
-published: 2026-09-21T06:06:03.167Z
+modified: 2026-10-04T13:23:42.703Z
+published: 2026-10-04T13:23:42.703Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Borherta
 nosaukums_ger: ""

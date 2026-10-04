@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T16:35:18.541Z
-modified: 2026-09-21T06:06:02.713Z
-published: 2026-09-21T06:06:02.713Z
+modified: 2026-10-04T13:23:51.979Z
+published: 2026-10-04T13:23:51.979Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Taunagas
 nosaukums_ger:

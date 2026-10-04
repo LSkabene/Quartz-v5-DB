@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-25T17:33:03.064Z
-modified: 2026-10-01T15:52:06.434Z
-published: 2026-10-01T15:52:06.434Z
+modified: 2026-10-04T13:23:04.245Z
+published: 2026-10-04T13:23:04.245Z
 tags:
   - kārta/muižnieki
   - dzimta/Heikingi
+  - fails/persona
 aliases: []
 person_id: 28
 ---

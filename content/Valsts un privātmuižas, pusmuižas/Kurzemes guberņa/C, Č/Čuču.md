@@ -4,11 +4,12 @@ aliases:
   - Cušu
   - Doblen-Oebelgunde
 created: 2026-08-20T16:09:06.865Z
-modified: 2026-09-21T06:06:02.666Z
-published: 2026-09-21T06:06:02.666Z
+modified: 2026-10-04T13:23:39.844Z
+published: 2026-10-04T13:23:39.844Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Čuču
 nosaukums_ger: Oebelgunde

@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-01T15:25:29.407Z
-modified: 2026-09-21T06:06:02.703Z
-published: 2026-09-21T06:06:02.703Z
+modified: 2026-10-04T13:23:52.290Z
+published: 2026-10-04T13:23:52.290Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Zaļesjes
 nosaukums_ger:

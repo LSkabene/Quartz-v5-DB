@@ -4,13 +4,14 @@ aliases:
   - Ziemeļ-Rūjienas
   - Nord-Rujen
 created: 2026-04-04T11:29:32.192Z
-modified: 2026-09-21T06:06:03.340Z
-published: 2026-09-21T06:06:03.340Z
+modified: 2026-10-04T13:24:23.091Z
+published: 2026-10-04T13:24:23.091Z
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Rūjienas
 nosaukums_ger: Rujen Pastorat

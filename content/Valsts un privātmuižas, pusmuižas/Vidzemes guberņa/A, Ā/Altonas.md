@@ -4,12 +4,13 @@ aliases:
   - Viesnīca "Jeruzaleme"
   - Šrēdera
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-21T06:06:03.270Z
-published: 2026-09-21T06:06:03.270Z
+modified: 2026-10-04T13:23:41.322Z
+published: 2026-10-04T13:23:41.322Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Altonas
 nosaukums_ger: ""

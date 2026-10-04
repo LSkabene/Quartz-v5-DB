@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.697Z
-modified: 2026-09-21T06:06:02.584Z
-published: 2026-09-21T06:06:02.584Z
+modified: 2026-10-04T13:23:40.912Z
+published: 2026-10-04T13:23:40.912Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Ūziņu
 nosaukums_ger: Usingen

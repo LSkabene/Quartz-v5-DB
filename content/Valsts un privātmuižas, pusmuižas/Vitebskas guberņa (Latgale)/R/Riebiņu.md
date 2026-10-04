@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-18T04:51:50.239Z
-modified: 2026-09-21T06:06:02.753Z
-published: 2026-09-21T06:06:02.753Z
+modified: 2026-10-04T13:23:51.683Z
+published: 2026-10-04T13:23:51.683Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Riebiņu
 nosaukums_ger:

@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-30T17:41:10.643Z
-modified: 2026-09-21T06:06:02.845Z
-published: 2026-09-21T06:06:02.845Z
+modified: 2026-10-04T13:23:50.800Z
+published: 2026-10-04T13:23:50.800Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Konecpoles
 nosaukums_ger:

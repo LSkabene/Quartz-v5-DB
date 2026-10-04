@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-21T10:23:49.103Z
-modified: 2026-09-21T10:25:05.059Z
-published: 2026-09-21T10:25:05.059Z
+modified: 2026-10-04T13:23:49.813Z
+published: 2026-10-04T13:23:49.813Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Zorgenfreijas
 nosaukums_ger: Sorgenfrei

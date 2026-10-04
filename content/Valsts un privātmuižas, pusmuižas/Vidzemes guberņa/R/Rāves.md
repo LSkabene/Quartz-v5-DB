@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-09-21T08:29:15.954Z
-modified: 2026-09-21T08:30:12.096Z
-published: 2026-09-21T08:30:12.096Z
+modified: 2026-10-04T13:23:48.367Z
+published: 2026-10-04T13:23:48.367Z
 tags:
   - veids/privātmuiža
   - Rīga
   - Vidzeme
   - teritorija/rīgas-patrimoniālais
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Grāves
 nosaukums_ger: Raawe Gelegenheit

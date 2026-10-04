@@ -1,14 +1,15 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.899Z
-modified: 2026-09-21T06:06:02.895Z
-published: 2026-09-21T06:06:02.895Z
+modified: 2026-10-04T13:23:49.087Z
+published: 2026-10-04T13:23:49.087Z
 tags:
   - veids/organizāciju/vidzemes_bruņniecība
   - veids/organizāciju
   - places
   - Vidzeme
   - īpašnieki/vidzemes-bruņniecība
+  - fails/muiža
 veids: Organizāciju
 nosaukums_lv: Trikātas
 nosaukums_ger: Trikaten

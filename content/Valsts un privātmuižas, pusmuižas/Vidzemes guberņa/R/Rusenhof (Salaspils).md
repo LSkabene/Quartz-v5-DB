@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-10-03T15:55:43.993Z
-modified: 2026-10-04T06:54:53.068Z
-published: 2026-10-04T06:54:53.068Z
+modified: 2026-10-04T13:23:48.350Z
+published: 2026-10-04T13:23:48.350Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv:
 nosaukums_ger: Rusenhof

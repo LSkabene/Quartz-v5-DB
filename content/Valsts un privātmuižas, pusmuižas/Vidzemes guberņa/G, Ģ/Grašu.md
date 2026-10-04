@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-07-18T12:56:53.185Z
-modified: 2026-09-21T06:06:02.977Z
-published: 2026-09-21T06:06:02.977Z
+modified: 2026-10-04T13:23:44.826Z
+published: 2026-10-04T13:23:44.826Z
 tags:
   - places
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Grašu
 nosaukums_ger: Geistershof

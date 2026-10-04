@@ -4,12 +4,13 @@ aliases:
   - Lofelta
   - Lovelta
 created: 2026-09-20T06:39:08.974Z
-modified: 2026-09-21T06:06:02.904Z
-published: 2026-09-21T06:06:02.904Z
+modified: 2026-10-04T13:23:47.224Z
+published: 2026-10-04T13:23:47.224Z
 tags:
   - Rīga
   - Vidzeme
   - teritorija/rīgas-patrimoniālais
+  - fails/muiža
 veids:
 nosaukums_lv: Lofelda
 nosaukums_ger: Lohfeldshof

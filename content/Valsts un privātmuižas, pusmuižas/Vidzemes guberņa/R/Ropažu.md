@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-09-23T16:40:31.042Z
-modified: 2026-10-03T08:56:45.676Z
-published: 2026-10-03T08:56:45.676Z
+modified: 2026-10-04T13:23:48.311Z
+published: 2026-10-04T13:23:48.311Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Ropažu
 nosaukums_ger: Rodenpois

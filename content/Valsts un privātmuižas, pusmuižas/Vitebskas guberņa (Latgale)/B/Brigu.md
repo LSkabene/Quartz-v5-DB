@@ -3,10 +3,11 @@ publish: true
 aliases:
   - Briģu
 created: 2026-07-30T17:06:36.032Z
-modified: 2026-09-21T06:06:02.809Z
-published: 2026-09-21T06:06:02.809Z
+modified: 2026-10-04T13:23:50.250Z
+published: 2026-10-04T13:23:50.250Z
 tags:
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Brigu
 nosaukums_ger:

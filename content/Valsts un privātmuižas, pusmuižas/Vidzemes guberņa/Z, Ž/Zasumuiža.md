@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-09-21T09:39:11.339Z
-modified: 2026-09-21T09:42:13.503Z
-published: 2026-09-21T09:42:13.503Z
+modified: 2026-10-04T13:23:49.716Z
+published: 2026-10-04T13:23:49.716Z
 tags:
   - veids/privātmuiža
   - Rīga
   - Vidzeme
   - teritorija/rīgas-patrimoniālais
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Zasumuiža
 nosaukums_ger: Sassenhof

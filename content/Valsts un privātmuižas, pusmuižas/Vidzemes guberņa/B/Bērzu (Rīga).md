@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-21T06:06:03.123Z
-published: 2026-09-21T06:06:03.123Z
+modified: 2026-10-04T13:23:43.331Z
+published: 2026-10-04T13:23:43.331Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: ""
 nosaukums_lv: Bērzu
 nosaukums_ger: Birkenhof

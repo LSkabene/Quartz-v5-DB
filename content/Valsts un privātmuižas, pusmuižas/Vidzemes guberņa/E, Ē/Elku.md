@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Elku ciema
 created: 2026-10-04T09:02:24.228Z
-modified: 2026-10-04T09:03:22.156Z
-published: 2026-10-04T09:03:22.156Z
+modified: 2026-10-04T13:23:44.282Z
+published: 2026-10-04T13:23:44.282Z
 tags:
   - veids/pusmuiža
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Elku
 nosaukums_ger: Elkendorf

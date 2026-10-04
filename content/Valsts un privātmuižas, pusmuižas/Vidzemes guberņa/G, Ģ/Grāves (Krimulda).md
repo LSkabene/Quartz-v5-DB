@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Wichmannshof
 created: 2026-10-03T11:45:16.205Z
-modified: 2026-10-03T11:47:25.573Z
-published: 2026-10-03T11:47:25.573Z
+modified: 2026-10-04T13:23:44.934Z
+published: 2026-10-04T13:23:44.934Z
 tags:
   - veids/pusmuiža
   - Vidzeme
+  - fails/muiža
 veids: Pusmuiža
 nosaukums_lv: Grāves
 nosaukums_ger: Grawenhof

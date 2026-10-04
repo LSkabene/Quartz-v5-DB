@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-10-04T09:13:03.272Z
-modified: 2026-10-04T09:14:52.019Z
-published: 2026-10-04T09:14:52.019Z
+modified: 2026-10-04T13:23:47.439Z
+published: 2026-10-04T13:23:47.439Z
 tags:
   - veids/pusmuiža
   - Vidzeme
+  - fails/muiža
 veids: Pusmuiža
 nosaukums_lv: Mazjumpravas
 nosaukums_ger: Klein-Jungfernhof

@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-04-04T11:21:19.120Z
-modified: 2026-09-21T06:06:03.346Z
-published: 2026-09-21T06:06:03.346Z
+modified: 2026-10-04T13:24:22.948Z
+published: 2026-10-04T13:24:22.948Z
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Piņķu
 nosaukums_ger: Pinkenhof Pastorat

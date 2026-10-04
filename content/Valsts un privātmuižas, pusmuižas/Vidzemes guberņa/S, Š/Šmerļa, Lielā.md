@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-20T07:27:53.865Z
-modified: 2026-09-21T06:06:02.887Z
-published: 2026-09-21T06:06:02.887Z
+modified: 2026-10-04T13:23:48.919Z
+published: 2026-10-04T13:23:48.919Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids:
 nosaukums_lv: Lielā Šmerļa
 nosaukums_ger: Gross Schmerl

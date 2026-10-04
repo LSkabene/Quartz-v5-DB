@@ -1,14 +1,15 @@
 ---
 publish: true
 created: 2026-04-11T07:43:45.507Z
-modified: 2026-09-21T06:06:03.133Z
-published: 2026-09-21T06:06:03.133Z
+modified: 2026-10-04T13:23:43.176Z
+published: 2026-10-04T13:23:43.176Z
 tags:
   - places
   - veids/privātmuiža
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Buļļu
 nosaukums_ger: Bullenhof

@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.032Z
-modified: 2026-09-21T06:06:02.601Z
-published: 2026-09-21T06:06:02.601Z
+modified: 2026-10-04T13:23:40.637Z
+published: 2026-10-04T13:23:40.637Z
 tags:
   - Kurzeme
   - veids/kroņa_pusmuiža
+  - fails/muiža
 veids: Kroņa pusmuiža
 nosaukums_lv: Pēterfelde
 nosaukums_ger: Peterfeld

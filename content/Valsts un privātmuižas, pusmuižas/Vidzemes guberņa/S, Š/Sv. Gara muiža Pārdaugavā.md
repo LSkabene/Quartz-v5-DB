@@ -4,13 +4,14 @@ aliases:
   - Hiligen geest hove
   - Heiligen Geist Hof
 created: 2026-09-21T08:21:22.174Z
-modified: 2026-09-21T08:24:08.346Z
-published: 2026-09-21T08:24:08.346Z
+modified: 2026-10-04T13:23:48.794Z
+published: 2026-10-04T13:23:48.794Z
 tags:
   - veids/organizāciju
   - Rīga
   - Vidzeme
   - teritorija/rīgas-patrimoniālais
+  - fails/muiža
 veids: Organizāciju
 nosaukums_lv: Sv. Gara muiža
 nosaukums_ger: Heiligengeisthof

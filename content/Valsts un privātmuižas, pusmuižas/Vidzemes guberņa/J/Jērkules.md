@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-10-03T14:53:59.979Z
-modified: 2026-10-03T15:02:20.846Z
-published: 2026-10-03T15:02:20.846Z
+modified: 2026-10-04T13:23:46.388Z
+published: 2026-10-04T13:23:46.388Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Jērkules
 nosaukums_ger: Jerkul

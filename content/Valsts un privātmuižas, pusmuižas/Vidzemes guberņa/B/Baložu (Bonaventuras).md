@@ -4,11 +4,12 @@ aliases:
   - Bonawentura
   - Bonaventuras
 created: 2026-04-11T06:19:19.521Z
-modified: 2026-09-21T06:06:03.220Z
-published: 2026-09-21T06:06:03.220Z
+modified: 2026-10-04T13:23:41.953Z
+published: 2026-10-04T13:23:41.953Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Baložu
 nosaukums_ger: Bonaventura

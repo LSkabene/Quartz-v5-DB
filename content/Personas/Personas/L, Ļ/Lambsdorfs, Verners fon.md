@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-25T16:53:00.715Z
-modified: 2026-10-01T15:52:38.308Z
-published: 2026-10-01T15:52:38.308Z
+modified: 2026-10-04T13:23:04.371Z
+published: 2026-10-04T13:23:04.371Z
 tags:
   - kārta/muižnieki
   - dzimta/Lambsdorfi
   - tituls/grāfs
+  - fails/persona
 aliases: []
 person_id: 35
 ---

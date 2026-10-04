@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-07-18T12:56:52.946Z
-modified: 2026-09-21T06:06:03.050Z
-published: 2026-09-21T06:06:03.050Z
+modified: 2026-10-04T13:23:44.301Z
+published: 2026-10-04T13:23:44.301Z
 tags:
   - places
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Endzeles
 nosaukums_ger: Henselshof

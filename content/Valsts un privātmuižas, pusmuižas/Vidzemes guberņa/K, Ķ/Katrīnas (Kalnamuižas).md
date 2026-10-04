@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-09-23T16:41:13.114Z
-modified: 2026-09-23T16:42:21.539Z
-published: 2026-09-23T16:42:21.539Z
+modified: 2026-10-04T13:23:46.521Z
+published: 2026-10-04T13:23:46.521Z
 tags:
   - veids/pusmuiža
+  - fails/muiža
 veids: Pusmuiža
 nosaukums_lv: Katrīnas
 nosaukums_ger: Katharinenhof

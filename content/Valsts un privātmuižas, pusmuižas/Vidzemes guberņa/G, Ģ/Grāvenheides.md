@@ -5,12 +5,13 @@ aliases:
   - Garanska
   - Garansku
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-21T06:06:02.961Z
-published: 2026-09-21T06:06:02.961Z
+modified: 2026-10-04T13:23:44.916Z
+published: 2026-10-04T13:23:44.916Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: ""
 nosaukums_lv: Grāvenheides
 nosaukums_ger: Gravenheide

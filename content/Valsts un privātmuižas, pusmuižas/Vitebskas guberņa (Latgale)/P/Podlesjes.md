@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T16:47:11.359Z
-modified: 2026-09-21T06:06:02.777Z
-published: 2026-09-21T06:06:02.777Z
+modified: 2026-10-04T13:23:51.414Z
+published: 2026-10-04T13:23:51.414Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Podlesjes
 nosaukums_ger:

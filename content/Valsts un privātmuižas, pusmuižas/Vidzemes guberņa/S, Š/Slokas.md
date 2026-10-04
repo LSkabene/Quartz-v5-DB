@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-23T16:32:51.878Z
-modified: 2026-09-21T06:06:02.887Z
-published: 2026-09-21T06:06:02.887Z
+modified: 2026-10-04T13:23:48.639Z
+published: 2026-10-04T13:23:48.639Z
 tags:
   - veids/kroņa_muiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Slokas
 nosaukums_ger: Amt Schlock

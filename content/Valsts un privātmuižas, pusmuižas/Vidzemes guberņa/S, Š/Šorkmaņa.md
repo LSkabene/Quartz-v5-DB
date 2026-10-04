@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-21T10:13:48.516Z
-modified: 2026-09-21T10:15:11.379Z
-published: 2026-09-21T10:15:11.379Z
+modified: 2026-10-04T13:23:48.956Z
+published: 2026-10-04T13:23:48.956Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Šorkmaņa
 nosaukums_ger: Schorkmans Höfgen

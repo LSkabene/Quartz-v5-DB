@@ -3,13 +3,14 @@ publish: true
 aliases:
   - Mangaļu-Mīlgrāvja valsts
 created: 2026-09-20T08:06:14.907Z
-modified: 2026-09-21T06:06:02.945Z
-published: 2026-09-21T06:06:02.945Z
+modified: 2026-10-04T13:23:47.359Z
+published: 2026-10-04T13:23:47.359Z
 tags:
   - Rīga
   - Vidzeme
   - veids/privātmuiža
   - veids_vēsturiski/kroņa
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Mangaļu
 nosaukums_ger: Magnushof

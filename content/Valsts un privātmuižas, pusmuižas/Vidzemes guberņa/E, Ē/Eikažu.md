@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-07-18T12:56:52.912Z
-modified: 2026-09-21T06:06:03.052Z
-published: 2026-09-21T06:06:03.052Z
+modified: 2026-10-04T13:23:44.251Z
+published: 2026-10-04T13:23:44.251Z
 tags:
   - places
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Eikažu
 nosaukums_ger: Eikasch

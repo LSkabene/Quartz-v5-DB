@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-23T18:12:54.389Z
-modified: 2026-10-03T11:13:09.106Z
-published: 2026-10-03T11:13:09.106Z
+modified: 2026-10-04T13:23:45.601Z
+published: 2026-10-04T13:23:45.601Z
 tags:
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Inčukalna
 nosaukums_ger: Hinzenberg

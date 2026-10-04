@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T17:02:48.170Z
-modified: 2026-09-21T06:06:02.729Z
-published: 2026-09-21T06:06:02.729Z
+modified: 2026-10-04T13:23:52.074Z
+published: 2026-10-04T13:23:52.074Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Varanovas
 nosaukums_ger:

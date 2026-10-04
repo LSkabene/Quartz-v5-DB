@@ -1,14 +1,15 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.906Z
-modified: 2026-09-21T06:06:03.282Z
-published: 2026-09-21T06:06:03.282Z
+modified: 2026-10-04T13:23:41.213Z
+published: 2026-10-04T13:23:41.213Z
 tags:
   - veids/privātmuiža
   - pārbaudīt
   - nav_BHO
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Aizpriedes
 nosaukums_ger: Bachausen

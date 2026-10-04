@@ -4,10 +4,11 @@ aliases:
   - Ondrupine
   - Andrepna
 created: 2026-07-17T15:31:30.321Z
-modified: 2026-09-21T06:06:02.803Z
-published: 2026-09-21T06:06:02.803Z
+modified: 2026-10-04T13:23:49.928Z
+published: 2026-10-04T13:23:49.928Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Andrupenes
 nosaukums_ger:

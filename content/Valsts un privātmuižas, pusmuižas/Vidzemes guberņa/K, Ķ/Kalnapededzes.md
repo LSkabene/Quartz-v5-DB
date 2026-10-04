@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-09-23T16:38:20.003Z
-modified: 2026-09-23T16:39:34.912Z
-published: 2026-09-23T16:39:34.912Z
+modified: 2026-10-04T13:23:46.486Z
+published: 2026-10-04T13:23:46.486Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Kalnapededzes
 nosaukums_ger: Charlottenburg

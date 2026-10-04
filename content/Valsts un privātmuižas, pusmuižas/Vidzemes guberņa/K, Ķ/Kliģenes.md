@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-10-03T15:16:37.505Z
-modified: 2026-10-03T15:24:50.063Z
-published: 2026-10-03T15:24:50.063Z
+modified: 2026-10-04T13:23:46.601Z
+published: 2026-10-04T13:23:46.601Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Kliģenes
 nosaukums_ger: Gustavsberg

@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-10-03T10:36:20.154Z
-modified: 2026-10-03T10:43:24.503Z
-published: 2026-10-03T10:43:24.503Z
+modified: 2026-10-04T13:23:48.599Z
+published: 2026-10-04T13:23:48.599Z
 tags:
   - veids/kroņa_muiža
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Skujenes
 nosaukums_ger: Schujen

@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-09-23T16:56:30.647Z
-modified: 2026-10-01T18:08:31.528Z
-published: 2026-10-01T18:08:31.528Z
+modified: 2026-10-04T13:23:47.596Z
+published: 2026-10-04T13:23:47.596Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Meņģeles
 nosaukums_ger: Altenwoga

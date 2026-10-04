@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-21T08:25:18.005Z
-modified: 2026-09-21T08:27:46.175Z
-published: 2026-09-21T08:27:46.175Z
+modified: 2026-10-04T13:23:48.238Z
+published: 2026-10-04T13:23:48.238Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Reimera
 nosaukums_ger:

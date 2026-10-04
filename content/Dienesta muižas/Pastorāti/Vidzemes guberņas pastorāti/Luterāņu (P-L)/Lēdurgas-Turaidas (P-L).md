@@ -4,13 +4,14 @@ aliases:
   - Lēdurgas
   - Turaidas
 created: 2026-04-02T17:16:57.094Z
-modified: 2026-09-21T06:06:03.364Z
-published: 2026-09-21T06:06:03.364Z
+modified: 2026-10-04T13:24:22.775Z
+published: 2026-10-04T13:24:22.775Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Lēdurgas-Turaidas
 nosaukums_ger: Loddiger-Treyden Pastorat

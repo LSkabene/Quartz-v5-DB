@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-07-23T18:12:54.346Z
-modified: 2026-10-04T09:41:21.400Z
-published: 2026-10-04T09:41:21.400Z
+modified: 2026-10-04T13:23:45.637Z
+published: 2026-10-04T13:23:45.637Z
 tags:
   - Vidzeme
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Iļķenes
 nosaukums_ger: Hilchensfähr

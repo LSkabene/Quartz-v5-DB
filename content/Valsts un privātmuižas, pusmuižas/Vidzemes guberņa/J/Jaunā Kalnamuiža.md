@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Neu-Kalnemuische
 created: 2026-09-23T16:23:51.312Z
-modified: 2026-10-01T16:04:37.908Z
-published: 2026-10-01T16:04:37.908Z
+modified: 2026-10-04T13:23:46.177Z
+published: 2026-10-04T13:23:46.177Z
 tags:
   - veids/pusmuiža
   - Vidzeme
+  - fails/muiža
 veids: Pusmuiža
 nosaukums_lv: Jaunā Kalnamuiža
 nosaukums_ger: Neu-Kalnemoise

@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.480Z
-modified: 2026-09-21T06:06:02.619Z
-published: 2026-09-21T06:06:02.619Z
+modified: 2026-10-04T13:23:40.381Z
+published: 2026-10-04T13:23:40.381Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
   - īpašnieki/Heikingi
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Lielsesavas
 nosaukums_ger: Gross-Sessau

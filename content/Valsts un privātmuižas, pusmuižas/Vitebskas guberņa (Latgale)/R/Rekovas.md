@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-01T16:57:04.627Z
-modified: 2026-09-21T06:06:02.743Z
-published: 2026-09-21T06:06:02.743Z
+modified: 2026-10-04T13:23:51.644Z
+published: 2026-10-04T13:23:51.644Z
 tags:
   - Latgale
   - veids/folvarks
+  - fails/muiža
 veids: Folvarks
 nosaukums_lv: Rekovas
 nosaukums_ger:

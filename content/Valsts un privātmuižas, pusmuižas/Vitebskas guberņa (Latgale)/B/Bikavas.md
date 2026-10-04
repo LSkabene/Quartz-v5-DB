@@ -3,10 +3,11 @@ publish: true
 aliases:
   - Bikovas
 created: 2026-07-17T16:37:06.969Z
-modified: 2026-09-21T06:06:02.822Z
-published: 2026-09-21T06:06:02.822Z
+modified: 2026-10-04T13:23:50.176Z
+published: 2026-10-04T13:23:50.176Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Bikavas
 nosaukums_ger:

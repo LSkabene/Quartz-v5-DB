@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-10-03T11:03:18.376Z
-modified: 2026-10-03T11:04:46.231Z
-published: 2026-10-03T11:04:46.231Z
+modified: 2026-10-04T13:23:49.013Z
+published: 2026-10-04T13:23:49.013Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Šķiliņu
 nosaukums_ger: Schilingshof

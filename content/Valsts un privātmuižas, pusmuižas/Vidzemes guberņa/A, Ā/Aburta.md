@@ -6,12 +6,13 @@ aliases:
   - Apburta
   - Liģenes
 created: 2026-04-06T16:32:01.669Z
-modified: 2026-09-21T06:06:03.294Z
-published: 2026-09-21T06:06:03.294Z
+modified: 2026-10-04T13:23:41.097Z
+published: 2026-10-04T13:23:41.097Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Apburta
 nosaukums_ger: Lüggen

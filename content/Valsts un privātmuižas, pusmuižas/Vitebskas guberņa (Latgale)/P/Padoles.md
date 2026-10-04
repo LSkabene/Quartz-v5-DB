@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T15:58:42.692Z
-modified: 2026-09-21T06:06:02.781Z
-published: 2026-09-21T06:06:02.781Z
+modified: 2026-10-04T13:23:51.295Z
+published: 2026-10-04T13:23:51.295Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Padoles
 nosaukums_ger:

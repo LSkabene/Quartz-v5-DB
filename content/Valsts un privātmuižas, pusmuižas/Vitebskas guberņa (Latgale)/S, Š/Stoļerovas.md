@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T17:12:53.855Z
-modified: 2026-09-21T06:06:02.737Z
-published: 2026-09-21T06:06:02.737Z
+modified: 2026-10-04T13:23:51.896Z
+published: 2026-10-04T13:23:51.896Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Stoļerovas
 nosaukums_ger:

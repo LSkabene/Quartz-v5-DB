@@ -6,14 +6,15 @@ aliases:
   - Blumenthal
   - Mazā Jumpravmuiža
 created: 2026-09-09T16:57:02.651Z
-modified: 2026-09-21T09:49:56.956Z
-published: 2026-09-21T09:49:56.956Z
+modified: 2026-10-04T13:23:47.421Z
+published: 2026-10-04T13:23:47.421Z
 tags:
   - veids/organizāciju/Rīgas-pilsētas
   - īpašnieki/Rīgas-pilsēta
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: Organizāciju
 nosaukums_lv: Mazjumpravas
 nosaukums_ger: Jungfernhof

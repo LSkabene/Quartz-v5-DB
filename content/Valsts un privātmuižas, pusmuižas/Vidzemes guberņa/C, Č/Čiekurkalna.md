@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Šreijenbuša
 created: 2026-09-21T09:48:07.901Z
-modified: 2026-09-21T09:49:44.942Z
-published: 2026-09-21T09:49:44.942Z
+modified: 2026-10-04T13:23:43.580Z
+published: 2026-10-04T13:23:43.580Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Čiekurkalna
 nosaukums_ger: Schreienbusch

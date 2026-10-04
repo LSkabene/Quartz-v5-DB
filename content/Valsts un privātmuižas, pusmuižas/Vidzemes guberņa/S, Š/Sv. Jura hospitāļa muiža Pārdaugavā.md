@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-09-21T08:19:27.663Z
-modified: 2026-09-21T08:21:22.254Z
-published: 2026-09-21T08:21:22.254Z
+modified: 2026-10-04T13:23:48.814Z
+published: 2026-10-04T13:23:48.814Z
 tags:
   - veids/organizāciju
   - Rīga
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
+  - fails/muiža
 veids: Organizāciju
 nosaukums_lv: Sv. Jura hospitāļa muiža
 nosaukums_ger:

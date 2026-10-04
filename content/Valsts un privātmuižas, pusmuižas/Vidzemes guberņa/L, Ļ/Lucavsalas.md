@@ -3,14 +3,15 @@ publish: true
 aliases:
   - Lucavas
 created: 2026-09-20T07:04:34.769Z
-modified: 2026-09-21T06:06:02.909Z
-published: 2026-09-21T06:06:02.909Z
+modified: 2026-10-04T13:23:47.261Z
+published: 2026-10-04T13:23:47.261Z
 tags:
   - īpašnieki/Rīgas-pilsēta
   - veids/privātmuiža
   - Rīga
   - Vidzeme
   - teritorija/rīgas-patrimoniālais
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Lucavsalas
 nosaukums_ger: Lutzaushof

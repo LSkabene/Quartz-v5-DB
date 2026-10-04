@@ -4,14 +4,15 @@ aliases:
   - Lībiešu salas muiža
   - Langes
 created: 2026-09-20T07:12:24.951Z
-modified: 2026-09-21T06:06:02.915Z
-published: 2026-09-21T06:06:02.915Z
+modified: 2026-10-04T13:23:47.104Z
+published: 2026-10-04T13:23:47.104Z
 tags:
   - īpašnieki/Rīgas-pilsēta
   - veids/privātmuiža
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Libekas
 nosaukums_ger: Lübecksholmshof

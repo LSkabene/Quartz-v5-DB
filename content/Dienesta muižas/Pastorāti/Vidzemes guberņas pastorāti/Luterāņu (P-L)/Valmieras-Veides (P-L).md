@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-04-04T11:50:54.332Z
-modified: 2026-09-21T06:06:03.317Z
-published: 2026-09-21T06:06:03.317Z
+modified: 2026-10-04T13:24:23.391Z
+published: 2026-10-04T13:24:23.391Z
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Valmieras-Veides
 nosaukums_ger: Wolmar-Weidenhof Pastorat

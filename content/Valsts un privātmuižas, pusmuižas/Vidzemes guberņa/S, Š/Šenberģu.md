@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-21T10:06:08.861Z
-modified: 2026-09-21T10:13:48.623Z
-published: 2026-09-21T10:13:48.623Z
+modified: 2026-10-04T13:23:48.894Z
+published: 2026-10-04T13:23:48.894Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Šenberģu
 nosaukums_ger:

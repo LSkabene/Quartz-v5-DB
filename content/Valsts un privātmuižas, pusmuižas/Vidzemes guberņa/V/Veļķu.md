@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-09-23T17:29:56.035Z
-modified: 2026-10-03T09:00:37.837Z
-published: 2026-10-03T09:00:37.837Z
+modified: 2026-10-04T13:23:49.387Z
+published: 2026-10-04T13:23:49.387Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Veļķu
 nosaukums_ger: Hohenbergen

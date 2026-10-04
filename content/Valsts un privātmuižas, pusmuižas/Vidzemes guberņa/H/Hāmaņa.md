@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-13T08:31:11.329Z
-modified: 2026-09-21T06:06:02.926Z
-published: 2026-09-21T06:06:02.926Z
+modified: 2026-10-04T13:23:45.392Z
+published: 2026-10-04T13:23:45.392Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Hāmaņa
 nosaukums_ger:

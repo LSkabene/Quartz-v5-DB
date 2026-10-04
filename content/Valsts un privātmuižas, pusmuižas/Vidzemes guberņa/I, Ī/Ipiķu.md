@@ -1,8 +1,10 @@
 ---
 publish: true
 created: 2026-07-23T18:12:54.400Z
-modified: 2026-09-21T06:05:43.635Z
-published: 2026-09-21T06:05:43.635Z
+modified: 2026-10-04T13:23:45.620Z
+published: 2026-10-04T13:23:45.620Z
+tags:
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Ipiķu
 nosaukums_ger: Ippik
@@ -22,7 +24,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-tags: []
 coordinates:
 map_color:
 map_icon:

@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-01T16:55:01.944Z
-modified: 2026-09-21T06:06:02.793Z
-published: 2026-09-21T06:06:02.793Z
+modified: 2026-10-04T13:23:50.023Z
+published: 2026-10-04T13:23:50.023Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Antonovkas
 nosaukums_ger:

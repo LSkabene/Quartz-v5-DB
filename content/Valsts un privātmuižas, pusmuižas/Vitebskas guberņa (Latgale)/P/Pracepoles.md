@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-01T15:45:27.808Z
-modified: 2026-09-21T06:06:02.762Z
-published: 2026-09-21T06:06:02.762Z
+modified: 2026-10-04T13:23:51.470Z
+published: 2026-10-04T13:23:51.470Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Pracepoles
 nosaukums_ger:

@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Dragunmuiža
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-21T06:06:03.103Z
-published: 2026-09-21T06:06:03.103Z
+modified: 2026-10-04T13:23:43.799Z
+published: 2026-10-04T13:23:43.799Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Dragūnmuiža
 nosaukums_ger: Dragunshof

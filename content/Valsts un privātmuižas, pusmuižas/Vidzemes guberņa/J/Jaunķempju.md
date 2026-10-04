@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Jaunķempes
 created: 2026-07-23T18:12:54.688Z
-modified: 2026-10-01T16:35:07.633Z
-published: 2026-10-01T16:35:07.633Z
+modified: 2026-10-04T13:23:46.275Z
+published: 2026-10-04T13:23:46.275Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Jaunķempju
 nosaukums_ger: Neu-Kempenhof

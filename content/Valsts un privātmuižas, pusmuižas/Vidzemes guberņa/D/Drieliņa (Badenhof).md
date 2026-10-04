@@ -4,12 +4,13 @@ aliases:
   - Badenhofas
   - Drieliņu
 created: 2026-04-13T16:53:57.238Z
-modified: 2026-09-21T06:06:03.084Z
-published: 2026-09-21T06:06:03.084Z
+modified: 2026-10-04T13:23:43.854Z
+published: 2026-10-04T13:23:43.854Z
 tags:
   - places
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Drieliņa
 nosaukums_ger: Badenhof

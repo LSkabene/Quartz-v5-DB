@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.890Z
-modified: 2026-09-21T06:06:03.370Z
-published: 2026-09-21T06:06:03.370Z
+modified: 2026-10-04T13:24:22.498Z
+published: 2026-10-04T13:24:22.498Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Kalsnavas
 nosaukums_ger: Calzenau Pastorat

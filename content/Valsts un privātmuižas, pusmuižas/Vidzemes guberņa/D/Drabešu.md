@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Drobusch
 created: 2026-04-13T16:49:47.238Z
-modified: 2026-09-21T06:06:03.097Z
-published: 2026-09-21T06:06:03.097Z
+modified: 2026-10-04T13:23:43.782Z
+published: 2026-10-04T13:23:43.782Z
 tags:
   - pārbaudīt
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Drabešu
 nosaukums_ger: Drobbusch

@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-10-03T11:00:26.827Z
-modified: 2026-10-03T11:03:18.538Z
-published: 2026-10-03T11:03:18.538Z
+modified: 2026-10-04T13:23:48.048Z
+published: 2026-10-04T13:23:48.048Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Plānupes
 nosaukums_ger: Pullandorf

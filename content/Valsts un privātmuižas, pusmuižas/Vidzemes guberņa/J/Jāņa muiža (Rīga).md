@@ -4,12 +4,13 @@ aliases:
   - Jāņa pusmuiža
   - Johannishof
 created: 2026-09-17T07:06:40.925Z
-modified: 2026-09-21T06:06:03.015Z
-published: 2026-09-21T06:06:03.015Z
+modified: 2026-10-04T13:23:46.344Z
+published: 2026-10-04T13:23:46.344Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Jāņa
 nosaukums_ger: Johannenhof

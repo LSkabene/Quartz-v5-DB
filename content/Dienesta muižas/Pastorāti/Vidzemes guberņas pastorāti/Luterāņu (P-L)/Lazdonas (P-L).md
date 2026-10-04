@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-04-02T17:08:49.305Z
-modified: 2026-09-21T06:06:03.376Z
-published: 2026-09-21T06:06:03.376Z
+modified: 2026-10-04T13:24:22.596Z
+published: 2026-10-04T13:24:22.596Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Lazdonas
 nosaukums_ger: Lasdohn Pastorat

@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Gotarte
 created: 2026-07-18T12:56:53.125Z
-modified: 2026-09-21T06:06:02.989Z
-published: 2026-09-21T06:06:02.989Z
+modified: 2026-10-04T13:23:44.656Z
+published: 2026-10-04T13:23:44.656Z
 tags:
   - places
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Gatartas
 nosaukums_ger: Gotthardsberg

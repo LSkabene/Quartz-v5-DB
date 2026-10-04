@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Bielsteinshof
 created: 2026-04-11T07:06:02.544Z
-modified: 2026-10-04T07:27:25.607Z
-published: 2026-10-04T07:27:25.607Z
+modified: 2026-10-04T13:23:42.350Z
+published: 2026-10-04T13:23:42.350Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Bilstiņu
 nosaukums_ger: Bilsteinshof

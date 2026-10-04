@@ -3,10 +3,11 @@ publish: true
 aliases:
   - Dricēnu
 created: 2026-07-17T16:34:16.709Z
-modified: 2026-09-21T06:06:02.880Z
-published: 2026-09-21T06:06:02.880Z
+modified: 2026-10-04T13:23:50.348Z
+published: 2026-10-04T13:23:50.348Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Dricānu
 nosaukums_ger:

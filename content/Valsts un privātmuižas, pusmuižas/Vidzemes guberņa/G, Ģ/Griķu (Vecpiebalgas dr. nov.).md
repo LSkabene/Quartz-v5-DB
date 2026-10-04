@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-09-23T16:03:46.735Z
-modified: 2026-09-23T16:05:34.696Z
-published: 2026-09-23T16:05:34.696Z
+modified: 2026-10-04T13:23:44.862Z
+published: 2026-10-04T13:23:44.862Z
 tags:
   - veids/pusmuiža
   - Vidzeme
+  - fails/muiža
 veids: Pusmuiža
 nosaukums_lv: Griķu
 nosaukums_ger: Jabalinsky

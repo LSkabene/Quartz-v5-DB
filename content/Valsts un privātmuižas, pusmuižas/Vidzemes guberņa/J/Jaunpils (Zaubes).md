@@ -4,10 +4,11 @@ aliases:
   - Zaubes
   - Jirgenburgas
 created: 2026-07-23T18:12:54.784Z
-modified: 2026-10-01T16:04:20.666Z
-published: 2026-10-01T16:04:20.666Z
+modified: 2026-10-04T13:23:46.083Z
+published: 2026-10-04T13:23:46.083Z
 tags:
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Jaunpils
 nosaukums_ger: Jürgensburg

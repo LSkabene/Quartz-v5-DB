@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-30T17:39:02.687Z
-modified: 2026-09-21T06:06:02.857Z
-published: 2026-09-21T06:06:02.857Z
+modified: 2026-10-04T13:23:50.650Z
+published: 2026-10-04T13:23:50.650Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Istras
 nosaukums_ger:

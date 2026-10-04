@@ -4,10 +4,11 @@ aliases:
   - Togenen
   - Kokovsčiznas
 created: 2026-08-01T15:17:27.420Z
-modified: 2026-09-21T06:06:02.697Z
-published: 2026-09-21T06:06:02.697Z
+modified: 2026-10-04T13:23:52.306Z
+published: 2026-10-04T13:23:52.306Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Zaļmuiža
 nosaukums_ger:

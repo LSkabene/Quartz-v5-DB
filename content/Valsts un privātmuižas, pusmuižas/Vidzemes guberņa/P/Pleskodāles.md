@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-21T08:12:52.909Z
-modified: 2026-09-21T08:14:49.597Z
-published: 2026-09-21T08:14:49.597Z
+modified: 2026-10-04T13:23:48.030Z
+published: 2026-10-04T13:23:48.030Z
 tags:
   - Rīga
   - Vidzeme
   - teritorija/rīgas-patrimoniālais
+  - fails/muiža
 veids:
 nosaukums_lv: Pleskodāles
 nosaukums_ger: Pleskodahl

@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-10-04T07:27:25.466Z
-modified: 2026-10-04T07:31:23.484Z
-published: 2026-10-04T07:31:23.484Z
+modified: 2026-10-04T13:23:49.633Z
+published: 2026-10-04T13:23:49.633Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv:
 nosaukums_ger: Weidenhof

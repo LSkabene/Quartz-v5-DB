@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-10-04T09:44:59.846Z
-modified: 2026-10-04T09:46:04.774Z
-published: 2026-10-04T09:46:04.774Z
+modified: 2026-10-04T13:23:49.369Z
+published: 2026-10-04T13:23:49.369Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Vesterotes
 nosaukums_ger: Westerotten

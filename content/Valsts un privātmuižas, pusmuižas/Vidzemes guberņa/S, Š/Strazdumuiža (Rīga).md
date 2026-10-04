@@ -4,13 +4,14 @@ aliases:
   - Trastena
   - Torvesta
 created: 2026-09-21T08:32:29.243Z
-modified: 2026-09-21T08:35:18.278Z
-published: 2026-09-21T08:35:18.278Z
+modified: 2026-10-04T13:23:48.700Z
+published: 2026-10-04T13:23:48.700Z
 tags:
   - veids/privātmuiža
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Strazdumuiža
 nosaukums_ger: Strasdenhof

@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-10-04T08:27:33.582Z
-modified: 2026-10-04T08:30:21.149Z
-published: 2026-10-04T08:30:21.149Z
+modified: 2026-10-04T13:23:47.696Z
+published: 2026-10-04T13:23:47.696Z
 tags:
   - Vidzeme
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Mārčiņas
 nosaukums_ger: Marzingshof

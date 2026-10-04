@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-09-23T16:39:34.696Z
-modified: 2026-09-23T16:40:31.210Z
-published: 2026-09-23T16:40:31.210Z
+modified: 2026-10-04T13:23:46.503Z
+published: 2026-10-04T13:23:46.503Z
 tags:
   - veids/pusmuiža
   - Vidzeme
+  - fails/muiža
 veids: Pusmuiža
 nosaukums_lv: Kangaru
 nosaukums_ger: Tupping

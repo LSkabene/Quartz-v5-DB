@@ -8,12 +8,13 @@ aliases:
   - Ludekdorfa
   - Hof Champêtre
 created: 2026-09-21T09:54:13.510Z
-modified: 2026-09-21T10:04:55.301Z
-published: 2026-09-21T10:04:55.301Z
+modified: 2026-10-04T13:23:48.855Z
+published: 2026-10-04T13:23:48.855Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Šampētera
 nosaukums_ger:

@@ -5,12 +5,13 @@ aliases:
   - Ozolkalna
   - Eichenberg Höfchen
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-21T06:06:03.263Z
-published: 2026-09-21T06:06:03.263Z
+modified: 2026-10-04T13:23:41.581Z
+published: 2026-10-04T13:23:41.581Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Arķireja
 nosaukums_ger: Archiereis Höfchen

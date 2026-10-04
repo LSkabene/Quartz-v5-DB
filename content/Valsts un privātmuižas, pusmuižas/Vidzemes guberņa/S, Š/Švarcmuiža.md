@@ -5,13 +5,14 @@ aliases:
   - Hagenshof
   - Schwartzenhof
 created: 2026-09-21T10:16:22.147Z
-modified: 2026-09-21T10:18:12.158Z
-published: 2026-09-21T10:18:12.158Z
+modified: 2026-10-04T13:23:48.995Z
+published: 2026-10-04T13:23:48.995Z
 tags:
   - veids/privātmuiža
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Švarcmuiža
 nosaukums_ger: Schwarzhof

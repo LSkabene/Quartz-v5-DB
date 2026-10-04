@@ -3,13 +3,14 @@ publish: true
 aliases:
   - Lielvārdes
 created: 2026-04-04T11:15:41.856Z
-modified: 2026-09-21T06:06:03.300Z
-published: 2026-09-21T06:06:03.300Z
+modified: 2026-10-04T13:24:23.564Z
+published: 2026-10-04T13:24:23.564Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/pareizticīgo
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Lieljumpravas
 nosaukums_ger:

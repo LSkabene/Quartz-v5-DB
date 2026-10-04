@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T16:36:22.124Z
-modified: 2026-09-21T06:06:02.731Z
-published: 2026-09-21T06:06:02.731Z
+modified: 2026-10-04T13:23:51.937Z
+published: 2026-10-04T13:23:51.937Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Škoškavas
 nosaukums_ger:

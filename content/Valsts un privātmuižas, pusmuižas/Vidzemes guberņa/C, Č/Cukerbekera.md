@@ -3,12 +3,13 @@ publish: true
 aliases:
   - De huis in det bosch
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-21T06:06:03.225Z
-published: 2026-09-21T06:06:03.225Z
+modified: 2026-10-04T13:23:43.504Z
+published: 2026-10-04T13:23:43.504Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Cukerbekera
 nosaukums_ger: Zuckerbecker Höfchen

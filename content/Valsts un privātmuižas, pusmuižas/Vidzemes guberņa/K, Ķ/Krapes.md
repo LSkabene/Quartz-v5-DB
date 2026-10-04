@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-10-04T07:20:53.503Z
-modified: 2026-10-04T07:22:11.003Z
-published: 2026-10-04T07:22:11.003Z
+modified: 2026-10-04T13:23:46.712Z
+published: 2026-10-04T13:23:46.712Z
 tags:
   - Vidzeme
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Krapes
 nosaukums_ger: Kroppenhof

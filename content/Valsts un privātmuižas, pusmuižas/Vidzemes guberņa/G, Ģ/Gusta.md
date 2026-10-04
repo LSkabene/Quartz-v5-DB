@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-07-18T12:56:53.309Z
-modified: 2026-09-21T06:06:02.957Z
-published: 2026-09-21T06:06:02.957Z
+modified: 2026-10-04T13:23:45.077Z
+published: 2026-10-04T13:23:45.077Z
 tags:
   - places
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Gusta
 nosaukums_ger: Gränhof

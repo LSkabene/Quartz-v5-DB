@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-07-18T12:56:53.275Z
-modified: 2026-09-21T06:06:02.973Z
-published: 2026-09-21T06:06:02.973Z
+modified: 2026-10-04T13:23:44.898Z
+published: 2026-10-04T13:23:44.898Z
 tags:
   - places
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Grundzāles
 nosaukums_ger: Grundsahl

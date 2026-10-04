@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-18T04:55:32.847Z
-modified: 2026-09-21T06:06:02.876Z
-published: 2026-09-21T06:06:02.876Z
+modified: 2026-10-04T13:23:50.422Z
+published: 2026-10-04T13:23:50.422Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Eleanoras
 nosaukums_ger:

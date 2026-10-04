@@ -3,10 +3,11 @@ publish: true
 aliases:
   - Feļicianava
 created: 2026-07-30T17:33:16.969Z
-modified: 2026-09-21T06:06:02.870Z
-published: 2026-09-21T06:06:02.870Z
+modified: 2026-10-04T13:23:50.465Z
+published: 2026-10-04T13:23:50.465Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Felicianovas
 nosaukums_ger:

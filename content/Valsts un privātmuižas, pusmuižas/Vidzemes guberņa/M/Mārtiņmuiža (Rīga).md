@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-21T06:54:14.465Z
-modified: 2026-09-21T06:56:47.866Z
-published: 2026-09-21T06:56:47.866Z
+modified: 2026-10-04T13:23:47.679Z
+published: 2026-10-04T13:23:47.679Z
 tags:
   - Rīga
   - Vidzeme
   - teritorija/rīgas-patrimoniālais
+  - fails/muiža
 veids:
 nosaukums_lv: Mārtiņmuiža
 nosaukums_ger: Martinshof

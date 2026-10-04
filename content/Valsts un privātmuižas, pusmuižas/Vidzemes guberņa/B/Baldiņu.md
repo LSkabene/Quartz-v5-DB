@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-04-11T06:14:42.706Z
-modified: 2026-09-21T06:06:03.223Z
-published: 2026-09-21T06:06:03.223Z
+modified: 2026-10-04T13:23:41.945Z
+published: 2026-10-04T13:23:41.945Z
 tags:
   - veids/privātmuiža
   - places
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Baldiņu
 nosaukums_ger: Baldingshoff

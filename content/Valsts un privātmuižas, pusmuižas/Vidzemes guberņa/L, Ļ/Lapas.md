@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-10-04T07:09:34.125Z
-modified: 2026-10-04T07:12:29.651Z
-published: 2026-10-04T07:12:29.651Z
+modified: 2026-10-04T13:23:47.054Z
+published: 2026-10-04T13:23:47.054Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Lapas
 nosaukums_ger: Lapinsky

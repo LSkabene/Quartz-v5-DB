@@ -4,10 +4,11 @@ aliases:
   - Zaļummuiža
   - Zaļā
 created: 2026-08-20T16:09:05.947Z
-modified: 2026-09-21T06:06:02.574Z
-published: 2026-09-21T06:06:02.574Z
+modified: 2026-10-04T13:23:41.079Z
+published: 2026-10-04T13:23:41.079Z
 tags:
   - Kurzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Zaļāmuiža
 nosaukums_ger: Grünhof

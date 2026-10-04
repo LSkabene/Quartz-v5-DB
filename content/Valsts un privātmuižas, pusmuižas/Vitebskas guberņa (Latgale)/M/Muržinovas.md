@@ -3,10 +3,11 @@ publish: true
 aliases:
   - Muržinavas
 created: 2026-08-01T15:20:31.414Z
-modified: 2026-09-21T06:06:02.828Z
-published: 2026-09-21T06:06:02.828Z
+modified: 2026-10-04T13:23:51.182Z
+published: 2026-10-04T13:23:51.182Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Muržinovas
 nosaukums_ger:

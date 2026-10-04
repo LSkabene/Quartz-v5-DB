@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-09-23T15:10:09.208Z
-modified: 2026-09-23T17:25:45.416Z
-published: 2026-09-23T17:25:45.416Z
+modified: 2026-10-04T13:23:41.598Z
+published: 2026-10-04T13:23:41.598Z
 tags:
   - veids/pusmuiža
   - Vidzeme
+  - fails/muiža
 veids: pusmuiža
 nosaukums_lv:
 nosaukums_ger: Aschukaln

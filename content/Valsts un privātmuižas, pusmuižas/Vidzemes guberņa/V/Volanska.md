@@ -4,12 +4,13 @@ aliases:
   - Ēlera
   - Ehlers Gelegenheit
 created: 2026-09-21T09:26:56.227Z
-modified: 2026-09-21T09:28:38.197Z
-published: 2026-09-21T09:28:38.197Z
+modified: 2026-10-04T13:23:49.461Z
+published: 2026-10-04T13:23:49.461Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Volanska
 nosaukums_ger: Wolansky

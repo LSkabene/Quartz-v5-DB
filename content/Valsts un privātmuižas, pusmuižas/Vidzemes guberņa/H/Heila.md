@@ -5,13 +5,14 @@ aliases:
   - Elziņmuiža
   - Elziņmuižiņa
 created: 2026-09-13T08:12:32.747Z
-modified: 2026-09-21T06:06:02.931Z
-published: 2026-09-21T06:06:02.931Z
+modified: 2026-10-04T13:23:45.272Z
+published: 2026-10-04T13:23:45.272Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Heila
 nosaukums_ger: Heilshof

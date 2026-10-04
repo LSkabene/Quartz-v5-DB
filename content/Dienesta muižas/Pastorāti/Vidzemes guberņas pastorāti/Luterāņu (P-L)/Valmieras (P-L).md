@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-04-04T11:50:17.409Z
-modified: 2026-09-21T06:06:03.321Z
-published: 2026-09-21T06:06:03.321Z
+modified: 2026-10-04T13:24:23.370Z
+published: 2026-10-04T13:24:23.370Z
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Valmieras
 nosaukums_ger: Wolmar Pastorat

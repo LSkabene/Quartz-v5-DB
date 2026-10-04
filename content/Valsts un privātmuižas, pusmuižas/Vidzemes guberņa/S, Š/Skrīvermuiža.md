@@ -4,11 +4,12 @@ aliases:
   - Abgunste
   - Abgunst
 created: 2026-04-02T15:39:49.908Z
-modified: 2026-10-04T09:37:38.381Z
-published: 2026-10-04T09:37:38.381Z
+modified: 2026-10-04T13:23:48.553Z
+published: 2026-10-04T13:23:48.553Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Skrīvermuiža
 nosaukums_ger: Schreibershof

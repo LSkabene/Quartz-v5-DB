@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Krūzmuiža
 created: 2026-09-20T06:25:18.000Z
-modified: 2026-09-21T06:06:02.991Z
-published: 2026-09-21T06:06:02.991Z
+modified: 2026-10-04T13:23:46.898Z
+published: 2026-10-04T13:23:46.898Z
 tags:
   - Vidzeme
   - Rīga
   - teritorija/rīgas-patrimoniālais
+  - fails/muiža
 veids:
 nosaukums_lv: Krūzes
 nosaukums_ger: Krusenhof

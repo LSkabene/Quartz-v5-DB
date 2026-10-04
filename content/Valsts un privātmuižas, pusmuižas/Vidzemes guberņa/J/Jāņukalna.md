@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-09-23T16:20:15.413Z
-modified: 2026-09-23T16:22:30.946Z
-published: 2026-09-23T16:22:30.946Z
+modified: 2026-10-04T13:23:46.369Z
+published: 2026-10-04T13:23:46.369Z
 tags:
   - veids/pusmuiža
   - Vidzeme
+  - fails/muiža
 veids: Pusmuiža
 nosaukums_lv: Jāņukalna
 nosaukums_ger: Johannisfeld

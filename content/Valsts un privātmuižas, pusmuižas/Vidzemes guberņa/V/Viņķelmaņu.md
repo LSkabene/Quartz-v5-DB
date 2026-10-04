@@ -5,10 +5,11 @@ aliases:
   - Oselhof
   - Oselmoise
 created: 2026-10-03T11:34:10.652Z
-modified: 2026-10-03T11:37:26.059Z
-published: 2026-10-03T11:37:26.059Z
+modified: 2026-10-04T13:23:49.442Z
+published: 2026-10-04T13:23:49.442Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Viņķelmaņu
 nosaukums_ger: Winkelmannshof

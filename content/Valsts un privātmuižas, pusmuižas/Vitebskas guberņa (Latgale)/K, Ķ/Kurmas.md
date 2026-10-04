@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-01T15:35:22.708Z
-modified: 2026-09-21T06:06:02.847Z
-published: 2026-09-21T06:06:02.847Z
+modified: 2026-10-04T13:23:50.856Z
+published: 2026-10-04T13:23:50.856Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Kurmas
 nosaukums_ger:

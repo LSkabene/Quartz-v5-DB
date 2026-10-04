@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-09-13T08:24:52.050Z
-modified: 2026-09-21T06:06:02.927Z
-published: 2026-09-21T06:06:02.927Z
+modified: 2026-10-04T13:23:45.309Z
+published: 2026-10-04T13:23:45.309Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Helēnes
 nosaukums_ger:

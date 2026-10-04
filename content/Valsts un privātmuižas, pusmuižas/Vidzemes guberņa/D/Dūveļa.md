@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Duvela
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-21T06:06:03.067Z
-published: 2026-09-21T06:06:03.067Z
+modified: 2026-10-04T13:23:44.189Z
+published: 2026-10-04T13:23:44.189Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: ""
 nosaukums_lv: Dūveļa
 nosaukums_ger: Duvels hove

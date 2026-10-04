@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-21T06:06:03.209Z
-published: 2026-09-21T06:06:03.209Z
+modified: 2026-10-04T13:23:42.065Z
+published: 2026-10-04T13:23:42.065Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Bauma
 nosaukums_ger: ""

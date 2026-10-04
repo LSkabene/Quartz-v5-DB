@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Mazā Svētes
 created: 2026-08-20T16:09:06.853Z
-modified: 2026-09-21T06:06:02.676Z
-published: 2026-09-21T06:06:02.676Z
+modified: 2026-10-04T13:23:39.706Z
+published: 2026-10-04T13:23:39.706Z
 tags:
   - veids/kroņa_muiža
   - Kurzeme
   - veids_vēsturiski/kroņa_pusmuiža
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Boļu
 nosaukums_ger: Klein-Schwedhof

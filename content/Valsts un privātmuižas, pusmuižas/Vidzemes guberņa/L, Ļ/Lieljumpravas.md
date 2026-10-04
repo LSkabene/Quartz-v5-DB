@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Pargenhof
 created: 2026-10-04T09:10:09.908Z
-modified: 2026-10-04T09:15:09.710Z
-published: 2026-10-04T09:15:09.710Z
+modified: 2026-10-04T13:23:47.149Z
+published: 2026-10-04T13:23:47.149Z
 tags:
   - veids/privātmuiža
   - veids_vēsturiski/kroņa
   - veids_vēsturiski/publiskā
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Lieljumpravas
 nosaukums_ger: Gross-Jungfernhof

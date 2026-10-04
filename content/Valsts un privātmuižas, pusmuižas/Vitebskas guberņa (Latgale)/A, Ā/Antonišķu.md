@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-18T04:52:21.331Z
-modified: 2026-09-21T06:06:02.797Z
-published: 2026-09-21T06:06:02.797Z
+modified: 2026-10-04T13:23:50.005Z
+published: 2026-10-04T13:23:50.005Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Antonišķu
 nosaukums_ger:

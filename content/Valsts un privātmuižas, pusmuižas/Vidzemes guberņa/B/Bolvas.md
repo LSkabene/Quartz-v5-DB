@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-11T07:24:54.955Z
-modified: 2026-09-21T06:06:03.174Z
-published: 2026-09-21T06:06:03.174Z
+modified: 2026-10-04T13:23:42.589Z
+published: 2026-10-04T13:23:42.589Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Bolvas
 nosaukums_ger: Bolwa

@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Barofsky
 created: 2026-04-11T06:28:40.467Z
-modified: 2026-09-21T06:06:03.212Z
-published: 2026-09-21T06:06:03.212Z
+modified: 2026-10-04T13:23:42.021Z
+published: 2026-10-04T13:23:42.021Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Barauskas
 nosaukums_ger: Barowsky

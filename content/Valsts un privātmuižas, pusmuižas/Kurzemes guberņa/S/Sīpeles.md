@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.818Z
-modified: 2026-09-21T06:06:02.592Z
-published: 2026-09-21T06:06:02.592Z
+modified: 2026-10-04T13:23:40.836Z
+published: 2026-10-04T13:23:40.836Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Sīpeles
 nosaukums_ger: Zipelhof

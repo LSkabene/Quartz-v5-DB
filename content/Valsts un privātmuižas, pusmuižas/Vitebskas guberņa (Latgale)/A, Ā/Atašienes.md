@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T15:54:25.115Z
-modified: 2026-09-21T06:06:02.791Z
-published: 2026-09-21T06:06:02.791Z
+modified: 2026-10-04T13:23:50.079Z
+published: 2026-10-04T13:23:50.079Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Atašienes
 nosaukums_ger:

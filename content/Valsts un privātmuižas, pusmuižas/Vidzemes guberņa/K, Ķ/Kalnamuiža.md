@@ -4,11 +4,12 @@ aliases:
   - Alt-Kalnemuische
   - Kalniena
 created: 2026-09-23T15:15:58.470Z
-modified: 2026-10-01T16:04:20.708Z
-published: 2026-10-01T16:04:20.708Z
+modified: 2026-10-04T13:23:46.469Z
+published: 2026-10-04T13:23:46.469Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Kalnamuiža
 nosaukums_ger: Alt-Kalnemoise

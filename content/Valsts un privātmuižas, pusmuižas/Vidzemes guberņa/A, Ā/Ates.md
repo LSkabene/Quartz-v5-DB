@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-09-23T15:20:37.487Z
-modified: 2026-09-23T17:25:45.365Z
-published: 2026-09-23T17:25:45.365Z
+modified: 2026-10-04T13:23:41.625Z
+published: 2026-10-04T13:23:41.625Z
 tags:
   - veids/pusmuiža
   - Vidzeme
+  - fails/muiža
 veids: Pusmuiža
 nosaukums_lv: Ates
 nosaukums_ger: Ottenhof

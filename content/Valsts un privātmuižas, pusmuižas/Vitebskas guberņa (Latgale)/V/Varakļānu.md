@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-18T04:55:00.347Z
-modified: 2026-09-21T06:06:02.731Z
-published: 2026-09-21T06:06:02.731Z
+modified: 2026-10-04T13:23:52.055Z
+published: 2026-10-04T13:23:52.055Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Varakļānu
 nosaukums_ger:

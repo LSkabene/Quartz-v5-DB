@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-04-06T14:37:48.751Z
-modified: 2026-09-21T06:06:03.282Z
-published: 2026-09-21T06:06:03.282Z
+modified: 2026-10-04T13:23:41.304Z
+published: 2026-10-04T13:23:41.304Z
 tags:
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Alsviķu
 nosaukums_ger: Alswig

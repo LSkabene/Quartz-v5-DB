@@ -3,10 +3,11 @@ publish: true
 aliases:
   - Briediķa
 created: 2026-10-03T15:05:52.012Z
-modified: 2026-10-03T15:06:52.618Z
-published: 2026-10-03T15:06:52.618Z
+modified: 2026-10-04T13:23:48.125Z
+published: 2026-10-04T13:23:48.125Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Pulkarnes
 nosaukums_ger: Pulkarn

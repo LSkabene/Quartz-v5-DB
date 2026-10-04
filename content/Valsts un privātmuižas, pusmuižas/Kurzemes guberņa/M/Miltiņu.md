@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.223Z
-modified: 2026-09-21T06:06:02.613Z
-published: 2026-09-21T06:06:02.613Z
+modified: 2026-10-04T13:23:40.499Z
+published: 2026-10-04T13:23:40.499Z
 tags:
   - Kurzeme
   - veids/kroņa_pusmuiža
+  - fails/muiža
 veids: Kroņa pusmuiža
 nosaukums_lv: Miltiņu
 nosaukums_ger: Dorotheenhof

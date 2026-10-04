@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-10-04T09:38:49.116Z
-modified: 2026-10-04T09:40:07.646Z
-published: 2026-10-04T09:40:07.646Z
+modified: 2026-10-04T13:23:42.160Z
+published: 2026-10-04T13:23:42.160Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv:
 nosaukums_ger: Bellenhof

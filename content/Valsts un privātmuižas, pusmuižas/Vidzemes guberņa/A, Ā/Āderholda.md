@@ -4,13 +4,14 @@ aliases:
   - Ramma
   - Rammsche Höfchen
 created: 2026-09-21T09:46:45.894Z
-modified: 2026-09-21T09:48:08.030Z
-published: 2026-09-21T09:48:08.030Z
+modified: 2026-10-04T13:23:41.869Z
+published: 2026-10-04T13:23:41.869Z
 tags:
   - veids/privātmuiža
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Āderholda
 nosaukums_ger: Aderholdshen

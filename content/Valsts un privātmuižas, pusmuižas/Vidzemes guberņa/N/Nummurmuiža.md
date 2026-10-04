@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Numurmuiža
 created: 2026-09-21T06:59:14.269Z
-modified: 2026-09-21T07:38:34.337Z
-published: 2026-09-21T07:38:34.337Z
+modified: 2026-10-04T13:23:47.823Z
+published: 2026-10-04T13:23:47.823Z
 tags:
   - Rīga
   - Vidzeme
   - teritorija/rīgas-patrimoniālais
+  - fails/muiža
 veids:
 nosaukums_lv: Nummurmuiža
 nosaukums_ger: Nummershof

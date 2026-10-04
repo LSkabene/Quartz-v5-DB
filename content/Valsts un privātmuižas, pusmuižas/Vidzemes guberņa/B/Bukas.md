@@ -4,11 +4,12 @@ aliases:
   - Buku
   - Hardemoise
 created: 2026-04-11T07:42:07.587Z
-modified: 2026-10-04T07:38:21.196Z
-published: 2026-10-04T07:38:21.196Z
+modified: 2026-10-04T13:23:43.038Z
+published: 2026-10-04T13:23:43.038Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Bukas
 nosaukums_ger: Suddenbach

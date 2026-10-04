@@ -1,14 +1,15 @@
 ---
 publish: true
 created: 2026-09-21T06:52:24.405Z
-modified: 2026-09-21T06:54:14.548Z
-published: 2026-09-21T06:54:14.548Z
+modified: 2026-10-04T13:23:47.715Z
+published: 2026-10-04T13:23:47.715Z
 tags:
   - īpašnieki/Rīgas-pilsēta
   - Rīga
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - veids/organizāciju/Rīgas-pilsētas
+  - fails/muiža
 veids: Organizāciju
 nosaukums_lv: Mērmaņa
 nosaukums_ger: Mehrmans hoffgen

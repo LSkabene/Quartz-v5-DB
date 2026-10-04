@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Alzendorf
 created: 2026-10-04T07:36:03.407Z
-modified: 2026-10-04T07:37:40.071Z
-published: 2026-10-04T07:37:40.071Z
+modified: 2026-10-04T13:23:49.423Z
+published: 2026-10-04T13:23:49.423Z
 tags:
   - Vidzeme
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Vites
 nosaukums_ger: Wittenhof

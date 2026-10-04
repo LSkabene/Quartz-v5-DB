@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-01T15:41:16.867Z
-modified: 2026-09-21T06:06:02.850Z
-published: 2026-09-21T06:06:02.850Z
+modified: 2026-10-04T13:23:50.742Z
+published: 2026-10-04T13:23:50.742Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Juzefinovas
 nosaukums_ger:

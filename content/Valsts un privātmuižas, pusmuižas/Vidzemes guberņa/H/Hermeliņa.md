@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-09-13T08:28:17.090Z
-modified: 2026-09-21T06:06:02.927Z
-published: 2026-09-21T06:06:02.927Z
+modified: 2026-10-04T13:23:45.378Z
+published: 2026-10-04T13:23:45.378Z
 tags:
   - veids/bruņinieku
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Hermeliņa
 nosaukums_ger: Hermelingshof

@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-01T15:22:32.918Z
-modified: 2026-09-21T06:06:02.850Z
-published: 2026-09-21T06:06:02.850Z
+modified: 2026-10-04T13:23:50.761Z
+published: 2026-10-04T13:23:50.761Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Kaliešu
 nosaukums_ger:

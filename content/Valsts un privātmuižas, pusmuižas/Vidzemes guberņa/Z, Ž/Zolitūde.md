@@ -5,13 +5,14 @@ aliases:
   - Bērzmuiža
   - Swanenborgshoff
 created: 2026-09-21T10:22:16.402Z
-modified: 2026-09-21T10:23:49.185Z
-published: 2026-09-21T10:23:49.185Z
+modified: 2026-10-04T13:23:49.794Z
+published: 2026-10-04T13:23:49.794Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Zolitūde
 nosaukums_ger: Solitüde

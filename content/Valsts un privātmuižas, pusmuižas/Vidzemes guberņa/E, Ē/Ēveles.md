@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-07-18T12:56:53.049Z
-modified: 2026-09-21T06:06:03.037Z
-published: 2026-09-21T06:06:03.037Z
+modified: 2026-10-04T13:23:44.469Z
+published: 2026-10-04T13:23:44.469Z
 tags:
   - places
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Ēveles
 nosaukums_ger: Alt-Wohlfahrt

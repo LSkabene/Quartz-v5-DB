@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Adama
 created: 2026-04-02T15:39:49.902Z
-modified: 2026-09-21T06:06:03.237Z
-published: 2026-09-21T06:06:03.237Z
+modified: 2026-10-04T13:23:41.832Z
+published: 2026-10-04T13:23:41.832Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Ādama
 nosaukums_ger: Schwarzbeckshof

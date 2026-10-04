@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-06T16:46:11.886Z
-modified: 2026-09-21T06:06:03.254Z
-published: 2026-09-21T06:06:03.254Z
+modified: 2026-10-04T13:23:41.736Z
+published: 2026-10-04T13:23:41.736Z
 tags:
   - places
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Augulienas
 nosaukums_ger: Roseneck

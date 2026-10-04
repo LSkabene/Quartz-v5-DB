@@ -1,8 +1,10 @@
 ---
 publish: true
 created: 2026-07-23T18:12:54.632Z
-modified: 2026-09-21T06:05:43.709Z
-published: 2026-09-21T06:05:43.709Z
+modified: 2026-10-04T13:23:45.906Z
+published: 2026-10-04T13:23:45.906Z
+tags:
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Jaunjērcēnu
 nosaukums_ger: Wohlfahrtslinde
@@ -22,7 +24,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-tags: []
 coordinates:
 map_color:
 map_icon:

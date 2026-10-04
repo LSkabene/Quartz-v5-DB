@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-04-04T11:49:45.823Z
-modified: 2026-09-21T06:06:03.318Z
-published: 2026-09-21T06:06:03.318Z
+modified: 2026-10-04T13:24:23.353Z
+published: 2026-10-04T13:24:23.353Z
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Valkas
 nosaukums_ger: Walk Pastorat

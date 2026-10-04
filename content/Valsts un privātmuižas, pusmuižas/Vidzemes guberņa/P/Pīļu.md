@@ -7,13 +7,14 @@ aliases:
   - Bērenta muižiņa
   - Behrens Höfchen
 created: 2026-09-21T08:16:28.889Z
-modified: 2026-09-21T08:19:27.762Z
-published: 2026-09-21T08:19:27.762Z
+modified: 2026-10-04T13:23:48.183Z
+published: 2026-10-04T13:23:48.183Z
 tags:
   - veids/privātmuiža
   - Rīga
   - Vidzeme
   - teritorija/rīgas-patrimoniālais
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Pīļu
 nosaukums_ger: Pihlenhof

@@ -4,12 +4,13 @@ aliases:
   - Birkenmuiža
   - Birkenruhe
 created: 2026-04-11T06:53:22.532Z
-modified: 2026-09-21T06:06:03.124Z
-published: 2026-09-21T06:06:03.124Z
+modified: 2026-10-04T13:23:43.249Z
+published: 2026-10-04T13:23:43.249Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Bērzaines
 nosaukums_ger: Birkenruh

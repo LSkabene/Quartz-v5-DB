@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-01T15:39:53.196Z
-modified: 2026-09-21T06:06:02.833Z
-published: 2026-09-21T06:06:02.833Z
+modified: 2026-10-04T13:23:51.106Z
+published: 2026-10-04T13:23:51.106Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Martuševas
 nosaukums_ger:

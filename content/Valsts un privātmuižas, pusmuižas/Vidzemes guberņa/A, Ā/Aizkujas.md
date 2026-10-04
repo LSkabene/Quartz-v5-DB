@@ -6,12 +6,13 @@ aliases:
   - Ayskuje
   - Aiskuj
 created: 2026-04-02T15:39:49.905Z
-modified: 2026-10-01T16:02:27.420Z
-published: 2026-10-01T16:02:27.420Z
+modified: 2026-10-04T13:23:41.194Z
+published: 2026-10-04T13:23:41.194Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Aizkujas
 nosaukums_ger: Aiskuje

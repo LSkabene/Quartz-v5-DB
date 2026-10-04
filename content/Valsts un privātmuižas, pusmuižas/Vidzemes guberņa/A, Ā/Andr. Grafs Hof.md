@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Assesor Grafs Hof
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-21T06:06:03.247Z
-published: 2026-09-21T06:06:03.247Z
+modified: 2026-10-04T13:23:41.383Z
+published: 2026-10-04T13:23:41.383Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: ""
 nosaukums_lv: ""
 nosaukums_ger: Andr. Grafs Hof

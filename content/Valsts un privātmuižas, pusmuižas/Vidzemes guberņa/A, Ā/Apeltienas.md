@@ -4,12 +4,13 @@ aliases:
   - Appeltenes
   - Apelthen
 created: 2026-04-06T16:36:30.434Z
-modified: 2026-09-21T06:06:03.270Z
-published: 2026-09-21T06:06:03.270Z
+modified: 2026-10-04T13:23:41.500Z
+published: 2026-10-04T13:23:41.500Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Apeltienas
 nosaukums_ger: Appelthen

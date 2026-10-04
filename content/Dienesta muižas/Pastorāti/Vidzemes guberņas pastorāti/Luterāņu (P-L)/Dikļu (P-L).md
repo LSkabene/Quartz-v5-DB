@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.884Z
-modified: 2026-09-21T06:06:03.397Z
-published: 2026-09-21T06:06:03.397Z
+modified: 2026-10-04T13:24:22.303Z
+published: 2026-10-04T13:24:22.303Z
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Dikļu
 nosaukums_ger: Dickeln Pastorat

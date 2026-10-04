@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-20T05:56:33.531Z
-modified: 2026-09-21T06:06:03.013Z
-published: 2026-09-21T06:06:03.013Z
+modified: 2026-10-04T13:23:46.655Z
+published: 2026-10-04T13:23:46.655Z
 tags:
   - veids/organizāciju/Rīgas-pilsētas
   - veids/organizāciju
@@ -10,6 +10,7 @@ tags:
   - īpašnieki/Rīgas-pilsēta
   - veids/bruņinieku
   - teritorija/rīgas-patrimoniālais
+  - fails/muiža
 veids: Organizāciju
 nosaukums_lv: Kojusalas
 nosaukums_ger: Manecken Hof

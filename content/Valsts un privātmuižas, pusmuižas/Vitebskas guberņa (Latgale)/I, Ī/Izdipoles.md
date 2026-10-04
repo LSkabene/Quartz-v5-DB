@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T16:43:39.392Z
-modified: 2026-09-21T06:06:02.859Z
-published: 2026-09-21T06:06:02.859Z
+modified: 2026-10-04T13:23:50.669Z
+published: 2026-10-04T13:23:50.669Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Idzipoles
 nosaukums_ger:

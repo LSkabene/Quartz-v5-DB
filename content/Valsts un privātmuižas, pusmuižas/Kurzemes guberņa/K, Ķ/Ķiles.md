@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-25T17:28:45.345Z
-modified: 2026-09-21T06:06:02.625Z
-published: 2026-09-21T06:06:02.625Z
+modified: 2026-10-04T13:23:40.344Z
+published: 2026-10-04T13:23:40.344Z
 tags:
   - veids/kroņa_pusmuiža
   - Kurzeme
+  - fails/muiža
 veids: Kroņa pusmuiža
 nosaukums_lv: Ķiles
 nosaukums_ger:

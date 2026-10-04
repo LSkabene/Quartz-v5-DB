@@ -4,11 +4,12 @@ aliases:
   - Andreass Magnuss Otto fon Lēvenšterns
   - Andreas Magnus Otto von Löwenstern
 created: 2026-10-03T09:11:44.545Z
-modified: 2026-10-03T10:00:43.964Z
-published: 2026-10-03T10:00:43.964Z
+modified: 2026-10-04T13:23:04.431Z
+published: 2026-10-04T13:23:04.431Z
 tags:
   - dzimta/Lēvenšterni
   - kārta/muižnieki
+  - fails/persona
 person_id: 64
 ---
 

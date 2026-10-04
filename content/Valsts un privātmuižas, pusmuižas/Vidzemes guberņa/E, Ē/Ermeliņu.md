@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Hermelin
 created: 2026-07-18T12:56:53.038Z
-modified: 2026-09-21T06:06:03.044Z
-published: 2026-09-21T06:06:03.044Z
+modified: 2026-10-04T13:23:44.355Z
+published: 2026-10-04T13:23:44.355Z
 tags:
   - places
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Ermeliņu
 nosaukums_ger: Hermelingshof

@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-09-23T17:20:23.366Z
-modified: 2026-10-03T08:57:36.455Z
-published: 2026-10-03T08:57:36.455Z
+modified: 2026-10-04T13:23:48.536Z
+published: 2026-10-04T13:23:48.536Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Siguldas
 nosaukums_ger: Schloss Segewold

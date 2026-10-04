@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Neuhof
 created: 2026-06-11T16:38:40.817Z
-modified: 2026-09-23T14:47:46.825Z
-published: 2026-09-23T14:47:46.825Z
+modified: 2026-10-04T13:23:48.617Z
+published: 2026-10-04T13:23:48.617Z
 tags:
   - Vidzeme
   - īpašnieki/Ulenbroki
   - veids_vēsturiski/pusmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Skulte
 nosaukums_ger: Adiamünde

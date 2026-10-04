@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.904Z
-modified: 2026-10-01T16:01:14.866Z
-published: 2026-10-01T16:01:14.866Z
+modified: 2026-10-04T13:23:41.169Z
+published: 2026-10-04T13:23:41.169Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Aizkraukles
 nosaukums_ger: Ascheraden

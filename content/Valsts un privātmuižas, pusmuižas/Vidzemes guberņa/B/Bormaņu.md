@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-11T07:25:36.240Z
-modified: 2026-09-21T06:06:03.170Z
-published: 2026-09-21T06:06:03.170Z
+modified: 2026-10-04T13:23:42.739Z
+published: 2026-10-04T13:23:42.739Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Bormaņu
 nosaukums_ger: Treppenhof

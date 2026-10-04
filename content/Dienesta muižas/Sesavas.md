@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.902Z
-modified: 2026-09-21T06:06:03.300Z
-published: 2026-09-21T06:06:03.300Z
+modified: 2026-10-04T13:24:23.582Z
+published: 2026-10-04T13:24:23.582Z
 tags:
   - veids/dienesta
   - Kurzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Sesavas
 nosaukums_ger: Sessau

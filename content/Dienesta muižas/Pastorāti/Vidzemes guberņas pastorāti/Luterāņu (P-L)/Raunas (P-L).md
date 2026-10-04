@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-04-04T11:22:03.648Z
-modified: 2026-09-21T06:06:03.345Z
-published: 2026-09-21T06:06:03.345Z
+modified: 2026-10-04T13:24:23.023Z
+published: 2026-10-04T13:24:23.023Z
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Raunas
 nosaukums_ger: Ronneburg Pastorat

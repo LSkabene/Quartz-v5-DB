@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-30T17:50:04.549Z
-modified: 2026-09-21T06:06:02.690Z
-published: 2026-09-21T06:06:02.690Z
+modified: 2026-10-04T13:23:52.401Z
+published: 2026-10-04T13:23:52.401Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Žurilavas
 nosaukums_ger:

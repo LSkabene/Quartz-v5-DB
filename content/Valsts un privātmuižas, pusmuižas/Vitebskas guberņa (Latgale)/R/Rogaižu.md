@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-01T15:43:07.246Z
-modified: 2026-09-21T06:06:02.743Z
-published: 2026-09-21T06:06:02.743Z
+modified: 2026-10-04T13:23:51.724Z
+published: 2026-10-04T13:23:51.724Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Rogaižu
 nosaukums_ger:

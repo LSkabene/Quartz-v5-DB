@@ -4,12 +4,13 @@ aliases:
   - Brantes
   - Branta
 created: 2026-04-11T07:26:39.881Z
-modified: 2026-09-21T06:06:03.164Z
-published: 2026-09-21T06:06:03.164Z
+modified: 2026-10-04T13:23:42.777Z
+published: 2026-10-04T13:23:42.777Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Brantu
 nosaukums_ger: Horstenhof

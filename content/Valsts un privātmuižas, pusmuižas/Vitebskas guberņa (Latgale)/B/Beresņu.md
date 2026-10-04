@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T16:07:45.199Z
-modified: 2026-09-21T06:06:02.822Z
-published: 2026-09-21T06:06:02.822Z
+modified: 2026-10-04T13:23:50.157Z
+published: 2026-10-04T13:23:50.157Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Beresņu
 nosaukums_ger:

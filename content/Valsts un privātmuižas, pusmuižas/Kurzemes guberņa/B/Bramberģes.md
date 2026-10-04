@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.089Z
-modified: 2026-09-21T06:06:02.672Z
-published: 2026-09-21T06:06:02.672Z
+modified: 2026-10-04T13:23:39.729Z
+published: 2026-10-04T13:23:39.729Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Bramberģes
 nosaukums_ger: Brandenburg

@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-21T08:24:08.276Z
-modified: 2026-09-21T08:25:18.071Z
-published: 2026-09-21T08:25:18.071Z
+modified: 2026-10-04T13:23:48.219Z
+published: 2026-10-04T13:23:48.219Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Reimera
 nosaukums_ger: Reimers Hof

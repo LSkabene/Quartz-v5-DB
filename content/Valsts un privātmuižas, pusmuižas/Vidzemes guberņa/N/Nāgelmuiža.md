@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-09-23T17:02:32.077Z
-modified: 2026-09-23T17:04:05.694Z
-published: 2026-09-23T17:04:05.694Z
+modified: 2026-10-04T13:23:47.843Z
+published: 2026-10-04T13:23:47.843Z
 tags:
   - veids/pusmuiža
   - Vidzeme
+  - fails/muiža
 veids: Pusmuiža
 nosaukums_lv: Nāgelmuiža
 nosaukums_ger: Nagelshof

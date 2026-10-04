@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-04-04T11:41:01.005Z
-modified: 2026-09-21T06:06:03.332Z
-published: 2026-09-21T06:06:03.332Z
+modified: 2026-10-04T13:24:23.189Z
+published: 2026-10-04T13:24:23.189Z
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Smiltenes
 nosaukums_ger: Smilten Pastorat

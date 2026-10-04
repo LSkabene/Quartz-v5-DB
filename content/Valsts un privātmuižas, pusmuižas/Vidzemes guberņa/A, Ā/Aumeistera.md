@@ -5,12 +5,13 @@ aliases:
   - Aumeisteri
   - Hofmeisterhof
 created: 2026-04-06T16:48:34.646Z
-modified: 2026-09-21T06:06:03.254Z
-published: 2026-09-21T06:06:03.254Z
+modified: 2026-10-04T13:23:41.754Z
+published: 2026-10-04T13:23:41.754Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Aumeistera
 nosaukums_ger: Serbigall

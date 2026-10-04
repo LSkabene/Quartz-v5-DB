@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-11T06:33:09.379Z
-modified: 2026-09-21T06:06:02.997Z
-published: 2026-09-21T06:06:02.997Z
+modified: 2026-10-04T13:23:46.944Z
+published: 2026-10-04T13:23:46.944Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Ķeguma
 nosaukums_ger: Keggum

@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-21T06:41:23.529Z
-modified: 2026-09-21T06:52:24.489Z
-published: 2026-09-21T06:52:24.489Z
+modified: 2026-10-04T13:23:47.653Z
+published: 2026-10-04T13:23:47.653Z
 tags:
   - Rīga
   - Vidzeme
   - teritorija/rīgas-patrimoniālais
+  - fails/muiža
 veids:
 nosaukums_lv:
 nosaukums_ger:

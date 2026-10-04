@@ -3,10 +3,11 @@ publish: true
 aliases:
   - Grühtershof
 created: 2026-10-04T07:08:16.028Z
-modified: 2026-10-04T07:09:34.108Z
-published: 2026-10-04T07:09:34.108Z
+modified: 2026-10-04T13:23:48.494Z
+published: 2026-10-04T13:23:48.494Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Rīteru
 nosaukums_ger: Grütershof

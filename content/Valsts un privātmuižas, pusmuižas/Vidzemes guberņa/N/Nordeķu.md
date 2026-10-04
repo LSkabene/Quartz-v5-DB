@@ -6,13 +6,14 @@ aliases:
   - Fogela
   - Reima
 created: 2026-09-21T06:56:47.812Z
-modified: 2026-09-21T06:59:14.350Z
-published: 2026-09-21T06:59:14.350Z
+modified: 2026-10-04T13:23:47.805Z
+published: 2026-10-04T13:23:47.805Z
 tags:
   - veids/privātmuiža
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Nordeķu
 nosaukums_ger: Nordeckshof

@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T16:58:04.926Z
-modified: 2026-09-21T06:06:02.722Z
-published: 2026-09-21T06:06:02.722Z
+modified: 2026-10-04T13:23:52.133Z
+published: 2026-10-04T13:23:52.133Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Vertokšņas
 nosaukums_ger:

@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Veira
 created: 2026-09-21T09:35:55.187Z
-modified: 2026-09-21T09:39:11.461Z
-published: 2026-09-21T09:39:11.461Z
+modified: 2026-10-04T13:23:49.350Z
+published: 2026-10-04T13:23:49.350Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Veiera
 nosaukums_ger: Weiershof

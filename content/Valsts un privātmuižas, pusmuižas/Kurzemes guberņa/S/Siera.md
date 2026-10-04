@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-25T17:28:49.750Z
-modified: 2026-09-21T06:06:02.592Z
-published: 2026-09-21T06:06:02.592Z
+modified: 2026-10-04T13:23:40.743Z
+published: 2026-10-04T13:23:40.743Z
 tags:
   - veids/kroņa_pusmuiža
   - Kurzeme
+  - fails/muiža
 veids: Kroņa pusmuiža
 nosaukums_lv: Siera
 nosaukums_ger:

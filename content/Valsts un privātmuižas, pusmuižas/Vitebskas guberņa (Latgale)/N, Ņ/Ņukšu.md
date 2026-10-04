@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-01T16:46:50.565Z
-modified: 2026-09-21T06:06:02.685Z
-published: 2026-09-21T06:06:02.685Z
+modified: 2026-10-04T13:23:51.239Z
+published: 2026-10-04T13:23:51.239Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Ņukšu
 nosaukums_ger:

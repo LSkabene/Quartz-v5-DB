@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.278Z
-modified: 2026-09-21T06:06:02.644Z
-published: 2026-09-21T06:06:02.644Z
+modified: 2026-10-04T13:23:40.128Z
+published: 2026-10-04T13:23:40.128Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Jostenes
 nosaukums_ger: Jostan

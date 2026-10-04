@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-07-30T17:13:32.233Z
-modified: 2026-09-21T06:06:02.781Z
-published: 2026-09-21T06:06:02.781Z
+modified: 2026-10-04T13:23:50.892Z
+published: 2026-10-04T13:23:50.892Z
 tags:
   - veids/folvarks
   - Latgale
+  - fails/muiža
 veids: Folvarks
 nosaukums_lv: Linejas
 nosaukums_ger:

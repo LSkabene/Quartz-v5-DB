@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-21T06:06:03.167Z
-published: 2026-09-21T06:06:03.167Z
+modified: 2026-10-04T13:23:42.394Z
+published: 2026-10-04T13:23:42.394Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: ""
 nosaukums_lv: Birģeļmuiža
 nosaukums_ger: Birgelshof

@@ -3,13 +3,14 @@ publish: true
 aliases:
   - Pappendorf
 created: 2026-04-04T11:24:19.184Z
-modified: 2026-09-21T06:06:03.344Z
-published: 2026-09-21T06:06:03.344Z
+modified: 2026-10-04T13:24:23.068Z
+published: 2026-10-04T13:24:23.068Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Rubenes
 nosaukums_ger: Papendorf Pastorat

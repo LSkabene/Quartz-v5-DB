@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-18T04:57:49.336Z
-modified: 2026-09-21T06:06:02.805Z
-published: 2026-09-21T06:06:02.805Z
+modified: 2026-10-04T13:23:49.910Z
+published: 2026-10-04T13:23:49.910Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Aleksandropoles
 nosaukums_ger:

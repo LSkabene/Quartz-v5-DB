@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-21T10:15:11.287Z
-modified: 2026-09-21T10:16:22.244Z
-published: 2026-09-21T10:16:22.244Z
+modified: 2026-10-04T13:23:48.975Z
+published: 2026-10-04T13:23:48.975Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Šulcmuiža
 nosaukums_ger: Scheitzenhof

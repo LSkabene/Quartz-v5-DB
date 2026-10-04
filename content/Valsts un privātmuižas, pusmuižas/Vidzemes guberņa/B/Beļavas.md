@@ -4,12 +4,13 @@ aliases:
   - Korstes
   - Gross-Kurtenhof
 created: 2026-04-11T06:46:54.021Z
-modified: 2026-09-21T06:06:03.199Z
-published: 2026-09-21T06:06:03.199Z
+modified: 2026-10-04T13:23:42.280Z
+published: 2026-10-04T13:23:42.280Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Beļavas
 nosaukums_ger: Kortenhof

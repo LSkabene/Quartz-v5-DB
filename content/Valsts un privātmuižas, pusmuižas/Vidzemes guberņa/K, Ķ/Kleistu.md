@@ -6,12 +6,13 @@ aliases:
   - Pēsaka
   - Fēgezaka
 created: 2026-09-17T07:42:10.752Z
-modified: 2026-10-01T16:52:27.374Z
-published: 2026-10-01T16:52:27.374Z
+modified: 2026-10-04T13:23:46.584Z
+published: 2026-10-04T13:23:46.584Z
 tags:
   - Rīga
   - Vidzeme
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Kleisti
 nosaukums_ger: Kleistenhof

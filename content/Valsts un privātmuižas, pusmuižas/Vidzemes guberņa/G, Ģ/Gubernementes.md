@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-21T06:06:02.952Z
-published: 2026-09-21T06:06:02.952Z
+modified: 2026-10-04T13:23:45.040Z
+published: 2026-10-04T13:23:45.040Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: ""
 nosaukums_lv: Gubernementes
 nosaukums_ger: Gouvernementshof

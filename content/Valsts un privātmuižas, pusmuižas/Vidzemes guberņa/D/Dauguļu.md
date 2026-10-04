@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Daugules
 created: 2026-04-13T16:34:58.303Z
-modified: 2026-09-21T06:06:03.111Z
-published: 2026-09-21T06:06:03.111Z
+modified: 2026-10-04T13:23:43.619Z
+published: 2026-10-04T13:23:43.619Z
 tags:
   - places
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Dauguļu
 nosaukums_ger: Daugeln

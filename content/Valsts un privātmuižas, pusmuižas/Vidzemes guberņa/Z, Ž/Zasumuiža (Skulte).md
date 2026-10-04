@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Zassenhof
 created: 2026-09-22T12:04:08.986Z
-modified: 2026-09-22T14:49:02.018Z
-published: 2026-09-22T14:49:02.018Z
+modified: 2026-10-04T13:23:49.688Z
+published: 2026-10-04T13:23:49.688Z
 tags:
   - Vidzeme
   - īpašnieki/Ulenbroki
+  - fails/muiža
 veids:
 nosaukums_lv: Zasumuiža
 nosaukums_ger: Sassenhof

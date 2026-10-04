@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-09-13T08:26:43.759Z
-modified: 2026-09-21T06:06:02.927Z
-published: 2026-09-21T06:06:02.927Z
+modified: 2026-10-04T13:23:45.360Z
+published: 2026-10-04T13:23:45.360Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Hermaņa
 nosaukums_ger: Hermannsruh

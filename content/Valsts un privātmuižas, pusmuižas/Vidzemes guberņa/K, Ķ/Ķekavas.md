@@ -3,10 +3,11 @@ publish: true
 aliases:
   - Kekkau
 created: 2026-10-03T15:03:24.002Z
-modified: 2026-10-03T15:05:08.654Z
-published: 2026-10-03T15:05:08.654Z
+modified: 2026-10-04T13:23:46.981Z
+published: 2026-10-04T13:23:46.981Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Ķekavas
 nosaukums_ger: Keckau

@@ -1,8 +1,10 @@
 ---
 publish: true
 created: 2026-09-23T14:37:12.078Z
-modified: 2026-10-03T09:01:16.643Z
-published: 2026-10-03T09:01:16.643Z
+modified: 2026-10-04T13:23:49.581Z
+published: 2026-10-04T13:23:49.581Z
+tags:
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Vērenes
 nosaukums_ger: Fehren
@@ -22,7 +24,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-tags: []
 coordinates:
 map_color:
 map_icon:

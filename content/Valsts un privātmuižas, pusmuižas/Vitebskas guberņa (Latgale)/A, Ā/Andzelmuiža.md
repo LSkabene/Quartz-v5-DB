@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T15:47:40.748Z
-modified: 2026-09-21T06:06:02.803Z
-published: 2026-09-21T06:06:02.803Z
+modified: 2026-10-04T13:23:49.948Z
+published: 2026-10-04T13:23:49.948Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Andzelmuiža
 nosaukums_ger:

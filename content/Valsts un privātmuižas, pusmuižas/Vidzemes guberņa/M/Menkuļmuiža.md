@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-09-22T12:05:55.499Z
-modified: 2026-09-23T14:49:25.692Z
-published: 2026-09-23T14:49:25.692Z
+modified: 2026-10-04T13:23:47.552Z
+published: 2026-10-04T13:23:47.552Z
 tags:
   - Vidzeme
   - īpašnieki/Ulenbroki
   - veids/pusmuiža
   - veids_vēsturiski/privātmuiža
+  - fails/muiža
 veids: Pusmuiža
 nosaukums_lv: Menkuļmuiža
 nosaukums_ger: Memküll

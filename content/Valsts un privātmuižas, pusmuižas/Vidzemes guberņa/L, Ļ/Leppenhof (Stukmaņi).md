@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-10-04T07:12:29.669Z
-modified: 2026-10-04T07:13:28.789Z
-published: 2026-10-04T07:13:28.789Z
+modified: 2026-10-04T13:23:47.089Z
+published: 2026-10-04T13:23:47.089Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv:
 nosaukums_ger: Leppenhof

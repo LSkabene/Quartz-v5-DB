@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-01T16:52:14.398Z
-modified: 2026-09-21T06:06:02.833Z
-published: 2026-09-21T06:06:02.833Z
+modified: 2026-10-04T13:23:51.124Z
+published: 2026-10-04T13:23:51.124Z
 tags:
   - Latgale
   - veids/folvarks
+  - fails/muiža
 veids: Folvarks
 nosaukums_lv: Mazo Breidaku
 nosaukums_ger:

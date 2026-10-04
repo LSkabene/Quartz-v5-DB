@@ -3,8 +3,10 @@ publish: true
 aliases:
   - Benislavsku
 created: 2026-08-18T06:13:49.340Z
-modified: 2026-09-21T06:06:02.569Z
-published: 2026-09-21T06:06:02.569Z
+modified: 2026-10-04T13:23:19.236Z
+published: 2026-10-04T13:23:19.236Z
+tags:
+  - fails/dzimta
 ---
 
 | Persona                                                             | Muižas                                                                                    | Guberņa   |

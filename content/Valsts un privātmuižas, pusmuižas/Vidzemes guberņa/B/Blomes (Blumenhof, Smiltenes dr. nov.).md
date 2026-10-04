@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-09-23T15:44:38.978Z
-modified: 2026-10-01T16:08:37.829Z
-published: 2026-10-01T16:08:37.829Z
+modified: 2026-10-04T13:23:42.507Z
+published: 2026-10-04T13:23:42.507Z
 tags:
   - veids_vēsturiski/publiskā
   - veids_vēsturiski/publiskā_pēc_Hūna
   - veids_vēsturiski/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Blomes
 nosaukums_ger: Blumenhof

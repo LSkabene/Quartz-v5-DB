@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-18T04:52:49.136Z
-modified: 2026-09-21T06:06:02.745Z
-published: 2026-09-21T06:06:02.745Z
+modified: 2026-10-04T13:23:51.799Z
+published: 2026-10-04T13:23:51.799Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Rušenicas
 nosaukums_ger:

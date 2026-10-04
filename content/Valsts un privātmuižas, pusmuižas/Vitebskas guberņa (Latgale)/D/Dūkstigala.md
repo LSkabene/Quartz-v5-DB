@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T16:42:22.878Z
-modified: 2026-09-21T06:06:02.882Z
-published: 2026-09-21T06:06:02.882Z
+modified: 2026-10-04T13:23:50.385Z
+published: 2026-10-04T13:23:50.385Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Dūkstigala
 nosaukums_ger:

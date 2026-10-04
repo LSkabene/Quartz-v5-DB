@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-04-04T10:55:02.045Z
-modified: 2026-09-21T06:06:03.357Z
-published: 2026-09-21T06:06:03.357Z
+modified: 2026-10-04T13:24:22.849Z
+published: 2026-10-04T13:24:22.849Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Mālpils
 nosaukums_ger: Lemburg Pastorat

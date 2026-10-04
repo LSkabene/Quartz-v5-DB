@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-04-04T11:33:23.283Z
-modified: 2026-09-21T06:06:03.333Z
-published: 2026-09-21T06:06:03.333Z
+modified: 2026-10-04T13:24:23.172Z
+published: 2026-10-04T13:24:23.172Z
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Skujenes
 nosaukums_ger: Schujen Pastorat

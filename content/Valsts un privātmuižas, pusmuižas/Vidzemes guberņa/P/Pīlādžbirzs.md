@@ -4,12 +4,13 @@ aliases:
   - Ashgrowe
   - Karleja pusmuiža
 created: 2026-09-21T08:03:14.453Z
-modified: 2026-09-21T08:08:39.457Z
-published: 2026-09-21T08:08:39.457Z
+modified: 2026-10-04T13:23:48.162Z
+published: 2026-10-04T13:23:48.162Z
 tags:
   - Rīga
   - Vidzeme
   - teritorija/rīgas-patrimoniālais
+  - fails/muiža
 veids:
 nosaukums_lv: Pīlādžbirzs
 nosaukums_ger:

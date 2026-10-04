@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-21T10:04:55.173Z
-modified: 2026-09-21T10:06:08.952Z
-published: 2026-09-21T10:06:08.952Z
+modified: 2026-10-04T13:23:48.875Z
+published: 2026-10-04T13:23:48.875Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Šeimaņu
 nosaukums_ger: Scheumannshof

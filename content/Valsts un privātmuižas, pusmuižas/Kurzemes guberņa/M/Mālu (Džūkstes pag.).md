@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.444Z
-modified: 2026-09-21T06:06:02.612Z
-published: 2026-09-21T06:06:02.612Z
+modified: 2026-10-04T13:23:40.514Z
+published: 2026-10-04T13:23:40.514Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Mālu
 nosaukums_ger: Mahlemuische

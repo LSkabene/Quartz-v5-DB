@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:05.959Z
-modified: 2026-09-21T06:06:02.590Z
-published: 2026-09-21T06:06:02.590Z
+modified: 2026-10-04T13:23:40.855Z
+published: 2026-10-04T13:23:40.855Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Šķibes
 nosaukums_ger: Alexanderhof

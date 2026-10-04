@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-07-23T18:12:54.548Z
-modified: 2026-10-04T07:23:55.673Z
-published: 2026-10-04T07:23:55.673Z
+modified: 2026-10-04T13:23:45.795Z
+published: 2026-10-04T13:23:45.795Z
 tags:
   - Vidzeme
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Jaunbebru
 nosaukums_ger: Neu-Bewershof

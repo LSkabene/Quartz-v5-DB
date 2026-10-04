@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T16:07:00.576Z
-modified: 2026-09-21T06:06:02.816Z
-published: 2026-09-21T06:06:02.816Z
+modified: 2026-10-04T13:23:50.266Z
+published: 2026-10-04T13:23:50.266Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Bukmuiža
 nosaukums_ger:

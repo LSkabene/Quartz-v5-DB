@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-21T10:18:12.052Z
-modified: 2026-09-21T10:19:11.636Z
-published: 2026-09-21T10:19:11.636Z
+modified: 2026-10-04T13:23:49.221Z
+published: 2026-10-04T13:23:49.221Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Ūlenbroka
 nosaukums_ger:

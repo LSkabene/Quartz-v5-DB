@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Hilleboldshof
 created: 2026-10-04T08:25:48.922Z
-modified: 2026-10-04T08:27:33.816Z
-published: 2026-10-04T08:27:33.816Z
+modified: 2026-10-04T13:23:48.107Z
+published: 2026-10-04T13:23:48.107Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Pulakas
 nosaukums_ger: Adamshof

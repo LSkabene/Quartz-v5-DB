@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-10-03T10:19:10.628Z
-modified: 2026-10-03T10:36:20.490Z
-published: 2026-10-03T10:36:20.490Z
+modified: 2026-10-04T13:23:47.020Z
+published: 2026-10-04T13:23:47.020Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Ķoņu
 nosaukums_ger: Königshof

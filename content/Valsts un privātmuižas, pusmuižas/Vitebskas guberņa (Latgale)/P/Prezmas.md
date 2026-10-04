@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T16:56:52.673Z
-modified: 2026-09-21T06:06:02.771Z
-published: 2026-09-21T06:06:02.771Z
+modified: 2026-10-04T13:23:51.489Z
+published: 2026-10-04T13:23:51.489Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Prezmas
 nosaukums_ger:

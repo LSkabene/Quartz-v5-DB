@@ -3,10 +3,11 @@ publish: true
 aliases:
   - Agathenberg
 created: 2026-10-03T15:41:49.849Z
-modified: 2026-10-03T15:47:27.690Z
-published: 2026-10-03T15:47:27.690Z
+modified: 2026-10-04T13:23:48.774Z
+published: 2026-10-04T13:23:48.774Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Stāles
 nosaukums_ger: Stahlenhof

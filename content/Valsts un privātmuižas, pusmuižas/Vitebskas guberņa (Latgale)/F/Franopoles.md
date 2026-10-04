@@ -3,10 +3,11 @@ publish: true
 aliases:
   - Franapoles
 created: 2026-07-30T17:21:04.808Z
-modified: 2026-09-21T06:06:02.872Z
-published: 2026-09-21T06:06:02.872Z
+modified: 2026-10-04T13:23:50.500Z
+published: 2026-10-04T13:23:50.500Z
 tags:
   - Latgale
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Franopoles
 nosaukums_ger:

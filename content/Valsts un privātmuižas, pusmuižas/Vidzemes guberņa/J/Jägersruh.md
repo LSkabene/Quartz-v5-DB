@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-17T07:05:19.793Z
-modified: 2026-09-21T06:06:03.017Z
-published: 2026-09-21T06:06:03.017Z
+modified: 2026-10-04T13:23:46.330Z
+published: 2026-10-04T13:23:46.330Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids:
 nosaukums_lv:
 nosaukums_ger: Jägersruh

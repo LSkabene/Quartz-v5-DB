@@ -3,13 +3,14 @@ publish: true
 aliases:
   - Nietau
 created: 2026-04-04T11:00:31.297Z
-modified: 2026-09-21T06:06:03.348Z
-published: 2026-09-21T06:06:03.348Z
+modified: 2026-10-04T13:24:22.909Z
+published: 2026-10-04T13:24:22.909Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Nītaures
 nosaukums_ger: Nitau Pastorat

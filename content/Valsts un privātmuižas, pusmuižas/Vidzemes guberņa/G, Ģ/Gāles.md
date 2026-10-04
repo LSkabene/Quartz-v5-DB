@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-18T12:56:53.089Z
-modified: 2026-10-01T16:31:07.999Z
-published: 2026-10-01T16:31:07.999Z
+modified: 2026-10-04T13:23:45.113Z
+published: 2026-10-04T13:23:45.113Z
 tags:
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Gāles
 nosaukums_ger: Gahlenhof

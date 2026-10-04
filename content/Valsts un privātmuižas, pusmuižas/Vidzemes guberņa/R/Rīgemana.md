@@ -4,10 +4,11 @@ aliases:
   - Drullenhof
   - Vincent-Riegemanns
 created: 2026-10-03T15:36:38.689Z
-modified: 2026-10-03T15:50:19.027Z
-published: 2026-10-03T15:50:19.027Z
+modified: 2026-10-04T13:23:48.456Z
+published: 2026-10-04T13:23:48.456Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Rīgemana
 nosaukums_ger: Riegemannshof

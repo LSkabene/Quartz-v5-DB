@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-20T07:07:10.899Z
-modified: 2026-09-21T06:06:02.907Z
-published: 2026-09-21T06:06:02.907Z
+modified: 2026-10-04T13:23:47.280Z
+published: 2026-10-04T13:23:47.280Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Luīzes
 nosaukums_ger: Louizenhof

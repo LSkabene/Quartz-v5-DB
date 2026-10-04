@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-20T07:30:18.344Z
-modified: 2026-09-21T06:06:02.901Z
-published: 2026-09-21T06:06:02.901Z
+modified: 2026-10-04T13:23:47.187Z
+published: 2026-10-04T13:23:47.187Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids:
 nosaukums_lv: Liepumuiža
 nosaukums_ger: Lindenhof

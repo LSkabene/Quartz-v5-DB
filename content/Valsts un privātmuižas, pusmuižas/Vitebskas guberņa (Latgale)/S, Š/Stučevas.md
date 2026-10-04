@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T16:50:10.427Z
-modified: 2026-09-21T06:06:02.733Z
-published: 2026-09-21T06:06:02.733Z
+modified: 2026-10-04T13:23:51.918Z
+published: 2026-10-04T13:23:51.918Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Stučevas
 nosaukums_ger:

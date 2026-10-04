@@ -3,8 +3,10 @@ publish: true
 aliases:
   - Neu-Laizen
 created: 2026-07-23T18:12:54.702Z
-modified: 2026-09-21T06:06:03.029Z
-published: 2026-09-21T06:06:03.029Z
+modified: 2026-10-04T13:23:45.989Z
+published: 2026-10-04T13:23:45.989Z
+tags:
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Jaunlaicenes
 nosaukums_ger: Neu-Laitzen
@@ -23,7 +25,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-tags: []
 coordinates:
 map_color:
 map_icon:

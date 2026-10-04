@@ -4,12 +4,13 @@ aliases:
   - Vecdrustu
   - Alt-Drostenhof
 created: 2026-04-13T17:03:21.340Z
-modified: 2026-09-21T06:06:03.080Z
-published: 2026-09-21T06:06:03.080Z
+modified: 2026-10-04T13:23:43.892Z
+published: 2026-10-04T13:23:43.892Z
 tags:
   - places
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Drustu
 nosaukums_ger: Drostenhof

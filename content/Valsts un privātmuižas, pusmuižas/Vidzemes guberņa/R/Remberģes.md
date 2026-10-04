@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-10-04T09:41:21.210Z
-modified: 2026-10-04T09:45:00.003Z
-published: 2026-10-04T09:45:00.003Z
+modified: 2026-10-04T13:23:48.274Z
+published: 2026-10-04T13:23:48.274Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Remberģes
 nosaukums_ger: Ringenberg

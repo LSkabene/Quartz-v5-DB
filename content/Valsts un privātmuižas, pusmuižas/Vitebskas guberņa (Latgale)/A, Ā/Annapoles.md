@@ -3,10 +3,11 @@ publish: true
 aliases:
   - Anapoles
 created: 2026-07-30T17:40:28.547Z
-modified: 2026-09-21T06:06:02.799Z
-published: 2026-09-21T06:06:02.799Z
+modified: 2026-10-04T13:23:49.966Z
+published: 2026-10-04T13:23:49.966Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Annapoles
 nosaukums_ger:

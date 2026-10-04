@@ -5,11 +5,12 @@ aliases:
   - Bērzmuiža
   - Bersehof
 created: 2026-04-11T07:00:27.140Z
-modified: 2026-10-01T16:08:07.987Z
-published: 2026-10-01T16:08:07.987Z
+modified: 2026-10-04T13:23:43.312Z
+published: 2026-10-04T13:23:43.312Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Bērzu
 nosaukums_ger: Bershof

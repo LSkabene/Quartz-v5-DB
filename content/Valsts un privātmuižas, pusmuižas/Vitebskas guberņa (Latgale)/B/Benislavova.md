@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T17:02:13.483Z
-modified: 2026-09-21T06:06:02.823Z
-published: 2026-09-21T06:06:02.823Z
+modified: 2026-10-04T13:23:50.138Z
+published: 2026-10-04T13:23:50.138Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Benislavova
 nosaukums_ger:

@@ -7,12 +7,13 @@ aliases:
   - Truvertu pusmuiža
   - Štegmaņa muižiņa
 created: 2026-09-21T08:38:47.797Z
-modified: 2026-09-21T08:40:33.281Z
-published: 2026-09-21T08:40:33.281Z
+modified: 2026-10-04T13:23:49.123Z
+published: 2026-10-04T13:23:49.123Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Trūverta
 nosaukums_ger:

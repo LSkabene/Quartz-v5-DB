@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Bērzone
 created: 2026-04-11T06:57:36.096Z
-modified: 2026-09-21T06:06:03.119Z
-published: 2026-09-21T06:06:03.119Z
+modified: 2026-10-04T13:23:43.274Z
+published: 2026-10-04T13:23:43.274Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Bērzaunes
 nosaukums_ger: Bersohn

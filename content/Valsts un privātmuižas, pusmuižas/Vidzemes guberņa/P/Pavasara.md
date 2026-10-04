@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-09-23T17:08:32.220Z
-modified: 2026-10-03T08:55:10.530Z
-published: 2026-10-03T08:55:10.530Z
+modified: 2026-10-04T13:23:47.976Z
+published: 2026-10-04T13:23:47.976Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Pavasara
 nosaukums_ger: Pawassern

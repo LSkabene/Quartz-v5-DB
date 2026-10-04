@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T17:08:37.684Z
-modified: 2026-09-21T06:06:02.837Z
-published: 2026-09-21T06:06:02.837Z
+modified: 2026-10-04T13:23:51.068Z
+published: 2026-10-04T13:23:51.068Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Marimonta
 nosaukums_ger:

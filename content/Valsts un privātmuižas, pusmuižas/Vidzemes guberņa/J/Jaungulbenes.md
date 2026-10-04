@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-07-23T18:12:54.620Z
-modified: 2026-10-03T10:47:13.463Z
-published: 2026-10-03T10:47:13.463Z
+modified: 2026-10-04T13:23:45.887Z
+published: 2026-10-04T13:23:45.887Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Jaungulbenes
 nosaukums_ger: Neu-Schwanenburg

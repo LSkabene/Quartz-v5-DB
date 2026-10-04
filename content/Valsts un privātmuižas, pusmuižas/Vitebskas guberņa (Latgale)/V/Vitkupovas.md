@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-01T15:44:47.701Z
-modified: 2026-09-21T06:06:02.720Z
-published: 2026-09-21T06:06:02.720Z
+modified: 2026-10-04T13:23:52.185Z
+published: 2026-10-04T13:23:52.185Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Vitkupovas
 nosaukums_ger:

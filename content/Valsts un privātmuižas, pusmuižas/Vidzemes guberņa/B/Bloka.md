@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Blokmuiža
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-21T06:06:03.176Z
-published: 2026-09-21T06:06:03.176Z
+modified: 2026-10-04T13:23:42.469Z
+published: 2026-10-04T13:23:42.469Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Bloka
 nosaukums_ger: Blocksches Höffchen

@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-10-03T15:51:22.389Z
-modified: 2026-10-03T15:53:47.459Z
-published: 2026-10-03T15:53:47.459Z
+modified: 2026-10-04T13:23:46.311Z
+published: 2026-10-04T13:23:46.311Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv:
 nosaukums_ger: Jägelmühle

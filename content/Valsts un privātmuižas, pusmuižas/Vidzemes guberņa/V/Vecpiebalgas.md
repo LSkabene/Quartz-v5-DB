@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-09-23T17:27:09.762Z
-modified: 2026-10-03T08:59:54.944Z
-published: 2026-10-03T08:59:54.944Z
+modified: 2026-10-04T13:23:49.332Z
+published: 2026-10-04T13:23:49.332Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Vecpiebalgas
 nosaukums_ger: Alt-Pebalg

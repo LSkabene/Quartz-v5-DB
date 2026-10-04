@@ -3,10 +3,11 @@ publish: true
 aliases:
   - Paltemar
 created: 2026-09-23T17:05:48.817Z
-modified: 2026-10-03T08:54:27.120Z
-published: 2026-10-03T08:54:27.120Z
+modified: 2026-10-04T13:23:47.937Z
+published: 2026-10-04T13:23:47.937Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Paltmales
 nosaukums_ger: Paltemall

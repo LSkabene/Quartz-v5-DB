@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-01T15:33:38.341Z
-modified: 2026-09-21T06:06:02.779Z
-published: 2026-09-21T06:06:02.779Z
+modified: 2026-10-04T13:23:51.395Z
+published: 2026-10-04T13:23:51.395Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Pildas
 nosaukums_ger:

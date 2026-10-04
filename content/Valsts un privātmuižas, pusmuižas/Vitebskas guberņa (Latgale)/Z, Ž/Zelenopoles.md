@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T15:43:55.029Z
-modified: 2026-09-21T06:06:02.702Z
-published: 2026-09-21T06:06:02.702Z
+modified: 2026-10-04T13:23:52.324Z
+published: 2026-10-04T13:23:52.324Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Zelenopoles
 nosaukums_ger:

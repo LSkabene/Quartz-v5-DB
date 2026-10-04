@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Atradsen
 created: 2026-04-06T16:44:00.872Z
-modified: 2026-10-04T07:25:59.293Z
-published: 2026-10-04T07:25:59.293Z
+modified: 2026-10-04T13:23:41.661Z
+published: 2026-10-04T13:23:41.661Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Atradzes
 nosaukums_ger: Attradsen

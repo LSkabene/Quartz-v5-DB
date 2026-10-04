@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-20T06:11:28.410Z
-modified: 2026-09-21T06:06:03.003Z
-published: 2026-09-21T06:06:03.003Z
+modified: 2026-10-04T13:23:46.840Z
+published: 2026-10-04T13:23:46.840Z
 tags:
   - Rīga
   - Vidzeme
   - teritorija/rīgas-patrimoniālais
+  - fails/muiža
 veids:
 nosaukums_lv: Krēgermuiža
 nosaukums_ger: Krögershof

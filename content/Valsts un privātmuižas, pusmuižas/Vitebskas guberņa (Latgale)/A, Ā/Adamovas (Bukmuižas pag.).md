@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T16:07:51.639Z
-modified: 2026-09-21T06:06:02.808Z
-published: 2026-09-21T06:06:02.808Z
+modified: 2026-10-04T13:23:49.872Z
+published: 2026-10-04T13:23:49.872Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Adamovas
 nosaukums_ger:

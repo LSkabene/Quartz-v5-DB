@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Enneberg
 created: 2026-10-03T11:42:43.321Z
-modified: 2026-10-03T11:44:47.952Z
-published: 2026-10-03T11:44:47.952Z
+modified: 2026-10-04T13:23:48.837Z
+published: 2026-10-04T13:23:48.837Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Sējas
 nosaukums_ger: Zögenhof

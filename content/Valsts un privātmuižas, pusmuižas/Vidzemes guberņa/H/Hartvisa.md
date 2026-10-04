@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-09-09T17:13:17.468Z
-modified: 2026-09-21T06:06:02.933Z
-published: 2026-09-21T06:06:02.933Z
+modified: 2026-10-04T13:23:45.235Z
+published: 2026-10-04T13:23:45.235Z
 tags:
   - Rīga
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Hartvisa
 nosaukums_ger:

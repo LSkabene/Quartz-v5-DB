@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Clauenstein
 created: 2026-10-04T07:13:28.539Z
-modified: 2026-10-04T07:20:53.793Z
-published: 2026-10-04T07:20:53.793Z
+modified: 2026-10-04T13:23:47.957Z
+published: 2026-10-04T13:23:47.957Z
 tags:
   - Vidzeme
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Pasta
 nosaukums_ger: Klauenstein

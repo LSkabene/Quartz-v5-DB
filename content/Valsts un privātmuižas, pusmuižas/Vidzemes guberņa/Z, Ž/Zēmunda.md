@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Mühlenhof
 created: 2026-09-21T10:25:04.934Z
-modified: 2026-09-21T10:26:21.191Z
-published: 2026-09-21T10:26:21.191Z
+modified: 2026-10-04T13:23:49.854Z
+published: 2026-10-04T13:23:49.854Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Zēmunda
 nosaukums_ger: Seemundshof

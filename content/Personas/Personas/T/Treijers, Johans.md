@@ -3,10 +3,11 @@ publish: true
 aliases:
   - Трейеръ
 created: 2026-08-25T17:09:23.205Z
-modified: 2026-10-01T15:54:11.885Z
-published: 2026-10-01T15:54:11.885Z
+modified: 2026-10-04T13:23:04.792Z
+published: 2026-10-04T13:23:04.792Z
 tags:
   - kārta/namnieki
+  - fails/persona
 person_id: 56
 ---
 

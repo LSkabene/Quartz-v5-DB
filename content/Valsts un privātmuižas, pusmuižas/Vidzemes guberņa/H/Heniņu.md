@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-10-03T11:07:35.000Z
-modified: 2026-10-03T11:14:12.239Z
-published: 2026-10-03T11:14:12.239Z
+modified: 2026-10-04T13:23:45.330Z
+published: 2026-10-04T13:23:45.330Z
 tags:
   - veids/pusmuiža
   - Jāpārbauda
+  - fails/muiža
 veids: Pusmuiža
 nosaukums_lv: Heniņu
 nosaukums_ger: Henning

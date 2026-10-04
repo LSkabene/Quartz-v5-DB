@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-09-23T16:28:06.049Z
-modified: 2026-09-23T16:33:33.402Z
-published: 2026-09-23T16:33:33.402Z
+modified: 2026-10-04T13:23:46.406Z
+published: 2026-10-04T13:23:46.406Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Jūdažu
 nosaukums_ger: Judasch

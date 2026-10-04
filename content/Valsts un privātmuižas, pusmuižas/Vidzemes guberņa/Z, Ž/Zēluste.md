@@ -4,13 +4,14 @@ aliases:
   - Šepmuiža
   - Ezerkrasti
 created: 2026-09-21T10:26:21.123Z
-modified: 2026-09-21T10:29:35.009Z
-published: 2026-09-21T10:29:35.009Z
+modified: 2026-10-04T13:23:49.833Z
+published: 2026-10-04T13:23:49.833Z
 tags:
   - veids/privātmuiža
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Zēluste
 nosaukums_ger: Seelust

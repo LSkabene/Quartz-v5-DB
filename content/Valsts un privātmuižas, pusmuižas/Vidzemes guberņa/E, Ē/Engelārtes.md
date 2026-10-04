@@ -4,11 +4,12 @@ aliases:
   - Billes
   - Billenhof
 created: 2026-07-18T12:56:52.959Z
-modified: 2026-10-03T11:42:43.463Z
-published: 2026-10-03T11:42:43.463Z
+modified: 2026-10-04T13:23:44.319Z
+published: 2026-10-04T13:23:44.319Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Engelārtes
 nosaukums_ger: Engelhardtshof

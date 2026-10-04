@@ -4,11 +4,12 @@ aliases:
   - Ēriņu
   - Häringshof
 created: 2026-07-18T12:56:53.013Z
-modified: 2026-09-21T06:06:03.046Z
-published: 2026-09-21T06:06:03.046Z
+modified: 2026-10-04T13:23:44.337Z
+published: 2026-10-04T13:23:44.337Z
 tags:
   - places
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Eriņu
 nosaukums_ger: Heringshof

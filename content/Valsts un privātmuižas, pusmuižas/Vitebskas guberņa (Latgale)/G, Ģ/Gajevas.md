@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-01T16:51:37.498Z
-modified: 2026-09-21T06:06:02.867Z
-published: 2026-09-21T06:06:02.867Z
+modified: 2026-10-04T13:23:50.537Z
+published: 2026-10-04T13:23:50.537Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Gajevas
 nosaukums_ger:

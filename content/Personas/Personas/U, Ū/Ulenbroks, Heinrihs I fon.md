@@ -4,11 +4,12 @@ aliases:
   - Heinrihs fon Ulenbroks
   - Hinrihs fon Ulenbroks
 created: 2026-09-22T14:03:59.409Z
-modified: 2026-10-01T15:54:25.465Z
-published: 2026-10-01T15:54:25.465Z
+modified: 2026-10-04T13:23:04.860Z
+published: 2026-10-04T13:23:04.860Z
 tags:
   - dzimta/Ulenbroki
   - kārta/muižnieki
+  - fails/persona
 person_id: 58
 ---
 

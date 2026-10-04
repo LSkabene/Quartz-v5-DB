@@ -4,12 +4,13 @@ aliases:
   - Doremoise
   - Doresmuiža
 created: 2026-04-13T16:46:40.400Z
-modified: 2026-09-21T06:06:03.101Z
-published: 2026-09-21T06:06:03.101Z
+modified: 2026-10-04T13:23:43.760Z
+published: 2026-10-04T13:23:43.760Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Dores
 nosaukums_ger: Doremoise

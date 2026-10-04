@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Aijasch
 created: 2026-04-02T15:39:49.904Z
-modified: 2026-09-21T06:06:03.292Z
-published: 2026-09-21T06:06:03.292Z
+modified: 2026-10-04T13:23:41.137Z
+published: 2026-10-04T13:23:41.137Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Aijažu
 nosaukums_ger: Ayasch

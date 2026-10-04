@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T15:58:15.191Z
-modified: 2026-09-21T06:06:02.815Z
-published: 2026-09-21T06:06:02.815Z
+modified: 2026-10-04T13:23:50.293Z
+published: 2026-10-04T13:23:50.293Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Bērzgales
 nosaukums_ger:

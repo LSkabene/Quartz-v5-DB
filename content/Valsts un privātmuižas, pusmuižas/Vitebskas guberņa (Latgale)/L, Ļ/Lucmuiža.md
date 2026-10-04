@@ -3,10 +3,11 @@ publish: true
 aliases:
   - Ļucmuiža
 created: 2026-07-30T17:38:00.614Z
-modified: 2026-09-21T06:06:02.787Z
-published: 2026-09-21T06:06:02.787Z
+modified: 2026-10-04T13:23:50.934Z
+published: 2026-10-04T13:23:50.934Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Lucmuiža
 nosaukums_ger:

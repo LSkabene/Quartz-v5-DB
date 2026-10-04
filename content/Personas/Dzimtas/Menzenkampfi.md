@@ -4,9 +4,10 @@ aliases:
   - Mensenkampf
   - Мензенкампфы
 created: 2026-10-03T10:30:36.482Z
-modified: 2026-10-03T10:32:02.124Z
-published: 2026-10-03T10:32:02.124Z
-tags: []
+modified: 2026-10-04T13:23:19.401Z
+published: 2026-10-04T13:23:19.401Z
+tags:
+  - fails/dzimta
 ---
 
 | Persona                                                               | Muižas                                                                    | Guberņa  |

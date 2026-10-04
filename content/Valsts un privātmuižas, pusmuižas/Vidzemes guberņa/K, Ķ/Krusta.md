@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Krustenhofa
 created: 2026-09-20T06:09:09.045Z
-modified: 2026-09-21T06:06:02.995Z
-published: 2026-09-21T06:06:02.995Z
+modified: 2026-10-04T13:23:46.789Z
+published: 2026-10-04T13:23:46.789Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Krusta
 nosaukums_ger: Kreuzhof

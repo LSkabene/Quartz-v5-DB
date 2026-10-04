@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-13T16:33:28.171Z
-modified: 2026-09-21T06:06:03.105Z
-published: 2026-09-21T06:06:03.105Z
+modified: 2026-10-04T13:23:43.600Z
+published: 2026-10-04T13:23:43.600Z
 tags:
   - places
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Daibes
 nosaukums_ger: Daiben

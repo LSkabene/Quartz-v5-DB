@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-09-21T08:27:46.114Z
-modified: 2026-09-21T08:29:16.069Z
-published: 2026-09-21T08:29:16.069Z
+modified: 2026-10-04T13:23:48.332Z
+published: 2026-10-04T13:23:48.332Z
 tags:
   - veids/privātmuiža
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Ruperta
 nosaukums_ger:

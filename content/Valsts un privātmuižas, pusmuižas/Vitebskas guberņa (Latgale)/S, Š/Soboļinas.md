@@ -4,10 +4,11 @@ aliases:
   - Sibilinas
   - Sibelīnas
 created: 2026-07-30T17:43:59.799Z
-modified: 2026-09-21T06:06:02.738Z
-published: 2026-09-21T06:06:02.738Z
+modified: 2026-10-04T13:23:51.858Z
+published: 2026-10-04T13:23:51.858Z
 tags:
   - Latgale
+  - fails/muiža
 veids: Folvarks
 nosaukums_lv: Soboļinas
 nosaukums_ger:

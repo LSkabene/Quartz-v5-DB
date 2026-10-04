@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T17:20:28.994Z
-modified: 2026-09-21T06:06:02.859Z
-published: 2026-09-21T06:06:02.859Z
+modified: 2026-10-04T13:23:50.613Z
+published: 2026-10-04T13:23:50.613Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Ignatovas
 nosaukums_ger:

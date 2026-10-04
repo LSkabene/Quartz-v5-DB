@@ -4,13 +4,14 @@ aliases:
   - Strykenhof
   - Strikenhof
 created: 2026-09-23T17:21:49.877Z
-modified: 2026-10-03T08:58:05.084Z
-published: 2026-10-03T08:58:05.084Z
+modified: 2026-10-04T13:23:48.721Z
+published: 2026-10-04T13:23:48.721Z
 tags:
   - veids_vēsturiski/publiskā
   - veids_vēsturiski/publiskā_pēc_Hūna
   - veids/kroņa_muiža
   - Vidzeme
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Strīķu
 nosaukums_ger: Strickenhof

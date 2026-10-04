@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Glauenhof mit Aulitzeem
 created: 2026-10-04T07:31:23.290Z
-modified: 2026-10-04T07:33:45.749Z
-published: 2026-10-04T07:33:45.749Z
+modified: 2026-10-04T13:23:48.201Z
+published: 2026-10-04T13:23:48.201Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Radalkas
 nosaukums_ger: Glauenhof

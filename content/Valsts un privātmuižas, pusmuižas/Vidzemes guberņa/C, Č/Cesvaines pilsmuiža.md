@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-13T16:30:26.601Z
-modified: 2026-10-01T16:30:14.917Z
-published: 2026-10-01T16:30:14.917Z
+modified: 2026-10-04T13:23:43.401Z
+published: 2026-10-04T13:23:43.401Z
 tags:
   - places
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Cesvaines
 nosaukums_ger: Schloss Sesswegen

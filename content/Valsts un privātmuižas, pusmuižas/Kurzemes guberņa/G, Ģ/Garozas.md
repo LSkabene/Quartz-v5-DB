@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.151Z
-modified: 2026-09-21T06:06:02.655Z
-published: 2026-09-21T06:06:02.655Z
+modified: 2026-10-04T13:23:39.963Z
+published: 2026-10-04T13:23:39.963Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Garozas
 nosaukums_ger: Garrosen

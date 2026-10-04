@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.062Z
-modified: 2026-09-21T06:06:02.672Z
-published: 2026-09-21T06:06:02.672Z
+modified: 2026-10-04T13:23:39.746Z
+published: 2026-10-04T13:23:39.746Z
 tags:
   - veids/kroņa_muiža
   - Kurzeme
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Bērzes
 nosaukums_ger: Bershof

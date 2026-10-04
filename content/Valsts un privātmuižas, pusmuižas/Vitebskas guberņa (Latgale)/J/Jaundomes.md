@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T16:08:52.107Z
-modified: 2026-09-21T06:06:02.853Z
-published: 2026-09-21T06:06:02.853Z
+modified: 2026-10-04T13:23:50.724Z
+published: 2026-10-04T13:23:50.724Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Jaundomes
 nosaukums_ger:

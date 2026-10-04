@@ -3,8 +3,10 @@ publish: true
 aliases:
   - Eeriķe
 created: 2026-07-23T18:12:54.275Z
-modified: 2026-09-21T06:06:02.924Z
-published: 2026-09-21T06:06:02.924Z
+modified: 2026-10-04T13:23:45.472Z
+published: 2026-10-04T13:23:45.472Z
+tags:
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Ieriķu
 nosaukums_ger: Ramotzky
@@ -23,7 +25,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-tags: []
 coordinates:
 map_color:
 map_icon:

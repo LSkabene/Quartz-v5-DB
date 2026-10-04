@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Reinshof
 created: 2026-09-21T09:34:53.129Z
-modified: 2026-09-21T10:32:25.359Z
-published: 2026-09-21T10:32:25.359Z
+modified: 2026-10-04T13:23:49.669Z
+published: 2026-10-04T13:23:49.669Z
 tags:
   - Rīga
   - Vidzeme
   - teritorija/rīgas-patrimoniālais
+  - fails/muiža
 veids:
 nosaukums_lv:
 nosaukums_ger: Wittenhof

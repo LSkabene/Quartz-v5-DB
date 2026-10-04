@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-18T04:57:25.067Z
-modified: 2026-09-21T06:06:02.775Z
-published: 2026-09-21T06:06:02.775Z
+modified: 2026-10-04T13:23:51.432Z
+published: 2026-10-04T13:23:51.432Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Polkornes
 nosaukums_ger:

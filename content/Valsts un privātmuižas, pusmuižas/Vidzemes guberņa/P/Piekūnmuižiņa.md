@@ -6,13 +6,14 @@ aliases:
   - Husmaņa muiža
   - Husmans Hof
 created: 2026-09-21T08:07:17.233Z
-modified: 2026-09-21T08:12:53.014Z
-published: 2026-09-21T08:12:53.014Z
+modified: 2026-10-04T13:23:47.993Z
+published: 2026-10-04T13:23:47.993Z
 tags:
   - veids/privātmuiža
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Piekūnmuižiņa
 nosaukums_ger: Falkenhof

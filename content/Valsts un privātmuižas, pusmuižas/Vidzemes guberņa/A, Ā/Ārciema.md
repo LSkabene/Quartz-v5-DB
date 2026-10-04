@@ -4,12 +4,13 @@ aliases:
   - Erkul
   - Erküll
 created: 2026-04-06T16:40:45.958Z
-modified: 2026-10-01T16:06:45.067Z
-published: 2026-10-01T16:06:45.067Z
+modified: 2026-10-04T13:23:41.887Z
+published: 2026-10-04T13:23:41.887Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Ārciema
 nosaukums_ger: Erkull

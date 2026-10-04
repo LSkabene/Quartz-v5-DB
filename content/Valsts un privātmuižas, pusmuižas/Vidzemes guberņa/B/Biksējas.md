@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Biksejas
 created: 2026-04-11T07:03:31.133Z
-modified: 2026-09-21T06:06:03.192Z
-published: 2026-09-21T06:06:03.192Z
+modified: 2026-10-04T13:23:42.333Z
+published: 2026-10-04T13:23:42.333Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Biksējas
 nosaukums_ger: Wilkenpahlen

@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-04-04T11:41:37.646Z
-modified: 2026-09-21T06:06:03.329Z
-published: 2026-09-21T06:06:03.329Z
+modified: 2026-10-04T13:24:23.232Z
+published: 2026-10-04T13:24:23.232Z
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Straupes
 nosaukums_ger: Roop Pastorat

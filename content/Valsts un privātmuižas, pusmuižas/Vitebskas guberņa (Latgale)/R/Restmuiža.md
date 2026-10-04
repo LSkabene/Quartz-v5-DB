@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-01T15:37:21.120Z
-modified: 2026-09-21T06:06:02.755Z
-published: 2026-09-21T06:06:02.755Z
+modified: 2026-10-04T13:23:51.664Z
+published: 2026-10-04T13:23:51.664Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Restmuiža
 nosaukums_ger:

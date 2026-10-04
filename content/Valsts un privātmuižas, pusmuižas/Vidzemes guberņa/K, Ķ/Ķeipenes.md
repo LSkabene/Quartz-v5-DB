@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-09-23T16:42:21.394Z
-modified: 2026-10-03T09:09:52.427Z
-published: 2026-10-03T09:09:52.427Z
+modified: 2026-10-04T13:23:46.962Z
+published: 2026-10-04T13:23:46.962Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Ķeipenes
 nosaukums_ger: Kaipen

@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Morgenstern
 created: 2026-09-20T07:08:39.373Z
-modified: 2026-09-21T06:06:02.901Z
-published: 2026-09-21T06:06:02.901Z
+modified: 2026-10-04T13:23:47.304Z
+published: 2026-10-04T13:23:47.304Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids:
 nosaukums_lv: Lāču
 nosaukums_ger: Bärenhof

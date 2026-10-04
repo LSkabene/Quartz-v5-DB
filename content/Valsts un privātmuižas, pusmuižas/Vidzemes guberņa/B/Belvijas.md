@@ -5,12 +5,13 @@ aliases:
   - Volkovica
   - Pavlovica
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-21T06:06:03.205Z
-published: 2026-09-21T06:06:03.205Z
+modified: 2026-10-04T13:23:42.180Z
+published: 2026-10-04T13:23:42.180Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Belvijas
 nosaukums_ger: ""

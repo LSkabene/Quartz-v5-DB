@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Buddenbrockshof
 created: 2026-10-04T07:45:48.390Z
-modified: 2026-10-04T08:25:49.153Z
-published: 2026-10-04T08:25:49.153Z
+modified: 2026-10-04T13:23:49.615Z
+published: 2026-10-04T13:23:49.615Z
 tags:
   - Vidzeme
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Vībrokas
 nosaukums_ger: Sudden

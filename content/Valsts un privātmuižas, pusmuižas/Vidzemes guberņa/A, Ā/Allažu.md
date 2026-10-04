@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-06T14:36:37.138Z
-modified: 2026-09-23T16:32:17.302Z
-published: 2026-09-23T16:32:17.302Z
+modified: 2026-10-04T13:23:41.286Z
+published: 2026-10-04T13:23:41.286Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Allažu
 nosaukums_ger: Allasch

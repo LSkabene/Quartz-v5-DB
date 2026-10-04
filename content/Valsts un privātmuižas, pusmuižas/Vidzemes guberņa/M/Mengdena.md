@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-09-21T06:27:46.831Z
-modified: 2026-09-21T06:37:28.872Z
-published: 2026-09-21T06:37:28.872Z
+modified: 2026-10-04T13:23:47.529Z
+published: 2026-10-04T13:23:47.529Z
 tags:
   - veids/privātmuiža
   - Rīga
   - Vidzeme
   - teritorija/rīgas-patrimoniālais
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Mengdena
 nosaukums_ger:

@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-09-21T09:41:19.015Z
-modified: 2026-09-21T09:46:45.988Z
-published: 2026-09-21T09:46:45.988Z
+modified: 2026-10-04T13:23:49.477Z
+published: 2026-10-04T13:23:49.477Z
 tags:
   - veids/privātmuiža
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Volfšmita
 nosaukums_ger:

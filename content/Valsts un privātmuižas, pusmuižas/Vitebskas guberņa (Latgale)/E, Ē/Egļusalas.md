@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T16:39:20.869Z
-modified: 2026-09-21T06:06:02.878Z
-published: 2026-09-21T06:06:02.878Z
+modified: 2026-10-04T13:23:50.404Z
+published: 2026-10-04T13:23:50.404Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Egļusalas
 nosaukums_ger:

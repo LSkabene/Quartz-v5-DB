@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-20T05:46:38.078Z
-modified: 2026-09-21T06:06:03.014Z
-published: 2026-09-21T06:06:03.014Z
+modified: 2026-10-04T13:23:46.637Z
+published: 2026-10-04T13:23:46.637Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv:
 nosaukums_ger: Kohlenhof

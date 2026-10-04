@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-17T17:27:32.061Z
-modified: 2026-10-01T15:50:25.050Z
-published: 2026-10-01T15:50:25.050Z
+modified: 2026-10-04T13:23:03.796Z
+published: 2026-10-04T13:23:03.796Z
 tags:
   - dzimta/Benislavski
+  - fails/persona
 aliases: []
 person_id: 4
 ---

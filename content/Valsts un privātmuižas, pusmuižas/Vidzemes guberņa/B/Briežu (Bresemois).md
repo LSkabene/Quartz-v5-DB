@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-11T07:32:40.233Z
-modified: 2026-09-21T06:06:03.154Z
-published: 2026-09-21T06:06:03.154Z
+modified: 2026-10-04T13:23:42.891Z
+published: 2026-10-04T13:23:42.891Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Briežu
 nosaukums_ger: Bresemois

@@ -1,14 +1,15 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.897Z
-modified: 2026-10-03T08:55:45.962Z
-published: 2026-10-03T08:55:45.962Z
+modified: 2026-10-04T13:23:48.067Z
+published: 2026-10-04T13:23:48.067Z
 tags:
   - veids/organizāciju
   - veids/organizāciju/vidzemes_bruņniecība
   - places
   - Vidzeme
   - īpašnieki/vidzemes-bruņniecība
+  - fails/muiža
 veids: Organizāciju
 nosaukums_lv: Plāņu
 nosaukums_ger: Planhof

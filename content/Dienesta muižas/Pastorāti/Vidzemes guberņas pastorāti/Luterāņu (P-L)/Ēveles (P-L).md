@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.887Z
-modified: 2026-09-21T06:06:03.307Z
-published: 2026-09-21T06:06:03.307Z
+modified: 2026-10-04T13:24:23.525Z
+published: 2026-10-04T13:24:23.525Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Ēveles
 nosaukums_ger: Wolfahrt Pastorat

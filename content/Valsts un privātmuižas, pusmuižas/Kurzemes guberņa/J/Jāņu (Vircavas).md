@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-25T17:28:51.590Z
-modified: 2026-09-21T06:06:02.639Z
-published: 2026-09-21T06:06:02.639Z
+modified: 2026-10-04T13:23:40.145Z
+published: 2026-10-04T13:23:40.145Z
 tags:
   - veids/kroņa_pusmuiža
   - Kurzeme
+  - fails/muiža
 veids: Kroņa pusmuiža
 nosaukums_lv: Jāņu
 nosaukums_ger:

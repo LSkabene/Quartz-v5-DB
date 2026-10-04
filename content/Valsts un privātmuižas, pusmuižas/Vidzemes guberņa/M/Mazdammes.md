@@ -4,12 +4,13 @@ aliases:
   - Mazā Dammes
   - Mazā Tammes
 created: 2026-09-20T08:26:27.745Z
-modified: 2026-09-21T06:06:02.939Z
-published: 2026-09-21T06:06:02.939Z
+modified: 2026-10-04T13:23:47.397Z
+published: 2026-10-04T13:23:47.397Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Mazdammes
 nosaukums_ger: Kleindammenhof

@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.830Z
-modified: 2026-09-21T06:06:02.577Z
-published: 2026-09-21T06:06:02.577Z
+modified: 2026-10-04T13:23:41.059Z
+published: 2026-10-04T13:23:41.059Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Vētras
 nosaukums_ger: Bewertschwethof

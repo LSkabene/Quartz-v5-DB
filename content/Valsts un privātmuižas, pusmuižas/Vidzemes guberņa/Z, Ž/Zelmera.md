@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-21T10:21:30.876Z
-modified: 2026-09-21T10:22:16.523Z
-published: 2026-09-21T10:22:16.523Z
+modified: 2026-10-04T13:23:49.775Z
+published: 2026-10-04T13:23:49.775Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Zelmera
 nosaukums_ger: Sellmershöfchen

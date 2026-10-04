@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-01T15:31:53.300Z
-modified: 2026-09-21T06:06:02.831Z
-published: 2026-09-21T06:06:02.831Z
+modified: 2026-10-04T13:23:51.006Z
+published: 2026-10-04T13:23:51.006Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Marcinpoles
 nosaukums_ger:

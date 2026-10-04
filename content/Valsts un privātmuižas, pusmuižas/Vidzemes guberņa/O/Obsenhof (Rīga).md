@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-21T07:48:50.312Z
-modified: 2026-09-21T08:03:14.530Z
-published: 2026-09-21T08:03:14.530Z
+modified: 2026-10-04T13:23:47.878Z
+published: 2026-10-04T13:23:47.878Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv:
 nosaukums_ger: Obsenhof

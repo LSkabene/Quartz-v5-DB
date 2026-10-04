@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Franku
 created: 2026-09-17T07:27:43.636Z
-modified: 2026-09-21T06:06:03.009Z
-published: 2026-09-21T06:06:03.009Z
+modified: 2026-10-04T13:23:46.559Z
+published: 2026-10-04T13:23:46.559Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Kaulu
 nosaukums_ger: Frankenhof

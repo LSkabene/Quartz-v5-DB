@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T16:41:57.012Z
-modified: 2026-09-21T06:06:02.850Z
-published: 2026-09-21T06:06:02.850Z
+modified: 2026-10-04T13:23:50.781Z
+published: 2026-10-04T13:23:50.781Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Kaunatas
 nosaukums_ger:

@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-21T08:41:57.546Z
-modified: 2026-09-21T09:26:56.297Z
-published: 2026-09-21T09:26:56.297Z
+modified: 2026-10-04T13:23:49.161Z
+published: 2026-10-04T13:23:49.161Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids:
 nosaukums_lv: Tīzlera
 nosaukums_ger: Tieslers Höfchen

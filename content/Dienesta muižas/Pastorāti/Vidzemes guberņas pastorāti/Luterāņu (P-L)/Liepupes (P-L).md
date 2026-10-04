@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-04-02T17:28:17.706Z
-modified: 2026-10-01T18:06:07.926Z
-published: 2026-10-01T18:06:07.926Z
+modified: 2026-10-04T13:24:22.676Z
+published: 2026-10-04T13:24:22.676Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Liepupes
 nosaukums_ger: Pernigel Pastorat

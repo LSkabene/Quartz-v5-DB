@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-25T17:28:47.431Z
-modified: 2026-09-21T06:06:02.576Z
-published: 2026-09-21T06:06:02.576Z
+modified: 2026-10-04T13:23:40.955Z
+published: 2026-10-04T13:23:40.955Z
 tags:
   - Kurzeme
   - veids/kroņa_pusmuiža
+  - fails/muiža
 veids: Kroņa pusmuiža
 nosaukums_lv: Vecsvirlaukas
 nosaukums_ger:

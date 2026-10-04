@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-04-04T11:44:07.700Z
-modified: 2026-09-21T06:06:03.319Z
-published: 2026-09-21T06:06:03.319Z
+modified: 2026-10-04T13:24:23.252Z
+published: 2026-10-04T13:24:23.252Z
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Suntažu
 nosaukums_ger: Sunzel Pastorat

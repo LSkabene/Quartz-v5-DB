@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.630Z
-modified: 2026-09-21T06:06:02.615Z
-published: 2026-09-21T06:06:02.615Z
+modified: 2026-10-04T13:23:40.456Z
+published: 2026-10-04T13:23:40.456Z
 tags:
   - Kurzeme
   - veids/kroņa_pusmuiža
+  - fails/muiža
 veids: Kroņa pusmuiža
 nosaukums_lv: Mazsesavas
 nosaukums_ger: Klein-Sessau

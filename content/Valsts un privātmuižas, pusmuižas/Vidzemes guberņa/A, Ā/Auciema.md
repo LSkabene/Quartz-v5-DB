@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Autzem
 created: 2026-04-06T16:44:53.090Z
-modified: 2026-09-21T06:06:03.259Z
-published: 2026-09-21T06:06:03.259Z
+modified: 2026-10-04T13:23:41.680Z
+published: 2026-10-04T13:23:41.680Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Auciema
 nosaukums_ger: Autzeem

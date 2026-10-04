@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Balloden
 created: 2026-04-11T06:23:26.990Z
-modified: 2026-09-21T06:06:03.217Z
-published: 2026-09-21T06:06:03.217Z
+modified: 2026-10-04T13:23:41.979Z
+published: 2026-10-04T13:23:41.979Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Baložu
 nosaukums_ger: Ballod

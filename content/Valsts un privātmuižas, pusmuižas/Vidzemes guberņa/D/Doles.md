@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-04-13T16:44:38.258Z
-modified: 2026-10-03T15:13:07.103Z
-published: 2026-10-03T15:13:07.103Z
+modified: 2026-10-04T13:23:43.742Z
+published: 2026-10-04T13:23:43.742Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Doles
 nosaukums_ger: Dahlen

@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-11T07:33:22.475Z
-modified: 2026-09-21T06:06:03.156Z
-published: 2026-09-21T06:06:03.156Z
+modified: 2026-10-04T13:23:42.873Z
+published: 2026-10-04T13:23:42.873Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Briežu
 nosaukums_ger:

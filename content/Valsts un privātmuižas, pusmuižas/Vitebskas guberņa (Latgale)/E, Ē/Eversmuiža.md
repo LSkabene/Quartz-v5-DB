@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-07-30T17:10:20.706Z
-modified: 2026-09-21T06:06:02.872Z
-published: 2026-09-21T06:06:02.872Z
+modified: 2026-10-04T13:23:50.440Z
+published: 2026-10-04T13:23:50.440Z
 tags:
   - veids/privātmuiža
   - Latgale
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Eversmuiža
 nosaukums_ger:

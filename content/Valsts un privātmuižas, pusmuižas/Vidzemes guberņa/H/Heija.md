@@ -6,13 +6,14 @@ aliases:
   - Schoongezicht
   - Schöngesicht
 created: 2026-09-09T17:15:22.617Z
-modified: 2026-09-21T06:06:02.931Z
-published: 2026-09-21T06:06:02.931Z
+modified: 2026-10-04T13:23:45.254Z
+published: 2026-10-04T13:23:45.254Z
 tags:
   - veids/privātmuiža
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Heija
 nosaukums_ger: Hay Hoffchen

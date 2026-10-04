@@ -4,12 +4,13 @@ aliases:
   - Šarlotes
   - Berneckens Hof
 created: 2026-09-21T09:28:38.114Z
-modified: 2026-09-21T09:31:33.366Z
-published: 2026-09-21T09:31:33.366Z
+modified: 2026-10-04T13:23:49.503Z
+published: 2026-10-04T13:23:49.503Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Vāgnera
 nosaukums_ger:

@@ -5,12 +5,13 @@ aliases:
   - Grāvu
   - Hillebolts Hof
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-21T06:06:02.966Z
-published: 2026-09-21T06:06:02.966Z
+modified: 2026-10-04T13:23:44.952Z
+published: 2026-10-04T13:23:44.952Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: ""
 nosaukums_lv: Grāves
 nosaukums_ger: Gravenhof

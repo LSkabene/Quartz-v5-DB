@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-20T08:22:54.943Z
-modified: 2026-09-21T06:06:02.939Z
-published: 2026-09-21T06:06:02.939Z
+modified: 2026-10-04T13:23:47.379Z
+published: 2026-10-04T13:23:47.379Z
 tags:
   - Rīga
   - Vidzeme
   - teritorija/rīgas-patrimoniālais
+  - fails/muiža
 veids:
 nosaukums_lv: Markvarta
 nosaukums_ger:

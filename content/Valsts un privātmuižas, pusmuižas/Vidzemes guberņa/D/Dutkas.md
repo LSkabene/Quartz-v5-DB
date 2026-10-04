@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-13T17:17:24.908Z
-modified: 2026-09-21T06:06:03.080Z
-published: 2026-09-21T06:06:03.080Z
+modified: 2026-10-04T13:23:44.040Z
+published: 2026-10-04T13:23:44.040Z
 tags:
   - places
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Dutkas
 nosaukums_ger: Dutkenshof

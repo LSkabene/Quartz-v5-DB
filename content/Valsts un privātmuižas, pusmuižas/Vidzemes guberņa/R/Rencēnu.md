@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-09-23T17:18:47.562Z
-modified: 2026-09-23T17:20:23.562Z
-published: 2026-09-23T17:20:23.562Z
+modified: 2026-10-04T13:23:48.292Z
+published: 2026-10-04T13:23:48.292Z
 tags:
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Rencēnu
 nosaukums_ger: Lubbert-Renzen

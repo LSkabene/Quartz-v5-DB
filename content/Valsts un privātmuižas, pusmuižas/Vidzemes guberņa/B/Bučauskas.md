@@ -3,13 +3,14 @@ publish: true
 aliases:
   - Butšauskas
 created: 2026-04-11T07:36:59.507Z
-modified: 2026-10-01T16:09:36.581Z
-published: 2026-10-01T16:09:36.581Z
+modified: 2026-10-04T13:23:43.159Z
+published: 2026-10-04T13:23:43.159Z
 tags:
   - veids/privātmuiža
   - Vidzeme
   - Jāpārbauda
   - veids_vēsturiski/pusmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Bučauskas
 nosaukums_ger: Butzkowsky

@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.099Z
-modified: 2026-09-21T06:06:02.615Z
-published: 2026-09-21T06:06:02.615Z
+modified: 2026-10-04T13:23:40.475Z
+published: 2026-10-04T13:23:40.475Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
   - īpašnieki/Hāni
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Mežamuiža
 nosaukums_ger: Klein-Buschhof

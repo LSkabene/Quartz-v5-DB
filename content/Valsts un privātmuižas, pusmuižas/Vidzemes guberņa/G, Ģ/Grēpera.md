@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-07-18T12:56:53.250Z
-modified: 2026-09-21T06:06:02.967Z
-published: 2026-09-21T06:06:02.967Z
+modified: 2026-10-04T13:23:44.971Z
+published: 2026-10-04T13:23:44.971Z
 tags:
   - places
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Grēpera
 nosaukums_ger: Neuhof

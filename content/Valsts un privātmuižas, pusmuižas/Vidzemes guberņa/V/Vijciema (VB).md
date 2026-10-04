@@ -5,13 +5,14 @@ aliases:
   - Wielzenhof
   - Wiezenhof
 created: 2026-04-02T15:39:49.899Z
-modified: 2026-09-29T16:07:50.687Z
-published: 2026-09-29T16:07:50.687Z
+modified: 2026-10-04T13:23:49.405Z
+published: 2026-10-04T13:23:49.405Z
 tags:
   - veids/organizāciju/vidzemes_bruņniecība
   - veids/organizāciju
   - Vidzeme
   - īpašnieki/vidzemes-bruņniecība
+  - fails/muiža
 veids: Organizāciju
 nosaukums_lv: Vijciema
 nosaukums_ger: Wiezemhof

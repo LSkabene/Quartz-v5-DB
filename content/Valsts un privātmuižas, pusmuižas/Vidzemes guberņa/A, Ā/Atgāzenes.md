@@ -5,12 +5,13 @@ aliases:
   - Vegesackshof
   - Šēnfelda nervu klīnika un sanatorija "Atgāzene"
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-21T06:06:03.239Z
-published: 2026-09-21T06:06:03.239Z
+modified: 2026-10-04T13:23:41.645Z
+published: 2026-10-04T13:23:41.645Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Atgāzenes
 nosaukums_ger: Atgahsen

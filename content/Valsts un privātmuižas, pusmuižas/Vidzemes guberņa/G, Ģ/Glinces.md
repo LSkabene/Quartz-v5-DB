@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Glinzes
 created: 2026-07-18T12:56:53.174Z
-modified: 2026-09-21T06:06:02.979Z
-published: 2026-09-21T06:06:02.979Z
+modified: 2026-10-04T13:23:44.786Z
+published: 2026-10-04T13:23:44.786Z
 tags:
   - places
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Glinces
 nosaukums_ger: Katharinenhof

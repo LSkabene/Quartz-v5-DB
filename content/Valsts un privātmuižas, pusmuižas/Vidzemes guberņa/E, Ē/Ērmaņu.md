@@ -4,11 +4,12 @@ aliases:
   - Ērmaņa
   - Knöringsfeld
 created: 2026-07-18T12:56:53.022Z
-modified: 2026-09-21T06:06:03.037Z
-published: 2026-09-21T06:06:03.037Z
+modified: 2026-10-04T13:23:44.434Z
+published: 2026-10-04T13:23:44.434Z
 tags:
   - places
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Ērmaņu
 nosaukums_ger: Hermannshof

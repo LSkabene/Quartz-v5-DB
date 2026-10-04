@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-25T17:09:36.575Z
-modified: 2026-10-01T15:45:01.617Z
-published: 2026-10-01T15:45:01.617Z
+modified: 2026-10-04T13:23:03.863Z
+published: 2026-10-04T13:23:03.863Z
+tags:
+  - fails/persona
 aliases: []
-tags: []
 person_id: 8
 ---
 

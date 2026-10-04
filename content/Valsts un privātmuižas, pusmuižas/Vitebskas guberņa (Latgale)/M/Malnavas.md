@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-30T17:47:11.687Z
-modified: 2026-09-21T06:06:02.841Z
-published: 2026-09-21T06:06:02.841Z
+modified: 2026-10-04T13:23:50.969Z
+published: 2026-10-04T13:23:50.969Z
 tags:
   - veids/privātmuiža
   - veids_vēsturiski/pusmuiža
   - Latgale
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv:
 nosaukums_ger:

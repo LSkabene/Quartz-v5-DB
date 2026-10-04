@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.962Z
-modified: 2026-09-21T06:06:03.300Z
-published: 2026-09-21T06:06:03.300Z
+modified: 2026-10-04T13:24:21.952Z
+published: 2026-10-04T13:24:21.952Z
 tags:
   - veids/mežmuiža
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Bērzes-Sīpeles meža
 nosaukums_ger: Bers-Zipelhof

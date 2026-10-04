@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-20T06:05:29.456Z
-modified: 2026-09-21T06:06:02.997Z
-published: 2026-09-21T06:06:02.997Z
+modified: 2026-10-04T13:23:46.770Z
+published: 2026-10-04T13:23:46.770Z
 tags:
   - Rīga
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Kroņmaņa
 nosaukums_ger: Kronmannshof

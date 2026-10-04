@@ -3,13 +3,14 @@ publish: true
 aliases:
   - Cremon
 created: 2026-04-02T17:04:01.729Z
-modified: 2026-09-21T06:06:03.378Z
-published: 2026-09-21T06:06:03.378Z
+modified: 2026-10-04T13:24:22.577Z
+published: 2026-10-04T13:24:22.577Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Krimuldas
 nosaukums_ger: Kremon Pastorat

@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-21T02:54:21.827Z
-modified: 2026-10-01T15:54:38.609Z
-published: 2026-10-01T15:54:38.609Z
+modified: 2026-10-04T13:23:04.922Z
+published: 2026-10-04T13:23:04.922Z
 tags:
   - kārta/zemnieki
+  - fails/persona
 aliases: []
 person_id: 62
 ---

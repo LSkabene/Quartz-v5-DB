@@ -7,13 +7,14 @@ aliases:
   - Helmershof
   - Helmsa
 created: 2026-09-17T06:53:23.443Z
-modified: 2026-09-21T06:06:02.920Z
-published: 2026-09-21T06:06:02.920Z
+modified: 2026-10-04T13:23:45.581Z
+published: 2026-10-04T13:23:45.581Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - veids/privātmuiža
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Inča
 nosaukums_ger: Hintzenhof

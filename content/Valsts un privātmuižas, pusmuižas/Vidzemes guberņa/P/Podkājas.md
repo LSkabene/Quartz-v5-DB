@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Podekahje
 created: 2026-09-23T17:14:23.776Z
-modified: 2026-09-23T17:17:09.956Z
-published: 2026-09-23T17:17:09.956Z
+modified: 2026-10-04T13:23:48.093Z
+published: 2026-10-04T13:23:48.093Z
 tags:
   - veids/pusmuiža
   - Vidzeme
+  - fails/muiža
 veids: Pusmuiža
 nosaukums_lv: Podkājas
 nosaukums_ger: Podekay

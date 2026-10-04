@@ -5,11 +5,12 @@ aliases:
   - Bersemente
   - Siļķu
 created: 2026-04-11T06:58:48.823Z
-modified: 2026-10-03T15:05:37.218Z
-published: 2026-10-03T15:05:37.218Z
+modified: 2026-10-04T13:23:43.293Z
+published: 2026-10-04T13:23:43.293Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Bērzmentes
 nosaukums_ger: Bersemünde

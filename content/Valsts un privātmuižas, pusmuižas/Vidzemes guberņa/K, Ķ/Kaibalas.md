@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-03-21T11:04:06.097Z
-modified: 2026-09-21T06:06:03.015Z
-published: 2026-09-21T06:06:03.015Z
+modified: 2026-10-04T13:23:46.424Z
+published: 2026-10-04T13:23:46.424Z
 tags:
   - veids/pusmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Pusmuiža
 nosaukums_lv: Kaibala
 nosaukums_ger: Kaibel

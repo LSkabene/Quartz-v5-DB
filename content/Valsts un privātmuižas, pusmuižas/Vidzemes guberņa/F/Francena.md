@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-21T06:06:03.054Z
-published: 2026-09-21T06:06:03.054Z
+modified: 2026-10-04T13:23:44.562Z
+published: 2026-10-04T13:23:44.562Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Francena
 nosaukums_ger: Franzenhof

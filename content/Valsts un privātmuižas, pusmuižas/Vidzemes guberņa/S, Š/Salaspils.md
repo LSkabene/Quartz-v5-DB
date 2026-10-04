@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-10-03T15:27:00.362Z
-modified: 2026-10-03T15:29:34.404Z
-published: 2026-10-03T15:29:34.404Z
+modified: 2026-10-04T13:23:48.518Z
+published: 2026-10-04T13:23:48.518Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Salaspils
 nosaukums_ger: Kirchholm

@@ -4,12 +4,13 @@ aliases:
   - Brūnsa
   - Baumhof
 created: 2026-09-17T07:03:17.429Z
-modified: 2026-09-21T06:06:03.023Z
-published: 2026-09-21T06:06:03.023Z
+modified: 2026-10-04T13:23:46.294Z
+published: 2026-10-04T13:23:46.294Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Juglas
 nosaukums_ger:

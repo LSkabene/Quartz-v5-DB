@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-10-04T09:08:57.603Z
-modified: 2026-10-04T09:10:10.126Z
-published: 2026-10-04T09:10:10.126Z
+modified: 2026-10-04T13:23:45.289Z
+published: 2026-10-04T13:23:45.289Z
 tags:
   - veids/pusmuiža
   - Vidzeme
+  - fails/muiža
 veids: Pusmuiža
 nosaukums_lv: Helēnas
 nosaukums_ger: Helenenhof

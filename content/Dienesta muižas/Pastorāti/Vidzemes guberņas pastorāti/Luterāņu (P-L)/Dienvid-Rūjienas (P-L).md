@@ -3,13 +3,14 @@ publish: true
 aliases:
   - Rūjienas-Dienvid
 created: 2026-04-02T15:39:49.883Z
-modified: 2026-09-21T06:06:03.394Z
-published: 2026-09-21T06:06:03.394Z
+modified: 2026-10-04T13:24:22.286Z
+published: 2026-10-04T13:24:22.286Z
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Dienvid-Rūjienas
 nosaukums_ger: Süd-Rujen Pastorat

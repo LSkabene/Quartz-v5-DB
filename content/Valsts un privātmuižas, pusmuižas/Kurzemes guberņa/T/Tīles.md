@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.663Z
-modified: 2026-09-21T06:06:02.587Z
-published: 2026-09-21T06:06:02.587Z
+modified: 2026-10-04T13:23:40.874Z
+published: 2026-10-04T13:23:40.874Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Tīles
 nosaukums_ger: Thielenhof

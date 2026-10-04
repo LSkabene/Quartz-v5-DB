@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-10-03T15:32:10.040Z
-modified: 2026-10-03T15:48:08.619Z
-published: 2026-10-03T15:48:08.619Z
+modified: 2026-10-04T13:23:48.678Z
+published: 2026-10-04T13:23:48.678Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Stopiņu
 nosaukums_ger: Stopiushof

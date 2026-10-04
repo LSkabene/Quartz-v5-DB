@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-25T17:28:43.168Z
-modified: 2026-09-21T06:06:02.607Z
-published: 2026-09-21T06:06:02.607Z
+modified: 2026-10-04T13:23:40.619Z
+published: 2026-10-04T13:23:40.619Z
 tags:
   - veids/kroņa_pusmuiža
   - Kurzeme
+  - fails/muiža
 veids: Kroņa pusmuiža
 nosaukums_lv: Pētera
 nosaukums_ger:

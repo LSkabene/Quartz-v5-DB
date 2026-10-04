@@ -4,12 +4,13 @@ aliases:
   - Gunersdorf
   - Gerdt Groons Hof
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-21T06:06:02.981Z
-published: 2026-09-21T06:06:02.981Z
+modified: 2026-10-04T13:23:44.712Z
+published: 2026-10-04T13:23:44.712Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: ""
 nosaukums_lv: Gaunersdorfa
 nosaukums_ger: Gaunersdorfs Hof

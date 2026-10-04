@@ -5,13 +5,14 @@ aliases:
   - Lindenruh
   - Liepumuiža
 created: 2026-09-17T06:58:05.801Z
-modified: 2026-09-21T06:06:03.024Z
-published: 2026-09-21T06:06:03.024Z
+modified: 2026-10-04T13:23:46.157Z
+published: 2026-10-04T13:23:46.157Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Rīga
   - Vidzeme
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Jaunā Bieriņmuiža
 nosaukums_ger: Lindenruhe

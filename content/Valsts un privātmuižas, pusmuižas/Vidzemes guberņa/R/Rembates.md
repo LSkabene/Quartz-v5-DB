@@ -4,12 +4,13 @@ aliases:
   - Memersdorf
   - Memesdorf
 created: 2026-04-02T15:39:49.907Z
-modified: 2026-10-04T09:07:02.734Z
-published: 2026-10-04T09:07:02.734Z
+modified: 2026-10-04T13:23:48.257Z
+published: 2026-10-04T13:23:48.257Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Rembates
 nosaukums_ger: Ringmundshof

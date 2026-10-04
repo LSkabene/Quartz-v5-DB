@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.882Z
-modified: 2026-09-21T06:06:03.394Z
-published: 2026-09-21T06:06:03.394Z
+modified: 2026-10-04T13:24:22.222Z
+published: 2026-10-04T13:24:22.222Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Cesvaines
 nosaukums_ger: Sesswegen Pastorat

@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-08-01T15:23:42.327Z
-modified: 2026-09-21T06:06:02.774Z
-published: 2026-09-21T06:06:02.774Z
+modified: 2026-10-04T13:23:51.313Z
+published: 2026-10-04T13:23:51.313Z
 tags:
   - Latgale
   - īpašnieki/Benislavski
   - veids/privātmuiža
   - veids/folvarks
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Pasienes
 nosaukums_ger:

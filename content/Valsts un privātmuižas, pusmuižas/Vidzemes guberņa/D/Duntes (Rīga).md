@@ -7,12 +7,13 @@ aliases:
   - Kūmiņa
   - Kummingshof
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-09-21T06:06:03.087Z
-published: 2026-09-21T06:06:03.087Z
+modified: 2026-10-04T13:23:44.005Z
+published: 2026-10-04T13:23:44.005Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
   - Rīga
+  - fails/muiža
 veids: ""
 nosaukums_lv: ""
 nosaukums_ger: ""

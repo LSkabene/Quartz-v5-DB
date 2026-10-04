@@ -4,12 +4,13 @@ aliases:
   - Akenstaķes
   - Akenstakes
 created: 2026-04-02T15:39:49.906Z
-modified: 2026-10-04T07:39:00.279Z
-published: 2026-10-04T07:39:00.279Z
+modified: 2026-10-04T13:23:41.229Z
+published: 2026-10-04T13:23:41.229Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Akenstakas
 nosaukums_ger: Klingenberg

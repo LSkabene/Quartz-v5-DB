@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-07-18T12:56:52.989Z
-modified: 2026-09-21T06:06:03.034Z
-published: 2026-09-21T06:06:03.034Z
+modified: 2026-10-04T13:23:44.451Z
+published: 2026-10-04T13:23:44.451Z
 tags:
   - places
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Ērģemes
 nosaukums_ger: Ermes

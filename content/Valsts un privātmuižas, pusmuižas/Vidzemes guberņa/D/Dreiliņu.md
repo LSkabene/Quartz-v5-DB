@@ -3,14 +3,15 @@ publish: true
 aliases:
   - Dreylingsbuch
 created: 2026-04-13T16:52:12.591Z
-modified: 2026-09-21T06:06:03.094Z
-published: 2026-09-21T06:06:03.094Z
+modified: 2026-10-04T13:23:43.836Z
+published: 2026-10-04T13:23:43.836Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - veids/privātmuiža
   - places
   - pārbaudīt
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Dreiliņu
 nosaukums_ger: Dreilingsbusch

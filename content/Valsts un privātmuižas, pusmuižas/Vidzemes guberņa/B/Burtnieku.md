@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Burtneck
 created: 2026-04-11T07:45:42.901Z
-modified: 2026-09-21T06:06:03.133Z
-published: 2026-09-21T06:06:03.133Z
+modified: 2026-10-04T13:23:43.133Z
+published: 2026-10-04T13:23:43.133Z
 tags:
   - places
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Burtnieku
 nosaukums_ger: Burtneek Pastorat

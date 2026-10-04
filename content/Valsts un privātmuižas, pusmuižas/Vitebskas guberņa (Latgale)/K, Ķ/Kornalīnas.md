@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T16:48:38.377Z
-modified: 2026-09-21T06:06:02.848Z
-published: 2026-09-21T06:06:02.848Z
+modified: 2026-10-04T13:23:50.819Z
+published: 2026-10-04T13:23:50.819Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Kornalīnas
 nosaukums_ger:

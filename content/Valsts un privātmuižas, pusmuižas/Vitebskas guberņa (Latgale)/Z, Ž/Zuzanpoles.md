@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-01T16:48:42.165Z
-modified: 2026-09-21T06:06:02.695Z
-published: 2026-09-21T06:06:02.695Z
+modified: 2026-10-04T13:23:52.386Z
+published: 2026-10-04T13:23:52.386Z
 tags:
   - veids/folvarks
+  - fails/muiža
 veids: Folvarks
 nosaukums_lv: Zuzanpoles
 nosaukums_ger:

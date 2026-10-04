@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.888Z
-modified: 2026-10-01T16:33:05.745Z
-published: 2026-10-01T16:33:05.745Z
+modified: 2026-10-04T13:24:22.418Z
+published: 2026-10-04T13:24:22.418Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Gulbenes
 nosaukums_ger: Schwaneburg Pastorat

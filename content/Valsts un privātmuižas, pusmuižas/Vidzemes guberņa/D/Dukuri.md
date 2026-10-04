@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-04-13T17:09:04.357Z
-modified: 2026-09-23T15:59:54.973Z
-published: 2026-09-23T15:59:54.973Z
+modified: 2026-10-04T13:23:43.967Z
+published: 2026-10-04T13:23:43.967Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Dukuru
 nosaukums_ger: Duckern

@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-09-23T17:17:09.774Z
-modified: 2026-10-03T08:56:07.492Z
-published: 2026-10-03T08:56:07.492Z
+modified: 2026-10-04T13:23:48.144Z
+published: 2026-10-04T13:23:48.144Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Pullēnu
 nosaukums_ger: Pullandorf

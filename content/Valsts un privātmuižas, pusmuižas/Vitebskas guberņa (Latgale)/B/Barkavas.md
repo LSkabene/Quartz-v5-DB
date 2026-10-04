@@ -3,10 +3,11 @@ publish: true
 aliases:
   - Borkavas
 created: 2026-07-17T15:56:34.032Z
-modified: 2026-09-21T06:06:02.816Z
-published: 2026-09-21T06:06:02.816Z
+modified: 2026-10-04T13:23:50.121Z
+published: 2026-10-04T13:23:50.121Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Barkavas
 nosaukums_ger:

@@ -3,10 +3,11 @@ publish: true
 aliases:
   - Cremon
 created: 2026-10-03T11:37:25.808Z
-modified: 2026-10-03T11:40:18.669Z
-published: 2026-10-03T11:40:18.669Z
+modified: 2026-10-04T13:23:46.752Z
+published: 2026-10-04T13:23:46.752Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids:
 nosaukums_lv: Krimuldas
 nosaukums_ger: Kremon Schloss

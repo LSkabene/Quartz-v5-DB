@@ -3,13 +3,14 @@ publish: true
 aliases:
   - Biķeru
 created: 2026-04-02T15:39:49.880Z
-modified: 2026-09-21T06:06:03.399Z
-published: 2026-09-21T06:06:03.399Z
+modified: 2026-10-04T13:24:22.117Z
+published: 2026-10-04T13:24:22.117Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Biķernieku
 nosaukums_ger: Bickern

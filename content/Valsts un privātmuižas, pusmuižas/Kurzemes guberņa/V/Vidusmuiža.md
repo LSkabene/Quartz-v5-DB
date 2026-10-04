@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.459Z
-modified: 2026-09-21T06:06:02.581Z
-published: 2026-09-21T06:06:02.581Z
+modified: 2026-10-04T13:23:40.988Z
+published: 2026-10-04T13:23:40.988Z
 tags:
   - Kurzeme
   - veids/kroņa_pusmuiža
+  - fails/muiža
 veids: Kroņa pusmuiža
 nosaukums_lv: Vidusmuiža
 nosaukums_ger: Mittelhof

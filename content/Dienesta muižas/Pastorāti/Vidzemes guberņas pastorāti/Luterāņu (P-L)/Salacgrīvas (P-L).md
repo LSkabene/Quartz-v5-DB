@@ -3,13 +3,14 @@ publish: true
 aliases:
   - Lielsalacas
 created: 2026-04-02T17:23:57.648Z
-modified: 2026-09-21T06:06:03.339Z
-published: 2026-09-21T06:06:03.339Z
+modified: 2026-10-04T13:24:23.112Z
+published: 2026-10-04T13:24:23.112Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Salacgrīvas
 nosaukums_ger: Salis Pastorat

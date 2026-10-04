@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.904Z
-modified: 2026-09-21T06:06:03.289Z
-published: 2026-09-21T06:06:03.289Z
+modified: 2026-10-04T13:23:41.154Z
+published: 2026-10-04T13:23:41.154Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Ainažu
 nosaukums_ger: Haynasch

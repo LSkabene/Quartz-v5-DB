@@ -3,10 +3,11 @@ publish: true
 aliases:
   - Filandmuiža
 created: 2026-08-01T15:34:34.271Z
-modified: 2026-09-21T06:06:02.872Z
-published: 2026-09-21T06:06:02.872Z
+modified: 2026-10-04T13:23:50.483Z
+published: 2026-10-04T13:23:50.483Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Filandes
 nosaukums_ger:

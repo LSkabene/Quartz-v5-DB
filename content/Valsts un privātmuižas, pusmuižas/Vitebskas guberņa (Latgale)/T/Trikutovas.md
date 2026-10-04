@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-01T16:56:25.633Z
-modified: 2026-09-21T06:06:02.708Z
-published: 2026-09-21T06:06:02.708Z
+modified: 2026-10-04T13:23:52.017Z
+published: 2026-10-04T13:23:52.017Z
 tags:
   - Latgale
   - veids/folvarks
+  - fails/muiža
 veids: Folvarks
 nosaukums_lv: Trikutovas
 nosaukums_ger:

@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-06T16:22:06.322Z
-modified: 2026-09-21T06:06:03.278Z
-published: 2026-09-21T06:06:03.278Z
+modified: 2026-10-04T13:23:41.340Z
+published: 2026-10-04T13:23:41.340Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Alūksnes
 nosaukums_ger: Marienburg

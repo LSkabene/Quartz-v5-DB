@@ -4,11 +4,12 @@ aliases:
   - Isliz
   - Īslīcas
 created: 2026-08-20T16:09:06.291Z
-modified: 2026-09-21T06:06:02.649Z
-published: 2026-09-21T06:06:02.649Z
+modified: 2026-10-04T13:23:40.021Z
+published: 2026-10-04T13:23:40.021Z
 tags:
   - Kurzeme
   - veids/kroņa_pusmuiža
+  - fails/muiža
 veids: Kroņa pusmuiža
 nosaukums_lv: Īslīces
 nosaukums_ger: Islizhof

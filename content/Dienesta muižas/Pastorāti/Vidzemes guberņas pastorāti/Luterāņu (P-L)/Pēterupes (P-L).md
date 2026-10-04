@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-04-04T11:02:54.148Z
-modified: 2026-09-21T06:06:03.349Z
-published: 2026-09-21T06:06:03.349Z
+modified: 2026-10-04T13:24:23.005Z
+published: 2026-10-04T13:24:23.005Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Pēterupes
 nosaukums_ger: Peterskapelle Pastorat

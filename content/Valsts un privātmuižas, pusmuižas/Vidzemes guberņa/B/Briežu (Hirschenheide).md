@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-11T07:31:29.870Z
-modified: 2026-09-21T06:06:03.152Z
-published: 2026-09-21T06:06:03.152Z
+modified: 2026-10-04T13:23:42.910Z
+published: 2026-10-04T13:23:42.910Z
 tags:
   - places
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Briežu
 nosaukums_ger: Hirschenheide

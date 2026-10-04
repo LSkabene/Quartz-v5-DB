@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-09-21T06:31:18.413Z
-modified: 2026-09-21T06:40:23.313Z
-published: 2026-09-21T06:40:23.313Z
+modified: 2026-10-04T13:23:47.615Z
+published: 2026-10-04T13:23:47.615Z
 tags:
   - veids/privātmuiža
   - Rīga
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Monrepo
 nosaukums_ger: Monrepos
