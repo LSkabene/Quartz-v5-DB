@@ -4,8 +4,8 @@ aliases:
   - Kolzen
   - Colzen
 created: 2026-04-11T07:08:39.139Z
-modified: 2026-10-04T13:23:43.349Z
-published: 2026-10-04T13:23:43.349Z
+modified: 2026-10-04T13:39:33.386Z
+published: 2026-10-04T13:39:33.386Z
 tags:
   - places
   - veids/privātmuiža
@@ -27,6 +27,7 @@ pagasts:
 veids_vesturiski:
 parent_manor:
 half_manors:
+  - "[[Eikažu]]"
 krogi:
 dzirnavas:
 coordinates:

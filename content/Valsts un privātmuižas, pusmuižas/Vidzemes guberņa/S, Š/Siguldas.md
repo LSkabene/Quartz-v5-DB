@@ -1,14 +1,15 @@
 ---
 publish: true
 created: 2026-09-23T17:20:23.366Z
-modified: 2026-10-04T13:23:48.536Z
-published: 2026-10-04T13:23:48.536Z
+modified: 2026-10-04T15:23:37.579Z
+published: 2026-10-04T15:23:37.579Z
 tags:
   - Vidzeme
   - fails/muiža
-veids:
+  - veids/privātmuiža
+veids: Privātmuiža
 nosaukums_lv: Siguldas
-nosaukums_ger: Schloss Segewold
+nosaukums_ger: Segewold Schloss
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:

@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-09-23T16:40:31.042Z
-modified: 2026-10-04T13:23:48.311Z
-published: 2026-10-04T13:23:48.311Z
+modified: 2026-10-04T13:41:12.207Z
+published: 2026-10-04T13:41:12.207Z
 tags:
   - veids/privātmuiža
   - Vidzeme
   - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Ropažu
-nosaukums_ger: Rodenpois
+nosaukums_ger: Rodenpois Schloss
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:

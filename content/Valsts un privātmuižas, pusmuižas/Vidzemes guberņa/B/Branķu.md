@@ -1,16 +1,13 @@
 ---
 publish: true
-created: 2026-07-23T16:32:51.878Z
-modified: 2026-10-04T15:02:22.589Z
-published: 2026-10-04T15:02:22.589Z
+created: 2026-10-04T15:08:31.155Z
+modified: 2026-10-04T15:10:57.050Z
+published: 2026-10-04T15:10:57.050Z
 tags:
-  - veids/kroņa_muiža
   - Vidzeme
-  - fails/muiža
-  - veids_vēsturiski/publiskā
-veids: Kroņa
-nosaukums_lv: Slokas
-nosaukums_ger: Amt Schlock
+veids:
+nosaukums_lv: Branķu
+nosaukums_ger: Frankendorf
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
@@ -24,10 +21,11 @@ aprinkis_LV:
 pagasts:
 veids_vesturiski:
 parent_manor:
+  - "[[Pavasara]]"
 half_manors:
 krogi:
 dzirnavas:
 coordinates:
-map_color: purple
-map_icon: crown
+map_color:
+map_icon:
 ---

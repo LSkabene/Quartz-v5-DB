@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T15:23:42.327Z
-modified: 2026-10-04T13:23:51.313Z
-published: 2026-10-04T13:23:51.313Z
+modified: 2026-10-04T13:27:50.196Z
+published: 2026-10-04T13:27:50.196Z
 tags:
   - Latgale
   - īpašnieki/Benislavski

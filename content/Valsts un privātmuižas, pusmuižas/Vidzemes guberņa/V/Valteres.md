@@ -1,16 +1,14 @@
 ---
 publish: true
-created: 2026-07-23T16:32:51.878Z
-modified: 2026-10-04T15:02:22.589Z
-published: 2026-10-04T15:02:22.589Z
+created: 2026-10-04T15:12:51.604Z
+modified: 2026-10-04T15:14:49.440Z
+published: 2026-10-04T15:14:49.440Z
 tags:
-  - veids/kroņa_muiža
+  - veids/privātmuiža
   - Vidzeme
-  - fails/muiža
-  - veids_vēsturiski/publiskā
-veids: Kroņa
-nosaukums_lv: Slokas
-nosaukums_ger: Amt Schlock
+veids: Privātmuiža
+nosaukums_lv: Valteres
+nosaukums_ger: Waltershof
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
@@ -28,6 +26,6 @@ half_manors:
 krogi:
 dzirnavas:
 coordinates:
-map_color: purple
-map_icon: crown
+map_color:
+map_icon:
 ---

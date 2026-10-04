@@ -1,17 +1,18 @@
 ---
 publish: true
 aliases:
-  - Eykasch
-created: 2026-07-18T12:56:52.912Z
-modified: 2026-10-04T13:40:44.824Z
-published: 2026-10-04T13:40:44.824Z
+  - Majorenkrug
+created: 2026-10-04T15:03:15.241Z
+modified: 2026-10-04T15:08:17.543Z
+published: 2026-10-04T15:08:17.543Z
 tags:
-  - places
+  - tips/majorāts
+  - tips/majorāts_pēc_Štrika
   - veids/privātmuiža
-  - fails/muiža
+  - Vidzeme
 veids: Privātmuiža
-nosaukums_lv: Eikažu
-nosaukums_ger: Eikasch
+nosaukums_lv: Majoru
+nosaukums_ger: Majorenhof
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
@@ -19,11 +20,11 @@ nosaukums_pol:
 nosaukums_swe:
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
-draudzes_novads: Krimuldas-Pēterupes
+draudzes_novads: Slokas
 aprinkis_LV:
 pagasts:
-veids_vesturiski: pusmuiža
-parent_manor: "[[Bīriņu]]"
+veids_vesturiski:
+parent_manor:
 half_manors:
 krogi:
 dzirnavas:

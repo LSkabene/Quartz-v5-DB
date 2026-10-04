@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-23T17:08:32.220Z
-modified: 2026-10-04T13:23:47.976Z
-published: 2026-10-04T13:23:47.976Z
+modified: 2026-10-04T15:08:31.259Z
+published: 2026-10-04T15:08:31.259Z
 tags:
   - veids/privātmuiža
   - Vidzeme
@@ -24,6 +24,7 @@ pagasts:
 veids_vesturiski:
 parent_manor:
 half_manors:
+  - "[[Branķu]]"
 krogi:
 dzirnavas:
 coordinates:

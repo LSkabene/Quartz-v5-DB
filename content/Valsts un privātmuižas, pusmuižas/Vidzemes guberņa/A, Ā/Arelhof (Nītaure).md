@@ -1,23 +1,19 @@
 ---
 publish: true
-aliases:
-  - Eglēnu
-  - Egles
-created: 2026-07-18T12:56:52.895Z
-modified: 2026-10-04T13:28:29.117Z
-published: 2026-10-04T13:28:29.117Z
+created: 2026-10-04T13:15:41.605Z
+modified: 2026-10-04T13:17:49.327Z
+published: 2026-10-04T13:17:49.327Z
 tags:
-  - veids/privātmuiža
   - Vidzeme
-  - fails/muiža
-veids: Privātmuiža
-nosaukums_lv: Eglaines
-nosaukums_ger: Gränhof
+veids:
+nosaukums_lv:
+nosaukums_ger: Arelhof
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
+aliases: []
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
 draudzes_novads: Nītaures

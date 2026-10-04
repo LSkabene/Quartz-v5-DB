@@ -1,16 +1,15 @@
 ---
 publish: true
-created: 2026-07-23T16:32:51.878Z
-modified: 2026-10-04T15:02:22.589Z
-published: 2026-10-04T15:02:22.589Z
+created: 2026-10-04T15:10:56.906Z
+modified: 2026-10-04T15:12:51.799Z
+published: 2026-10-04T15:12:51.799Z
 tags:
+  - veids_vēsturiski/privātmuiža
   - veids/kroņa_muiža
-  - Vidzeme
-  - fails/muiža
   - veids_vēsturiski/publiskā
 veids: Kroņa
-nosaukums_lv: Slokas
-nosaukums_ger: Amt Schlock
+nosaukums_lv: Bulduru
+nosaukums_ger: Bilderling
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
@@ -23,11 +22,12 @@ draudzes_novads: Slokas
 aprinkis_LV:
 pagasts:
 veids_vesturiski:
+  - Privātmuiža
 parent_manor:
 half_manors:
 krogi:
 dzirnavas:
 coordinates:
-map_color: purple
-map_icon: crown
+map_color:
+map_icon:
 ---
