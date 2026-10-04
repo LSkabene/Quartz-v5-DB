@@ -9,8 +9,8 @@ aliases:
   - Lennewaden
   - Lenowart
 created: 2026-04-02T15:39:49.907Z
-modified: 2026-09-21T06:06:02.912Z
-published: 2026-09-21T06:06:02.912Z
+modified: 2026-10-04T09:32:29.295Z
+published: 2026-10-04T09:32:29.295Z
 tags:
   - veids/privātmuiža
   - places
@@ -33,7 +33,6 @@ parent_manor:
 half_manors:
   - "[[Anrepa]]"
   - "[[Kaibalas]]"
-  - "[[Ozolmuiža (Lielvārdes pusmuiža)]]"
 krogi:
   - "[[Vārnas krogs]]"
   - "[[Pusceļa krogs]]"
@@ -45,5 +44,3 @@ coordinates: 56.71162278770509, 24.8371743826684
 map_color: maroon
 map_icon: star
 ---
-
-Lielvārdes muiža atradās Vidzemes guberņā.

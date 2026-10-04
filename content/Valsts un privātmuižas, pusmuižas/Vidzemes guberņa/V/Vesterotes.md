@@ -1,14 +1,13 @@
 ---
 publish: true
-created: 2026-07-23T18:12:54.346Z
-modified: 2026-10-04T09:41:21.400Z
-published: 2026-10-04T09:41:21.400Z
+created: 2026-10-04T09:44:59.846Z
+modified: 2026-10-04T09:46:04.774Z
+published: 2026-10-04T09:46:04.774Z
 tags:
   - Vidzeme
-  - veids/privātmuiža
-veids: Privātmuiža
-nosaukums_lv: Iļķenes
-nosaukums_ger: Hilchensfähr
+veids:
+nosaukums_lv: Vesterotes
+nosaukums_ger: Westerotten
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
@@ -22,6 +21,7 @@ aprinkis_LV:
 pagasts:
 veids_vesturiski:
 parent_manor:
+  - "[[Remberģes]]"
 half_manors:
 krogi:
 dzirnavas:

@@ -1,14 +1,13 @@
 ---
 publish: true
-created: 2026-07-23T18:12:54.346Z
-modified: 2026-10-04T09:41:21.400Z
-published: 2026-10-04T09:41:21.400Z
+created: 2026-10-04T09:38:49.116Z
+modified: 2026-10-04T09:40:07.646Z
+published: 2026-10-04T09:40:07.646Z
 tags:
   - Vidzeme
-  - veids/privātmuiža
-veids: Privātmuiža
-nosaukums_lv: Iļķenes
-nosaukums_ger: Hilchensfähr
+veids:
+nosaukums_lv:
+nosaukums_ger: Bellenhof
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:

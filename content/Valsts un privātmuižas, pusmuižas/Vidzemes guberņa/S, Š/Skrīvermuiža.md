@@ -4,11 +4,10 @@ aliases:
   - Abgunste
   - Abgunst
 created: 2026-04-02T15:39:49.908Z
-modified: 2026-09-21T06:06:02.890Z
-published: 2026-09-21T06:06:02.890Z
+modified: 2026-10-04T09:37:38.381Z
+published: 2026-10-04T09:37:38.381Z
 tags:
   - veids/privātmuiža
-  - places
   - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Skrīvermuiža
@@ -25,6 +24,7 @@ aprinkis_LV:
 pagasts:
 veids_vesturiski: pusmuiža
 parent_manor:
+  - "[[Ādažu]]"
 half_manors:
 krogi:
 dzirnavas:

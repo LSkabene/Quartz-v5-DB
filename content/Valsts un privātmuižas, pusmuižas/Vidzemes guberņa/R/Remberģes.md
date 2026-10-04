@@ -1,14 +1,14 @@
 ---
 publish: true
-created: 2026-07-23T18:12:54.346Z
-modified: 2026-10-04T09:41:21.400Z
-published: 2026-10-04T09:41:21.400Z
+created: 2026-10-04T09:41:21.210Z
+modified: 2026-10-04T09:45:00.003Z
+published: 2026-10-04T09:45:00.003Z
 tags:
-  - Vidzeme
   - veids/privātmuiža
+  - Vidzeme
 veids: Privātmuiža
-nosaukums_lv: Iļķenes
-nosaukums_ger: Hilchensfähr
+nosaukums_lv: Remberģes
+nosaukums_ger: Ringenberg
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
@@ -23,6 +23,7 @@ pagasts:
 veids_vesturiski:
 parent_manor:
 half_manors:
+  - "[[Vesterotes]]"
 krogi:
 dzirnavas:
 coordinates:

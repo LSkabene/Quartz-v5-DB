@@ -2,9 +2,10 @@
 publish: true
 aliases:
   - Gaujas pļavas muiža
+  - Aahof
 created: 2026-04-02T15:39:49.902Z
-modified: 2026-09-21T06:06:03.245Z
-published: 2026-09-21T06:06:03.245Z
+modified: 2026-10-04T09:38:49.274Z
+published: 2026-10-04T09:38:49.274Z
 tags:
   - veids/privātmuiža
   - teritorija/rīgas-patrimoniālais
@@ -12,7 +13,7 @@ tags:
   - Vidzeme
 veids: Privātmuiža
 nosaukums_lv: Ādažu
-nosaukums_ger: Aahof
+nosaukums_ger: Neuermühlen
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
@@ -26,6 +27,8 @@ pagasts:
 veids_vesturiski:
 parent_manor:
 half_manors:
+  - "[[Skrīvermuiža]]"
+  - "[[Bellenhof (Ādaži)]]"
 krogi:
 dzirnavas:
 coordinates:

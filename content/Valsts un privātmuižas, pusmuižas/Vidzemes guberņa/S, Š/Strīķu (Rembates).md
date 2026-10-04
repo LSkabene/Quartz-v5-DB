@@ -1,27 +1,29 @@
 ---
 publish: true
-created: 2026-07-23T18:12:54.346Z
-modified: 2026-10-04T09:41:21.400Z
-published: 2026-10-04T09:41:21.400Z
+aliases:
+  - Strikenhof
+created: 2026-10-04T09:04:57.469Z
+modified: 2026-10-04T09:06:09.020Z
+published: 2026-10-04T09:06:09.020Z
 tags:
+  - veids/pusmuiža
   - Vidzeme
-  - veids/privātmuiža
-veids: Privātmuiža
-nosaukums_lv: Iļķenes
-nosaukums_ger: Hilchensfähr
+veids: Pusmuiža
+nosaukums_lv: Strīķu
+nosaukums_ger: Strykenhof
 nosaukums_rus:
 nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
-aliases: []
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
-draudzes_novads: Ādažu-Carnikavas
+draudzes_novads: Lielvārdes-Lieljumpravas
 aprinkis_LV:
 pagasts:
 veids_vesturiski:
 parent_manor:
+  - "[[Rembates]]"
 half_manors:
 krogi:
 dzirnavas:

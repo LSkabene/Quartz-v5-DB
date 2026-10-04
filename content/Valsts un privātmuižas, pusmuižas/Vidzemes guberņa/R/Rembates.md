@@ -1,8 +1,11 @@
 ---
 publish: true
+aliases:
+  - Memersdorf
+  - Memesdorf
 created: 2026-04-02T15:39:49.907Z
-modified: 2026-09-21T06:06:02.899Z
-published: 2026-09-21T06:06:02.899Z
+modified: 2026-10-04T09:07:02.734Z
+published: 2026-10-04T09:07:02.734Z
 tags:
   - veids/privātmuiža
   - places
@@ -15,7 +18,6 @@ nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
-aliases: []
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
 draudzes_novads: Lielvārdes-Lieljumpravas
@@ -24,7 +26,7 @@ pagasts:
 veids_vesturiski: pusmuiža
 parent_manor:
 half_manors:
-  - "[[Strīķu]]"
+  - "[[Strīķu (Rembates)]]"
   - "[[Līzes]]"
   - "[[Kārļa (Rembates)]]"
   - "[[Helēnas]]"
