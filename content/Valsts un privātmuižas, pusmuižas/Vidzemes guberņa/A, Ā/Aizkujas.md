@@ -6,8 +6,8 @@ aliases:
   - Ayskuje
   - Aiskuj
 created: 2026-04-02T15:39:49.905Z
-modified: 2026-10-04T13:23:41.194Z
-published: 2026-10-04T13:23:41.194Z
+modified: 2026-10-21T12:31:04.350Z
+published: 2026-10-21T12:31:04.350Z
 tags:
   - veids/privātmuiža
   - places
@@ -36,6 +36,7 @@ map_color: maroon
 map_icon: star
 ---
 
-Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 13 5/8.[^1]
+Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 13 5/8.
+Īpašnieks 1820.gadā: [[Vulfs, Ādams fon|Ādams fon Vulfs]].[^1]
 
 [^1]: LVVA 6810\_1\_52

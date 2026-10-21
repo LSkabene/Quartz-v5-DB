@@ -4,8 +4,8 @@ aliases:
   - Mensenkampf
   - Мензенкампфы
 created: 2026-10-03T10:30:36.482Z
-modified: 2026-10-04T13:23:19.401Z
-published: 2026-10-04T13:23:19.401Z
+modified: 2026-10-21T12:08:18.947Z
+published: 2026-10-21T12:08:18.947Z
 tags:
   - fails/dzimta
 ---

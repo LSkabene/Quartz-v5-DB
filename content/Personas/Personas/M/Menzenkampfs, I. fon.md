@@ -4,8 +4,8 @@ aliases:
   - I. fon Menzenkampfs
   - I. von Mensenkampf
 created: 2026-10-03T10:27:41.416Z
-modified: 2026-10-04T13:23:04.448Z
-published: 2026-10-04T13:23:04.448Z
+modified: 2026-10-21T12:08:31.149Z
+published: 2026-10-21T12:08:31.149Z
 tags:
   - dzimta/Menzenkampfi
   - fails/persona

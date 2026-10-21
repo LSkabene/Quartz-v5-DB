@@ -4,8 +4,8 @@ aliases:
   - Ramma
   - Rammsche Höfchen
 created: 2026-09-21T09:46:45.894Z
-modified: 2026-10-04T13:23:41.869Z
-published: 2026-10-04T13:23:41.869Z
+modified: 2026-10-21T12:32:43.807Z
+published: 2026-10-21T12:32:43.807Z
 tags:
   - veids/privātmuiža
   - teritorija/rīgas-patrimoniālais

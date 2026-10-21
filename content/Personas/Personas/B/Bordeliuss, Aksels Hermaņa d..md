@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-20T17:34:31.444Z
-modified: 2026-10-04T13:23:03.945Z
-published: 2026-10-04T13:23:03.945Z
+modified: 2026-10-21T12:08:16.629Z
+published: 2026-10-21T12:08:16.629Z
 tags:
   - kārta/muižnieki
   - dzimta/Bordeliusi

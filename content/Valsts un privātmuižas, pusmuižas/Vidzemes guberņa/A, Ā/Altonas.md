@@ -4,8 +4,8 @@ aliases:
   - Viesnīca "Jeruzaleme"
   - Šrēdera
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-10-04T13:23:41.322Z
-published: 2026-10-04T13:23:41.322Z
+modified: 2026-10-21T12:42:37.955Z
+published: 2026-10-21T12:42:37.955Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme

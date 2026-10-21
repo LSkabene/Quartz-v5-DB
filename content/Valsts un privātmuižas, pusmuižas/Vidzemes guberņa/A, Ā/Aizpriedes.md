@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.906Z
-modified: 2026-10-04T13:23:41.213Z
-published: 2026-10-04T13:23:41.213Z
+modified: 2026-10-21T12:32:51.952Z
+published: 2026-10-21T12:32:51.952Z
 tags:
   - veids/privātmuiža
   - pārbaudīt

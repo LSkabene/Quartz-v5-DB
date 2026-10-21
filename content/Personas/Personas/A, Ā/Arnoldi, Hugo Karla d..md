@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-25T16:42:56.690Z
-modified: 2026-10-04T13:23:03.737Z
-published: 2026-10-04T13:23:03.737Z
+modified: 2026-10-21T12:07:54.840Z
+published: 2026-10-21T12:07:54.840Z
 tags:
   - dzimta/Arnoldi
   - fails/persona

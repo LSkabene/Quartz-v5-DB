@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Lengmaņu
 created: 2026-10-03T11:26:48.648Z
-modified: 2026-10-04T13:23:48.476Z
-published: 2026-10-04T13:23:48.476Z
+modified: 2026-10-21T12:29:16.810Z
+published: 2026-10-21T12:29:16.810Z
 tags:
   - Vidzeme
   - fails/muiža

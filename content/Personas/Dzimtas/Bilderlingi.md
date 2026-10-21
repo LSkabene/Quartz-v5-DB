@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Bildringi
 created: 2026-09-02T16:18:43.995Z
-modified: 2026-10-04T13:23:19.259Z
-published: 2026-10-04T13:23:19.259Z
+modified: 2026-10-21T12:08:09.540Z
+published: 2026-10-21T12:08:09.540Z
 tags:
   - fails/dzimta
 ---

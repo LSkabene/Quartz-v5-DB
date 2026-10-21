@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-02T16:16:57.024Z
-modified: 2026-10-04T13:23:03.889Z
-published: 2026-10-04T13:23:03.889Z
+modified: 2026-10-21T12:08:11.866Z
+published: 2026-10-21T12:08:11.866Z
 tags:
   - dzimta/Bilderlingi
   - kārta/muižnieki
