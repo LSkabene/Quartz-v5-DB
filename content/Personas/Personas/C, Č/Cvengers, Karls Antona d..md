@@ -13,5 +13,5 @@ person_id: 17
 
 | Muižas                                                                                             | Guberņa  |
 | -------------------------------------------------------------------------------------------------- | -------- |
-| [[Valsts un privātmuižas, pusmuižas/Kurzemes guberņa/A, Ā/Auru.md\|Auru]]                          | Kurzemes |
 | [[Valsts un privātmuižas, pusmuižas/Kurzemes guberņa/P/Pēterfeldes (Auru).md\|Pēterfeldes (Auru)]] | Kurzemes |
+| [[Valsts un privātmuižas, pusmuižas/Kurzemes guberņa/A, Ā/Auru.md\|Auru]]                          | Kurzemes |

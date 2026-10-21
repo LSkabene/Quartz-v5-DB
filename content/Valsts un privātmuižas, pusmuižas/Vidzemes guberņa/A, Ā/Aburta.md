@@ -6,8 +6,8 @@ aliases:
   - Apburta
   - Liģenes
 created: 2026-04-06T16:32:01.669Z
-modified: 2026-10-04T13:23:41.097Z
-published: 2026-10-04T13:23:41.097Z
+modified: 2026-10-21T11:58:14.903Z
+published: 2026-10-21T11:58:14.903Z
 tags:
   - veids/privātmuiža
   - places
@@ -23,7 +23,7 @@ nosaukums_pol:
 nosaukums_swe:
 guberna: Vidzemes
 aprinkis_imperija: Cēsu
-draudzes_novads:
+draudzes_novads: Ļaudonas
 aprinkis_LV:
 pagasts:
 veids_vesturiski:
@@ -35,3 +35,10 @@ coordinates:
 map_color:
 map_icon:
 ---
+
+**Pēc Oto Hūna apkopotajiem materiāliem**[^1]
+
+| Gads  | Īpašnieks | Izmērs arklos (Hacken) |
+| ------- | ----------- | ------------------------ |
+| 1818. | TBA       | 19 3/8                 |
+[^1]: LVVA 6810\_1\_52

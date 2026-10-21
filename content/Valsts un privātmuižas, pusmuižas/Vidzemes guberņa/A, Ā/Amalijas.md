@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Amālijas
 created: 2026-04-06T16:24:02.619Z
-modified: 2026-10-04T13:23:41.366Z
-published: 2026-10-04T13:23:41.366Z
+modified: 2026-10-21T11:50:07.721Z
+published: 2026-10-21T11:50:07.721Z
 tags:
   - veids/privātmuiža
   - places

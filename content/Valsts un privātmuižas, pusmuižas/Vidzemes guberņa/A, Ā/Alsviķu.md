@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-06T14:37:48.751Z
-modified: 2026-10-04T13:23:41.304Z
-published: 2026-10-04T13:23:41.304Z
+modified: 2026-10-21T11:50:09.332Z
+published: 2026-10-21T11:50:09.332Z
 tags:
   - places
   - Vidzeme
