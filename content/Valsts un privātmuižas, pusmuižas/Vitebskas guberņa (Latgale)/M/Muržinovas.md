@@ -3,10 +3,11 @@ publish: true
 aliases:
   - Muržinavas
 created: 2026-08-01T15:20:31.414Z
-modified: 2026-08-31T16:45:17.895Z
-published: 2026-08-31T16:45:17.895Z
+modified: 2026-10-04T13:23:51.182Z
+published: 2026-10-04T13:23:51.182Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Muržinovas
 nosaukums_ger:
@@ -25,8 +26,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-01
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

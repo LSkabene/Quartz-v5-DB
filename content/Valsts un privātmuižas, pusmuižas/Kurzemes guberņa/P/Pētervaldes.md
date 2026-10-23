@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Stenģeļa
 created: 2026-08-20T16:09:06.889Z
-modified: 2026-09-02T17:46:54.964Z
-published: 2026-09-02T17:46:54.964Z
+modified: 2026-10-04T13:23:40.686Z
+published: 2026-10-04T13:23:40.686Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Pētervaldes
 nosaukums_ger: Peterwalde
@@ -26,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-09-02
 coordinates:
 map_color:
 map_icon:

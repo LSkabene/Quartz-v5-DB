@@ -1,8 +1,10 @@
 ---
 publish: true
 created: 2026-07-23T18:12:54.372Z
-modified: 2026-08-19T16:06:33.313Z
-published: 2026-08-19T16:06:33.313Z
+modified: 2026-10-04T13:23:45.562Z
+published: 2026-10-04T13:23:45.562Z
+tags:
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Inciema
 nosaukums_ger: Inzeem
@@ -22,9 +24,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-tags: []
-date_created: 2026-07-23
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

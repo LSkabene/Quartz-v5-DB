@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-11T06:33:09.379Z
-modified: 2026-08-31T16:45:11.770Z
-published: 2026-08-31T16:45:11.770Z
+modified: 2026-10-04T13:23:46.944Z
+published: 2026-10-04T13:23:46.944Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Ķeguma
 nosaukums_ger: Keggum
@@ -27,8 +28,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-11
-date_modified: 2026-08-19
 coordinates: 56.73900386394024, 24.720827177880583
 map_color: maroon
 map_icon: star

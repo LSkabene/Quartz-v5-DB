@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.888Z
-modified: 2026-08-20T16:43:27.486Z
-published: 2026-08-20T16:43:27.486Z
+modified: 2026-10-04T13:24:22.418Z
+published: 2026-10-04T13:24:22.418Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
-  - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Gulbenes
 nosaukums_ger: Schwaneburg Pastorat
@@ -27,9 +27,11 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-08-19
 coordinates:
 map_color: steelblue
 map_icon: church
 ---
+
+Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 1 3/8.[^1]
+
+[^1]: LVVA 6810\_1\_52

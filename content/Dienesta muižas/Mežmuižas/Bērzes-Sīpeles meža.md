@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.962Z
-modified: 2026-08-31T16:43:51.057Z
-published: 2026-08-31T16:43:51.057Z
+modified: 2026-10-04T13:24:21.952Z
+published: 2026-10-04T13:24:21.952Z
 tags:
   - veids/mežmuiža
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Bērzes-Sīpeles meža
 nosaukums_ger: Bers-Zipelhof
@@ -24,8 +25,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-08-20
 coordinates:
 map_color:
 map_icon:

@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Gaujene
 created: 2026-07-18T12:56:53.149Z
-modified: 2026-08-31T16:45:09.511Z
-published: 2026-08-31T16:45:09.511Z
+modified: 2026-10-04T13:23:44.694Z
+published: 2026-10-04T13:23:44.694Z
 tags:
   - places
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Gaujienas
 nosaukums_ger: Adsel
@@ -26,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-18
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

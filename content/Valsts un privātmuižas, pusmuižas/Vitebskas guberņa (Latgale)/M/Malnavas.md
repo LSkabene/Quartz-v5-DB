@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-30T17:47:11.687Z
-modified: 2026-08-31T16:45:17.027Z
-published: 2026-08-31T16:45:17.027Z
+modified: 2026-10-04T13:23:50.969Z
+published: 2026-10-04T13:23:50.969Z
 tags:
   - veids/privātmuiža
   - veids_vēsturiski/pusmuiža
   - Latgale
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv:
 nosaukums_ger:
@@ -27,8 +28,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-30
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

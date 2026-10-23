@@ -4,11 +4,12 @@ aliases:
   - Pēternieku
   - Peterweisshof
 created: 2026-08-20T16:09:06.528Z
-modified: 2026-09-02T17:46:54.946Z
-published: 2026-09-02T17:46:54.946Z
+modified: 2026-10-04T13:23:40.665Z
+published: 2026-10-04T13:23:40.665Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Pētermuiža
 nosaukums_ger: Peterhof
@@ -29,8 +30,6 @@ half_manors:
   - "[[Vērpju]]"
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-09-02
 coordinates:
 map_color:
 map_icon:

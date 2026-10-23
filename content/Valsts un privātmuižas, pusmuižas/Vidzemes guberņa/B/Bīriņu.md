@@ -4,12 +4,13 @@ aliases:
   - Kolzen
   - Colzen
 created: 2026-04-11T07:08:39.139Z
-modified: 2026-08-31T16:45:06.841Z
-published: 2026-08-31T16:45:06.841Z
+modified: 2026-10-04T13:39:33.386Z
+published: 2026-10-04T13:39:33.386Z
 tags:
   - places
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Bīriņu
 nosaukums_ger: Koltzen
@@ -26,10 +27,9 @@ pagasts:
 veids_vesturiski:
 parent_manor:
 half_manors:
+  - "[[Eikažu]]"
 krogi:
 dzirnavas:
-date_created: 2026-04-11
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

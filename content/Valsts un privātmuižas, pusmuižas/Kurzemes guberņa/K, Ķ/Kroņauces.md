@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Auces kroņa
 created: 2026-08-20T16:09:06.008Z
-modified: 2026-09-02T17:46:53.902Z
-published: 2026-09-02T17:46:53.902Z
+modified: 2026-10-04T13:23:40.245Z
+published: 2026-10-04T13:23:40.245Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Kroņauce
 nosaukums_ger: Autzhof
@@ -26,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-09-02
 coordinates:
 map_color:
 map_icon:

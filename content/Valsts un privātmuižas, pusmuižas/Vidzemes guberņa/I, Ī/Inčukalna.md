@@ -1,8 +1,11 @@
 ---
 publish: true
 created: 2026-07-23T18:12:54.389Z
-modified: 2026-08-19T16:06:33.311Z
-published: 2026-08-19T16:06:33.311Z
+modified: 2026-10-04T13:23:45.601Z
+published: 2026-10-04T13:23:45.601Z
+tags:
+  - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Inčukalna
 nosaukums_ger: Hinzenberg
@@ -14,17 +17,17 @@ nosaukums_swe:
 aliases: []
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
-draudzes_novads:
+draudzes_novads: Allažu
 aprinkis_LV:
 pagasts:
 veids_vesturiski:
 parent_manor:
 half_manors:
+  - "[[Heniņu]]"
+  - "[[Vangažu]]"
+  - "[[Kordažu]]"
 krogi:
 dzirnavas:
-tags: []
-date_created: 2026-07-23
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

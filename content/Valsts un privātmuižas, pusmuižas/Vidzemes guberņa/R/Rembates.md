@@ -1,12 +1,16 @@
 ---
 publish: true
+aliases:
+  - Memersdorf
+  - Memesdorf
 created: 2026-04-02T15:39:49.907Z
-modified: 2026-08-31T16:45:11.881Z
-published: 2026-08-31T16:45:11.881Z
+modified: 2026-10-04T13:23:48.257Z
+published: 2026-10-04T13:23:48.257Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Rembates
 nosaukums_ger: Ringmundshof
@@ -15,7 +19,6 @@ nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
-aliases: []
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
 draudzes_novads: Lielvārdes-Lieljumpravas
@@ -24,15 +27,13 @@ pagasts:
 veids_vesturiski: pusmuiža
 parent_manor:
 half_manors:
-  - "[[Strīķu]]"
+  - "[[Strīķu (Rembates)]]"
   - "[[Līzes]]"
   - "[[Kārļa (Rembates)]]"
   - "[[Helēnas]]"
   - "[[Ķeguma]]"
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-08-20
 coordinates: 56.71983477775278, 24.801639614208117
 map_color: maroon
 map_icon: star

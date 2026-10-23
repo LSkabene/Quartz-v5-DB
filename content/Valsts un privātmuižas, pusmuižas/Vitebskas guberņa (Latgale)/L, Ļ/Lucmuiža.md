@@ -3,10 +3,11 @@ publish: true
 aliases:
   - Ļucmuiža
 created: 2026-07-30T17:38:00.614Z
-modified: 2026-08-31T16:45:16.490Z
-published: 2026-08-31T16:45:16.490Z
+modified: 2026-10-04T13:23:50.934Z
+published: 2026-10-04T13:23:50.934Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Lucmuiža
 nosaukums_ger:
@@ -25,8 +26,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-30
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

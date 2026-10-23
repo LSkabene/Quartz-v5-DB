@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Hermelin
 created: 2026-07-18T12:56:53.038Z
-modified: 2026-08-31T16:45:08.888Z
-published: 2026-08-31T16:45:08.888Z
+modified: 2026-10-04T13:23:44.355Z
+published: 2026-10-04T13:23:44.355Z
 tags:
   - places
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Ermeliņu
 nosaukums_ger: Hermelingshof
@@ -26,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-18
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

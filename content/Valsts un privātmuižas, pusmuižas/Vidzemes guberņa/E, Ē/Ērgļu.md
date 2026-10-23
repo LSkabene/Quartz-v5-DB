@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-07-18T12:56:52.980Z
-modified: 2026-08-31T16:45:08.942Z
-published: 2026-08-31T16:45:08.942Z
+modified: 2026-10-04T13:23:44.411Z
+published: 2026-10-04T13:23:44.411Z
 tags:
   - places
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Ērgļu
 nosaukums_ger: Erlaa
@@ -25,8 +26,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-18
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

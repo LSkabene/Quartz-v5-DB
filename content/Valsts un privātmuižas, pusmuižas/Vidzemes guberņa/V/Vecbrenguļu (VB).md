@@ -1,13 +1,15 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.899Z
-modified: 2026-08-31T16:45:12.423Z
-published: 2026-08-31T16:45:12.423Z
+modified: 2026-10-04T13:23:49.294Z
+published: 2026-10-04T13:23:49.294Z
 tags:
   - veids/organizāciju/vidzemes_bruņniecība
   - veids/organizāciju
   - places
   - Vidzeme
+  - īpašnieki/vidzemes-bruņniecība
+  - fails/muiža
 veids: Organizāciju
 nosaukums_lv: Vecbrenguļu
 nosaukums_ger: Alt-Wrangelshof
@@ -27,9 +29,9 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:
 ---
+
+veids/organizāciju/vidzemes-bruņniecība

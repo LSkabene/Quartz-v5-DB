@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.894Z
-modified: 2026-08-31T16:44:10.052Z
-published: 2026-08-31T16:44:10.052Z
+modified: 2026-09-21T06:06:03.413Z
+published: 2026-09-21T06:06:03.413Z
 tags:
   - veids/dzirnavas
   - places
@@ -27,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

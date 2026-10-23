@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-07-30T17:13:32.233Z
-modified: 2026-08-31T16:45:16.357Z
-published: 2026-08-31T16:45:16.357Z
+modified: 2026-10-04T13:23:50.892Z
+published: 2026-10-04T13:23:50.892Z
 tags:
   - veids/folvarks
   - Latgale
+  - fails/muiža
 veids: Folvarks
 nosaukums_lv: Linejas
 nosaukums_ger:
@@ -25,8 +26,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-30
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

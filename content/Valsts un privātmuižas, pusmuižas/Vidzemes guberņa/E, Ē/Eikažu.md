@@ -1,11 +1,14 @@
 ---
 publish: true
+aliases:
+  - Eykasch
 created: 2026-07-18T12:56:52.912Z
-modified: 2026-08-31T16:45:08.626Z
-published: 2026-08-31T16:45:08.626Z
+modified: 2026-10-04T13:40:44.824Z
+published: 2026-10-04T13:40:44.824Z
 tags:
   - places
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Eikažu
 nosaukums_ger: Eikasch
@@ -14,10 +17,9 @@ nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
-aliases: []
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
-draudzes_novads:
+draudzes_novads: Krimuldas-Pēterupes
 aprinkis_LV:
 pagasts:
 veids_vesturiski: pusmuiža
@@ -25,11 +27,7 @@ parent_manor: "[[Bīriņu]]"
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-18
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:
 ---
-
-nosaukums\_lv

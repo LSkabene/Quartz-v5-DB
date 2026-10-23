@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-04-02T17:08:49.305Z
-modified: 2026-08-20T16:43:27.631Z
-published: 2026-08-20T16:43:27.631Z
+modified: 2026-10-04T13:24:22.596Z
+published: 2026-10-04T13:24:22.596Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Lazdonas
 nosaukums_ger: Lasdohn Pastorat
@@ -27,8 +28,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-08-19
 coordinates:
 map_color: steelblue
 map_icon: church

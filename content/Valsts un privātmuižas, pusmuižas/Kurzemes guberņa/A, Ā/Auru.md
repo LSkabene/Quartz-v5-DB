@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.019Z
-modified: 2026-09-02T17:33:01.490Z
-published: 2026-09-02T17:33:01.490Z
+modified: 2026-10-04T13:23:39.635Z
+published: 2026-10-04T13:23:39.635Z
 tags:
   - veids/kroņa_muiža
   - Kurzeme
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Auru
 nosaukums_ger: Auermünde
@@ -25,8 +26,6 @@ parent_manor:
 half_manors: "[[Pēterfeldes (Auru)]]"
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-08-25
 coordinates:
 map_color:
 map_icon:

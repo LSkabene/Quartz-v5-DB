@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Drobusch
 created: 2026-04-13T16:49:47.238Z
-modified: 2026-08-31T16:45:07.734Z
-published: 2026-08-31T16:45:07.734Z
+modified: 2026-10-04T13:23:43.782Z
+published: 2026-10-04T13:23:43.782Z
 tags:
   - pārbaudīt
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Drabešu
 nosaukums_ger: Drobbusch
@@ -27,8 +28,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-13
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

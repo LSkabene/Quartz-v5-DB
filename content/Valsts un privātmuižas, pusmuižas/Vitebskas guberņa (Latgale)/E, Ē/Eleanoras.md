@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-18T04:55:32.847Z
-modified: 2026-08-31T16:45:14.842Z
-published: 2026-08-31T16:45:14.842Z
+modified: 2026-10-04T13:23:50.422Z
+published: 2026-10-04T13:23:50.422Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Eleanoras
 nosaukums_ger:
@@ -24,8 +25,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-18
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

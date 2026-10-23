@@ -1,8 +1,14 @@
 ---
 publish: true
+aliases:
+  - Zaubes
+  - Jirgenburgas
 created: 2026-07-23T18:12:54.784Z
-modified: 2026-08-19T16:06:33.255Z
-published: 2026-08-19T16:06:33.255Z
+modified: 2026-10-04T13:23:46.083Z
+published: 2026-10-04T13:23:46.083Z
+tags:
+  - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Jaunpils
 nosaukums_ger: Jürgensburg
@@ -11,7 +17,6 @@ nosaukums_est:
 nosaukums_lt:
 nosaukums_pol:
 nosaukums_swe:
-aliases: []
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
 draudzes_novads: Jaunpils (Zaubes)
@@ -20,12 +25,14 @@ pagasts:
 veids_vesturiski:
 parent_manor:
 half_manors:
+  - "[[Dukuru (Jaunpils)]]"
 krogi:
 dzirnavas:
-tags: []
-date_created: 2026-07-23
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:
 ---
+
+Izmērs arklos (Hacken) ap 1819. gadu (kopā ar [[Dukuru (Jaunpils)]]), pēc Hūna materiāliem: 10 7/8.[^1]
+
+[^1]: LVVA 6810\_1\_52

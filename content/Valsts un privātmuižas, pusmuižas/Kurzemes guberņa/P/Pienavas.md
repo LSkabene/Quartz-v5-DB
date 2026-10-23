@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Gross-Pönau
 created: 2026-08-20T16:09:06.375Z
-modified: 2026-09-02T17:46:54.794Z
-published: 2026-09-02T17:46:54.794Z
+modified: 2026-10-04T13:23:40.581Z
+published: 2026-10-04T13:23:40.581Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
   - īpašnieki/Liševici
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Pienavas
 nosaukums_ger: Pönau
@@ -27,8 +28,6 @@ parent_manor:
 half_manors: "[[Ķenču]]"
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-09-02
 coordinates:
 map_color:
 map_icon:

@@ -4,10 +4,11 @@ aliases:
   - Libien
   - Biksēres
 created: 2026-04-11T07:04:29.942Z
-modified: 2026-08-31T16:45:04.791Z
-published: 2026-08-31T16:45:04.791Z
+modified: 2026-10-04T13:23:42.317Z
+published: 2026-10-04T13:23:42.317Z
 tags:
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Bikseres
 nosaukums_ger: Libbien
@@ -26,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-11
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

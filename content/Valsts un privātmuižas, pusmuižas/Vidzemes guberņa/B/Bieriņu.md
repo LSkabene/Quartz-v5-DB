@@ -4,12 +4,13 @@ aliases:
   - Vecbieriņu
   - Lindenruh
 created: 2026-04-11T07:02:09.885Z
-modified: 2026-08-31T16:45:04.740Z
-published: 2026-08-31T16:45:04.740Z
+modified: 2026-10-04T13:23:42.299Z
+published: 2026-10-04T13:23:42.299Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Bieriņu
 nosaukums_ger: Lindenruhe
@@ -28,8 +29,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-11
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

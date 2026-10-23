@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-18T04:55:00.347Z
-modified: 2026-08-31T16:45:21.226Z
-published: 2026-08-31T16:45:21.226Z
+modified: 2026-10-04T13:23:52.055Z
+published: 2026-10-04T13:23:52.055Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Varakļānu
 nosaukums_ger:
@@ -24,8 +25,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-18
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

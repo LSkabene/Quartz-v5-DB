@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.356Z
-modified: 2026-09-02T17:46:54.181Z
-published: 2026-09-02T17:46:54.181Z
+modified: 2026-10-04T13:23:40.327Z
+published: 2026-10-04T13:23:40.327Z
 tags:
   - Kurzeme
   - veids/kroņa_pusmuiža
+  - fails/muiža
 veids: Kroņa pusmuiža
 nosaukums_lv: Ķenču
 nosaukums_ger: Kenzhof
@@ -25,8 +26,6 @@ parent_manor: "[[Pienavas]]"
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-09-02
 coordinates:
 map_color:
 map_icon:

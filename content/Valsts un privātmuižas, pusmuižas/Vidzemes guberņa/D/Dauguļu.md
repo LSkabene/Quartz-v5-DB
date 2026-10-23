@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Daugules
 created: 2026-04-13T16:34:58.303Z
-modified: 2026-08-31T16:45:07.405Z
-published: 2026-08-31T16:45:07.405Z
+modified: 2026-10-04T13:23:43.619Z
+published: 2026-10-04T13:23:43.619Z
 tags:
   - places
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Dauguļu
 nosaukums_ger: Daugeln
@@ -27,8 +28,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-13
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

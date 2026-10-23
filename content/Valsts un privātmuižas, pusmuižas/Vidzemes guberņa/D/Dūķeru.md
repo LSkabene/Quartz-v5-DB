@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-13T17:10:29.086Z
-modified: 2026-08-31T16:45:08.516Z
-published: 2026-08-31T16:45:08.516Z
+modified: 2026-10-04T13:23:44.207Z
+published: 2026-10-04T13:23:44.207Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Dūķeru
 nosaukums_ger: Duckershof
@@ -26,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-13
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

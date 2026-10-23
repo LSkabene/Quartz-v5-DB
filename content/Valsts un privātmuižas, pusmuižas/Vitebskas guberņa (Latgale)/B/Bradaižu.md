@@ -4,10 +4,11 @@ aliases:
   - Brodaižu
   - Brodaižas
 created: 2026-08-01T15:40:33.187Z
-modified: 2026-08-31T16:45:14.077Z
-published: 2026-08-31T16:45:14.077Z
+modified: 2026-10-04T13:23:50.232Z
+published: 2026-10-04T13:23:50.232Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Bradaižu
 nosaukums_ger:
@@ -26,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-01
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

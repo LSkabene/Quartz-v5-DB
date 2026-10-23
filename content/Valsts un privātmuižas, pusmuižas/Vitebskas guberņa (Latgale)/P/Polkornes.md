@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-18T04:57:25.067Z
-modified: 2026-08-31T16:45:18.999Z
-published: 2026-08-31T16:45:18.999Z
+modified: 2026-10-04T13:23:51.432Z
+published: 2026-10-04T13:23:51.432Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Polkornes
 nosaukums_ger:
@@ -24,8 +25,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-18
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Adama
 created: 2026-04-02T15:39:49.902Z
-modified: 2026-08-31T16:45:03.996Z
-published: 2026-08-31T16:45:03.996Z
+modified: 2026-10-21T12:14:00.551Z
+published: 2026-10-21T12:14:00.551Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Ādama
 nosaukums_ger: Schwarzbeckshof
@@ -19,7 +20,7 @@ nosaukums_pol:
 nosaukums_swe:
 guberna: Vidzemes
 aprinkis_imperija: Valkas
-draudzes_novads:
+draudzes_novads: Alūksnes
 aprinkis_LV:
 pagasts:
 veids_vesturiski:
@@ -27,9 +28,14 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-08-19
 coordinates:
 map_color: maroon
 map_icon: star
 ---
+
+**Pēc Oto Hūna apkopotajiem materiāliem**[^1]
+
+| Gads  | Īpašnieks                                       | Izmērs arklos (Hacken) |
+| ----- | ----------------------------------------------- | ---------------------- |
+| 1814. | Rotmistrs [[Vulfs, Ādams fon\|Ādams fon Vulfs]] | 1                      |
+[^1]: LVVA 6810\_1\_52

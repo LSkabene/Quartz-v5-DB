@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-01T15:45:27.808Z
-modified: 2026-08-31T16:45:19.146Z
-published: 2026-08-31T16:45:19.146Z
+modified: 2026-10-04T13:23:51.470Z
+published: 2026-10-04T13:23:51.470Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Pracepoles
 nosaukums_ger:
@@ -24,8 +25,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-01
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

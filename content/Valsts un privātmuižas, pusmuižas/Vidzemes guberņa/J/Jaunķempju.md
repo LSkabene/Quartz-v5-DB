@@ -3,8 +3,12 @@ publish: true
 aliases:
   - Jaunķempes
 created: 2026-07-23T18:12:54.688Z
-modified: 2026-08-31T16:45:11.250Z
-published: 2026-08-31T16:45:11.250Z
+modified: 2026-10-04T13:23:46.275Z
+published: 2026-10-04T13:23:46.275Z
+tags:
+  - veids/privātmuiža
+  - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Jaunķempju
 nosaukums_ger: Neu-Kempenhof
@@ -15,7 +19,7 @@ nosaukums_pol:
 nosaukums_swe:
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
-draudzes_novads:
+draudzes_novads: Siguldas
 aprinkis_LV:
 pagasts:
 veids_vesturiski:
@@ -23,10 +27,11 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-tags: []
-date_created: 2026-07-23
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:
 ---
+
+Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 4 4/8.[^1]
+
+[^1]: LVVA 6810\_1\_52

@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Amālijas
 created: 2026-04-06T16:24:02.619Z
-modified: 2026-08-31T16:45:03.226Z
-published: 2026-08-31T16:45:03.226Z
+modified: 2026-10-21T11:50:07.721Z
+published: 2026-10-21T11:50:07.721Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Amalijas
 nosaukums_ger: Amalienhof
@@ -27,8 +28,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-06
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

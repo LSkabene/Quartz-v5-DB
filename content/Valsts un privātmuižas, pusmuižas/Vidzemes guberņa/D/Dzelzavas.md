@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-13T17:18:19.551Z
-modified: 2026-08-31T16:45:08.223Z
-published: 2026-08-31T16:45:08.223Z
+modified: 2026-10-04T13:23:44.060Z
+published: 2026-10-04T13:23:44.060Z
 tags:
   - places
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Dzelzavas
 nosaukums_ger: Selsau
@@ -26,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-13
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

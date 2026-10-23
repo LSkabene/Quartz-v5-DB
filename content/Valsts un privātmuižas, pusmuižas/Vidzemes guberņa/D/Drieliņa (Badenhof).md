@@ -4,12 +4,13 @@ aliases:
   - Badenhofas
   - Drieliņu
 created: 2026-04-13T16:53:57.238Z
-modified: 2026-08-31T16:45:07.835Z
-published: 2026-08-31T16:45:07.835Z
+modified: 2026-10-23T10:40:06.364Z
+published: 2026-10-23T10:40:06.364Z
 tags:
   - places
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Drieliņa
 nosaukums_ger: Badenhof
@@ -28,8 +29,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-13
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

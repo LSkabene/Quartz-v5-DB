@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.797Z
-modified: 2026-09-02T16:52:21.815Z
-published: 2026-09-02T16:52:21.815Z
+modified: 2026-10-04T13:23:39.822Z
+published: 2026-10-04T13:23:39.822Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Cimeres
 nosaukums_ger: Zimmern
@@ -25,8 +26,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-08-25
 coordinates:
 map_color:
 map_icon:

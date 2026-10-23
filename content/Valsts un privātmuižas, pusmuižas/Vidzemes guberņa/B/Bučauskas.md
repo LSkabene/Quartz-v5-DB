@@ -3,12 +3,14 @@ publish: true
 aliases:
   - Butšauskas
 created: 2026-04-11T07:36:59.507Z
-modified: 2026-08-31T16:45:06.434Z
-published: 2026-08-31T16:45:06.434Z
+modified: 2026-10-04T13:23:43.159Z
+published: 2026-10-04T13:23:43.159Z
 tags:
-  - veids
   - veids/privātmuiža
   - Vidzeme
+  - Jāpārbauda
+  - veids_vēsturiski/pusmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Bučauskas
 nosaukums_ger: Butzkowsky
@@ -24,12 +26,15 @@ aprinkis_LV:
 pagasts:
 veids_vesturiski:
 parent_manor:
+  - "[[Biržu]]"
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-11
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:
 ---
+
+Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 6 6/8.[^1]
+
+[^1]: LVVA 6810\_1\_52

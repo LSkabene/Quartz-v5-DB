@@ -10,12 +10,13 @@ aliases:
   - Bringe
   - Bringu
 created: 2026-04-11T07:34:33.277Z
-modified: 2026-08-31T16:45:05.803Z
-published: 2026-08-31T16:45:05.803Z
+modified: 2026-10-04T13:23:42.927Z
+published: 2026-10-04T13:23:42.927Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Briņģu
 nosaukums_ger: Brinkenhof
@@ -34,8 +35,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-11
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

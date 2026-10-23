@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-07-18T12:56:53.116Z
-modified: 2026-08-31T16:45:09.315Z
-published: 2026-08-31T16:45:09.315Z
+modified: 2026-10-04T13:23:44.638Z
+published: 2026-10-04T13:23:44.638Z
 tags:
   - places
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Garšmuiža
 nosaukums_ger: Gahrschenhof
@@ -25,8 +26,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-18
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

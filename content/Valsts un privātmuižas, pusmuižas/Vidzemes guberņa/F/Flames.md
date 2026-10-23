@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-07-18T12:56:53.080Z
-modified: 2026-08-31T16:45:09.208Z
-published: 2026-08-31T16:45:09.208Z
+modified: 2026-10-04T13:23:44.505Z
+published: 2026-10-04T13:23:44.505Z
 tags:
   - places
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Flames
 nosaukums_ger: Flamenhof
@@ -25,8 +26,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-18
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

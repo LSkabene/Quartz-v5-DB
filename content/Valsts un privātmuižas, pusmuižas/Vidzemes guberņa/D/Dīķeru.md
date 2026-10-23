@@ -4,12 +4,12 @@ aliases:
   - Dūķeru
   - Dīkeru
 created: 2026-04-13T16:43:43.586Z
-modified: 2026-08-31T16:45:08.354Z
-published: 2026-08-31T16:45:08.354Z
+modified: 2026-10-04T13:23:44.134Z
+published: 2026-10-04T13:23:44.134Z
 tags:
   - veids/privātmuiža
-  - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Dīķeru
 nosaukums_ger: Puderküll
@@ -28,9 +28,11 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-13
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:
 ---
+
+Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 7 7/8.[^1]
+
+[^1]: LVVA 6810\_1\_52

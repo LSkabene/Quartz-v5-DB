@@ -4,12 +4,13 @@ aliases:
   - Doremoise
   - Doresmuiža
 created: 2026-04-13T16:46:40.400Z
-modified: 2026-08-31T16:45:07.677Z
-published: 2026-08-31T16:45:07.677Z
+modified: 2026-10-04T13:23:43.760Z
+published: 2026-10-04T13:23:43.760Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Dores
 nosaukums_ger: Doremoise
@@ -28,8 +29,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-13
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Ramenhof
 created: 2026-04-13T17:02:01.677Z
-modified: 2026-08-31T16:45:07.853Z
-published: 2026-08-31T16:45:07.853Z
+modified: 2026-10-04T13:23:43.873Z
+published: 2026-10-04T13:23:43.873Z
 tags:
   - places
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Dripatu
 nosaukums_ger: Rammenhof
@@ -27,8 +28,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-13
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

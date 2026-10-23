@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T16:09:37.054Z
-modified: 2026-08-31T16:45:21.469Z
-published: 2026-08-31T16:45:21.469Z
+modified: 2026-10-04T13:23:52.093Z
+published: 2026-10-04T13:23:52.093Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Vecdomes
 nosaukums_ger:
@@ -24,8 +25,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-17
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

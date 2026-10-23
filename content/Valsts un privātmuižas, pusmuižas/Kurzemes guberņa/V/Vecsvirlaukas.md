@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-25T17:28:47.431Z
-modified: 2026-09-02T17:46:55.374Z
-published: 2026-09-02T17:46:55.374Z
+modified: 2026-10-04T13:23:40.955Z
+published: 2026-10-04T13:23:40.955Z
 tags:
   - Kurzeme
   - veids/kroņa_pusmuiža
+  - fails/muiža
 veids: Kroņa pusmuiža
 nosaukums_lv: Vecsvirlaukas
 nosaukums_ger:
@@ -26,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-09-02
 coordinates:
 map_color:
 map_icon:

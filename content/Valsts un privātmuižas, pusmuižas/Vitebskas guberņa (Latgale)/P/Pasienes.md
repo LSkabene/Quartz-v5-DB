@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-08-01T15:23:42.327Z
-modified: 2026-09-02T16:49:22.978Z
-published: 2026-09-02T16:49:22.978Z
+modified: 2026-10-04T13:27:50.196Z
+published: 2026-10-04T13:27:50.196Z
 tags:
   - Latgale
   - īpašnieki/Benislavski
   - veids/privātmuiža
   - veids/folvarks
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Pasienes
 nosaukums_ger:
@@ -29,8 +30,6 @@ half_manors:
   - "[[Paulovas]]"
 krogi:
 dzirnavas:
-date_created: 2026-08-01
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

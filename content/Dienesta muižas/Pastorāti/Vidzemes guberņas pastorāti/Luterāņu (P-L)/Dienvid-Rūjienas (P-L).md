@@ -3,13 +3,14 @@ publish: true
 aliases:
   - Rūjienas-Dienvid
 created: 2026-04-02T15:39:49.883Z
-modified: 2026-08-20T16:43:27.391Z
-published: 2026-08-20T16:43:27.391Z
+modified: 2026-10-04T13:24:22.286Z
+published: 2026-10-04T13:24:22.286Z
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Dienvid-Rūjienas
 nosaukums_ger: Süd-Rujen Pastorat
@@ -28,8 +29,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-08-19
 coordinates:
 map_color: steelblue
 map_icon: church

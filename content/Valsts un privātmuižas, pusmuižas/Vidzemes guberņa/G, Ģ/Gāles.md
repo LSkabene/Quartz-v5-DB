@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-07-18T12:56:53.089Z
-modified: 2026-08-31T16:45:10.425Z
-published: 2026-08-31T16:45:10.425Z
+modified: 2026-10-04T13:23:45.113Z
+published: 2026-10-04T13:23:45.113Z
 tags:
-  - places
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Gāles
 nosaukums_ger: Gahlenhof
@@ -17,19 +17,20 @@ nosaukums_swe:
 aliases: []
 guberna: Vidzemes
 aprinkis_imperija: Rīgas
-draudzes_novads:
+draudzes_novads: Siguldas
 aprinkis_LV:
 pagasts:
-veids_vesturiski: pusmuiža
+veids_vesturiski:
+  - pusmuiža
 parent_manor: "[[Siguldas]]"
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-18
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:
 ---
 
-nosaukums\_lv
+Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 1 3/8.[^1]
+
+[^1]: LVVA 6810\_1\_52

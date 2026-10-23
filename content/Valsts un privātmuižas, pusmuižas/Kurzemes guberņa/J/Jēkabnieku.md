@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.592Z
-modified: 2026-09-02T17:46:53.559Z
-published: 2026-09-02T17:46:53.559Z
+modified: 2026-10-04T13:23:40.170Z
+published: 2026-10-04T13:23:40.170Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Jēkabnieku
 nosaukums_ger: Jacobshof
@@ -25,13 +26,11 @@ parent_manor:
 half_manors: "[[Ragumuiža]]"
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-09-02
 coordinates:
 map_color:
 map_icon:
 ---
 
-1901.-1912. gadā nomnieks filozofijas doktors [[Pēteris Kārļa d. Zālīte]]; no 23.04.1912. namnieks [[Gerhards, Jakobs Frīdriha d.]].[^1]
+1901.-1912. gadā nomnieks filozofijas doktors [[Zālīte, Pēteris Kārļa d.]]; no 23.04.1912. namnieks [[Gerhards, Jakobs Frīdriha d.]].[^1]
 
 [^1]: LNA LVVA F1679 "Zemkopības ministrijas Zemes ierīcības departaments" 155. US, 34. GV

@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-01T16:56:25.633Z
-modified: 2026-08-31T16:45:21.120Z
-published: 2026-08-31T16:45:21.120Z
+modified: 2026-10-04T13:23:52.017Z
+published: 2026-10-04T13:23:52.017Z
 tags:
   - Latgale
   - veids/folvarks
+  - fails/muiža
 veids: Folvarks
 nosaukums_lv: Trikutovas
 nosaukums_ger:
@@ -25,8 +26,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-01
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

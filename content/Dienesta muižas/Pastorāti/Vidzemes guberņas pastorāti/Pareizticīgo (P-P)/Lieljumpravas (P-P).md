@@ -3,13 +3,14 @@ publish: true
 aliases:
   - Lielvārdes
 created: 2026-04-04T11:15:41.856Z
-modified: 2026-08-20T16:43:28.309Z
-published: 2026-08-20T16:43:28.309Z
+modified: 2026-10-04T13:24:23.564Z
+published: 2026-10-04T13:24:23.564Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/pareizticīgo
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Lieljumpravas
 nosaukums_ger:
@@ -28,8 +29,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-04
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

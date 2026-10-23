@@ -4,12 +4,13 @@ aliases:
   - Birkenmuiža
   - Birkenruhe
 created: 2026-04-11T06:53:22.532Z
-modified: 2026-08-31T16:45:06.646Z
-published: 2026-08-31T16:45:06.646Z
+modified: 2026-10-04T13:23:43.249Z
+published: 2026-10-04T13:23:43.249Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Bērzaines
 nosaukums_ger: Birkenruh
@@ -28,8 +29,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-11
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:05.976Z
-modified: 2026-09-02T16:58:11.130Z
-published: 2026-09-02T16:58:11.130Z
+modified: 2026-10-04T13:23:39.944Z
+published: 2026-10-04T13:23:39.944Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Emburgas
 nosaukums_ger: Annenburg
@@ -25,8 +26,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-08-25
 coordinates:
 map_color:
 map_icon:

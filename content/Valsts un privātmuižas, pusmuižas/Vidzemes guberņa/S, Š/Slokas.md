@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-23T16:32:51.878Z
-modified: 2026-09-02T17:46:56.642Z
-published: 2026-09-02T17:46:56.642Z
+modified: 2026-10-04T15:02:22.589Z
+published: 2026-10-04T15:02:22.589Z
 tags:
   - veids/kroņa_muiža
-  - places
   - Vidzeme
+  - fails/muiža
+  - veids_vēsturiski/publiskā
 veids: Kroņa
 nosaukums_lv: Slokas
 nosaukums_ger: Amt Schlock
@@ -26,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-23
-date_modified: 2026-09-01
 coordinates:
 map_color: purple
 map_icon: crown

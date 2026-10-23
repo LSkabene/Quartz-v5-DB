@@ -4,13 +4,15 @@ aliases:
   - Aizkujes
   - Aiskujes
   - Ayskuje
+  - Aiskuj
 created: 2026-04-02T15:39:49.905Z
-modified: 2026-08-31T16:45:02.872Z
-published: 2026-08-31T16:45:02.872Z
+modified: 2026-10-21T12:31:04.350Z
+published: 2026-10-21T12:31:04.350Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Aizkujas
 nosaukums_ger: Aiskuje
@@ -29,9 +31,12 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-08-19
 coordinates:
 map_color: maroon
 map_icon: star
 ---
+
+Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 13 5/8.
+Īpašnieks 1820.gadā: [[Vulfs, Ādams fon|Ādams fon Vulfs]].[^1]
+
+[^1]: LVVA 6810\_1\_52

@@ -4,12 +4,13 @@ aliases:
   - Korstes
   - Gross-Kurtenhof
 created: 2026-04-11T06:46:54.021Z
-modified: 2026-08-31T16:45:04.812Z
-published: 2026-08-31T16:45:04.812Z
+modified: 2026-10-23T15:57:41.611Z
+published: 2026-10-23T15:57:41.611Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Beļavas
 nosaukums_ger: Kortenhof
@@ -28,9 +29,15 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-11
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:
 ---
+
+**Pēc Oto Hūna apkopotajiem materiāliem**[^1]
+
+| Gads  | Īpašnieks                   | Izmērs arklos (Hacken)           |
+| ----- | --------------------------- | -------------------------------- |
+| 1814. | Fred. Georg von Berg        | 5 4/8                            |
+| 1820. | Hofrath von Berg mantinieki | 11 35/80 (Kopā ar "Plankeskaln") |
+[^1]: LVVA 6810\_1\_52

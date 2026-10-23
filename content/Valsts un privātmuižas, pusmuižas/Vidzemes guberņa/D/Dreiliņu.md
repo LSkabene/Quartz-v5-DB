@@ -3,14 +3,15 @@ publish: true
 aliases:
   - Dreylingsbuch
 created: 2026-04-13T16:52:12.591Z
-modified: 2026-08-31T16:45:07.786Z
-published: 2026-08-31T16:45:07.786Z
+modified: 2026-10-04T13:23:43.836Z
+published: 2026-10-04T13:23:43.836Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - veids/privātmuiža
   - places
   - pārbaudīt
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Dreiliņu
 nosaukums_ger: Dreilingsbusch
@@ -29,8 +30,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-13
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

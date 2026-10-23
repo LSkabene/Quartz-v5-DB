@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.210Z
-modified: 2026-09-07T13:52:27.416Z
-published: 2026-09-07T13:52:27.416Z
+modified: 2026-10-04T13:23:39.864Z
+published: 2026-10-04T13:23:39.864Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
   - īpašnieki/Arnoldi
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Dobeles
 nosaukums_ger: Amt-Doblen
@@ -26,11 +27,11 @@ parent_manor:
 half_manors: "[[Miltiņu]]"
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-08-25
 coordinates:
 map_color:
 map_icon:
 ---
 
-1900\. gadā nomnieks namnieks [[Arnoldi, Hugo Karla d.]] (?).
+1900\. gadā nomnieks namnieks [[Arnoldi, Hugo Karla d.]][^1].
+
+[^1]: LNA LVVA F1679 “Zemkopības ministrijas Zemes ierīcības departaments” 155. US, 34. GV

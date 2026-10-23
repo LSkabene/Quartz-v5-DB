@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - or:
+            - file.inFolder("Dienesta muižas")
+            - file.inFolder("Valsts un privātmuižas, pusmuižas")
+        - "!draudzes_novads.isEmpty()"
+    order:
+      - file.name
+      - nosaukums_ger
+      - nosaukums_rus
+      - veids
+      - draudzes_novads

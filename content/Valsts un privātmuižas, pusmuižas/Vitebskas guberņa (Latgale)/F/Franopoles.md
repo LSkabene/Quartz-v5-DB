@@ -3,10 +3,11 @@ publish: true
 aliases:
   - Franapoles
 created: 2026-07-30T17:21:04.808Z
-modified: 2026-08-31T16:45:15.140Z
-published: 2026-08-31T16:45:15.140Z
+modified: 2026-10-04T13:23:50.500Z
+published: 2026-10-04T13:23:50.500Z
 tags:
   - Latgale
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Franopoles
 nosaukums_ger:
@@ -25,8 +26,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-30
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

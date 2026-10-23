@@ -3,10 +3,11 @@ publish: true
 aliases:
   - Anapoles
 created: 2026-07-30T17:40:28.547Z
-modified: 2026-08-31T16:45:13.076Z
-published: 2026-08-31T16:45:13.076Z
+modified: 2026-10-04T13:23:49.966Z
+published: 2026-10-04T13:23:49.966Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Annapoles
 nosaukums_ger:
@@ -25,8 +26,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-30
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

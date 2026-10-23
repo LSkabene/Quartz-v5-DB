@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-04-11T06:10:05.039Z
-modified: 2026-08-31T16:45:04.208Z
-published: 2026-08-31T16:45:04.208Z
+modified: 2026-10-23T15:36:13.567Z
+published: 2026-10-23T15:36:13.567Z
 tags:
   - veids/privātmuiža
-  - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Baižkalna
 nosaukums_ger: Friedrichshof
@@ -26,9 +26,14 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-11
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:
 ---
+
+**Pēc Oto Hūna apkopotajiem materiāliem**[^1]
+
+| Gads  | Īpašnieks                                  | Izmērs arklos (Hacken) |
+| ----- | ------------------------------------------ | ---------------------- |
+| 1816. | Rīgas 1. ģildes tirgotājs Bernh. Ch. Klein | 13 3/8                 |
+[^1]: LVVA 6810\_1\_52

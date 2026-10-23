@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-07-18T12:56:52.989Z
-modified: 2026-08-31T16:45:09.050Z
-published: 2026-08-31T16:45:09.050Z
+modified: 2026-10-04T13:23:44.451Z
+published: 2026-10-04T13:23:44.451Z
 tags:
   - places
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Ērģemes
 nosaukums_ger: Ermes
@@ -25,8 +26,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-18
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

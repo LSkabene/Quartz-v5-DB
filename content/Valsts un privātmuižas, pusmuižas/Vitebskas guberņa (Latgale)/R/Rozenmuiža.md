@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T17:16:21.866Z
-modified: 2026-08-31T16:45:20.213Z
-published: 2026-08-31T16:45:20.213Z
+modified: 2026-10-04T13:23:51.761Z
+published: 2026-10-04T13:23:51.761Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Rozenmuiža
 nosaukums_ger:
@@ -24,8 +25,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-17
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

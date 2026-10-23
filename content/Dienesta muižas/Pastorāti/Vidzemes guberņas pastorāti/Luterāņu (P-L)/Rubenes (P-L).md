@@ -3,13 +3,14 @@ publish: true
 aliases:
   - Pappendorf
 created: 2026-04-04T11:24:19.184Z
-modified: 2026-08-20T16:43:27.915Z
-published: 2026-08-20T16:43:27.915Z
+modified: 2026-10-04T13:24:23.068Z
+published: 2026-10-04T13:24:23.068Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Rubenes
 nosaukums_ger: Papendorf Pastorat
@@ -28,8 +29,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-04
-date_modified: 2026-08-19
 coordinates:
 map_color: steelblue
 map_icon: church

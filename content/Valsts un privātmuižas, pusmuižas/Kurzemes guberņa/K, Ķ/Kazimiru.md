@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.302Z
-modified: 2026-09-02T17:46:53.661Z
-published: 2026-09-02T17:46:53.661Z
+modified: 2026-10-04T13:23:40.190Z
+published: 2026-10-04T13:23:40.190Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
   - īpašnieki/Blūmeni
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Kazimiru
 nosaukums_ger: Kasimirshof
@@ -26,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-09-02
 coordinates:
 map_color:
 map_icon:

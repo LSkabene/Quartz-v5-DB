@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.062Z
-modified: 2026-08-31T16:44:58.804Z
-published: 2026-08-31T16:44:58.804Z
+modified: 2026-10-04T13:23:39.746Z
+published: 2026-10-04T13:23:39.746Z
 tags:
   - veids/kroņa_muiža
   - Kurzeme
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Bērzes
 nosaukums_ger: Bershof
@@ -25,8 +26,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-08-25
 coordinates:
 map_color:
 map_icon:

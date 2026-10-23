@@ -4,10 +4,11 @@ aliases:
   - Sibilinas
   - Sibelīnas
 created: 2026-07-30T17:43:59.799Z
-modified: 2026-08-31T16:45:20.586Z
-published: 2026-08-31T16:45:20.586Z
+modified: 2026-10-04T13:23:51.858Z
+published: 2026-10-04T13:23:51.858Z
 tags:
   - Latgale
+  - fails/muiža
 veids: Folvarks
 nosaukums_lv: Soboļinas
 nosaukums_ger:
@@ -28,8 +29,6 @@ half_manors:
   - "[[Paulovas]]"
 krogi:
 dzirnavas:
-date_created: 2026-07-30
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

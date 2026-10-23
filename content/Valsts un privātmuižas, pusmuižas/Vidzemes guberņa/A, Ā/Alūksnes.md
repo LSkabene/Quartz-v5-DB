@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-06T16:22:06.322Z
-modified: 2026-08-31T16:45:03.198Z
-published: 2026-08-31T16:45:03.198Z
+modified: 2026-10-23T08:31:14.240Z
+published: 2026-10-23T08:31:14.240Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Alūksnes
 nosaukums_ger: Marienburg
@@ -26,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-06
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

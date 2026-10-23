@@ -5,13 +5,14 @@ aliases:
   - Tirzas
   - Velēnas
 created: 2026-04-04T11:44:52.844Z
-modified: 2026-08-20T16:43:28.055Z
-published: 2026-08-20T16:43:28.055Z
+modified: 2026-10-04T13:24:23.271Z
+published: 2026-10-04T13:24:23.271Z
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Tirzas-Velēnas
 nosaukums_ger: Tirsen-Wellan Pastorat
@@ -30,8 +31,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-04
-date_modified: 2026-08-19
 coordinates:
 map_color: steelblue
 map_icon: church

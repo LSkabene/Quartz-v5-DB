@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-07-18T12:56:52.946Z
-modified: 2026-08-31T16:45:08.743Z
-published: 2026-08-31T16:45:08.743Z
+modified: 2026-10-04T13:41:17.713Z
+published: 2026-10-04T13:41:17.713Z
 tags:
   - places
   - veids/privātmuiža
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Endzeles
 nosaukums_ger: Henselshof
@@ -25,8 +26,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-18
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

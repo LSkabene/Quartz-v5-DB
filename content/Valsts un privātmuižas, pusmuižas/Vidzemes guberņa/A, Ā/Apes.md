@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Opes
 created: 2026-04-06T16:37:56.360Z
-modified: 2026-08-31T16:45:03.406Z
-published: 2026-08-31T16:45:03.406Z
+modified: 2026-10-23T10:34:50.483Z
+published: 2026-10-23T10:34:50.483Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Apes
 nosaukums_ger: Hoppenhof
@@ -27,9 +28,14 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-06
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:
 ---
+
+**Pēc Oto Hūna apkopotajiem materiāliem**[^1]
+
+| Gads  | Īpašnieks                                                             | Izmērs arklos (Hacken) |
+| ----- | --------------------------------------------------------------------- | ---------------------- |
+| 1815. | [[Nothelfers, H. Georgs Reinh. fon\|H. Georgs Reinh. fon Nothelfers]] | 2 1/8                  |
+[^1]: LVVA 6810\_1\_52

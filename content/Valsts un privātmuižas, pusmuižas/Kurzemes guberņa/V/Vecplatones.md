@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.555Z
-modified: 2026-09-02T17:46:55.353Z
-published: 2026-09-02T17:46:55.353Z
+modified: 2026-10-04T13:23:40.932Z
+published: 2026-10-04T13:23:40.932Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Vecplatones
 nosaukums_ger: Alt-Platon
@@ -25,8 +26,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-09-02
 coordinates:
 map_color:
 map_icon:

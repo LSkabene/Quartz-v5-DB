@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-06T16:46:11.886Z
-modified: 2026-08-31T16:45:03.652Z
-published: 2026-08-31T16:45:03.652Z
+modified: 2026-10-23T10:47:49.305Z
+published: 2026-10-23T10:47:49.305Z
 tags:
   - places
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Augulienas
 nosaukums_ger: Roseneck
@@ -18,7 +19,7 @@ nosaukums_swe:
 aliases: []
 guberna: Vidzemes
 aprinkis_imperija: Valkas
-draudzes_novads:
+draudzes_novads: Gulbenes
 aprinkis_LV:
 pagasts:
 veids_vesturiski:
@@ -26,9 +27,14 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-06
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:
 ---
+
+**Pēc Oto Hūna apkopotajiem materiāliem**[^1]
+
+| Gads  | Īpašnieks          | Izmērs arklos (Hacken) |
+| ----- | ------------------ | ---------------------- |
+| 1820. | Obrd. von Transehe | 5 1/4                  |
+[^1]: LVVA 6810\_1\_52

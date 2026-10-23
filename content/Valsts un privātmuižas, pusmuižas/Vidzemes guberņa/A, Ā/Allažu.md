@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-06T14:36:37.138Z
-modified: 2026-08-31T16:45:03.086Z
-published: 2026-08-31T16:45:03.086Z
+modified: 2026-10-04T13:23:41.286Z
+published: 2026-10-04T13:23:41.286Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Allažu
 nosaukums_ger: Allasch
@@ -26,9 +27,11 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-06
-date_modified: 2026-08-19
 coordinates:
 map_color: maroon
 map_icon: star
 ---
+
+Izmērs arklos (Hacken) ap 1819. gadu (kopā ar [[Jūdažu]]), pēc Hūna materiāliem: 10 5/8.[^1]
+
+[^1]: LVVA 6810\_1\_52

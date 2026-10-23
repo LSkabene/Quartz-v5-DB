@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T17:17:26.640Z
-modified: 2026-08-31T16:45:15.824Z
-published: 2026-08-31T16:45:15.824Z
+modified: 2026-10-04T13:23:50.687Z
+published: 2026-10-04T13:23:50.687Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Janopoles
 nosaukums_ger:
@@ -24,8 +25,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-17
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-18T04:52:49.136Z
-modified: 2026-08-31T16:45:20.362Z
-published: 2026-08-31T16:45:20.362Z
+modified: 2026-10-04T13:23:51.799Z
+published: 2026-10-04T13:23:51.799Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Rušenicas
 nosaukums_ger:
@@ -24,8 +25,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-18
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.765Z
-modified: 2026-09-02T16:49:45.493Z
-published: 2026-09-02T16:49:45.493Z
+modified: 2026-10-04T13:23:39.616Z
+published: 2026-10-04T13:23:39.616Z
 tags:
   - veids/kroņa_muiža
   - Kurzeme
   - īpašnieki/Bordeliusi
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Audzu
 nosaukums_ger: Neu-Friedrichshof
@@ -26,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-08-25
 coordinates:
 map_color:
 map_icon:

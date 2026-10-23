@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.046Z
-modified: 2026-09-02T17:46:53.316Z
-published: 2026-09-02T17:46:53.316Z
+modified: 2026-10-04T13:23:40.103Z
+published: 2026-10-04T13:23:40.103Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Jaunsvirlaukas
 nosaukums_ger: Neu-Bergfried
@@ -27,8 +28,6 @@ half_manors:
   - "[[Katrīnas (Garozas pag.)]]"
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-09-02
 coordinates:
 map_color:
 map_icon:

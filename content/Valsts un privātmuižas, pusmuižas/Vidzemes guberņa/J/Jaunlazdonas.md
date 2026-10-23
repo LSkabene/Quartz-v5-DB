@@ -1,8 +1,10 @@
 ---
 publish: true
 created: 2026-07-23T18:12:54.717Z
-modified: 2026-08-19T16:06:33.271Z
-published: 2026-08-19T16:06:33.271Z
+modified: 2026-10-04T13:23:46.007Z
+published: 2026-10-04T13:23:46.007Z
+tags:
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Jaunlazdonas
 nosaukums_ger: Neu-Lasdohn
@@ -22,9 +24,6 @@ parent_manor: "[[Veclazdonas]]"
 half_manors:
 krogi:
 dzirnavas:
-tags: []
-date_created: 2026-07-23
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

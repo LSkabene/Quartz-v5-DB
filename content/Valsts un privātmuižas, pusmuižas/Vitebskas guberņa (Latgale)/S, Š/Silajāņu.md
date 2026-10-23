@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-18T04:50:48.204Z
-modified: 2026-08-31T16:45:20.488Z
-published: 2026-08-31T16:45:20.488Z
+modified: 2026-10-04T13:23:51.839Z
+published: 2026-10-04T13:23:51.839Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Silajāņu
 nosaukums_ger:
@@ -24,8 +25,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-18
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

@@ -3,11 +3,12 @@ publish: true
 aliases:
   - Pavlovas
 created: 2026-08-01T15:27:20.888Z
-modified: 2026-08-31T16:45:18.493Z
-published: 2026-08-31T16:45:18.493Z
+modified: 2026-10-04T13:23:51.336Z
+published: 2026-10-04T13:23:51.336Z
 tags:
   - Latgale
   - veids/folvarks
+  - fails/muiža
 veids: Folvarks
 nosaukums_lv: Paulovas
 nosaukums_ger:
@@ -27,8 +28,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-01
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

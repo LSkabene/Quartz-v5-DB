@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-11T07:36:12.092Z
-modified: 2026-08-31T16:45:05.835Z
-published: 2026-08-31T16:45:05.835Z
+modified: 2026-10-04T13:23:42.947Z
+published: 2026-10-04T13:23:42.947Z
 tags:
   - places
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Briņķu
 nosaukums_ger: Brinkenhof
@@ -26,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-11
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

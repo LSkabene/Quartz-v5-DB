@@ -6,11 +6,12 @@ aliases:
   - Beijenhof
   - Kerstenhof
 created: 2026-04-11T06:41:04.767Z
-modified: 2026-08-31T16:45:04.539Z
-published: 2026-08-31T16:45:04.539Z
+modified: 2026-10-23T15:53:21.106Z
+published: 2026-10-23T15:53:21.106Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Bejas
 nosaukums_ger: Beyenhof
@@ -29,9 +30,15 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-11
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:
 ---
+
+**Pēc Oto Hūna apkopotajiem materiāliem**[^1]
+
+| Gads  | Īpašnieks                  | Izmērs arklos (Hacken)          |
+| ----- | -------------------------- | ------------------------------- |
+| 1815. | Brāļi Laiwingi (Laiviņi?)  | 4 3/8 (Kopā ar [[Bejas]] muižu) |
+| 1820. | von Hagelströhm jaunkundze | 5 5/8 (Kopā ar [[Bejas]] muižu) |
+[^1]: LVVA 6810\_1\_52

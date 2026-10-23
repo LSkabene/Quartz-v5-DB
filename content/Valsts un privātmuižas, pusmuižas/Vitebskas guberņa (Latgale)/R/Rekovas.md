@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-01T16:57:04.627Z
-modified: 2026-08-31T16:45:19.718Z
-published: 2026-08-31T16:45:19.718Z
+modified: 2026-10-04T13:23:51.644Z
+published: 2026-10-04T13:23:51.644Z
 tags:
   - Latgale
   - veids/folvarks
+  - fails/muiža
 veids: Folvarks
 nosaukums_lv: Rekovas
 nosaukums_ger:
@@ -25,8 +26,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-01
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

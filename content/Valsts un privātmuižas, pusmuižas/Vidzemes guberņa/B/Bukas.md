@@ -2,13 +2,14 @@
 publish: true
 aliases:
   - Buku
+  - Hardemoise
 created: 2026-04-11T07:42:07.587Z
-modified: 2026-08-31T16:45:05.979Z
-published: 2026-08-31T16:45:05.979Z
+modified: 2026-10-04T13:23:43.038Z
+published: 2026-10-04T13:23:43.038Z
 tags:
   - veids/privātmuiža
-  - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Bukas
 nosaukums_ger: Suddenbach
@@ -27,8 +28,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-11
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

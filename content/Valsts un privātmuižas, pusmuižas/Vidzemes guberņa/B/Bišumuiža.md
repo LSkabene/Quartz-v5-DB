@@ -1,0 +1,40 @@
+---
+publish: true
+aliases:
+  - Šildera
+  - Hilzena
+  - Hilsenhof
+  - Schilderhof
+  - Schillerhof
+created: 2026-09-07T15:18:29.622Z
+modified: 2026-10-04T13:23:42.432Z
+published: 2026-10-04T13:23:42.432Z
+tags:
+  - teritorija/rīgas-patrimoniālais
+  - Vidzeme
+  - Rīga
+  - fails/muiža
+veids: Privātmuiža
+nosaukums_lv: Bišumuiža
+nosaukums_ger: Bienenhof
+nosaukums_rus: ""
+nosaukums_est: ""
+nosaukums_lt: ""
+nosaukums_pol: ""
+nosaukums_swe: ""
+guberna: Vidzemes
+aprinkis_imperija: Rīgas
+draudzes_novads: ""
+aprinkis_LV: ""
+pagasts: ""
+veids_vesturiski: ""
+parent_manor: ""
+half_manors: ""
+krogi: ""
+dzirnavas: ""
+coordinates: 56.912410, 24.137710
+map_color: ""
+map_icon: ""
+---
+
+Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Bisumuiza/BisuMuiz.htm).

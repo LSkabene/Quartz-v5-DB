@@ -4,12 +4,13 @@ aliases:
   - Madonas
   - Mohdohn
 created: 2026-04-11T07:16:39.461Z
-modified: 2026-08-31T16:45:04.980Z
-published: 2026-08-31T16:45:04.980Z
+modified: 2026-10-04T13:23:42.411Z
+published: 2026-10-04T13:23:42.411Z
 tags:
   - veids/privātmuiža
-  - places
   - Vidzeme
+  - Jāpārbauda
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Biržu
 nosaukums_ger: Modohn
@@ -20,16 +21,15 @@ nosaukums_pol:
 nosaukums_swe:
 guberna: Vidzemes
 aprinkis_imperija: Cēsu
-draudzes_novads: Cesvaines
+draudzes_novads: Lazdonas
 aprinkis_LV:
 pagasts:
 veids_vesturiski:
 parent_manor:
 half_manors:
+  - "[[Bučauskas]]"
 krogi:
 dzirnavas:
-date_created: 2026-04-11
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

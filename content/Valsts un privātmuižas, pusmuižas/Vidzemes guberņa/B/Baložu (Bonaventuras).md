@@ -4,11 +4,12 @@ aliases:
   - Bonawentura
   - Bonaventuras
 created: 2026-04-11T06:19:19.521Z
-modified: 2026-08-31T16:45:04.326Z
-published: 2026-08-31T16:45:04.326Z
+modified: 2026-10-04T13:23:41.953Z
+published: 2026-10-04T13:23:41.953Z
 tags:
   - veids/privātmuiža
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Baložu
 nosaukums_ger: Bonaventura
@@ -27,11 +28,10 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-11
-date_modified: 2026-08-19
-coordinates:
+coordinates: 56.994990, 24.265240
 map_color:
 map_icon:
 ---
 
 Vēsturiski: bijusi Rīgas pilsētas īpašums.
+Avots/vairāk: [ambermarks.com](https://www.ambermarks.com/_Pieminekli/IsieApraksti/Riga/Bergi/BonaventMuiz.htm).

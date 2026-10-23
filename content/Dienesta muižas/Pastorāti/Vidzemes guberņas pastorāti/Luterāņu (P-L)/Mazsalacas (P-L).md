@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-04-04T10:57:59.578Z
-modified: 2026-08-20T16:43:27.786Z
-published: 2026-08-20T16:43:27.786Z
+modified: 2026-10-04T13:24:22.869Z
+published: 2026-10-04T13:24:22.869Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Mazsalacas
 nosaukums_ger: Salisburg Pastorat
@@ -27,8 +28,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-04
-date_modified: 2026-08-19
 coordinates:
 map_color: steelblue
 map_icon: church

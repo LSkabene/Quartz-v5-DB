@@ -5,8 +5,10 @@ aliases:
   - Kroņlaicenes
   - Klein-Laitzen
 created: 2026-07-23T18:12:54.840Z
-modified: 2026-08-31T16:45:11.840Z
-published: 2026-08-31T16:45:11.840Z
+modified: 2026-10-04T13:23:47.459Z
+published: 2026-10-04T13:23:47.459Z
+tags:
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Mazlaicenes
 nosaukums_ger: Klein-Laitzen
@@ -25,9 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-tags: []
-date_created: 2026-07-23
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

@@ -5,13 +5,15 @@ aliases:
   - Witkopshof
   - Tepelshof
 created: 2026-04-02T15:39:49.898Z
-modified: 2026-08-31T16:45:12.245Z
-published: 2026-08-31T16:45:12.245Z
+modified: 2026-10-04T13:23:49.067Z
+published: 2026-10-04T13:23:49.067Z
 tags:
   - veids/organizāciju
   - veids/organizāciju/vidzemes_bruņniecība
   - places
   - Vidzeme
+  - īpašnieki/vidzemes-bruņniecība
+  - fails/muiža
 veids: Organizāciju
 nosaukums_lv: Tiepeles
 nosaukums_ger: Witkop
@@ -30,9 +32,9 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:
 ---
+
+veids/organizāciju/vidzemes-bruņniecība

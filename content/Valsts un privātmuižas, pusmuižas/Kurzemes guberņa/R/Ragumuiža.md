@@ -4,11 +4,12 @@ aliases:
   - Raggenhof
   - Ragu muiža
 created: 2026-08-20T16:09:06.619Z
-modified: 2026-09-02T17:46:55.007Z
-published: 2026-09-02T17:46:55.007Z
+modified: 2026-10-04T13:23:40.704Z
+published: 2026-10-04T13:23:40.704Z
 tags:
   - Kurzeme
   - veids/kroņa_pusmuiža
+  - fails/muiža
 veids: Kroņa pusmuiža
 nosaukums_lv: Ragumuiža
 nosaukums_ger: Ragenhof
@@ -27,8 +28,6 @@ parent_manor: "[[Jēkabnieku]]"
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-09-02
 coordinates:
 map_color:
 map_icon:

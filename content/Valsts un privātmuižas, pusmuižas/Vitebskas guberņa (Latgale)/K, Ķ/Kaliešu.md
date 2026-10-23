@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-01T15:22:32.918Z
-modified: 2026-08-31T16:45:16.637Z
-published: 2026-08-31T16:45:16.637Z
+modified: 2026-10-04T13:23:50.761Z
+published: 2026-10-04T13:23:50.761Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Kaliešu
 nosaukums_ger:
@@ -24,8 +25,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-01
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

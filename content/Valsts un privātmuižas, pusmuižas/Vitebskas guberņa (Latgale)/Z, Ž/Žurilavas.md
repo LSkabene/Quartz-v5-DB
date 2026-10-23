@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-30T17:50:04.549Z
-modified: 2026-08-31T16:45:22.748Z
-published: 2026-08-31T16:45:22.748Z
+modified: 2026-10-04T13:23:52.401Z
+published: 2026-10-04T13:23:52.401Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Žurilavas
 nosaukums_ger:
@@ -24,8 +25,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-30
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

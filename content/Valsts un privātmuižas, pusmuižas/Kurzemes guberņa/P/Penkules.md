@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.517Z
-modified: 2026-09-02T17:46:54.774Z
-published: 2026-09-02T17:46:54.774Z
+modified: 2026-10-04T13:23:40.563Z
+published: 2026-10-04T13:23:40.563Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
   - īpašnieki/Bilderlingi
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Penkules
 nosaukums_ger: Pankelhof
@@ -26,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-09-02
 coordinates:
 map_color:
 map_icon:

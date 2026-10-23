@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-01T16:51:37.498Z
-modified: 2026-08-31T16:45:15.202Z
-published: 2026-08-31T16:45:15.202Z
+modified: 2026-10-04T13:23:50.537Z
+published: 2026-10-04T13:23:50.537Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Gajevas
 nosaukums_ger:
@@ -24,8 +25,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-01
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

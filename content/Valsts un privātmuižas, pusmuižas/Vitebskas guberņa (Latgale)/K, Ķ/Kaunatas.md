@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T16:41:57.012Z
-modified: 2026-08-31T16:45:16.717Z
-published: 2026-08-31T16:45:16.717Z
+modified: 2026-10-04T13:23:50.781Z
+published: 2026-10-04T13:23:50.781Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Kaunatas
 nosaukums_ger:
@@ -24,8 +25,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-17
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

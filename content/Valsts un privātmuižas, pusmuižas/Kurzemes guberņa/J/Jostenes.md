@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.278Z
-modified: 2026-09-02T17:46:53.387Z
-published: 2026-09-02T17:46:53.387Z
+modified: 2026-10-04T13:23:40.128Z
+published: 2026-10-04T13:23:40.128Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Jostenes
 nosaukums_ger: Jostan
@@ -25,8 +26,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-09-02
 coordinates:
 map_color:
 map_icon:

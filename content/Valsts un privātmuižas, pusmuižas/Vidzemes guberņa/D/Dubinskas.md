@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-13T17:06:38.800Z
-modified: 2026-08-31T16:45:08.046Z
-published: 2026-08-31T16:45:08.046Z
+modified: 2026-10-04T13:23:43.948Z
+published: 2026-10-04T13:23:43.948Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Dubinskas
 nosaukums_ger: Dubinsky
@@ -26,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-13
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Borishof
 created: 2026-04-11T07:44:56.297Z
-modified: 2026-08-31T16:45:06.112Z
-published: 2026-08-31T16:45:06.112Z
+modified: 2026-10-04T13:23:43.096Z
+published: 2026-10-04T13:23:43.096Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Burgas
 nosaukums_ger: Borrishof
@@ -27,8 +28,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-11
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

@@ -3,13 +3,15 @@ publish: true
 aliases:
   - Lipskalna
 created: 2026-04-02T15:39:49.896Z
-modified: 2026-08-31T16:45:11.802Z
-published: 2026-08-31T16:45:11.802Z
+modified: 2026-10-04T13:23:47.206Z
+published: 2026-10-04T13:23:47.206Z
 tags:
   - veids/organizāciju
   - veids/organizāciju/vidzemes_bruņniecība
   - places
   - Vidzeme
+  - īpašnieki/vidzemes-bruņniecība
+  - fails/muiža
 veids: Organizāciju
 nosaukums_lv: Lipškalna
 nosaukums_ger: Lipskaln
@@ -28,9 +30,11 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:
 ---
+
+Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 10 6/8.[^1]
+
+[^1]: LVVA 6810\_1\_52

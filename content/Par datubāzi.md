@@ -1,13 +1,11 @@
 ---
 publish: true
 created: 2026-08-01T15:46:36.904Z
-modified: 2026-09-01T15:00:38.533Z
-published: 2026-09-01T15:00:38.533Z
-date_created: 2026-08-01
-date_modified: 2026-09-01
+modified: 2026-09-29T16:24:00.655Z
+published: 2026-09-29T16:24:00.655Z
 ---
 
-### Objekta "kartiņa"
+## Objekta "kartiņa"
 
 Datubāze veidota izmantojot [Obsidian](https://obsidian.md/) programmatūru, [Quartz 5](https://quartz.jzhao.xyz/) statisko lapu ģenerātoru (static-site generator).  Katrs no ierakstiem ir atsevišķs _Markdown (.md)_ fails, kas sastāv no faila ??? (properties) un pamatteksta.
 

@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-03-21T11:04:06.097Z
-modified: 2026-08-31T16:45:11.754Z
-published: 2026-08-31T16:45:11.754Z
+modified: 2026-10-04T13:23:46.424Z
+published: 2026-10-04T13:23:46.424Z
 tags:
   - veids/pusmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Pusmuiža
 nosaukums_lv: Kaibala
 nosaukums_ger: Kaibel
@@ -28,8 +29,6 @@ half_manors:
 krogi:
 dzirnavas:
   - "[[Kaibala (Dz)]]"
-date_created: 2026-03-21
-date_modified: 2026-08-19
 coordinates: 56.69641055598077, 24.88000002638808
 map_color: brown
 map_icon: star-half

@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-07-30T17:12:32.273Z
-modified: 2026-08-31T16:45:21.938Z
-published: 2026-08-31T16:45:21.938Z
+modified: 2026-10-04T13:23:52.268Z
+published: 2026-10-04T13:23:52.268Z
 tags:
   - veids/folvarks
   - Latgale
+  - fails/muiža
 veids: Folvarks
 nosaukums_lv: Zabolotjes
 nosaukums_ger:
@@ -26,8 +27,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-30
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

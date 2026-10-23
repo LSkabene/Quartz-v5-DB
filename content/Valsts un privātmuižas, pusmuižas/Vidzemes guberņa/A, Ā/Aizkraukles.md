@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.904Z
-modified: 2026-08-31T16:45:02.671Z
-published: 2026-08-31T16:45:02.671Z
+modified: 2026-10-21T11:49:09.136Z
+published: 2026-10-21T11:49:09.136Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Aizkraukles
 nosaukums_ger: Ascheraden
@@ -26,9 +27,11 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-08-19
 coordinates:
 map_color: maroon
 map_icon: star
 ---
+
+Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 10 6/8.[^1]
+
+[^1]: LVVA 6810\_1\_52

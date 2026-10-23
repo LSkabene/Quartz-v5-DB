@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.726Z
-modified: 2026-09-02T17:46:55.417Z
-published: 2026-09-02T17:46:55.417Z
+modified: 2026-10-04T13:23:41.020Z
+published: 2026-10-04T13:23:41.020Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Viskaļu
 nosaukums_ger: Fiskalhof
@@ -25,8 +26,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-09-02
 coordinates:
 map_color:
 map_icon:

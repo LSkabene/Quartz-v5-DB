@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.151Z
-modified: 2026-09-02T16:56:55.260Z
-published: 2026-09-02T16:56:55.260Z
+modified: 2026-10-04T13:23:39.963Z
+published: 2026-10-04T13:23:39.963Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Garozas
 nosaukums_ger: Garrosen
@@ -25,8 +26,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-08-25
 coordinates:
 map_color:
 map_icon:

@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-04-04T11:32:28.233Z
-modified: 2026-08-20T16:43:27.978Z
-published: 2026-08-20T16:43:27.978Z
+modified: 2026-10-04T13:24:23.209Z
+published: 2026-10-04T13:24:23.209Z
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Siguldas
 nosaukums_ger: Segewolde Pastorat
@@ -27,8 +28,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-04
-date_modified: 2026-08-19
 coordinates:
 map_color: steelblue
 map_icon: church

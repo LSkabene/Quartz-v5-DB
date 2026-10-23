@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-01T16:48:42.165Z
-modified: 2026-08-31T16:45:22.596Z
-published: 2026-08-31T16:45:22.596Z
+modified: 2026-10-04T13:23:52.386Z
+published: 2026-10-04T13:23:52.386Z
 tags:
   - veids/folvarks
+  - fails/muiža
 veids: Folvarks
 nosaukums_lv: Zuzanpoles
 nosaukums_ger:
@@ -24,8 +25,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-01
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

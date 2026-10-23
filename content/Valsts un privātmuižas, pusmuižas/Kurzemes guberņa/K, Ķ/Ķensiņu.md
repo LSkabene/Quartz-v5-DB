@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.344Z
-modified: 2026-09-02T17:46:54.132Z
-published: 2026-09-02T17:46:54.132Z
+modified: 2026-10-04T13:23:40.304Z
+published: 2026-10-04T13:23:40.304Z
 tags:
   - Kurzeme
   - veids/kroņa_muiža
+  - fails/muiža
 veids: Kroņa
 nosaukums_lv: Ķensiņu
 nosaukums_ger: Kensingshof
@@ -25,13 +26,11 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-08-20
-date_modified: 2026-09-02
 coordinates:
 map_color:
 map_icon:
 ---
 
-1909\. gadā nomnieks namnieks [[Pāvels Ivana d. Leifroks]].[^1]
+1909\. gadā nomnieks namnieks [[Leifroks, Pāvels Ivana d.]].[^1]
 
 [^1]: LNA LVVA F1679 "Zemkopības ministrijas Zemes ierīcības departaments" 155. US, 34. GV

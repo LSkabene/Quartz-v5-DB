@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Berģes
 created: 2026-04-11T06:50:23.442Z
-modified: 2026-08-31T16:45:04.633Z
-published: 2026-08-31T16:45:04.633Z
+modified: 2026-10-04T13:23:42.219Z
+published: 2026-10-04T13:23:42.219Z
 tags:
   - veids/privātmuiža
   - places
   - Vidzeme
+  - fails/muiža
 veids: Privātmuiža
 nosaukums_lv: Berģu
 nosaukums_ger: Bergshof
@@ -27,8 +28,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-11
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

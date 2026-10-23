@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-17T15:57:23.811Z
-modified: 2026-08-31T16:45:17.797Z
-published: 2026-08-31T16:45:17.797Z
+modified: 2026-10-04T13:23:51.163Z
+published: 2026-10-04T13:23:51.163Z
 tags:
   - Latgale
+  - fails/muiža
 veids:
 nosaukums_lv: Murmastienes
 nosaukums_ger:
@@ -24,8 +25,6 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-07-17
-date_modified: 2026-08-19
 coordinates:
 map_color:
 map_icon:

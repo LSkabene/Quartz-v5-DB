@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.878Z
-modified: 2026-08-20T16:43:27.300Z
-published: 2026-08-20T16:43:27.300Z
+modified: 2026-10-23T10:11:54.636Z
+published: 2026-10-23T10:11:54.636Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
   - places
   - Vidzeme
+  - fails/muiža
 veids: Dienesta
 nosaukums_lv: Alūksnes
 nosaukums_ger: Marienburg Pastorat
@@ -27,9 +28,14 @@ parent_manor:
 half_manors:
 krogi:
 dzirnavas:
-date_created: 2026-04-02
-date_modified: 2026-08-19
 coordinates:
 map_color: steelblue
 map_icon: church
 ---
+
+**Pēc Oto Hūna apkopotajiem materiāliem**[^1]
+
+| Gads  | Īpašnieks                                                      | Izmērs arklos (Hacken) |
+| ----- | -------------------------------------------------------------- | ---------------------- |
+| 1815. | Mācītājs [[Ruels, Oto Fr. Pauls fon\|Oto Fr. Pauls fon Ruels]] | 2                      |
+[^1]: LVVA 6810\_1\_52
