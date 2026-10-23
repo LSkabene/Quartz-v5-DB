@@ -4,8 +4,8 @@ aliases:
   - Erkul
   - Erküll
 created: 2026-04-06T16:40:45.958Z
-modified: 2026-10-04T13:23:41.887Z
-published: 2026-10-04T13:23:41.887Z
+modified: 2026-10-23T10:38:42.849Z
+published: 2026-10-23T10:38:42.849Z
 tags:
   - veids/privātmuiža
   - places
@@ -34,6 +34,9 @@ map_color:
 map_icon:
 ---
 
-Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 9 5/8.[^1]
+**Pēc Oto Hūna apkopotajiem materiāliem**[^1]
 
+| Gads  | Īpašnieks                               | Izmērs arklos (Hacken) |
+| ------- | ----------------------------------------- | ------------------------ |
+| 1819. | Ordnungsrichter Gust. baron von Mengden | 9 5/8                  |
 [^1]: LVVA 6810\_1\_52

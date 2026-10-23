@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-06T16:46:11.886Z
-modified: 2026-10-04T13:23:41.736Z
-published: 2026-10-04T13:23:41.736Z
+modified: 2026-10-23T10:47:49.305Z
+published: 2026-10-23T10:47:49.305Z
 tags:
   - places
   - veids/privātmuiža
@@ -19,7 +19,7 @@ nosaukums_swe:
 aliases: []
 guberna: Vidzemes
 aprinkis_imperija: Valkas
-draudzes_novads:
+draudzes_novads: Gulbenes
 aprinkis_LV:
 pagasts:
 veids_vesturiski:
@@ -31,3 +31,10 @@ coordinates:
 map_color:
 map_icon:
 ---
+
+**Pēc Oto Hūna apkopotajiem materiāliem**[^1]
+
+| Gads  | Īpašnieks          | Izmērs arklos (Hacken) |
+| ----- | ------------------ | ---------------------- |
+| 1820. | Obrd. von Transehe | 5 1/4                  |
+[^1]: LVVA 6810\_1\_52

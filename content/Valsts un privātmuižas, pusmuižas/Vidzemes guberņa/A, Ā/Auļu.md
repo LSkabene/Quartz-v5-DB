@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Aula
 created: 2026-04-06T16:47:11.799Z
-modified: 2026-10-04T13:23:41.770Z
-published: 2026-10-04T13:23:41.770Z
+modified: 2026-10-23T10:49:05.752Z
+published: 2026-10-23T10:49:05.752Z
 tags:
   - places
   - veids/privātmuiža
@@ -20,7 +20,7 @@ nosaukums_pol:
 nosaukums_swe:
 guberna: Vidzemes
 aprinkis_imperija: Cēsu
-draudzes_novads:
+draudzes_novads: Dzērbenes-Drustu
 aprinkis_LV:
 pagasts:
 veids_vesturiski:
@@ -32,3 +32,10 @@ coordinates:
 map_color:
 map_icon:
 ---
+
+**Pēc Oto Hūna apkopotajiem materiāliem**[^1]
+
+| Gads  | Īpašnieks                                          | Izmērs arklos (Hacken) |
+| ------- | ---------------------------------------------------- | ------------------------ |
+| 1814. | Atvaļinātais kapteinis Joh. baron von Campenhausen | 6 1/2                  |
+[^1]: LVVA 6810\_1\_52

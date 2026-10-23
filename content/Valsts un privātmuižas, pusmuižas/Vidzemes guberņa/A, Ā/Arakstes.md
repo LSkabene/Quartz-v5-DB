@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-06T16:39:44.579Z
-modified: 2026-10-04T13:23:41.537Z
-published: 2026-10-04T13:23:41.537Z
+modified: 2026-10-23T10:37:13.662Z
+published: 2026-10-23T10:37:13.662Z
 tags:
   - veids/privātmuiža
   - places
@@ -19,7 +19,7 @@ nosaukums_swe:
 aliases: []
 guberna: Vidzemes
 aprinkis_imperija: Valmieras
-draudzes_novads:
+draudzes_novads: Rūjienas
 aprinkis_LV:
 pagasts:
 veids_vesturiski:
@@ -31,3 +31,10 @@ coordinates:
 map_color:
 map_icon:
 ---
+
+**Pēc Oto Hūna apkopotajiem materiāliem**[^1]
+
+| Gads  | Īpašnieks                        | Izmērs arklos (Hacken) |
+| ----- | -------------------------------- | ---------------------- |
+| 1814. | Kreishauptm. Bernh. H. von Stryk | 8 1/8                  |
+[^1]: LVVA 6810\_1\_52

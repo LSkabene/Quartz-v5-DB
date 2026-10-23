@@ -4,8 +4,8 @@ aliases:
   - Opekalna
   - Apekalna
 created: 2026-04-02T15:39:49.878Z
-modified: 2026-10-04T13:24:22.094Z
-published: 2026-10-04T13:24:22.094Z
+modified: 2026-10-23T10:24:41.068Z
+published: 2026-10-23T10:24:41.068Z
 tags:
   - veids/pastorāts/luterāņu
   - veids/pastorāts
@@ -34,3 +34,10 @@ coordinates:
 map_color: steelblue
 map_icon: church
 ---
+
+**Pēc Oto Hūna apkopotajiem materiāliem**[^1]
+
+| Gads  | Īpašnieks                                                                               | Izmērs arklos (Hacken) |
+| ----- | --------------------------------------------------------------------------------------- | ---------------------- |
+| 1818. | Valkas apriņķa prāvests [[Zāmens, Johans Imanuēls (1750-1819)\|Johans Imanuēls Zāmens]] | 1 3/8                  |
+[^1]: LVVA 6810\_1\_52

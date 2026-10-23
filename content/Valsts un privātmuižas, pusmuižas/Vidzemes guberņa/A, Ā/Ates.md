@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-23T15:20:37.487Z
-modified: 2026-10-04T13:23:41.625Z
-published: 2026-10-04T13:23:41.625Z
+modified: 2026-10-23T10:43:18.646Z
+published: 2026-10-23T10:43:18.646Z
 tags:
   - veids/pusmuiža
   - Vidzeme
@@ -31,6 +31,9 @@ map_color:
 map_icon:
 ---
 
-Izmērs arklos (Hacken) ap 1819. gadu (kopā ar [[Kalnamuiža]] un [[Jaunā Kalnamuiža]] muižu), pēc Hūna materiāliem: 23 5/8.[^1]
+**Pēc Oto Hūna apkopotajiem materiāliem**[^1]
 
+| Gads  | Īpašnieks                  | Izmērs arklos (Hacken)                                        |
+| ----- | -------------------------- | ------------------------------------------------------------- |
+| 1819. | Geheimrath von Vietinghoff | 23 5/8 (kopā ar [[Kalnamuiža]] un [[Jaunā Kalnamuiža]] muižu) |
 [^1]: LVVA 6810\_1\_52

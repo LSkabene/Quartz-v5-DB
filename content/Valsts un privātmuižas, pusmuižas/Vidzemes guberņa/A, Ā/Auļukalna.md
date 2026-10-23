@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Aulkalne
 created: 2026-04-06T16:47:49.336Z
-modified: 2026-10-21T11:50:16.343Z
-published: 2026-10-21T11:50:16.343Z
+modified: 2026-10-23T10:53:00.033Z
+published: 2026-10-23T10:53:00.033Z
 tags:
   - veids/privātmuiža
   - places
@@ -20,15 +20,24 @@ nosaukums_pol:
 nosaukums_swe:
 guberna: Vidzemes
 aprinkis_imperija: Cēsu
-draudzes_novads:
+draudzes_novads: Dzērbenes-Drustu
 aprinkis_LV:
 pagasts:
 veids_vesturiski:
 parent_manor:
 half_manors:
+  - "[[Buļu]]"
 krogi:
 dzirnavas:
 coordinates:
 map_color:
 map_icon:
 ---
+
+**Pēc Oto Hūna apkopotajiem materiāliem**[^1]
+
+| Gads  | Īpašnieks                           | Izmērs arklos (Hacken)            |
+| ----- | ----------------------------------- | --------------------------------- |
+| 1816. | Ārzemnieks Hofrath Carl von Ossmann | 3 1/2 (Kopā ar [[Buļu]] pusmuižu) |
+| 1820. | Kronsland. Schröder                 | 5 (Izmērs ar [[Buļu]] pusmuižu)   |
+[^1]: LVVA 6810\_1\_52

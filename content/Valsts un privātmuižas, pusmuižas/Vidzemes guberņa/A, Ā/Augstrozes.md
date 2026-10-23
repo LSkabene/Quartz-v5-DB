@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-06T16:45:36.044Z
-modified: 2026-10-04T13:23:41.718Z
-published: 2026-10-04T13:23:41.718Z
+modified: 2026-10-23T10:46:39.456Z
+published: 2026-10-23T10:46:39.456Z
 tags:
   - veids/privātmuiža
   - places
@@ -19,7 +19,7 @@ nosaukums_swe:
 aliases: []
 guberna: Vidzemes
 aprinkis_imperija: Valmieras
-draudzes_novads:
+draudzes_novads: Straupes
 aprinkis_LV:
 pagasts:
 veids_vesturiski:
@@ -31,3 +31,10 @@ coordinates:
 map_color:
 map_icon:
 ---
+
+**Pēc Oto Hūna apkopotajiem materiāliem**[^1]
+
+| Gads  | Īpašnieks                                   | Izmērs arklos (Hacken) |
+| ----- | ------------------------------------------- | ---------------------- |
+| 1820. | fr. Ass. v. Gersdorf geb. bar. v. Meyendorf | 5                      |
+[^1]: LVVA 6810\_1\_52

@@ -9,6 +9,7 @@ tags:
   - fails/dzimta
 ---
 
-| Persona                                                                       | Muižas                                                                                 | Guberņa  |
-| ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------- |
-| [[Personas/Personas/T/Tranzē, Eriks Johans fon.md\|Tranzē, Eriks Johans fon]] | [[Valsts un privātmuižas, pusmuižas/Vidzemes guberņa/J/Jaungulbenes.md\|Jaungulbenes]] | Vidzemes |
+| Persona                                                                       | Muižas                                                                                                    | Guberņa  |
+| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | -------- |
+| [[Personas/Personas/T/Tranzē, Eriks Johans fon.md\|Tranzē, Eriks Johans fon]] | [[Valsts un privātmuižas, pusmuižas/Vidzemes guberņa/J/Jaungulbenes.md\|Jaungulbenes]]                    | Vidzemes |
+| [[Personas/Personas/T/Tranzē, Aleksandrs fon.md\|Tranzē, Aleksandrs fon]]     | [[Valsts un privātmuižas, pusmuižas/Vidzemes guberņa/A, Ā/Annasmuiža (Nītaure).md\|Annasmuiža (Nītaure)]] | Vidzemes |

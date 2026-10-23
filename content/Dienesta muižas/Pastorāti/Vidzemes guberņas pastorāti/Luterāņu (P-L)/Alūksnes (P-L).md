@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.878Z
-modified: 2026-10-04T13:24:22.073Z
-published: 2026-10-04T13:24:22.073Z
+modified: 2026-10-23T10:11:54.636Z
+published: 2026-10-23T10:11:54.636Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
@@ -32,3 +32,10 @@ coordinates:
 map_color: steelblue
 map_icon: church
 ---
+
+**Pēc Oto Hūna apkopotajiem materiāliem**[^1]
+
+| Gads  | Īpašnieks                                                      | Izmērs arklos (Hacken) |
+| ----- | -------------------------------------------------------------- | ---------------------- |
+| 1815. | Mācītājs [[Ruels, Oto Fr. Pauls fon\|Oto Fr. Pauls fon Ruels]] | 2                      |
+[^1]: LVVA 6810\_1\_52
