@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-11T06:10:05.039Z
-modified: 2026-10-23T15:36:13.567Z
-published: 2026-10-23T15:36:13.567Z
+modified: 2026-10-23T19:27:57.987Z
+published: 2026-10-23T19:27:57.987Z
 tags:
   - veids/privātmuiža
   - Vidzeme
@@ -33,7 +33,7 @@ map_icon:
 
 **Pēc Oto Hūna apkopotajiem materiāliem**[^1]
 
-| Gads  | Īpašnieks                                  | Izmērs arklos (Hacken) |
-| ----- | ------------------------------------------ | ---------------------- |
-| 1816. | Rīgas 1. ģildes tirgotājs Bernh. Ch. Klein | 13 3/8                 |
+| Gads  | Īpašnieks                                     | Izmērs arklos (Hacken) |
+| ----- | --------------------------------------------- | ---------------------- |
+| 1816. | Rīgas 1. ģildes tirgotājs Bernhards Ch. Klein | 13 3/8                 |
 [^1]: LVVA 6810\_1\_52
