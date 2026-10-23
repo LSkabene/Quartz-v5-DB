@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Borkowiz
 created: 2026-04-11T06:51:31.423Z
-modified: 2026-10-04T13:23:42.200Z
-published: 2026-10-04T13:23:42.200Z
+modified: 2026-10-23T15:59:13.664Z
+published: 2026-10-23T15:59:13.664Z
 tags:
   - veids/privātmuiža
   - places
@@ -33,4 +33,9 @@ map_color:
 map_icon:
 ---
 
-Piederējusi Rīgas pilsētai.
+**Pēc Oto Hūna apkopotajiem materiāliem**[^1]
+
+| Gads  | Īpašnieks     | Izmērs arklos (Hacken) |
+| ----- | ------------- | ---------------------- |
+| 1815. | Rīgas pilsēta | 2                      |
+[^1]: LVVA 6810\_1\_52

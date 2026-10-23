@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-11T06:31:17.782Z
-modified: 2026-10-04T13:23:42.102Z
-published: 2026-10-04T13:23:42.102Z
+modified: 2026-10-23T15:52:41.745Z
+published: 2026-10-23T15:52:41.745Z
 tags:
   - veids/privātmuiža
   - places
@@ -31,3 +31,10 @@ coordinates:
 map_color:
 map_icon:
 ---
+
+**Pēc Oto Hūna apkopotajiem materiāliem**[^1]
+
+| Gads  | Īpašnieks                                                                                           | Izmērs arklos (Hacken) |
+| ----- | --------------------------------------------------------------------------------------------------- | ---------------------- |
+| 1814. | Ģenerāļa kundze, [[Gincela (Zīversa), Katrīna fon (1770-1844)\|Katrīna fon Gincela, dzim. Zīversa]] | 13                     |
+[^1]: LVVA 6810\_1\_52

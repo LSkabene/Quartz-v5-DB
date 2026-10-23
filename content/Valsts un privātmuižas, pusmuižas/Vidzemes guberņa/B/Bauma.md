@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-10-04T13:23:42.065Z
-published: 2026-10-04T13:23:42.065Z
+modified: 2026-10-23T15:53:13.906Z
+published: 2026-10-23T15:53:13.906Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme
