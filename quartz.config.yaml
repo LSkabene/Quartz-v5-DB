@@ -168,7 +168,7 @@ plugins:
         - nosaukums_ger
         - aliases
         - tags
-        - content 
+        - content
     layout:
       position: left
       priority: 20
