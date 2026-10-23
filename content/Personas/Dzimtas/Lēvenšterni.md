@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Löwenstern
 created: 2026-10-03T09:33:01.861Z
-modified: 2026-10-04T13:23:19.384Z
-published: 2026-10-04T13:23:19.384Z
+modified: 2026-10-23T08:36:08.621Z
+published: 2026-10-23T08:36:08.621Z
 tags:
   - fails/dzimta
 ---

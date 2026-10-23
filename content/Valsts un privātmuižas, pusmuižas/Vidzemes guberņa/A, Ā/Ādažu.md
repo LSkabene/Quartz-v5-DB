@@ -4,8 +4,8 @@ aliases:
   - Gaujas pļavas muiža
   - Aahof
 created: 2026-04-02T15:39:49.902Z
-modified: 2026-10-21T12:17:13.094Z
-published: 2026-10-21T12:17:13.094Z
+modified: 2026-10-23T08:40:17.001Z
+published: 2026-10-23T08:40:17.001Z
 tags:
   - veids/privātmuiža
   - teritorija/rīgas-patrimoniālais
@@ -42,6 +42,6 @@ map_icon: star
 
 | Gads  | Īpašnieks                               | Izmērs arklos (Hacken)                                              |
 | ----- | --------------------------------------- | ------------------------------------------------------------------- |
-| 1820. | [[Vulfs, Ādolfs fon\|Ādolfs fon Vulfs]] | 21 4/8 (Kopā ar [[Ādažu\|Gaujas pļavas muiža]] un [[Skrīvermuiža]]) |
+| 1820. | [[Vulfs, Ādolfs Heinrihs fon (1765-1843)\|Ādolfs fon Vulfs]] | 21 4/8 (Kopā ar [[Ādažu\|Gaujas pļavas muiža]] un [[Skrīvermuiža]]) |
 
 [^1]: LVVA 6810\_1\_52

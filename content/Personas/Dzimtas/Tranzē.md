@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Transehe
 created: 2026-10-03T10:49:27.708Z
-modified: 2026-10-04T13:23:19.437Z
-published: 2026-10-04T13:23:19.437Z
+modified: 2026-10-23T08:36:13.162Z
+published: 2026-10-23T08:36:13.162Z
 tags:
   - fails/dzimta
 ---

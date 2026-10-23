@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-06T16:22:06.322Z
-modified: 2026-10-04T13:23:41.340Z
-published: 2026-10-04T13:23:41.340Z
+modified: 2026-10-23T08:31:14.240Z
+published: 2026-10-23T08:31:14.240Z
 tags:
   - veids/privātmuiža
   - places

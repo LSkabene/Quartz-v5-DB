@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Lambsdorfi no Venges
 created: 2026-08-25T16:56:24.959Z
-modified: 2026-10-04T13:23:19.349Z
-published: 2026-10-04T13:23:19.349Z
+modified: 2026-10-23T08:36:07.760Z
+published: 2026-10-23T08:36:07.760Z
 tags:
   - fails/dzimta
 ---

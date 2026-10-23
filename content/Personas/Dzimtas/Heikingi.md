@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-25T17:33:19.345Z
-modified: 2026-10-04T13:23:19.314Z
-published: 2026-10-04T13:23:19.314Z
+modified: 2026-10-23T08:38:29.573Z
+published: 2026-10-23T08:38:29.573Z
 tags:
   - fails/dzimta
 ---
