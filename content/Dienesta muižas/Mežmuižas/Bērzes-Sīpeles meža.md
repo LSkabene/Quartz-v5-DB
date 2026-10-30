@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-20T16:09:06.962Z
-modified: 2026-10-04T13:24:21.952Z
-published: 2026-10-04T13:24:21.952Z
+modified: 2026-10-24T06:49:31.559Z
+published: 2026-10-24T06:49:31.559Z
 tags:
   - veids/mežmuiža
   - fails/muiža

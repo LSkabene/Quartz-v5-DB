@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Bērzone
 created: 2026-04-11T06:57:36.096Z
-modified: 2026-10-23T16:02:03.721Z
-published: 2026-10-23T16:02:03.721Z
+modified: 2026-10-30T15:43:51.242Z
+published: 2026-10-30T15:43:51.242Z
 tags:
   - veids/privātmuiža
   - places
@@ -32,3 +32,10 @@ coordinates:
 map_color:
 map_icon:
 ---
+
+**Pēc Oto Hūna apkopotajiem materiāliem**[^1]
+
+| Gads  | Īpašnieks                                                   | Izmērs arklos (Hacken) |
+| ----- | ----------------------------------------------------------- | ---------------------- |
+| 1820. | [[Barons fon Klebeks (Bērzaune, 1820)\|Barons fon Klebeks]] | 40 7/8                 |
+[^1]: LVVA 6810\_1\_52

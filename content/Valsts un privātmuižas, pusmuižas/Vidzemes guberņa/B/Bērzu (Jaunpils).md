@@ -5,8 +5,8 @@ aliases:
   - Bērzmuiža
   - Bersehof
 created: 2026-04-11T07:00:27.140Z
-modified: 2026-10-04T13:23:43.312Z
-published: 2026-10-04T13:23:43.312Z
+modified: 2026-10-30T15:58:59.517Z
+published: 2026-10-30T15:58:59.517Z
 tags:
   - veids/privātmuiža
   - Vidzeme
@@ -32,8 +32,13 @@ dzirnavas:
 coordinates:
 map_color:
 map_icon:
+person_id:
 ---
 
-Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 3 4/8.[^1]
+**Pēc Oto Hūna apkopotajiem materiāliem**[^1]
 
+| Gads  | Īpašnieks                                                          | Izmērs arklos (Hacken) |
+| ----- | ------------------------------------------------------------------ | ---------------------- |
+| 1819. | [[fon Magnuss (Bērzu, 1819)\|fon Magnuss]]                         | 3 4/8                  |
+| 1820. | Majors [[Glāzenaps, Oto Vilhelms fon\|Oto Vilhelms fon Glazenaps]] | 3 4/8                  |
 [^1]: LVVA 6810\_1\_52
