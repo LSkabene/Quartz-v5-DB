@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.876Z
-modified: 2026-10-04T13:24:23.441Z
-published: 2026-10-04T13:24:23.441Z
+modified: 2026-11-01T15:42:40.120Z
+published: 2026-11-01T15:42:40.120Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu
@@ -32,3 +32,11 @@ coordinates:
 map_color: steelblue
 map_icon: church
 ---
+
+**Pēc Oto Hūna apkopotajiem materiāliem**[^1]
+
+| Gads  | Īpašnieks                      | Izmērs arklos (Hacken) |
+| ------- | -------------------------------- | ------------------------ |
+| 1815. | Mācītājs Carl Friedr. Punschel | 4/8                    |
+
+[^1]: LVVA 6810\_1\_52

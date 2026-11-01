@@ -4,8 +4,8 @@ aliases:
   - Fistelen
   - Fistehl
 created: 2026-04-02T15:39:49.903Z
-modified: 2026-11-01T15:41:19.240Z
-published: 2026-11-01T15:41:19.240Z
+modified: 2026-11-01T15:42:37.365Z
+published: 2026-11-01T15:42:37.365Z
 tags:
   - veids/privātmuiža
   - places
