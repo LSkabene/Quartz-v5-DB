@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:59.970Z
-published: 2026-11-01T15:39:59.970Z
+modified: 2026-11-01T15:41:47.684Z
+published: 2026-11-01T15:41:47.684Z
 file_name: Mazindricas
 veids: ""
 nosaukums_lv: Mazindricas

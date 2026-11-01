@@ -1,10 +1,10 @@
 ---
-publish: "true"
+publish: true
 aliases:
   - Feļicianava
 created: 2026-07-30T17:33:16.969Z
-modified: 2026-11-01T15:39:59.182Z
-published: 2026-11-01T15:39:59.182Z
+modified: 2026-11-01T15:41:47.030Z
+published: 2026-11-01T15:41:47.030Z
 tags:
   - Latgale
   - fails/muiža

@@ -1,10 +1,10 @@
 ---
-publish: "true"
+publish: true
 aliases:
   - Anapoles
 created: 2026-07-30T17:40:28.547Z
-modified: 2026-11-01T15:39:58.685Z
-published: 2026-11-01T15:39:58.685Z
+modified: 2026-11-01T15:41:46.613Z
+published: 2026-11-01T15:41:46.613Z
 tags:
   - Latgale
   - fails/muiža

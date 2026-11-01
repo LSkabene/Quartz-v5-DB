@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:59.922Z
-published: 2026-11-01T15:39:59.922Z
+modified: 2026-11-01T15:41:47.642Z
+published: 2026-11-01T15:41:47.642Z
 file_name: Mežmuiža
 veids: ""
 nosaukums_lv: Mežmuiža

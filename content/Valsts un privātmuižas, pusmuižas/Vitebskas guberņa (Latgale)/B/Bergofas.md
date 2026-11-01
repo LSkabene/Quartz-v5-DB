@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:58.978Z
-published: 2026-11-01T15:39:58.978Z
+modified: 2026-11-01T15:41:46.856Z
+published: 2026-11-01T15:41:46.856Z
 veids: ""
 nosaukums_lv: Bergofa
 nosaukums_ger: ""

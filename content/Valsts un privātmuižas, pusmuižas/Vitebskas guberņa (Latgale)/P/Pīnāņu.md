@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:40:00.250Z
-published: 2026-11-01T15:40:00.250Z
+modified: 2026-11-01T15:41:47.855Z
+published: 2026-11-01T15:41:47.855Z
 file_name: Pīnāņu
 veids: ""
 nosaukums_lv: Pīnāņu

@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:58.788Z
-published: 2026-11-01T15:39:58.788Z
+modified: 2026-11-01T15:41:46.702Z
+published: 2026-11-01T15:41:46.702Z
 file_name: Asotes
 veids: Pusmuiža
 nosaukums_lv: Asotes

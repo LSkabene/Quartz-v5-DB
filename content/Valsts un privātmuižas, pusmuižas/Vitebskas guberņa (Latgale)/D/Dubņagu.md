@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:59.099Z
-published: 2026-11-01T15:39:59.099Z
+modified: 2026-11-01T15:41:46.963Z
+published: 2026-11-01T15:41:46.963Z
 file_name: Dubņagu
 veids: ""
 nosaukums_lv: Dubņagu

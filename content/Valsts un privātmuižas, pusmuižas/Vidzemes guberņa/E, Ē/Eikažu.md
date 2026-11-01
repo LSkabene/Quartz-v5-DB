@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Eykasch
 created: 2026-07-18T12:56:52.912Z
-modified: 2026-10-04T13:40:44.824Z
-published: 2026-10-04T13:40:44.824Z
+modified: 2026-11-01T15:41:45.489Z
+published: 2026-11-01T15:41:45.489Z
 tags:
   - places
   - veids/privātmuiža

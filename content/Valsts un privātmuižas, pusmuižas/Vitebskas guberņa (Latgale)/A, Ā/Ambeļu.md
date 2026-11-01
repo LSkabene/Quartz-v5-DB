@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:58.770Z
-published: 2026-11-01T15:39:58.770Z
+modified: 2026-11-01T15:41:46.685Z
+published: 2026-11-01T15:41:46.685Z
 veids: ""
 nosaukums_lv: Ambeļu
 nosaukums_ger: ""

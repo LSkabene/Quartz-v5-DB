@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:59.647Z
-published: 2026-11-01T15:39:59.647Z
+modified: 2026-11-01T15:41:47.404Z
+published: 2026-11-01T15:41:47.404Z
 file_name: Kombuļu
 veids: ""
 nosaukums_lv: Kombuļu

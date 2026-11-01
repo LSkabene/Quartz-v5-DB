@@ -1,10 +1,10 @@
 ---
-publish: "true"
+publish: true
 aliases:
   - Raženovas
 created: 2026-07-30T17:36:09.292Z
-modified: 2026-11-01T15:40:00.316Z
-published: 2026-11-01T15:40:00.316Z
+modified: 2026-11-01T15:41:47.884Z
+published: 2026-11-01T15:41:47.884Z
 tags:
   - Latgale
   - fails/muiža

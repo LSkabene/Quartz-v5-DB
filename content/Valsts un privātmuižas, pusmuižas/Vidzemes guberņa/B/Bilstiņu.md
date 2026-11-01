@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Bielsteinshof
 created: 2026-04-11T07:06:02.544Z
-modified: 2026-10-30T16:50:47.570Z
-published: 2026-10-30T16:50:47.570Z
+modified: 2026-11-01T15:41:45.067Z
+published: 2026-11-01T15:41:45.067Z
 tags:
   - veids/privātmuiža
   - places

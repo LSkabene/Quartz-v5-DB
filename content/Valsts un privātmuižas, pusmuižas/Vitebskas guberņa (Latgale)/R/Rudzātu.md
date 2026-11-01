@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:40:00.451Z
-published: 2026-11-01T15:40:00.451Z
+modified: 2026-11-01T15:41:47.943Z
+published: 2026-11-01T15:41:47.943Z
 file_name: Rudzātu
 veids: ""
 nosaukums_lv: Rudzātu

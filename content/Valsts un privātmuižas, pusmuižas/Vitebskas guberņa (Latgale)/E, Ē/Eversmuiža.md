@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-07-30T17:10:20.706Z
-modified: 2026-11-01T15:39:59.145Z
-published: 2026-11-01T15:39:59.145Z
+modified: 2026-11-01T15:41:47.001Z
+published: 2026-11-01T15:41:47.001Z
 tags:
   - veids/privātmuiža
   - Latgale

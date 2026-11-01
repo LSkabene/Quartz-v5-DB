@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Ketsemoise
 created: 2026-10-04T13:28:28.941Z
-modified: 2026-10-04T13:29:55.446Z
-published: 2026-10-04T13:29:55.446Z
+modified: 2026-11-01T15:41:46.039Z
+published: 2026-11-01T15:41:46.039Z
 tags:
   - Vidzeme
   - veids/privātmuiža

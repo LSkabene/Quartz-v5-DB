@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-06T14:36:37.138Z
-modified: 2026-10-04T13:23:41.286Z
-published: 2026-10-04T13:23:41.286Z
+modified: 2026-11-01T15:41:44.521Z
+published: 2026-11-01T15:41:44.521Z
 tags:
   - veids/privātmuiža
   - places
@@ -32,6 +32,9 @@ map_color: maroon
 map_icon: star
 ---
 
-Izmērs arklos (Hacken) ap 1819. gadu (kopā ar [[Jūdažu]]), pēc Hūna materiāliem: 10 5/8.[^1]
+**Pēc Oto Hūna apkopotajiem materiāliem**[^1]
 
+| Gads        | Īpašnieks              | Izmērs arklos (Hacken)            |
+| ----------- | ---------------------- | --------------------------------- |
+| 1819.-1821. | Coll. von Blankenhagen | 10 5/8 (Kopā ar [[Jūdažu]] muižu) |
 [^1]: LVVA 6810\_1\_52

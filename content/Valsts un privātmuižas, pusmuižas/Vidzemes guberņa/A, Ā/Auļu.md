@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Aula
 created: 2026-04-06T16:47:11.799Z
-modified: 2026-10-23T10:49:05.752Z
-published: 2026-10-23T10:49:05.752Z
+modified: 2026-11-01T15:41:44.780Z
+published: 2026-11-01T15:41:44.780Z
 tags:
   - places
   - veids/privātmuiža

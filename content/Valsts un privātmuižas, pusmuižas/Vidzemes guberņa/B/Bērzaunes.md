@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Bērzone
 created: 2026-04-11T06:57:36.096Z
-modified: 2026-10-30T15:43:51.242Z
-published: 2026-10-30T15:43:51.242Z
+modified: 2026-11-01T15:41:45.246Z
+published: 2026-11-01T15:41:45.246Z
 tags:
   - veids/privātmuiža
   - places

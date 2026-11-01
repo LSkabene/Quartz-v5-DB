@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Balloden
 created: 2026-04-11T06:23:26.990Z
-modified: 2026-10-23T15:39:09.883Z
-published: 2026-10-23T15:39:09.883Z
+modified: 2026-11-01T15:41:44.903Z
+published: 2026-11-01T15:41:44.903Z
 tags:
   - veids/privātmuiža
   - Vidzeme

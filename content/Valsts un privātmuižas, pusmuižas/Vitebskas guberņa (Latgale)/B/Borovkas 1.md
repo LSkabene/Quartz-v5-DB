@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:58.949Z
-published: 2026-11-01T15:39:58.949Z
+modified: 2026-11-01T15:41:46.830Z
+published: 2026-11-01T15:41:46.830Z
 file_name: Borovkas
 veids: Pusmuiža
 nosaukums_lv: Borovkas

@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:40:00.270Z
-published: 2026-11-01T15:40:00.270Z
+modified: 2026-11-01T15:41:47.862Z
+published: 2026-11-01T15:41:47.862Z
 file_name: Preiļu
 veids: ""
 nosaukums_lv: Preiļu

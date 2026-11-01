@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:40:00.023Z
-published: 2026-11-01T15:40:00.023Z
+modified: 2026-11-01T15:41:47.729Z
+published: 2026-11-01T15:41:47.729Z
 veids: ""
 nosaukums_lv: Nevļānu
 nosaukums_ger: ""

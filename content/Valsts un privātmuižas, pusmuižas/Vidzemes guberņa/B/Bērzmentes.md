@@ -5,8 +5,8 @@ aliases:
   - Bersemente
   - Siļķu
 created: 2026-04-11T06:58:48.823Z
-modified: 2026-10-30T15:49:16.357Z
-published: 2026-10-30T15:49:16.357Z
+modified: 2026-11-01T15:41:45.256Z
+published: 2026-11-01T15:41:45.256Z
 tags:
   - veids/privātmuiža
   - Vidzeme

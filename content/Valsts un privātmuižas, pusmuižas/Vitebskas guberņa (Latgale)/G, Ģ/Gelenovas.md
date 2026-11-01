@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:59.291Z
-published: 2026-11-01T15:39:59.291Z
+modified: 2026-11-01T15:41:47.129Z
+published: 2026-11-01T15:41:47.129Z
 file_name: Gelenovas
 veids: ""
 nosaukums_lv: Gelenovas

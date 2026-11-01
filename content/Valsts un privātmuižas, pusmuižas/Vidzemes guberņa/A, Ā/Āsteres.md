@@ -4,8 +4,8 @@ aliases:
   - Asteres
   - Poikern
 created: 2026-04-06T16:42:02.542Z
-modified: 2026-10-23T10:39:56.503Z
-published: 2026-10-23T10:39:56.503Z
+modified: 2026-11-01T15:41:44.855Z
+published: 2026-11-01T15:41:44.855Z
 tags:
   - veids/privātmuiža
   - places

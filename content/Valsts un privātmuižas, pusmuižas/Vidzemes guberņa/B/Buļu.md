@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-23T10:50:24.742Z
-modified: 2026-10-23T10:52:42.056Z
-published: 2026-10-23T10:52:42.056Z
+modified: 2026-11-01T15:41:45.211Z
+published: 2026-11-01T15:41:45.211Z
 tags:
   - veids/pusmuiža
   - Vidzeme

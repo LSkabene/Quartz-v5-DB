@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:59.300Z
-published: 2026-11-01T15:39:59.300Z
+modified: 2026-11-01T15:41:47.138Z
+published: 2026-11-01T15:41:47.138Z
 file_name: Hoftenbergas
 veids: ""
 nosaukums_lv: Hoftenbergas

@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:59.071Z
-published: 2026-11-01T15:39:59.071Z
+modified: 2026-11-01T15:41:46.937Z
+published: 2026-11-01T15:41:46.937Z
 veids: ""
 nosaukums_lv: Dagdas
 nosaukums_ger: ""

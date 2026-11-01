@@ -1,11 +1,11 @@
 ---
-publish: "true"
+publish: true
 aliases:
   - Sibilinas
   - Sibelīnas
 created: 2026-07-30T17:43:59.799Z
-modified: 2026-11-01T15:40:00.489Z
-published: 2026-11-01T15:40:00.489Z
+modified: 2026-11-01T15:41:47.959Z
+published: 2026-11-01T15:41:47.959Z
 tags:
   - Latgale
   - fails/muiža

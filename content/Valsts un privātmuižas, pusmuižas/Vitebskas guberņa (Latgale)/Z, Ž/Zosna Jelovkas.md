@@ -1,10 +1,10 @@
 ---
-publish: "true"
+publish: true
 aliases:
   - Zosnas
 created: 2026-07-17T16:55:56.322Z
-modified: 2026-11-01T15:40:00.877Z
-published: 2026-11-01T15:40:00.877Z
+modified: 2026-11-01T15:41:48.147Z
+published: 2026-11-01T15:41:48.147Z
 tags:
   - Latgale
   - fails/muiža

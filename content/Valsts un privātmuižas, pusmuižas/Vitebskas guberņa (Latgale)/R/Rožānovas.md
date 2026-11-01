@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:40:00.441Z
-published: 2026-11-01T15:40:00.441Z
+modified: 2026-11-01T15:41:47.938Z
+published: 2026-11-01T15:41:47.938Z
 veids: Pusmuiža
 nosaukums_lv: Rožānovas
 nosaukums_ger: ""

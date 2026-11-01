@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:59.677Z
-published: 2026-11-01T15:39:59.677Z
+modified: 2026-11-01T15:41:47.431Z
+published: 2026-11-01T15:41:47.431Z
 file_name: Krustpils
 veids: ""
 nosaukums_lv: Krustpils

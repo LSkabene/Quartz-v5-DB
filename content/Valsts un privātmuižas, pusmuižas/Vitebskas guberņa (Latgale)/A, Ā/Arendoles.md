@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:58.778Z
-published: 2026-11-01T15:39:58.778Z
+modified: 2026-11-01T15:41:46.694Z
+published: 2026-11-01T15:41:46.694Z
 file_name: Arendoles
 veids: ""
 nosaukums_lv: Arendolas

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-04T15:10:56.906Z
-modified: 2026-10-04T15:12:51.799Z
-published: 2026-10-04T15:12:51.799Z
+modified: 2026-11-01T15:41:45.185Z
+published: 2026-11-01T15:41:45.185Z
 tags:
   - veids_vēsturiski/privātmuiža
   - veids/kroņa_muiža

@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-08-01T16:55:30.416Z
-modified: 2026-11-01T15:39:59.547Z
-published: 2026-11-01T15:39:59.547Z
+modified: 2026-11-01T15:41:47.315Z
+published: 2026-11-01T15:41:47.315Z
 tags:
   - Latgale
   - veids/folvarks

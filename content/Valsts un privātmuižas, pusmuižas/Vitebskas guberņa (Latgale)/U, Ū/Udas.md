@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:40:00.657Z
-published: 2026-11-01T15:40:00.657Z
+modified: 2026-11-01T15:41:48.040Z
+published: 2026-11-01T15:41:48.040Z
 veids: Folvarks
 nosaukums_lv: Udas
 nosaukums_ger: ""

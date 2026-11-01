@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:59.771Z
-published: 2026-11-01T15:39:59.771Z
+modified: 2026-11-01T15:41:47.514Z
+published: 2026-11-01T15:41:47.514Z
 file_name: Līvānu
 veids: ""
 nosaukums_lv: Līvānu

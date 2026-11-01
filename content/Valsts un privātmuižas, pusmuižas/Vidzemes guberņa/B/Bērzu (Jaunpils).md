@@ -5,8 +5,8 @@ aliases:
   - Bērzmuiža
   - Bersehof
 created: 2026-04-11T07:00:27.140Z
-modified: 2026-10-30T15:58:59.517Z
-published: 2026-10-30T15:58:59.517Z
+modified: 2026-11-01T15:41:45.269Z
+published: 2026-11-01T15:41:45.269Z
 tags:
   - veids/privātmuiža
   - Vidzeme

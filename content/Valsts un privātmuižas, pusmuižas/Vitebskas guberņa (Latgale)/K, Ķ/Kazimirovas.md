@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:59.628Z
-published: 2026-11-01T15:39:59.628Z
+modified: 2026-11-01T15:41:47.388Z
+published: 2026-11-01T15:41:47.388Z
 file_name: Kazimirovas
 veids: ""
 nosaukums_lv: Kazimirovas

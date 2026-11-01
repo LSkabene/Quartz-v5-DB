@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:59.752Z
-published: 2026-11-01T15:39:59.752Z
+modified: 2026-11-01T15:41:47.496Z
+published: 2026-11-01T15:41:47.496Z
 veids: ""
 nosaukums_lv: Ļaudanišķu
 nosaukums_ger: ""

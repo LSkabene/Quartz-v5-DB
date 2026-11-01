@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:59.585Z
-published: 2026-11-01T15:39:59.585Z
+modified: 2026-11-01T15:41:47.352Z
+published: 2026-11-01T15:41:47.352Z
 file_name: Kalupes
 veids: ""
 nosaukums_lv: Kalupes

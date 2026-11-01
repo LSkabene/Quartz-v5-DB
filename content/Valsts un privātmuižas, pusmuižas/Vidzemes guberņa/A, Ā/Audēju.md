@@ -6,8 +6,8 @@ aliases:
   - Schulzen Hof
   - Schultzenhof
 created: 2026-09-07T15:18:29.622Z
-modified: 2026-10-23T10:46:50.880Z
-published: 2026-10-23T10:46:50.880Z
+modified: 2026-11-01T15:41:44.733Z
+published: 2026-11-01T15:41:44.733Z
 tags:
   - teritorija/rīgas-patrimoniālais
   - Vidzeme

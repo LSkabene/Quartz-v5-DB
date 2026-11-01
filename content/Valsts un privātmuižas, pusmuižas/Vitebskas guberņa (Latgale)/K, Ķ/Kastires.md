@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:59.619Z
-published: 2026-11-01T15:39:59.619Z
+modified: 2026-11-01T15:41:47.378Z
+published: 2026-11-01T15:41:47.378Z
 file_name: Kastires
 veids: ""
 nosaukums_lv: Kastires

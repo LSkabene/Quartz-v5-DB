@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:59.950Z
-published: 2026-11-01T15:39:59.950Z
+modified: 2026-11-01T15:41:47.668Z
+published: 2026-11-01T15:41:47.668Z
 file_name: Mariampoles
 veids: ""
 nosaukums_lv: Mariampoles

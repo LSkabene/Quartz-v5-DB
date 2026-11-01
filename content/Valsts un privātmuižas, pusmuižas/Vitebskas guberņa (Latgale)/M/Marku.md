@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:59.960Z
-published: 2026-11-01T15:39:59.960Z
+modified: 2026-11-01T15:41:47.676Z
+published: 2026-11-01T15:41:47.676Z
 file_name: Marku
 veids: ""
 nosaukums_lv: Marku

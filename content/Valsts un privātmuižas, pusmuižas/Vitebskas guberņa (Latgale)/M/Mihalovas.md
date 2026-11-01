@@ -1,10 +1,10 @@
 ---
-publish: "true"
+publish: true
 aliases:
   - Mikalavas
 created: 2026-08-01T15:13:52.356Z
-modified: 2026-11-01T15:39:59.890Z
-published: 2026-11-01T15:39:59.890Z
+modified: 2026-11-01T15:41:47.615Z
+published: 2026-11-01T15:41:47.615Z
 tags:
   - Latgale
   - fails/muiža

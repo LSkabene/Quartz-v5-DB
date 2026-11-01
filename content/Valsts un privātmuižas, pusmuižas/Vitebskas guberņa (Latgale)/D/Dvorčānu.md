@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:59.063Z
-published: 2026-11-01T15:39:59.063Z
+modified: 2026-11-01T15:41:46.928Z
+published: 2026-11-01T15:41:46.928Z
 file_name: Dvorčānu
 veids: ""
 nosaukums_lv: Dvorčānu

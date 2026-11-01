@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:58.807Z
-published: 2026-11-01T15:39:58.807Z
+modified: 2026-11-01T15:41:46.722Z
+published: 2026-11-01T15:41:46.722Z
 file_name: Aukšpoles
 veids: Pusmuiža
 nosaukums_lv: Aukšpoles

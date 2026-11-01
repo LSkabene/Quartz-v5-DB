@@ -6,8 +6,8 @@ aliases:
   - Apburta
   - Liģenes
 created: 2026-04-06T16:32:01.669Z
-modified: 2026-10-21T12:03:21.318Z
-published: 2026-10-21T12:03:21.318Z
+modified: 2026-11-01T15:41:44.429Z
+published: 2026-11-01T15:41:44.429Z
 tags:
   - veids/privātmuiža
   - places

@@ -6,8 +6,8 @@ aliases:
   - Ayskuje
   - Aiskuj
 created: 2026-04-02T15:39:49.905Z
-modified: 2026-10-21T12:31:04.350Z
-published: 2026-10-21T12:31:04.350Z
+modified: 2026-11-01T15:41:44.482Z
+published: 2026-11-01T15:41:44.482Z
 tags:
   - veids/privātmuiža
   - places

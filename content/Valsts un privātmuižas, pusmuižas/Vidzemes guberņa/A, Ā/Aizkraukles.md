@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.904Z
-modified: 2026-10-21T11:49:09.136Z
-published: 2026-10-21T11:49:09.136Z
+modified: 2026-11-01T15:41:44.469Z
+published: 2026-11-01T15:41:44.469Z
 tags:
   - veids/privātmuiža
   - places
@@ -32,6 +32,10 @@ map_color: maroon
 map_icon: star
 ---
 
-Izmērs arklos (Hacken) 18./19. gs. mijā pēc Hūna apkopotajiem materiāliem: 10 6/8.[^1]
+**Pēc Oto Hūna apkopotajiem materiāliem**[^1]
+
+| Gads        | Īpašnieks                           | Izmērs arklos (Hacken)            |
+| ----------- | ----------------------------------- | --------------------------------- |
+| 1819.-1821. | Christ. brīvkungs Šulcs gen. Funken | 10 6/8 (Kopā ar [[Rīmaņu]] muižu) |
 
 [^1]: LVVA 6810\_1\_52

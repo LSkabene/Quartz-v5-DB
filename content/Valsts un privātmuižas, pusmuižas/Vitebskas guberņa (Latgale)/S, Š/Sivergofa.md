@@ -1,11 +1,11 @@
 ---
-publish: "true"
+publish: true
 aliases:
   - Zīverhofa
   - Sivergova
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:40:00.565Z
-published: 2026-11-01T15:40:00.565Z
+modified: 2026-11-01T15:41:48.000Z
+published: 2026-11-01T15:41:48.000Z
 file_name: Sivergofa
 veids: ""
 nosaukums_lv: Sivergofa

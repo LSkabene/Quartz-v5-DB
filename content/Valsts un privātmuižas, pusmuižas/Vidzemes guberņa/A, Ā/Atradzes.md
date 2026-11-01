@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Atradsen
 created: 2026-04-06T16:44:00.872Z
-modified: 2026-10-23T10:44:59.510Z
-published: 2026-10-23T10:44:59.510Z
+modified: 2026-11-01T15:41:44.709Z
+published: 2026-11-01T15:41:44.709Z
 tags:
   - veids/privātmuiža
   - Vidzeme

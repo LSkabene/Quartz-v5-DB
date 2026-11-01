@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Adama
 created: 2026-04-02T15:39:49.902Z
-modified: 2026-10-21T12:14:00.551Z
-published: 2026-10-21T12:14:00.551Z
+modified: 2026-11-01T15:41:44.802Z
+published: 2026-11-01T15:41:44.802Z
 tags:
   - veids/privātmuiža
   - places

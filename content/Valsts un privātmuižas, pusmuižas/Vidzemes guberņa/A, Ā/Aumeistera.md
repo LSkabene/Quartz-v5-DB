@@ -5,8 +5,8 @@ aliases:
   - Aumeisteri
   - Hofmeisterhof
 created: 2026-04-06T16:48:34.646Z
-modified: 2026-10-23T12:51:37.425Z
-published: 2026-10-23T12:51:37.425Z
+modified: 2026-11-01T15:41:44.769Z
+published: 2026-11-01T15:41:44.769Z
 tags:
   - veids/privātmuiža
   - places

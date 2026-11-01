@@ -1,10 +1,10 @@
 ---
-publish: "true"
+publish: true
 aliases:
   - Dricēnu
 created: 2026-07-17T16:34:16.709Z
-modified: 2026-11-01T15:39:59.030Z
-published: 2026-11-01T15:39:59.030Z
+modified: 2026-11-01T15:41:46.903Z
+published: 2026-11-01T15:41:46.903Z
 tags:
   - Latgale
   - fails/muiža

@@ -1,11 +1,11 @@
 ---
-publish: "true"
+publish: true
 aliases:
   - Togenen
   - Kokovsčiznas
 created: 2026-08-01T15:17:27.420Z
-modified: 2026-11-01T15:40:00.846Z
-published: 2026-11-01T15:40:00.846Z
+modified: 2026-11-01T15:41:48.132Z
+published: 2026-11-01T15:41:48.132Z
 tags:
   - Latgale
   - fails/muiža

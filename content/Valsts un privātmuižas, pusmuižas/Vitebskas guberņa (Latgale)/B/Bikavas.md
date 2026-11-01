@@ -1,10 +1,10 @@
 ---
-publish: "true"
+publish: true
 aliases:
   - Bikovas
 created: 2026-07-17T16:37:06.969Z
-modified: 2026-11-01T15:39:58.868Z
-published: 2026-11-01T15:39:58.868Z
+modified: 2026-11-01T15:41:46.769Z
+published: 2026-11-01T15:41:46.769Z
 tags:
   - Latgale
   - fails/muiža

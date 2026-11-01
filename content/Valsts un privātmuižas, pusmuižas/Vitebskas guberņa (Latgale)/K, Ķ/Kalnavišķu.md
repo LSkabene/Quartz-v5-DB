@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:59.575Z
-published: 2026-11-01T15:39:59.575Z
+modified: 2026-11-01T15:41:47.343Z
+published: 2026-11-01T15:41:47.343Z
 veids: ""
 nosaukums_lv: Kalnavišķu
 nosaukums_ger: ""

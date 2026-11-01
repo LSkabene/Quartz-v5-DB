@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:59.270Z
-published: 2026-11-01T15:39:59.270Z
+modified: 2026-11-01T15:41:47.110Z
+published: 2026-11-01T15:41:47.110Z
 file_name: Geronimovas
 veids: ""
 nosaukums_lv: Geronimovas

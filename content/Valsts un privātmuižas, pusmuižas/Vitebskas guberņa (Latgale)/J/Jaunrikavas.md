@@ -1,10 +1,10 @@
 ---
-publish: "true"
+publish: true
 aliases:
   - Jaunrikovas
 created: 2026-11-01T14:51:56.820Z
-modified: 2026-11-01T15:39:59.408Z
-published: 2026-11-01T15:39:59.408Z
+modified: 2026-11-01T15:41:47.228Z
+published: 2026-11-01T15:41:47.228Z
 tags:
   - Latgale
   - fails/muiža

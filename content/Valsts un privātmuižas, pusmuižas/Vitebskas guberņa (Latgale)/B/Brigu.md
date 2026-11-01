@@ -1,10 +1,10 @@
 ---
-publish: "true"
+publish: true
 aliases:
   - Briģu
 created: 2026-07-30T17:06:36.032Z
-modified: 2026-11-01T15:39:58.902Z
-published: 2026-11-01T15:39:58.902Z
+modified: 2026-11-01T15:41:46.795Z
+published: 2026-11-01T15:41:46.795Z
 tags:
   - veids/privātmuiža
   - fails/muiža

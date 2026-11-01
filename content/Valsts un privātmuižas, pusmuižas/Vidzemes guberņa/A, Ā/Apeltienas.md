@@ -4,8 +4,8 @@ aliases:
   - Appeltenes
   - Apelthen
 created: 2026-04-06T16:36:30.434Z
-modified: 2026-10-23T10:28:05.251Z
-published: 2026-10-23T10:28:05.251Z
+modified: 2026-11-01T15:41:44.630Z
+published: 2026-11-01T15:41:44.630Z
 tags:
   - veids/privātmuiža
   - places

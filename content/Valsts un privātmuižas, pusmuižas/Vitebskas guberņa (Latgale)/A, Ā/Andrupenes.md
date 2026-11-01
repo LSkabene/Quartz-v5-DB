@@ -1,11 +1,11 @@
 ---
-publish: "true"
+publish: true
 aliases:
   - Ondrupine
   - Andrepna
 created: 2026-07-17T15:31:30.321Z
-modified: 2026-11-01T15:39:58.661Z
-published: 2026-11-01T15:39:58.661Z
+modified: 2026-11-01T15:41:46.595Z
+published: 2026-11-01T15:41:46.595Z
 tags:
   - Latgale
   - fails/muiža

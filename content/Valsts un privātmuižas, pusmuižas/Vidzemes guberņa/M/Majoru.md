@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Majorenkrug
 created: 2026-10-04T15:03:15.241Z
-modified: 2026-10-04T15:08:17.543Z
-published: 2026-10-04T15:08:17.543Z
+modified: 2026-11-01T15:41:46.119Z
+published: 2026-11-01T15:41:46.119Z
 tags:
   - tips/majorāts
   - tips/majorāts_pēc_Štrika

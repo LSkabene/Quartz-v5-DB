@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:40:00.648Z
-published: 2026-11-01T15:40:00.648Z
+modified: 2026-11-01T15:41:48.035Z
+published: 2026-11-01T15:41:48.035Z
 file_name: Ungurmuiža
 veids: ""
 nosaukums_lv: Ungurmuiža

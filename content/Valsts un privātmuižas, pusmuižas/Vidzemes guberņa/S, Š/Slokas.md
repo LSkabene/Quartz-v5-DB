@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T16:32:51.878Z
-modified: 2026-10-04T15:02:22.589Z
-published: 2026-10-04T15:02:22.589Z
+modified: 2026-11-01T15:41:46.333Z
+published: 2026-11-01T15:41:46.333Z
 tags:
   - veids/kroņa_muiža
   - Vidzeme

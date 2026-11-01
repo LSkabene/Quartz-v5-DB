@@ -4,8 +4,8 @@ aliases:
   - Erkul
   - Erküll
 created: 2026-04-06T16:40:45.958Z
-modified: 2026-10-23T10:38:42.849Z
-published: 2026-10-23T10:38:42.849Z
+modified: 2026-11-01T15:41:44.846Z
+published: 2026-11-01T15:41:44.846Z
 tags:
   - veids/privātmuiža
   - places

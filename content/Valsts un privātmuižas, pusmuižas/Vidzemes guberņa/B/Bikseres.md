@@ -4,8 +4,8 @@ aliases:
   - Libien
   - Biksēres
 created: 2026-04-11T07:04:29.942Z
-modified: 2026-10-30T16:19:40.864Z
-published: 2026-10-30T16:19:40.864Z
+modified: 2026-11-01T15:41:45.041Z
+published: 2026-11-01T15:41:45.041Z
 tags:
   - Vidzeme
   - fails/muiža

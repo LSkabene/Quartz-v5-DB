@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-07-17T16:58:04.926Z
-modified: 2026-11-01T15:40:00.712Z
-published: 2026-11-01T15:40:00.712Z
+modified: 2026-11-01T15:41:48.063Z
+published: 2026-11-01T15:41:48.063Z
 tags:
   - Latgale
   - fails/muiža

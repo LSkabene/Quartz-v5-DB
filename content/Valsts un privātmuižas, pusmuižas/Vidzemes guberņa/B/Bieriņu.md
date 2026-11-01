@@ -4,8 +4,8 @@ aliases:
   - Vecbieriņu
   - Lindenruh
 created: 2026-04-11T07:02:09.885Z
-modified: 2026-10-30T16:07:44.846Z
-published: 2026-10-30T16:07:44.846Z
+modified: 2026-11-01T15:41:45.030Z
+published: 2026-11-01T15:41:45.030Z
 tags:
   - veids/privātmuiža
   - Vidzeme

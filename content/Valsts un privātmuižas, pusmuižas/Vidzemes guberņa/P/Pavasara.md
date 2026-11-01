@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-23T17:08:32.220Z
-modified: 2026-10-04T15:08:31.259Z
-published: 2026-10-04T15:08:31.259Z
+modified: 2026-11-01T15:41:46.221Z
+published: 2026-11-01T15:41:46.221Z
 tags:
   - veids/privātmuiža
   - Vidzeme

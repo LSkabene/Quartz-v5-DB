@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:40:00.281Z
-published: 2026-11-01T15:40:00.281Z
+modified: 2026-11-01T15:41:47.869Z
+published: 2026-11-01T15:41:47.869Z
 file_name: Punu
 veids: Pusmuiža
 nosaukums_lv: Punu

@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:40:00.919Z
-published: 2026-11-01T15:40:00.919Z
+modified: 2026-11-01T15:41:48.166Z
+published: 2026-11-01T15:41:48.166Z
 veids: ""
 nosaukums_lv: Zaķīšu
 nosaukums_ger: ""

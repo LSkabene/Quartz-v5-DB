@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:40:00.784Z
-published: 2026-11-01T15:40:00.784Z
+modified: 2026-11-01T15:41:48.100Z
+published: 2026-11-01T15:41:48.100Z
 file_name: Vārkavas
 veids: ""
 nosaukums_lv: Vārkavas

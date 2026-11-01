@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-11T06:26:57.509Z
-modified: 2026-10-23T15:40:12.453Z
-published: 2026-10-23T15:40:12.453Z
+modified: 2026-11-01T15:41:45.226Z
+published: 2026-11-01T15:41:45.226Z
 tags:
   - Vidzeme
   - fails/muiža

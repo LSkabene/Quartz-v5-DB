@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:59.210Z
-published: 2026-11-01T15:39:59.210Z
+modified: 2026-11-01T15:41:47.057Z
+published: 2026-11-01T15:41:47.057Z
 file_name: Fintmuiža
 veids: ""
 nosaukums_lv: Fintmuiža

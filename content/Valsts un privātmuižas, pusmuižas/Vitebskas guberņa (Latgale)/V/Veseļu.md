@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:40:00.791Z
-published: 2026-11-01T15:40:00.791Z
+modified: 2026-11-01T15:41:48.106Z
+published: 2026-11-01T15:41:48.106Z
 file_name: Veseļu
 veids: Pusmuiža
 nosaukums_lv: Veseļu

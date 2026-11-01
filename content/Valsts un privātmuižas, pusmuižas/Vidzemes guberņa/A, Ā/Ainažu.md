@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.904Z
-modified: 2026-10-04T13:23:41.154Z
-published: 2026-10-04T13:23:41.154Z
+modified: 2026-11-01T15:41:44.455Z
+published: 2026-11-01T15:41:44.455Z
 tags:
   - veids/privātmuiža
   - places
@@ -31,3 +31,11 @@ coordinates:
 map_color: maroon
 map_icon: star
 ---
+
+**Pēc Oto Hūna apkopotajiem materiāliem**[^1]
+
+| Gads  | Īpašnieks                                       | Izmērs arklos (Hacken) |
+| ------- | ------------------------------------------------- | ------------------------ |
+| 1818. | Ģenerāļa barona Casim. von Meyendorf mantinieki | 1 1/8                  |
+
+[^1]: LVVA 6810\_1\_52

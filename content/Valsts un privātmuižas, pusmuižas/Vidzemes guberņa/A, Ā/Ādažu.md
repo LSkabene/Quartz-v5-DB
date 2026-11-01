@@ -4,8 +4,8 @@ aliases:
   - Gaujas pļavas muiža
   - Aahof
 created: 2026-04-02T15:39:49.902Z
-modified: 2026-10-23T08:40:17.001Z
-published: 2026-10-23T08:40:17.001Z
+modified: 2026-11-01T15:41:44.816Z
+published: 2026-11-01T15:41:44.816Z
 tags:
   - veids/privātmuiža
   - teritorija/rīgas-patrimoniālais

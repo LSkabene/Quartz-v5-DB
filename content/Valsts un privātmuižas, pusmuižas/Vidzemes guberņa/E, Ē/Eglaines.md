@@ -4,8 +4,8 @@ aliases:
   - Eglēnu
   - Egles
 created: 2026-07-18T12:56:52.895Z
-modified: 2026-10-04T13:28:29.117Z
-published: 2026-10-04T13:28:29.117Z
+modified: 2026-11-01T15:41:45.474Z
+published: 2026-11-01T15:41:45.474Z
 tags:
   - veids/privātmuiža
   - Vidzeme

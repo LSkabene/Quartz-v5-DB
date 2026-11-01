@@ -1,10 +1,10 @@
 ---
-publish: "true"
+publish: true
 aliases:
   - Borkavas
 created: 2026-07-17T15:56:34.032Z
-modified: 2026-11-01T15:39:58.834Z
-published: 2026-11-01T15:39:58.834Z
+modified: 2026-11-01T15:41:46.742Z
+published: 2026-11-01T15:41:46.742Z
 tags:
   - Latgale
   - fails/muiža

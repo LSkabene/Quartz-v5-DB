@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:58.798Z
-published: 2026-11-01T15:39:58.798Z
+modified: 2026-11-01T15:41:46.714Z
+published: 2026-11-01T15:41:46.714Z
 file_name: Astašovas
 veids: ""
 nosaukums_lv: Astašovas

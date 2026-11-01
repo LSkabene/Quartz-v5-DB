@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:59.943Z
-published: 2026-11-01T15:39:59.943Z
+modified: 2026-11-01T15:41:47.659Z
+published: 2026-11-01T15:41:47.659Z
 veids: ""
 nosaukums_lv: Maksīmovas
 nosaukums_ger: ""

@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:40:00.548Z
-published: 2026-11-01T15:40:00.548Z
+modified: 2026-11-01T15:41:47.989Z
+published: 2026-11-01T15:41:47.989Z
 veids: ""
 nosaukums_lv: Saveiku
 nosaukums_ger: ""

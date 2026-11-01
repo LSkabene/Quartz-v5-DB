@@ -15,5 +15,5 @@ person_id:
 | Muižas                                                                                | Guberņa  |
 | ------------------------------------------------------------------------------------- | -------- |
 | [[Valsts un privātmuižas, pusmuižas/Vidzemes guberņa/A, Ā/Ādažu.md\|Ādažu]]           | Vidzemes |
-| [[Valsts un privātmuižas, pusmuižas/Vidzemes guberņa/A, Ā/Aumeistera.md\|Aumeistera]] | Vidzemes |
 | [[Valsts un privātmuižas, pusmuižas/Vidzemes guberņa/A, Ā/Alsviķu.md\|Alsviķu]]       | Vidzemes |
+| [[Valsts un privātmuižas, pusmuižas/Vidzemes guberņa/A, Ā/Aumeistera.md\|Aumeistera]] | Vidzemes |

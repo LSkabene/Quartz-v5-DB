@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Schöneich
 created: 2026-10-04T13:29:55.305Z
-modified: 2026-10-04T13:31:13.124Z
-published: 2026-10-04T13:31:13.124Z
+modified: 2026-11-01T15:41:46.003Z
+published: 2026-11-01T15:41:46.003Z
 tags:
   - Vidzeme
   - veids/privātmuiža

@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:40:00.242Z
-published: 2026-11-01T15:40:00.242Z
+modified: 2026-11-01T15:41:47.847Z
+published: 2026-11-01T15:41:47.847Z
 veids: ""
 nosaukums_lv: Pelēču
 nosaukums_ger: ""

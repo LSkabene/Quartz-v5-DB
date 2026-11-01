@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:59.416Z
-published: 2026-11-01T15:39:59.416Z
+modified: 2026-11-01T15:41:47.231Z
+published: 2026-11-01T15:41:47.231Z
 file_name: Jezupovas
 veids: ""
 nosaukums_lv: Jezupovas

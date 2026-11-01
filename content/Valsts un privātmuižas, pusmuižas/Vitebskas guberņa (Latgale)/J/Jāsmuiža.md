@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:59.437Z
-published: 2026-11-01T15:39:59.437Z
+modified: 2026-11-01T15:41:47.249Z
+published: 2026-11-01T15:41:47.249Z
 file_name: Jāsmuiža
 veids: ""
 nosaukums_lv: Jāsmuiža

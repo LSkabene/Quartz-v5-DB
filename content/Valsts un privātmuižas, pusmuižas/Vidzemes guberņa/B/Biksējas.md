@@ -4,8 +4,8 @@ aliases:
   - Biksejas
   - Wilckenpahlen
 created: 2026-04-11T07:03:31.133Z
-modified: 2026-10-30T16:12:54.528Z
-published: 2026-10-30T16:12:54.528Z
+modified: 2026-11-01T15:41:45.052Z
+published: 2026-11-01T15:41:45.052Z
 tags:
   - veids/privātmuiža
   - places

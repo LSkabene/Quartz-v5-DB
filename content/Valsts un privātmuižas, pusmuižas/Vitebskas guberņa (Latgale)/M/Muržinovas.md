@@ -1,10 +1,10 @@
 ---
-publish: "true"
+publish: true
 aliases:
   - Muržinavas
 created: 2026-08-01T15:20:31.414Z
-modified: 2026-11-01T15:39:59.904Z
-published: 2026-11-01T15:39:59.904Z
+modified: 2026-11-01T15:41:47.623Z
+published: 2026-11-01T15:41:47.623Z
 tags:
   - Latgale
   - fails/muiža

@@ -6,8 +6,8 @@ aliases:
   - Beijenhof
   - Kerstenhof
 created: 2026-04-11T06:41:04.767Z
-modified: 2026-10-23T15:53:21.106Z
-published: 2026-10-23T15:53:21.106Z
+modified: 2026-11-01T15:41:44.989Z
+published: 2026-11-01T15:41:44.989Z
 tags:
   - veids/privātmuiža
   - Vidzeme

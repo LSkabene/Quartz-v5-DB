@@ -1,8 +1,8 @@
 ---
-publish: "true"
+publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:39:59.932Z
-published: 2026-11-01T15:39:59.932Z
+modified: 2026-11-01T15:41:47.650Z
+published: 2026-11-01T15:41:47.650Z
 veids: ""
 nosaukums_lv: Magnusovas
 nosaukums_ger: ""
