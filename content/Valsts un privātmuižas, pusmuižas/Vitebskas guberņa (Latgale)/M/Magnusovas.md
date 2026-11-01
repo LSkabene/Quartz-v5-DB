@@ -1,8 +1,10 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:41:47.650Z
-published: 2026-11-01T15:41:47.650Z
+modified: 2026-11-01T15:45:45.431Z
+published: 2026-11-01T15:45:45.431Z
+tags:
+  - Latgale
 veids: ""
 nosaukums_lv: Magnusovas
 nosaukums_ger: ""
@@ -22,7 +24,6 @@ parent_manor: ""
 half_manors: ""
 krogi: ""
 dzirnavas: ""
-tags: []
 coordinates: ""
 map_color: ""
 map_icon: ""

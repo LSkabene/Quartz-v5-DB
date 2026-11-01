@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:41:47.129Z
-published: 2026-11-01T15:41:47.129Z
+modified: 2026-11-01T15:45:45.128Z
+published: 2026-11-01T15:45:45.128Z
+tags: Latgale
 file_name: Gelenovas
 veids: ""
 nosaukums_lv: Gelenovas
@@ -23,7 +24,6 @@ parent_manor: ""
 half_manors: ""
 krogi: ""
 dzirnavas: ""
-tags:
 coordinates: ""
 map_color: ""
 map_icon: ""

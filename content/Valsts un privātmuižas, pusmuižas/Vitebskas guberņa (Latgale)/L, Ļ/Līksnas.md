@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:41:47.504Z
-published: 2026-11-01T15:41:47.504Z
+modified: 2026-11-01T15:45:45.402Z
+published: 2026-11-01T15:45:45.402Z
+tags: Latgale
 file_name: Līksnas
 veids: ""
 nosaukums_lv: Līksnas
@@ -23,7 +24,6 @@ parent_manor: ""
 half_manors: ""
 krogi: ""
 dzirnavas: ""
-tags:
 coordinates: ""
 map_color: ""
 map_icon: ""

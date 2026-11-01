@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:41:47.138Z
-published: 2026-11-01T15:41:47.138Z
+modified: 2026-11-01T15:45:45.148Z
+published: 2026-11-01T15:45:45.148Z
+tags: Latgale
 file_name: Hoftenbergas
 veids: ""
 nosaukums_lv: Hoftenbergas
@@ -23,7 +24,6 @@ parent_manor: ""
 half_manors: ""
 krogi: ""
 dzirnavas: ""
-tags:
 coordinates: ""
 map_color: ""
 map_icon: ""

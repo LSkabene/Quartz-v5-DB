@@ -16,5 +16,5 @@ Rotmistrs.
 
 | Muižas                                                                            | Guberņa  |
 | --------------------------------------------------------------------------------- | -------- |
-| [[Valsts un privātmuižas, pusmuižas/Vidzemes guberņa/A, Ā/Aizkujas.md\|Aizkujas]] | Vidzemes |
 | [[Valsts un privātmuižas, pusmuižas/Vidzemes guberņa/A, Ā/Ādama.md\|Ādama]]       | Vidzemes |
+| [[Valsts un privātmuižas, pusmuižas/Vidzemes guberņa/A, Ā/Aizkujas.md\|Aizkujas]] | Vidzemes |

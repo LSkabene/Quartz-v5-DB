@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:41:47.514Z
-published: 2026-11-01T15:41:47.514Z
+modified: 2026-11-01T15:45:45.411Z
+published: 2026-11-01T15:45:45.411Z
+tags: Latgale
 file_name: Līvānu
 veids: ""
 nosaukums_lv: Līvānu
@@ -23,7 +24,6 @@ parent_manor: ""
 half_manors: ""
 krogi: ""
 dzirnavas: ""
-tags:
 coordinates: ""
 map_color: ""
 map_icon: ""

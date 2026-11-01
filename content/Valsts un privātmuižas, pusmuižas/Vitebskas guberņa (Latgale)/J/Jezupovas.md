@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:41:47.231Z
-published: 2026-11-01T15:41:47.231Z
+modified: 2026-11-01T15:45:45.229Z
+published: 2026-11-01T15:45:45.229Z
+tags: Latgale
 file_name: Jezupovas
 veids: ""
 nosaukums_lv: Jezupovas
@@ -23,7 +24,6 @@ parent_manor: ""
 half_manors: ""
 krogi: ""
 dzirnavas: ""
-tags:
 coordinates: ""
 map_color: ""
 map_icon: ""

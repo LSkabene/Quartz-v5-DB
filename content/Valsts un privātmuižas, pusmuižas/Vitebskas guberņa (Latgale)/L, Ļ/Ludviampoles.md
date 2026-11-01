@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:41:47.523Z
-published: 2026-11-01T15:41:47.523Z
+modified: 2026-11-01T15:45:45.380Z
+published: 2026-11-01T15:45:45.380Z
+tags: Latgale
 file_name: Ludviampoles
 veids: ""
 nosaukums_lv: Ludviampoles
@@ -23,7 +24,6 @@ parent_manor: ""
 half_manors: ""
 krogi: ""
 dzirnavas: ""
-tags:
 coordinates: ""
 map_color: ""
 map_icon: ""

@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:41:46.676Z
-published: 2026-11-01T15:41:46.676Z
+modified: 2026-11-01T15:45:44.921Z
+published: 2026-11-01T15:45:44.921Z
+tags: Latgale
 file_name: Avsējevas
 veids: Pusmuiža
 nosaukums_lv: Avsējevas
@@ -23,7 +24,6 @@ parent_manor: ""
 half_manors: ""
 krogi: ""
 dzirnavas: ""
-tags:
 coordinates: ""
 map_color: ""
 map_icon: ""

@@ -1,8 +1,10 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:41:47.496Z
-published: 2026-11-01T15:41:47.496Z
+modified: 2026-11-01T15:45:45.421Z
+published: 2026-11-01T15:45:45.421Z
+tags:
+  - Latgale
 veids: ""
 nosaukums_lv: Ļaudanišķu
 nosaukums_ger: ""
@@ -22,7 +24,6 @@ parent_manor: ""
 half_manors: ""
 krogi: ""
 dzirnavas: ""
-tags: []
 coordinates: ""
 map_color: ""
 map_icon: ""

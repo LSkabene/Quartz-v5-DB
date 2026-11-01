@@ -1,8 +1,10 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:41:46.839Z
-published: 2026-11-01T15:41:46.839Z
+modified: 2026-11-01T15:45:44.932Z
+published: 2026-11-01T15:45:44.932Z
+tags:
+  - Latgale
 veids: ""
 nosaukums_lv: Balbinovas
 nosaukums_ger: ""
@@ -22,7 +24,6 @@ parent_manor: ""
 half_manors: ""
 krogi: ""
 dzirnavas: ""
-tags: []
 coordinates: ""
 map_color: ""
 map_icon: ""

@@ -4,8 +4,9 @@ aliases:
   - Zīverhofa
   - Sivergova
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:41:48.000Z
-published: 2026-11-01T15:41:48.000Z
+modified: 2026-11-01T15:45:45.671Z
+published: 2026-11-01T15:45:45.671Z
+tags: Latgale
 file_name: Sivergofa
 veids: ""
 nosaukums_lv: Sivergofa
@@ -25,7 +26,6 @@ parent_manor: ""
 half_manors: ""
 krogi: ""
 dzirnavas: ""
-tags:
 coordinates: ""
 map_color: ""
 map_icon: ""

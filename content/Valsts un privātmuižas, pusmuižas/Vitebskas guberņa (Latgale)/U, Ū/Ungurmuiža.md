@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:41:48.035Z
-published: 2026-11-01T15:41:48.035Z
+modified: 2026-11-01T15:45:45.716Z
+published: 2026-11-01T15:45:45.716Z
+tags: Latgale
 file_name: Ungurmuiža
 veids: ""
 nosaukums_lv: Ungurmuiža
@@ -23,7 +24,6 @@ parent_manor: ""
 half_manors: ""
 krogi: ""
 dzirnavas: ""
-tags:
 coordinates: ""
 map_color: ""
 map_icon: ""

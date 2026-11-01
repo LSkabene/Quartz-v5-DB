@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:41:48.100Z
-published: 2026-11-01T15:41:48.100Z
+modified: 2026-11-01T15:45:45.764Z
+published: 2026-11-01T15:45:45.764Z
+tags: Latgale
 file_name: Vārkavas
 veids: ""
 nosaukums_lv: Vārkavas
@@ -23,7 +24,6 @@ parent_manor: ""
 half_manors: ""
 krogi: ""
 dzirnavas: ""
-tags:
 coordinates: ""
 map_color: ""
 map_icon: ""

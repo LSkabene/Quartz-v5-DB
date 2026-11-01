@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-02T15:39:49.876Z
-modified: 2026-11-01T15:42:40.120Z
-published: 2026-11-01T15:42:40.120Z
+modified: 2026-11-01T15:43:05.792Z
+published: 2026-11-01T15:43:05.792Z
 tags:
   - veids/pastorāts
   - veids/pastorāts/luterāņu

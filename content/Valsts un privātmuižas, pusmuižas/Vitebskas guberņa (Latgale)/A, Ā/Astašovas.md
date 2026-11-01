@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:41:46.714Z
-published: 2026-11-01T15:41:46.714Z
+modified: 2026-11-01T15:45:44.897Z
+published: 2026-11-01T15:45:44.897Z
+tags: Latgale
 file_name: Astašovas
 veids: ""
 nosaukums_lv: Astašovas
@@ -23,7 +24,6 @@ parent_manor: ""
 half_manors: ""
 krogi: ""
 dzirnavas: ""
-tags:
 coordinates: ""
 map_color: ""
 map_icon: ""

@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:41:46.876Z
-published: 2026-11-01T15:41:46.876Z
+modified: 2026-11-01T15:45:44.983Z
+published: 2026-11-01T15:45:44.983Z
+tags: Latgale
 file_name: Bogdānu
 veids: ""
 nosaukums_lv: Bogdānu
@@ -23,7 +24,6 @@ parent_manor: ""
 half_manors: ""
 krogi: ""
 dzirnavas: ""
-tags:
 coordinates: ""
 map_color: ""
 map_icon: ""

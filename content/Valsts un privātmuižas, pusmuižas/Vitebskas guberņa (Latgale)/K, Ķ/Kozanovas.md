@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:41:47.414Z
-published: 2026-11-01T15:41:47.414Z
+modified: 2026-11-01T15:45:45.320Z
+published: 2026-11-01T15:45:45.320Z
+tags: Latgale
 file_name: Kozanovas
 veids: ""
 nosaukums_lv: Kozanovas
@@ -23,7 +24,6 @@ parent_manor: ""
 half_manors: ""
 krogi: ""
 dzirnavas: ""
-tags:
 coordinates: ""
 map_color: ""
 map_icon: ""

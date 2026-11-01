@@ -1,8 +1,10 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:41:46.937Z
-published: 2026-11-01T15:41:46.937Z
+modified: 2026-11-01T15:45:45.018Z
+published: 2026-11-01T15:45:45.018Z
+tags:
+  - Latgale
 veids: ""
 nosaukums_lv: Dagdas
 nosaukums_ger: ""
@@ -22,7 +24,6 @@ parent_manor: ""
 half_manors: ""
 krogi: ""
 dzirnavas: ""
-tags: []
 coordinates: ""
 map_color: ""
 map_icon: ""

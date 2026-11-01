@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-01T16:48:42.165Z
-modified: 2026-11-01T15:41:48.151Z
-published: 2026-11-01T15:41:48.151Z
+modified: 2026-11-01T15:45:45.811Z
+published: 2026-11-01T15:45:45.811Z
 tags:
   - veids/folvarks
   - fails/muiža
+  - Latgale
 veids: Folvarks
 nosaukums_lv: Zuzanpoles
 nosaukums_ger:
