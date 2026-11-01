@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-30T17:47:11.687Z
-modified: 2026-10-04T13:23:50.969Z
-published: 2026-10-04T13:23:50.969Z
+modified: 2026-11-01T15:39:59.792Z
+published: 2026-11-01T15:39:59.792Z
 tags:
   - veids/privātmuiža
   - veids_vēsturiski/pusmuiža

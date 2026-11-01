@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-18T05:00:19.828Z
-modified: 2026-10-04T13:23:52.209Z
-published: 2026-10-04T13:23:52.209Z
+modified: 2026-11-01T15:40:00.757Z
+published: 2026-11-01T15:40:00.757Z
 tags:
   - Latgale
   - fails/muiža
@@ -19,7 +19,7 @@ guberna: Vitebskas
 aprinkis_imperija:
 draudzes_novads:
 aprinkis_LV: Rēzeknes apriņķis
-pagasts: Viļēnu pagasts
+pagasts: Viļānu pagasts
 veids_vesturiski:
 parent_manor:
 half_manors:

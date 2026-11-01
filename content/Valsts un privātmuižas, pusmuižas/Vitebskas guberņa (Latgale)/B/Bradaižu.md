@@ -1,11 +1,11 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - Brodaižu
   - Brodaižas
 created: 2026-08-01T15:40:33.187Z
-modified: 2026-10-04T13:23:50.232Z
-published: 2026-10-04T13:23:50.232Z
+modified: 2026-11-01T15:39:58.912Z
+published: 2026-11-01T15:39:58.912Z
 tags:
   - Latgale
   - fails/muiža

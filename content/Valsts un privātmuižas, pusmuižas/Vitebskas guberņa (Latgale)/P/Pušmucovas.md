@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - Pušmucavas
 created: 2026-08-01T15:15:16.886Z
-modified: 2026-10-04T13:23:51.547Z
-published: 2026-10-04T13:23:51.547Z
+modified: 2026-11-01T15:40:00.214Z
+published: 2026-11-01T15:40:00.214Z
 tags:
   - Latgale
   - fails/muiža

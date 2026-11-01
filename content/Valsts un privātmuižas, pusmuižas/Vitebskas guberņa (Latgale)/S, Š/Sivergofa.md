@@ -1,0 +1,34 @@
+---
+publish: "true"
+aliases:
+  - Zīverhofa
+  - Sivergova
+created: 2026-11-01T15:36:44.327Z
+modified: 2026-11-01T15:40:00.565Z
+published: 2026-11-01T15:40:00.565Z
+file_name: Sivergofa
+veids: ""
+nosaukums_lv: Sivergofa
+nosaukums_ger: ""
+nosaukums_rus: ""
+nosaukums_est: ""
+nosaukums_lt: ""
+nosaukums_pol: ""
+nosaukums_swe: ""
+guberna: Vitebskas
+aprinkis_imperija: ""
+draudzes_novads: ""
+aprinkis_LV: Daugavpils apriņķis
+pagasts: Dagdas pagasts
+veids_vesturiski: ""
+parent_manor: ""
+half_manors: ""
+krogi: ""
+dzirnavas: ""
+tags:
+coordinates: ""
+map_color: ""
+map_icon: ""
+---
+
+""

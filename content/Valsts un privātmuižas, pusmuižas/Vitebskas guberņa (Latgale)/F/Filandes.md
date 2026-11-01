@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - Filandmuiža
 created: 2026-08-01T15:34:34.271Z
-modified: 2026-10-04T13:23:50.483Z
-published: 2026-10-04T13:23:50.483Z
+modified: 2026-11-01T15:39:59.191Z
+published: 2026-11-01T15:39:59.191Z
 tags:
   - Latgale
   - fails/muiža

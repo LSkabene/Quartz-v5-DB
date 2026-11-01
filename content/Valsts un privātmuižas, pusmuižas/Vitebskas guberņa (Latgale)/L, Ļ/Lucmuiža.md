@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - Ļucmuiža
 created: 2026-07-30T17:38:00.614Z
-modified: 2026-10-04T13:23:50.934Z
-published: 2026-10-04T13:23:50.934Z
+modified: 2026-11-01T15:39:59.724Z
+published: 2026-11-01T15:39:59.724Z
 tags:
   - Latgale
   - fails/muiža

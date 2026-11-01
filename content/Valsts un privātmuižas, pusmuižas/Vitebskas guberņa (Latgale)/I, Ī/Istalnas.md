@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - Istalsnas
 created: 2026-07-30T17:29:50.005Z
-modified: 2026-10-04T13:23:50.631Z
-published: 2026-10-04T13:23:50.631Z
+modified: 2026-11-01T15:39:59.322Z
+published: 2026-11-01T15:39:59.322Z
 tags:
   - Latgale
   - fails/muiža

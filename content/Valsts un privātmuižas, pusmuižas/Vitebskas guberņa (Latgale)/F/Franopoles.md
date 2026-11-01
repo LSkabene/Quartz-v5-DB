@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - Franapoles
 created: 2026-07-30T17:21:04.808Z
-modified: 2026-10-04T13:23:50.500Z
-published: 2026-10-04T13:23:50.500Z
+modified: 2026-11-01T15:39:59.201Z
+published: 2026-11-01T15:39:59.201Z
 tags:
   - Latgale
   - fails/muiža

@@ -1,11 +1,11 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - Saļņevas
   - Cecinas
 created: 2026-07-30T17:46:12.886Z
-modified: 2026-10-04T13:23:51.820Z
-published: 2026-10-04T13:23:51.820Z
+modified: 2026-11-01T15:40:00.465Z
+published: 2026-11-01T15:40:00.465Z
 tags:
   - veids/privātmuiža
   - Latgale

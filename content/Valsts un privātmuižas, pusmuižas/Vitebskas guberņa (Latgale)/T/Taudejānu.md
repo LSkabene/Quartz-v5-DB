@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - Taudejāņu
 created: 2026-07-17T17:19:56.769Z
-modified: 2026-10-04T13:23:51.955Z
-published: 2026-10-04T13:23:51.955Z
+modified: 2026-11-01T15:40:00.586Z
+published: 2026-11-01T15:40:00.586Z
 tags:
   - Latgale
   - fails/muiža

@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - Stirnienas
 created: 2026-07-18T04:53:22.568Z
-modified: 2026-10-04T13:23:51.876Z
-published: 2026-10-04T13:23:51.876Z
+modified: 2026-11-01T15:40:00.501Z
+published: 2026-11-01T15:40:00.501Z
 tags:
   - Latgale
   - fails/muiža

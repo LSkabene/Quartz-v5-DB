@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-01T16:48:42.165Z
-modified: 2026-10-04T13:23:52.386Z
-published: 2026-10-04T13:23:52.386Z
+modified: 2026-11-01T15:40:00.891Z
+published: 2026-11-01T15:40:00.891Z
 tags:
   - veids/folvarks
   - fails/muiža

@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - Pavlovas
 created: 2026-08-01T15:27:20.888Z
-modified: 2026-10-04T13:23:51.336Z
-published: 2026-10-04T13:23:51.336Z
+modified: 2026-11-01T15:40:00.091Z
+published: 2026-11-01T15:40:00.091Z
 tags:
   - Latgale
   - veids/folvarks
