@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.307Z
-published: 2026-11-01T15:45:45.307Z
+modified: 2026-11-02T05:58:07.578Z
+published: 2026-11-02T05:58:07.578Z
 tags: Latgale
-file_name: Kombuļu
 veids: ""
 nosaukums_lv: Kombuļu
 nosaukums_ger: ""

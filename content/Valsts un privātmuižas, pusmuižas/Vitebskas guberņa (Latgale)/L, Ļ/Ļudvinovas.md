@@ -1,10 +1,9 @@
 ---
 publish: "TRUE"
 created: 2026-11-02T05:37:46.801Z
-modified: 2026-11-02T05:56:57.399Z
-published: 2026-11-02T05:56:57.399Z
+modified: 2026-11-02T05:58:08.754Z
+published: 2026-11-02T05:58:08.754Z
 tags: Latgale
-file_name: Ļudvinovas
 veids: ""
 nosaukums_lv: Ļudvinovas
 nosaukums_ger: ""

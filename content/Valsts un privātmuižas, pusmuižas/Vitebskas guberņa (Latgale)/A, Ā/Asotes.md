@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:44.886Z
-published: 2026-11-01T15:45:44.886Z
+modified: 2026-11-02T05:58:06.885Z
+published: 2026-11-02T05:58:06.885Z
 tags: Latgale
-file_name: Asotes
 veids: Pusmuiža
 nosaukums_lv: Asotes
 nosaukums_ger: ""

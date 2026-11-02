@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.338Z
-published: 2026-11-01T15:45:45.338Z
+modified: 2026-11-02T05:58:07.655Z
+published: 2026-11-02T05:58:07.655Z
 tags: Latgale
-file_name: Krustpils
 veids: ""
 nosaukums_lv: Krustpils
 nosaukums_ger: ""

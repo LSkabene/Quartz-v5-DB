@@ -4,10 +4,9 @@ aliases:
   - Zīverhofa
   - Sivergova
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.671Z
-published: 2026-11-01T15:45:45.671Z
+modified: 2026-11-02T05:58:08.280Z
+published: 2026-11-02T05:58:08.280Z
 tags: Latgale
-file_name: Sivergofa
 veids: ""
 nosaukums_lv: Sivergofa
 nosaukums_ger: ""

@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:44.983Z
-published: 2026-11-01T15:45:44.983Z
+modified: 2026-11-02T05:58:07.058Z
+published: 2026-11-02T05:58:07.058Z
 tags: Latgale
-file_name: Bogdānu
 veids: ""
 nosaukums_lv: Bogdānu
 nosaukums_ger: ""

@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.268Z
-published: 2026-11-01T15:45:45.268Z
+modified: 2026-11-02T05:58:07.504Z
+published: 2026-11-02T05:58:07.504Z
 tags: Latgale
-file_name: Kameņecmuiža
 veids: ""
 nosaukums_lv: Kameņecmuiža
 nosaukums_ger: ""

@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.680Z
-published: 2026-11-01T15:45:45.680Z
+modified: 2026-11-02T05:58:08.308Z
+published: 2026-11-02T05:58:08.308Z
 tags: Latgale
-file_name: Skaistas
 veids: ""
 nosaukums_lv: Skaistas
 nosaukums_ger: ""

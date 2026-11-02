@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:44.910Z
-published: 2026-11-01T15:45:44.910Z
+modified: 2026-11-02T05:58:06.924Z
+published: 2026-11-02T05:58:06.924Z
 tags: Latgale
-file_name: Aukšpoles
 veids: Pusmuiža
 nosaukums_lv: Aukšpoles
 nosaukums_ger: ""

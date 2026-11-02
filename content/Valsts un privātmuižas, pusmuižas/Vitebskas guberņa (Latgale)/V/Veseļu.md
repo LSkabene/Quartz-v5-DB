@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.741Z
-published: 2026-11-01T15:45:45.741Z
+modified: 2026-11-02T05:58:08.423Z
+published: 2026-11-02T05:58:08.423Z
 tags: Latgale
-file_name: Veseļu
 veids: Pusmuiža
 nosaukums_lv: Veseļu
 nosaukums_ger: ""

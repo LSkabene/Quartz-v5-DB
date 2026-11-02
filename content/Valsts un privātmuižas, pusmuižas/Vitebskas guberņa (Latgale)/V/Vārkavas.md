@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.764Z
-published: 2026-11-01T15:45:45.764Z
+modified: 2026-11-02T05:58:08.458Z
+published: 2026-11-02T05:58:08.458Z
 tags: Latgale
-file_name: Vārkavas
 veids: ""
 nosaukums_lv: Vārkavas
 nosaukums_ger: ""

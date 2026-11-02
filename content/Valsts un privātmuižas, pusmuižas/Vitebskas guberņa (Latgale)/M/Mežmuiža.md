@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.474Z
-published: 2026-11-01T15:45:45.474Z
+modified: 2026-11-02T05:58:07.934Z
+published: 2026-11-02T05:58:07.934Z
 tags: Latgale
-file_name: Mežmuiža
 veids: ""
 nosaukums_lv: Mežmuiža
 nosaukums_ger: ""

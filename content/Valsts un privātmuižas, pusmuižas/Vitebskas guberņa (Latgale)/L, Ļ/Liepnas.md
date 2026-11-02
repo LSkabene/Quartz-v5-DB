@@ -1,8 +1,8 @@
 ---
 publish: "TRUE"
 created: 2026-11-02T05:37:46.801Z
-modified: 2026-11-02T05:56:57.408Z
-published: 2026-11-02T05:56:57.408Z
+modified: 2026-11-02T05:58:08.767Z
+published: 2026-11-02T05:58:08.767Z
 tags:
   - Latgale
 veids: ""
@@ -27,7 +27,6 @@ dzirnavas: ""
 coordinates: ""
 map_color: ""
 map_icon: ""
-file_name: Liepnas
 ---
 
 ""

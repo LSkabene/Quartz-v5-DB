@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.580Z
-published: 2026-11-01T15:45:45.580Z
+modified: 2026-11-02T05:58:08.082Z
+published: 2026-11-02T05:58:08.082Z
 tags: Latgale
-file_name: Punu
 veids: Pusmuiža
 nosaukums_lv: Punu
 nosaukums_ger: ""

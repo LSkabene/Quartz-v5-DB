@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:44.967Z
-published: 2026-11-01T15:45:44.967Z
+modified: 2026-11-02T05:58:07.042Z
+published: 2026-11-02T05:58:07.042Z
 tags: Latgale
-file_name: Berlišķu
 veids: ""
 nosaukums_lv: Berlišķu
 nosaukums_ger: ""

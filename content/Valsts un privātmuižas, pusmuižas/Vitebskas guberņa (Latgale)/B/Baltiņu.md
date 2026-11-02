@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:44.945Z
-published: 2026-11-01T15:45:44.945Z
+modified: 2026-11-02T05:58:06.994Z
+published: 2026-11-02T05:58:06.994Z
 tags: Latgale
-file_name: Baltiņu
 veids: ""
 nosaukums_lv: Baltiņu
 nosaukums_ger: ""

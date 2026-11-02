@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.588Z
-published: 2026-11-01T15:45:45.588Z
+modified: 2026-11-02T05:58:08.095Z
+published: 2026-11-02T05:58:08.095Z
 tags: Latgale
-file_name: Pustiņas
 veids: ""
 nosaukums_lv: Pustiņas
 nosaukums_ger: ""

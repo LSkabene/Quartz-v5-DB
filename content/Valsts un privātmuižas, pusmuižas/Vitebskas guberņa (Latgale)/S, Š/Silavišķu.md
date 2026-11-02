@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.662Z
-published: 2026-11-01T15:45:45.662Z
+modified: 2026-11-02T05:58:08.258Z
+published: 2026-11-02T05:58:08.258Z
 tags: Latgale
-file_name: Silavišķu
 veids: ""
 nosaukums_lv: Silavišķu
 nosaukums_ger: ""

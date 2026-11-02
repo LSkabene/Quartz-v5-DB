@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.777Z
-published: 2026-11-01T15:45:45.777Z
+modified: 2026-11-02T05:58:08.481Z
+published: 2026-11-02T05:58:08.481Z
 tags:
   - Latgale
 veids: ""
@@ -27,7 +27,6 @@ dzirnavas: ""
 coordinates: ""
 map_color: ""
 map_icon: ""
-file_name: Zaķīšu
 ---
 
 ""

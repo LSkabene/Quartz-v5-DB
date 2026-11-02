@@ -3,10 +3,9 @@ publish: "TRUE"
 aliases:
   - Marienhauzenes
 created: 2026-11-02T05:37:46.801Z
-modified: 2026-11-02T05:56:57.612Z
-published: 2026-11-02T05:56:57.612Z
+modified: 2026-11-02T05:58:08.973Z
+published: 2026-11-02T05:58:08.973Z
 tags: Latgale
-file_name: Viļakas
 veids: ""
 nosaukums_lv: Viļakas
 nosaukums_ger: ""

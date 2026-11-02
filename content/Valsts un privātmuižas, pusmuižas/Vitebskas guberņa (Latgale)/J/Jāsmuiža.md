@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.239Z
-published: 2026-11-01T15:45:45.239Z
+modified: 2026-11-02T05:58:07.428Z
+published: 2026-11-02T05:58:07.428Z
 tags: Latgale
-file_name: Jāsmuiža
 veids: ""
 nosaukums_lv: Jāsmuiža
 nosaukums_ger: ""

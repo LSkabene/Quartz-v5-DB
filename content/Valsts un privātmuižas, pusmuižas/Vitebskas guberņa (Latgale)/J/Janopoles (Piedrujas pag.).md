@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-02T05:56:57.271Z
-published: 2026-11-02T05:56:57.271Z
+modified: 2026-11-02T05:58:09.038Z
+published: 2026-11-02T05:58:09.038Z
 tags:
   - Latgale
 veids: ""
@@ -27,7 +27,6 @@ dzirnavas: ""
 coordinates: ""
 map_color: ""
 map_icon: ""
-file_name: Janopoles
 ---
 
 ""

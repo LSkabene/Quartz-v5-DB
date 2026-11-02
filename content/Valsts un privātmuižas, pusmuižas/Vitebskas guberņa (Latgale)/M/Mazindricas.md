@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.464Z
-published: 2026-11-01T15:45:45.464Z
+modified: 2026-11-02T05:58:07.914Z
+published: 2026-11-02T05:58:07.914Z
 tags: Latgale
-file_name: Mazindricas
 veids: ""
 nosaukums_lv: Mazindricas
 nosaukums_ger: ""

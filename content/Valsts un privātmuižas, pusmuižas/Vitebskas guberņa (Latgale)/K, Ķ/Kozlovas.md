@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.328Z
-published: 2026-11-01T15:45:45.328Z
+modified: 2026-11-02T05:58:07.636Z
+published: 2026-11-02T05:58:07.636Z
 tags: Latgale
-file_name: Kozlovas
 veids: ""
 nosaukums_lv: Kozlovas
 nosaukums_ger: ""

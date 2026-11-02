@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.128Z
-published: 2026-11-01T15:45:45.128Z
+modified: 2026-11-02T05:58:07.306Z
+published: 2026-11-02T05:58:07.306Z
 tags: Latgale
-file_name: Gelenovas
 veids: ""
 nosaukums_lv: Gelenovas
 nosaukums_ger: ""

@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:44.876Z
-published: 2026-11-01T15:45:44.876Z
+modified: 2026-11-02T05:58:06.864Z
+published: 2026-11-02T05:58:06.864Z
 tags: Latgale
-file_name: Arendoles
 veids: ""
 nosaukums_lv: Arendolas
 nosaukums_ger: ""

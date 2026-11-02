@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.049Z
-published: 2026-11-01T15:45:45.049Z
+modified: 2026-11-02T05:58:07.140Z
+published: 2026-11-02T05:58:07.140Z
 tags: Latgale
-file_name: Dubnas
 veids: ""
 nosaukums_lv: Dubnas
 nosaukums_ger: ""

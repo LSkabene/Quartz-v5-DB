@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.072Z
-published: 2026-11-01T15:45:45.072Z
+modified: 2026-11-02T05:58:07.190Z
+published: 2026-11-02T05:58:07.190Z
 tags: Latgale
-file_name: Dvorčānu
 veids: ""
 nosaukums_lv: Dvorčānu
 nosaukums_ger: ""

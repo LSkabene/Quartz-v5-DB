@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.298Z
-published: 2026-11-01T15:45:45.298Z
+modified: 2026-11-02T05:58:07.560Z
+published: 2026-11-02T05:58:07.560Z
 tags: Latgale
-file_name: Kirupes
 veids: ""
 nosaukums_lv: Kirupes
 nosaukums_ger: ""

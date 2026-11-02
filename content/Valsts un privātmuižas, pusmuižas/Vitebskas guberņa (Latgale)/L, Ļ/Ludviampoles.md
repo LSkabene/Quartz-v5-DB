@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.380Z
-published: 2026-11-01T15:45:45.380Z
+modified: 2026-11-02T05:58:07.711Z
+published: 2026-11-02T05:58:07.711Z
 tags: Latgale
-file_name: Ludviampoles
 veids: ""
 nosaukums_lv: Ludviampoles
 nosaukums_ger: ""

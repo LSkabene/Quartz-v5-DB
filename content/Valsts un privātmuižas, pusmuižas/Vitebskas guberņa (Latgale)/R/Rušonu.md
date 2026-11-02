@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.641Z
-published: 2026-11-01T15:45:45.641Z
+modified: 2026-11-02T05:58:08.211Z
+published: 2026-11-02T05:58:08.211Z
 tags: Latgale
-file_name: Rušonu
 veids: ""
 nosaukums_lv: Rušonu
 nosaukums_ger: ""

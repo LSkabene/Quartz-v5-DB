@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.555Z
-published: 2026-11-01T15:45:45.555Z
+modified: 2026-11-02T05:58:08.040Z
+published: 2026-11-02T05:58:08.040Z
 tags: Latgale
-file_name: Podgurjes
 veids: ""
 nosaukums_lv: Podgurjes
 nosaukums_ger: ""

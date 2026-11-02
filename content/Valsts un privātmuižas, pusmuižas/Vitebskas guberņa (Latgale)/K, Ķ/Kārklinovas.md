@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.358Z
-published: 2026-11-01T15:45:45.358Z
+modified: 2026-11-02T05:58:07.694Z
+published: 2026-11-02T05:58:07.694Z
 tags: Latgale
-file_name: Kārklinovas
 veids: ""
 nosaukums_lv: Kārklinovas
 nosaukums_ger: ""

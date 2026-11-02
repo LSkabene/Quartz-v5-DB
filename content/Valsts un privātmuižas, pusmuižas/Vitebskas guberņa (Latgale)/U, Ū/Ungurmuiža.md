@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.716Z
-published: 2026-11-01T15:45:45.716Z
+modified: 2026-11-02T05:58:08.373Z
+published: 2026-11-02T05:58:08.373Z
 tags: Latgale
-file_name: Ungurmuiža
 veids: ""
 nosaukums_lv: Ungurmuiža
 nosaukums_ger: ""

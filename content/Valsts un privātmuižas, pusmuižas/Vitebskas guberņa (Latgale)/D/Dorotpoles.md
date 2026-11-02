@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.037Z
-published: 2026-11-01T15:45:45.037Z
+modified: 2026-11-02T05:58:07.119Z
+published: 2026-11-02T05:58:07.119Z
 tags: Latgale
-file_name: Dorotpoles
 veids: ""
 nosaukums_lv: Dorotpoles
 nosaukums_ger: ""

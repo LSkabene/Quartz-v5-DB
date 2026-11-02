@@ -3,10 +3,9 @@ publish: "TRUE"
 aliases:
   - Beņefacovas
 created: 2026-11-02T05:37:46.801Z
-modified: 2026-11-02T05:56:57.142Z
-published: 2026-11-02T05:56:57.142Z
+modified: 2026-11-02T05:58:08.579Z
+published: 2026-11-02T05:58:08.579Z
 tags: Latgale
-file_name: Bonifacevas
 veids: ""
 nosaukums_lv: Bonifacevas
 nosaukums_ger: ""

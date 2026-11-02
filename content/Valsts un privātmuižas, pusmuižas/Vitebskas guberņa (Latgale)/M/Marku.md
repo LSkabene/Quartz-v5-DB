@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.454Z
-published: 2026-11-01T15:45:45.454Z
+modified: 2026-11-02T05:58:07.892Z
+published: 2026-11-02T05:58:07.892Z
 tags: Latgale
-file_name: Marku
 veids: ""
 nosaukums_lv: Marku
 nosaukums_ger: ""

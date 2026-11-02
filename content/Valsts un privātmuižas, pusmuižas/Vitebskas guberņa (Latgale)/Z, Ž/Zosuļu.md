@@ -1,10 +1,9 @@
 ---
 publish: "TRUE"
 created: 2026-11-02T05:37:46.801Z
-modified: 2026-11-02T05:56:57.665Z
-published: 2026-11-02T05:56:57.665Z
+modified: 2026-11-02T05:58:09.001Z
+published: 2026-11-02T05:58:09.001Z
 tags: Latgale
-file_name: Zosuļu
 veids: ""
 nosaukums_lv: Zosuļu
 nosaukums_ger: ""

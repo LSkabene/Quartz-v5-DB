@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.185Z
-published: 2026-11-01T15:45:45.185Z
+modified: 2026-11-02T05:58:07.358Z
+published: 2026-11-02T05:58:07.358Z
 tags: Latgale
-file_name: Jaunāmuiža
 veids: ""
 nosaukums_lv: Jaunāmuiža
 nosaukums_ger: ""

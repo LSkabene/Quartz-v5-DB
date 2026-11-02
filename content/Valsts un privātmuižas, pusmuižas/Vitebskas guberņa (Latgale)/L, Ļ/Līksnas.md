@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.402Z
-published: 2026-11-01T15:45:45.402Z
+modified: 2026-11-02T05:58:07.764Z
+published: 2026-11-02T05:58:07.764Z
 tags: Latgale
-file_name: Līksnas
 veids: ""
 nosaukums_lv: Līksnas
 nosaukums_ger: ""

@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.601Z
-published: 2026-11-01T15:45:45.601Z
+modified: 2026-11-02T05:58:08.122Z
+published: 2026-11-02T05:58:08.122Z
 tags: Latgale
-file_name: Pīnāņu
 veids: ""
 nosaukums_lv: Pīnāņu
 nosaukums_ger: ""

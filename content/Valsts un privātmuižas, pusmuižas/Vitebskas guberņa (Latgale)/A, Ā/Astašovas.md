@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:44.897Z
-published: 2026-11-01T15:45:44.897Z
+modified: 2026-11-02T05:58:06.908Z
+published: 2026-11-02T05:58:06.908Z
 tags: Latgale
-file_name: Astašovas
 veids: ""
 nosaukums_lv: Astašovas
 nosaukums_ger: ""

@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:44.921Z
-published: 2026-11-01T15:45:44.921Z
+modified: 2026-11-02T05:58:06.947Z
+published: 2026-11-02T05:58:06.947Z
 tags: Latgale
-file_name: Avsējevas
 veids: Pusmuiža
 nosaukums_lv: Avsējevas
 nosaukums_ger: ""

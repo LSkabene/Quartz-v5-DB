@@ -1,10 +1,9 @@
 ---
 publish: "TRUE"
 created: 2026-11-02T05:37:46.801Z
-modified: 2026-11-02T05:56:57.359Z
-published: 2026-11-02T05:56:57.359Z
+modified: 2026-11-02T05:58:08.708Z
+published: 2026-11-02T05:58:08.708Z
 tags: Latgale
-file_name: Kožino-Plušu
 veids: ""
 nosaukums_lv: Kožino-Plušu
 nosaukums_ger: ""

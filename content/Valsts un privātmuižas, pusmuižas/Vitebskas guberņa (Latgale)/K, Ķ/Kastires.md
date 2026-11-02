@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.277Z
-published: 2026-11-01T15:45:45.277Z
+modified: 2026-11-02T05:58:07.522Z
+published: 2026-11-02T05:58:07.522Z
 tags: Latgale
-file_name: Kastires
 veids: ""
 nosaukums_lv: Kastires
 nosaukums_ger: ""

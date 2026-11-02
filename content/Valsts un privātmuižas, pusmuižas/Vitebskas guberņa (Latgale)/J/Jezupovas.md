@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.229Z
-published: 2026-11-01T15:45:45.229Z
+modified: 2026-11-02T05:58:07.416Z
+published: 2026-11-02T05:58:07.416Z
 tags: Latgale
-file_name: Jezupovas
 veids: ""
 nosaukums_lv: Jezupovas
 nosaukums_ger: ""

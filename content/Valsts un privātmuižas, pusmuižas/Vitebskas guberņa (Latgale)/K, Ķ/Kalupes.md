@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-01T15:45:45.259Z
-published: 2026-11-01T15:45:45.259Z
+modified: 2026-11-02T05:58:07.471Z
+published: 2026-11-02T05:58:07.471Z
 tags: Latgale
-file_name: Kalupes
 veids: ""
 nosaukums_lv: Kalupes
 nosaukums_ger: ""
