@@ -1,9 +1,10 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-02T05:58:07.140Z
-published: 2026-11-02T05:58:07.140Z
-tags: Latgale
+modified: 2026-11-06T16:06:17.250Z
+published: 2026-11-06T16:06:17.250Z
+tags:
+  - Latgale
 veids: ""
 nosaukums_lv: Dubnas
 nosaukums_ger: ""
@@ -27,5 +28,3 @@ coordinates: ""
 map_color: ""
 map_icon: ""
 ---
-
-""

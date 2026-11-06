@@ -1,10 +1,12 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-02T05:58:07.347Z
-published: 2026-11-02T05:58:07.347Z
-tags: Latgale
-veids: ""
+modified: 2026-11-06T15:53:25.755Z
+published: 2026-11-06T15:53:25.755Z
+tags:
+  - Latgale
+  - veids/pusmuiža
+veids: Pusmuiža
 nosaukums_lv: Hoftenbergas
 nosaukums_ger: ""
 nosaukums_rus: ""
@@ -14,7 +16,7 @@ nosaukums_pol: ""
 nosaukums_swe: ""
 aliases: []
 guberna: Vitebskas
-aprinkis_imperija: ""
+aprinkis_imperija: Daugavpils
 draudzes_novads: ""
 aprinkis_LV: Daugavpils apriņķis
 pagasts: Naujenes pagasts
@@ -27,5 +29,3 @@ coordinates: ""
 map_color: ""
 map_icon: ""
 ---
-
-""

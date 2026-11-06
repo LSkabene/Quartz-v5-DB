@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Goranu
 created: 2026-08-01T15:28:41.603Z
-modified: 2026-11-01T15:41:47.094Z
-published: 2026-11-01T15:41:47.094Z
+modified: 2026-11-06T14:55:44.577Z
+published: 2026-11-06T14:55:44.577Z
 tags:
   - Latgale
   - fails/muiža

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-02T05:58:07.282Z
-published: 2026-11-02T05:58:07.282Z
+modified: 2026-11-06T14:55:41.891Z
+published: 2026-11-06T14:55:41.891Z
 tags:
   - Latgale
 veids: ""

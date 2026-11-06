@@ -1,9 +1,10 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-02T05:58:07.306Z
-published: 2026-11-02T05:58:07.306Z
-tags: Latgale
+modified: 2026-11-06T14:55:43.350Z
+published: 2026-11-06T14:55:43.350Z
+tags:
+  - Latgale
 veids: ""
 nosaukums_lv: Gelenovas
 nosaukums_ger: ""

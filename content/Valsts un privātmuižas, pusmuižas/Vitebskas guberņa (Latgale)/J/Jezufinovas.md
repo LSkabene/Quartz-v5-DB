@@ -1,9 +1,10 @@
 ---
 publish: true
 created: 2026-11-01T15:36:44.327Z
-modified: 2026-11-02T05:58:07.390Z
-published: 2026-11-02T05:58:07.390Z
-tags: Latgale
+modified: 2026-11-06T15:55:50.076Z
+published: 2026-11-06T15:55:50.076Z
+tags:
+  - Latgale
 veids: ""
 nosaukums_lv: Jezufinovas
 nosaukums_ger: ""
